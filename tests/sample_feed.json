@@ -1,0 +1,713 @@
+{
+ "generatedAt": "2026-09-20T16:29:05.963744+00:00",
+ "sample": true,
+ "windowsDays": {
+  "football": 3,
+  "news": 7,
+  "medical": 21,
+  "growth": 90
+ },
+ "tabs": {
+  "football": [
+   {
+    "id": "sample-football-1",
+    "category": "football",
+    "lang": "en",
+    "title": "Sample headline: Barcelona match report",
+    "summary": "One or two sentences summarising the match appear here, in plain words.",
+    "url": "#",
+    "publishedAt": "2026-09-20T12:29:05.963744+00:00",
+    "subtopics": [
+     "Barcelona",
+     "Results"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-20T12:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": true,
+    "score": 16.4,
+    "firstSeen": "2026-09-20T12:29:05.963744+00:00",
+    "readMore": {
+     "keyPoints": [
+      "First key point of the match.",
+      "Second key point.",
+      "Third key point."
+     ],
+     "why": "A line on what this result changes in the table."
+    }
+   },
+   {
+    "id": "sample-football-2",
+    "category": "football",
+    "lang": "en",
+    "title": "Sample headline: important Barcelona transfer, officially confirmed",
+    "summary": "A transfer story carries a reliability label: official, highly reliable, reported or rumour.",
+    "url": "#",
+    "publishedAt": "2026-09-20T09:29:05.963744+00:00",
+    "subtopics": [
+     "Barcelona",
+     "Transfers"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-20T09:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": true,
+    "score": 15.2,
+    "firstSeen": "2026-09-20T09:29:05.963744+00:00",
+    "transfer": "OFFICIAL"
+   },
+   {
+    "id": "sample-football-3",
+    "category": "football",
+    "lang": "en",
+    "title": "Sample headline: Champions League status update",
+    "summary": "Standing and status stories sit alongside results.",
+    "url": "#",
+    "publishedAt": "2026-09-20T07:29:05.963744+00:00",
+    "subtopics": [
+     "Champions League",
+     "UCL status"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-20T07:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": true,
+    "latestUpdate": "Sample latest update line for a developing story",
+    "earlier": [
+     {
+      "title": "Sample earlier update",
+      "source": "Sample feed",
+      "publishedAt": "2026-09-19T10:29:05.963744+00:00"
+     },
+     {
+      "title": "Sample first report",
+      "source": "Sample feed",
+      "publishedAt": "2026-09-18T12:29:05.963744+00:00"
+     }
+    ],
+    "isNew": true,
+    "score": 9.6,
+    "firstSeen": "2026-09-20T07:29:05.963744+00:00"
+   },
+   {
+    "id": "sample-football-4",
+    "category": "football",
+    "lang": "en",
+    "title": "Sample headline: a reported Premier League transfer",
+    "summary": "Medium-priority leagues appear below the high-priority ones.",
+    "url": "#",
+    "publishedAt": "2026-09-20T02:29:05.963744+00:00",
+    "subtopics": [
+     "Premier League",
+     "Transfers"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-20T02:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": true,
+    "score": 5.4,
+    "firstSeen": "2026-09-20T02:29:05.963744+00:00",
+    "transfer": "REPORTED"
+   },
+   {
+    "id": "sample-football-5",
+    "category": "football",
+    "lang": "en",
+    "title": "Sample headline: an unconfirmed transfer",
+    "summary": "Important but unverified stories stay labelled.",
+    "url": "#",
+    "publishedAt": "2026-09-20T00:29:05.963744+00:00",
+    "subtopics": [
+     "La Liga",
+     "Transfers"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-20T00:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": true,
+    "score": 6.1,
+    "firstSeen": "2026-09-20T00:29:05.963744+00:00",
+    "transfer": "RUMOUR"
+   },
+   {
+    "id": "sample-football-6",
+    "category": "football",
+    "lang": "en",
+    "title": "Sample headline: an older football story",
+    "summary": "This one is past the fresh window, so it sits under Show older.",
+    "url": "#",
+    "publishedAt": "2026-09-18T06:29:05.963744+00:00",
+    "subtopics": [
+     "Bundesliga",
+     "Results"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-18T06:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 3.1,
+    "firstSeen": "2026-09-18T06:29:05.963744+00:00"
+   }
+  ],
+  "news": [
+   {
+    "id": "sample-news-1",
+    "category": "news",
+    "lang": "de",
+    "title": "Sample headline: a Hamburg city story",
+    "summary": "German stories keep their language, with the title and summary in German.",
+    "url": "#",
+    "publishedAt": "2026-09-20T10:29:05.963744+00:00",
+    "subtopics": [
+     "Hamburg",
+     "Government"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-20T10:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": true,
+    "score": 8.7,
+    "firstSeen": "2026-09-20T10:29:05.963744+00:00",
+    "readMore": {
+     "why": "One or two sentences on why the story matters to you.",
+     "happened": [
+      "First paragraph of a neutral account.",
+      "Second paragraph continues the account."
+     ],
+     "background": "The context a reader needs to follow along.",
+     "sides": [
+      {
+       "who": "Government / Party A",
+       "view": "Their documented position."
+      },
+      {
+       "who": "Opposition / Party B",
+       "view": "Their documented position."
+      }
+     ],
+     "confirmed": [
+      "A verified fact."
+     ],
+     "uncertain": [
+      "A disputed point.",
+      "What may happen next."
+     ],
+     "keyPoints": [
+      "Takeaway one.",
+      "Takeaway two."
+     ]
+    }
+   },
+   {
+    "id": "sample-news-2",
+    "category": "news",
+    "lang": "de",
+    "title": "Sample headline: a Germany-wide story",
+    "summary": "Another placeholder summary, one sentence.",
+    "url": "#",
+    "publishedAt": "2026-09-20T05:29:05.963744+00:00",
+    "subtopics": [
+     "Germany",
+     "Economy"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-20T05:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": true,
+    "score": 7.5,
+    "firstSeen": "2026-09-20T05:29:05.963744+00:00"
+   },
+   {
+    "id": "sample-news-3",
+    "category": "news",
+    "lang": "en",
+    "title": "Sample headline: an Iran story",
+    "summary": "Placeholder geopolitical news.",
+    "url": "#",
+    "publishedAt": "2026-09-20T01:29:05.963744+00:00",
+    "subtopics": [
+     "Iran",
+     "Conflict"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-20T01:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": true,
+    "score": 6.2,
+    "firstSeen": "2026-09-20T01:29:05.963744+00:00"
+   },
+   {
+    "id": "sample-news-4",
+    "category": "news",
+    "lang": "en",
+    "title": "Sample headline: an EU story",
+    "summary": "Placeholder EU policy news.",
+    "url": "#",
+    "publishedAt": "2026-09-19T18:29:05.963744+00:00",
+    "subtopics": [
+     "EU",
+     "Law & Policy"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-19T18:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 4.0,
+    "firstSeen": "2026-09-19T18:29:05.963744+00:00"
+   },
+   {
+    "id": "sample-news-5",
+    "category": "news",
+    "lang": "en",
+    "title": "Sample headline: an older news story",
+    "summary": "Past the news window's fresh period.",
+    "url": "#",
+    "publishedAt": "2026-09-16T12:29:05.963744+00:00",
+    "subtopics": [
+     "World"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-16T12:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 1.0,
+    "firstSeen": "2026-09-16T12:29:05.963744+00:00"
+   }
+  ],
+  "medical": [
+   {
+    "id": "sample-medical-1",
+    "category": "medical",
+    "lang": "en",
+    "title": "Sample headline: MatriDerm clinical study",
+    "summary": "A placeholder for a dermal matrix story that mentions MatriDerm.",
+    "url": "#",
+    "publishedAt": "2026-09-19T10:29:05.963744+00:00",
+    "subtopics": [
+     "MatriDerm",
+     "Dermal matrices",
+     "Clinical study"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-19T10:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 17.9,
+    "firstSeen": "2026-09-19T10:29:05.963744+00:00",
+    "evidence": "peer_reviewed",
+    "matridermRelevant": true,
+    "readMore": {
+     "why": "Why this matters clinically and commercially.",
+     "newsSummary": [
+      "First professional paragraph.",
+      "Second professional paragraph."
+     ],
+     "background": "Short relevant context.",
+     "study": {
+      "design": "Study design in one line.",
+      "sample": "Who was studied.",
+      "intervention": "What was applied.",
+      "comparator": "What it was compared with.",
+      "area": "Clinical area."
+     },
+     "results": "Key outcomes with the useful numbers.",
+     "limitations": "Weaknesses and uncertainty.",
+     "relevance": {
+      "clinicians": "What changes for clinicians.",
+      "hospitals": "What changes for hospitals.",
+      "companies": "What changes for device companies.",
+      "commercial": "Commercial strategy angle.",
+      "market": "Market development angle."
+     },
+     "matriderm": {
+      "competitive": "Competitive implication.",
+      "clinical": "Clinical implication.",
+      "positioning": "Positioning implication.",
+      "market": "Market implication."
+     },
+     "keyTakeaways": [
+      "Takeaway one.",
+      "Takeaway two.",
+      "Takeaway three."
+     ]
+    }
+   },
+   {
+    "id": "sample-medical-2",
+    "category": "medical",
+    "lang": "en",
+    "title": "Sample headline: a competitor launches a new dermal template",
+    "summary": "A placeholder for competitor news.",
+    "url": "#",
+    "publishedAt": "2026-09-19T00:29:05.963744+00:00",
+    "subtopics": [
+     "Competitors",
+     "Product launch"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-19T00:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 11.1,
+    "firstSeen": "2026-09-19T00:29:05.963744+00:00",
+    "evidence": "company"
+   },
+   {
+    "id": "sample-medical-3",
+    "category": "medical",
+    "lang": "en",
+    "title": "Sample headline: FDA clearance for a wound-care device",
+    "summary": "A placeholder for a regulator notice.",
+    "url": "#",
+    "publishedAt": "2026-09-17T18:29:05.963744+00:00",
+    "subtopics": [
+     "Wound care",
+     "Regulatory"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-17T18:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 7.2,
+    "firstSeen": "2026-09-17T18:29:05.963744+00:00",
+    "evidence": "regulator"
+   },
+   {
+    "id": "sample-medical-4",
+    "category": "medical",
+    "lang": "en",
+    "title": "Sample headline: reconstructive surgery technique paper",
+    "summary": "A placeholder for a research paper.",
+    "url": "#",
+    "publishedAt": "2026-09-12T08:29:05.963744+00:00",
+    "subtopics": [
+     "Reconstructive surgery",
+     "Research"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-12T08:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 5.5,
+    "firstSeen": "2026-09-12T08:29:05.963744+00:00",
+    "evidence": "peer_reviewed"
+   },
+   {
+    "id": "sample-medical-5",
+    "category": "medical",
+    "lang": "en",
+    "title": "Sample headline: an older industry item",
+    "summary": "Within the three-week window but past the fresh week.",
+    "url": "#",
+    "publishedAt": "2026-09-08T04:29:05.963744+00:00",
+    "subtopics": [
+     "Industry"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-08T04:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 1.2,
+    "firstSeen": "2026-09-08T04:29:05.963744+00:00",
+    "evidence": "trade_press"
+   }
+  ],
+  "growth": [
+   {
+    "id": "sample-growth-1",
+    "category": "growth",
+    "lang": "en",
+    "title": "Sample headline: a negotiation talk worth watching",
+    "summary": "A placeholder video summary of three to five sentences appears here so the card explains what the talk covers before you press play.",
+    "url": "#",
+    "publishedAt": "2026-09-19T10:29:05.963744+00:00",
+    "subtopics": [
+     "Persuasion & negotiation"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-19T10:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 5.6,
+    "firstSeen": "2026-09-19T10:29:05.963744+00:00",
+    "kind": "video",
+    "video": {
+     "duration": "18:42",
+     "watchUrl": "#",
+     "channel": "Sample channel"
+    },
+    "why": "Why this video is useful to you.",
+    "learn": [
+     "First thing you will learn.",
+     "Second thing you will learn."
+    ],
+    "readMore": {
+     "whyWatch": "Why this is worth watching.",
+     "mainIdea": "The main idea in a sentence or two.",
+     "keyConcepts": [
+      "Concept one.",
+      "Concept two."
+     ],
+     "bestParts": [],
+     "howToApply": [
+      "Practical step one.",
+      "Practical step two."
+     ],
+     "keyTakeaways": [
+      "Takeaway one.",
+      "Takeaway two."
+     ]
+    }
+   },
+   {
+    "id": "sample-growth-2",
+    "category": "growth",
+    "lang": "en",
+    "title": "Sample headline: an AI tool that saves an hour a day",
+    "summary": "A placeholder for a useful tool or workflow.",
+    "url": "#",
+    "publishedAt": "2026-09-19T20:29:05.963744+00:00",
+    "subtopics": [
+     "AI & smart tools"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-19T20:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 4.6,
+    "firstSeen": "2026-09-19T20:29:05.963744+00:00",
+    "readMore": {
+     "useful": "Where this helps in real life.",
+     "idea": [
+      "Two or three clear paragraphs.",
+      "Second paragraph."
+     ],
+     "howItWorks": "The mechanism or framework.",
+     "example": "A realistic example.",
+     "howToUse": [
+      "Practical action one.",
+      "Practical action two."
+     ],
+     "watchOut": [
+      "A limitation or common mistake."
+     ],
+     "keyTakeaways": [
+      "Takeaway one.",
+      "Takeaway two."
+     ]
+    }
+   },
+   {
+    "id": "sample-growth-3",
+    "category": "growth",
+    "lang": "en",
+    "title": "Sample headline: a decision-making framework",
+    "summary": "Evergreen ideas are judged on quality rather than recency.",
+    "url": "#",
+    "publishedAt": "2026-09-04T00:29:05.963744+00:00",
+    "subtopics": [
+     "Decision-making"
+    ],
+    "sources": [
+     {
+      "name": "Sample feed",
+      "url": "#",
+      "publishedAt": "2026-09-04T00:29:05.963744+00:00",
+      "tier": 2
+     }
+    ],
+    "developing": false,
+    "latestUpdate": null,
+    "earlier": [],
+    "isNew": false,
+    "score": 3.0,
+    "firstSeen": "2026-09-04T00:29:05.963744+00:00"
+   }
+  ]
+ },
+ "barcelona": {
+  "nextMatch": {
+   "opponent": "Sample FC",
+   "competition": "La Liga",
+   "kickoff": "2026-09-22T16:29:05.963744+00:00",
+   "home": true,
+   "venue": "Sample Stadium, Sample City",
+   "form": "WWDLW"
+  },
+  "lastMatch": {
+   "opponent": "Example United",
+   "competition": "La Liga",
+   "home": false,
+   "score": {
+    "for": 2,
+    "against": 1
+   },
+   "scorers": [
+    {
+     "player": "Player A",
+     "minute": 12
+    },
+    {
+     "player": "Player B",
+     "minute": 67
+    }
+   ],
+   "possession": 58.0,
+   "shots": 14,
+   "xg": null
+  },
+  "laLiga": {
+   "pos": 3,
+   "of": 20,
+   "points": 14,
+   "played": 6
+  },
+  "ucl": {
+   "pos": 9,
+   "of": 36,
+   "points": 4,
+   "played": 2
+  }
+ }
+}

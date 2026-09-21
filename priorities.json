@@ -1,0 +1,44 @@
+{
+  "football": {
+    "entities": [
+      { "name": "Barcelona", "level": "high", "barcelona": true, "kw": ["fc barcelona", "barcelona", "barça", "barca", "camp nou", "hansi flick", "lamine yamal", "pedri", "raphinha", "lewandowski", "frenkie de jong", "gavi", "araujo", "ter stegen", "szczesny"] },
+      { "name": "La Liga", "level": "high", "kw": ["la liga", "laliga", "real madrid", "atletico madrid", "atlético madrid", "sevilla", "real sociedad", "athletic club", "villarreal", "valencia cf", "girona"] },
+      { "name": "Champions League", "level": "high", "kw": ["champions league", "ucl", "uefa champions"] },
+      { "name": "World Cup", "level": "high", "kw": ["world cup", "fifa world cup"] },
+      { "name": "Euros", "level": "high", "kw": ["european championship", "euro 2028", "uefa euro"] },
+      { "name": "Premier League", "level": "medium", "kw": ["premier league"] },
+      { "name": "Bundesliga", "level": "medium", "kw": ["bundesliga", "bayern munich", "bayern münchen", "borussia dortmund", "bayer leverkusen", "hamburger sv", "hsv", "fc st. pauli", "st pauli"] },
+      { "name": "Iran national team", "level": "medium", "kw": ["iran national team", "team melli", "iran squad", "iran vs", "iran football", "iran's national"] },
+      { "name": "Germany national team", "level": "medium", "kw": ["germany national team", "german national team", "dfb-team", "nationalmannschaft", "dfb", "germany vs", "germany squad"] },
+      { "name": "Spain national team", "level": "medium", "kw": ["spain national team", "spanish national team", "la roja", "spain vs", "spain squad"] },
+      { "name": "Serie A", "level": "low", "kw": ["serie a"] },
+      { "name": "Europa League", "level": "low", "kw": ["europa league", "conference league"] },
+      { "name": "International", "level": "low", "kw": ["nations league", "qualifier", "qualifiers", "international friendly", "national team"] },
+      { "name": "Ligue 1", "level": "remove", "kw": ["ligue 1"] },
+      { "name": "England national team", "level": "remove", "kw": ["england national team", "three lions", "england squad", "england vs", "england boss"] }
+    ],
+    "level_weight": { "high": 3.0, "medium": 1.5, "low": 0.5, "remove": -6.0 },
+    "barcelona_boost": 6.0,
+    "exceptional_sources": 4
+  },
+  "news": {
+    "geo_weight": { "Germany": 3.0, "Hamburg": 2.6, "Iran": 2.2, "EU": 1.8, "US": 1.3, "World": 0.6 },
+    "topic_weight": { "high": 2.0, "medium": 1.0, "low": 0.3 },
+    "significant_sources": 3
+  },
+  "medical": {
+    "topic_weight": { "high": 2.5, "medium": 1.2, "low": 0.3 },
+    "info_weight": { "high": 2.0, "medium": 1.0, "low": 0.3, "very_low": -0.8 },
+    "matriderm_boost": 6.0,
+    "competitor_boost": 3.5,
+    "dermal_research_boost": 3.0,
+    "tier_bonus": { "1": 1.2, "2": 1.2, "3": 0.8, "4": -0.3, "5": 0.0 },
+    "promote_competitor_after": 3
+  },
+  "growth": {
+    "topic_weight": { "fast": 2.2, "core": 1.6 },
+    "evergreen_window_days": 90,
+    "fast_window_days": 7,
+    "video_bonus": 0.8
+  }
+}
