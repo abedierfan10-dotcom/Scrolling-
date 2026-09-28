@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:48:02.023197+00:00",
+  "generatedAt": "2026-09-28T14:51:49.546346+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,7 +34,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.963,
+        "score": 9.931,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -63,7 +63,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.297,
+        "score": 7.241,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -92,7 +92,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.163,
+        "score": 6.082,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -121,7 +121,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.904,
+        "score": 5.841,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -151,37 +151,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.747,
+        "score": 5.695,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
-        "id": "b1e260fef966",
+        "id": "60186cfc1ea7",
         "category": "football",
         "lang": "en",
-        "title": "Brazil salvage late draw in Australia. How did Estevao do? Where was Ancelotti's midfield?",
-        "summary": "Some 82 days after their galling World Cup elimination at the hands of Norway, Ancelotti's team put in a tepid performance in Townsville",
+        "title": "Konsa and O'Reilly doubts to face Czech Republic",
+        "summary": "Ezri Konsa and Nico O'Reilly are both doubts to play in England's Nations League match against the Czech Republic on Tuesday night.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7629113/2026/09/25/brazil-draw-australia-result-estevao-irankunda-ancelotti/",
-        "publishedAt": "2026-09-25T14:24:02+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj62eyx9grzxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-28T13:20:44+00:00",
         "subtopics": [
-          "World Cup",
-          "Results"
+          "International",
+          "Upcoming"
         ],
         "sources": [
           {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7629113/2026/09/25/brazil-draw-australia-result-estevao-irankunda-ancelotti/",
-            "publishedAt": "2026-09-25T14:24:02+00:00",
-            "tier": 3
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cj62eyx9grzxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-09-28T13:20:44+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.26,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
+        "isNew": true,
+        "score": 4.846,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
       },
       {
         "id": "402642b07a5f",
@@ -215,7 +215,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.132,
+        "score": 4.019,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
@@ -243,8 +243,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.082,
+        "isNew": false,
+        "score": 3.973,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -273,7 +273,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.575,
+        "score": 3.501,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -302,7 +302,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.428,
+        "score": 3.363,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       }
     ],
@@ -332,9 +332,125 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.462,
+        "isNew": false,
+        "score": 8.375,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "dfeab97291dc",
+        "category": "news",
+        "lang": "de",
+        "title": "Akademie der Wissenschaften in Kiew steht nach russischem Angriff in Flammen",
+        "summary": "Nach einer neuen russischen Angriffswelle brennt das historische Gebäude der Nationalen Akademie der Wissenschaften in Kiew. Es gibt Tote, Rettungskräfte suchen nach weiteren Opfern.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/russische-angriffe-kiew-100.html",
+        "publishedAt": "2026-09-28T14:43:48+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/russische-angriffe-kiew-100.html",
+            "publishedAt": "2026-09-28T14:43:48+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.994,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
+      },
+      {
+        "id": "ac08bd79b3de",
+        "category": "news",
+        "lang": "de",
+        "title": "Überraschendes Treffen: Erdogan empfängt Wüst",
+        "summary": "Nordrhein-Westfalens Ministerpräsident Wüst ist bei seiner Türkei-Reise überraschend von Präsident Erdogan empfangen worden. Protokollarisch ist das Treffen ungewöhnlich.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/tuerkei-nordrhein-westfalen-wuest-erdogan-treffen-100.html",
+        "publishedAt": "2026-09-28T13:38:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/tuerkei-nordrhein-westfalen-wuest-erdogan-treffen-100.html",
+            "publishedAt": "2026-09-28T13:38:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.946,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
+      },
+      {
+        "id": "00d04979a3b5",
+        "category": "news",
+        "lang": "de",
+        "title": "Amthors Strandkorb im Kanzleramt kehrt in den Norden zurück",
+        "summary": "Eine ZDF-Doku zeigte, wie CDU-Politiker Philipp Amthor einen Strandkorb ins Kanzleramt geliefert bekam. Nach heftiger Kritik kehrt der Korb nun nach Mecklenburg-Vorpommern zurück.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/philipp-amthor-strandkorb-kanzleramt-mecklenburg-vorpommern-100.html",
+        "publishedAt": "2026-09-28T13:26:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/philipp-amthor-strandkorb-kanzleramt-mecklenburg-vorpommern-100.html",
+            "publishedAt": "2026-09-28T13:26:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.937,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
+      },
+      {
+        "id": "3d80e8cc23fa",
+        "category": "news",
+        "lang": "de",
+        "title": "Schweden: Wahlsiegerin Andersson kann keine Regierung bilden",
+        "summary": "Die schwedische Sozialdemokratin und Wahlsiegerin Andersson hat die Sondierungsgespräche mit den Linken für gescheitert erklärt. Hintergrund ist die Unterstützung der Linken für den konservativen Parlamentspräsidenten Norlén.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/schweden-regierungsbildung-110.html",
+        "publishedAt": "2026-09-28T13:20:41+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/schweden-regierungsbildung-110.html",
+            "publishedAt": "2026-09-28T13:20:41+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.933,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
       },
       {
         "id": "08530409f591",
@@ -361,8 +477,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.865,
+        "isNew": false,
+        "score": 7.778,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -390,8 +506,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.831,
+        "isNew": false,
+        "score": 7.745,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -419,37 +535,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.727,
-        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
-      },
-      {
-        "id": "218373534f83",
-        "category": "news",
-        "lang": "en",
-        "title": "Germany news: Berlin's Left files complaint against Dobrindt",
-        "summary": "Interior Minister Dobrindt could be in legal trouble after he seemed to accuse the Left's Elif Eralp of antisemitism. Domestic intelligence has warned on research cooperation with China.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/germany-news-berlin-s-left-files-complaint-against-dobrindt/live-79453904?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-28T06:19:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/germany-news-berlin-s-left-files-complaint-against-dobrindt/live-79453904?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-28T06:19:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.724,
+        "isNew": false,
+        "score": 7.645,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -477,8 +564,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.628,
+        "isNew": false,
+        "score": 7.549,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -506,8 +593,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.594,
+        "isNew": false,
+        "score": 7.515,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -535,8 +622,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.478,
+        "isNew": false,
+        "score": 7.391,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -565,7 +652,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.338,
+        "score": 7.267,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
@@ -594,30 +681,24 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.325,
+        "score": 7.255,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
-        "id": "75530005d035",
+        "id": "0cf6cf857203",
         "category": "news",
         "lang": "de",
-        "title": "Überraschendes Diplomatie-Signal: Wadephul verteidigt Lawrow-Gespräch",
+        "title": "Wadephul: Gespräch mit Lawrow war \"lebhaft und intensiv\"",
         "summary": "Das Gespräch des Bundesaußenministers Wadephul mit Russlands Minister Lawrow stößt auf geteiltes Echo. Der CDU-Politiker reagiert im ZDF auch auf den Spott seines Amtskollegen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1656540.html",
-        "publishedAt": "2026-09-27T18:38:15+00:00",
+        "url": "https://www.zdfheute.de/politik/wadephul-treffen-lawrow-ukraine-krieg-russland-100.html",
+        "publishedAt": "2026-09-27T18:22:00+00:00",
         "subtopics": [
           "Germany",
           "Government"
         ],
         "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1656540.html",
-            "publishedAt": "2026-09-27T18:38:15+00:00",
-            "tier": 2
-          },
           {
             "name": "ZDFheute",
             "url": "https://www.zdfheute.de/politik/wadephul-treffen-lawrow-ukraine-krieg-russland-100.html",
@@ -628,9 +709,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.289,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
+        "isNew": true,
+        "score": 7.211,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
+      },
+      {
+        "id": "08d66cc7eaf7",
+        "category": "news",
+        "lang": "en",
+        "title": "Bond sell-off deepens as oil price rises",
+        "summary": "Brent crude jumps and 10-year Treasury yield surpasses 5.2% as hopes for US-Iran agreement fade",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+        "publishedAt": "2026-09-28T12:54:07+00:00",
+        "subtopics": [
+          "Iran",
+          "US",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-28T12:54:07+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.114,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
       },
       {
         "id": "fbd69c04ca8f",
@@ -657,9 +768,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.193,
+        "isNew": false,
+        "score": 7.114,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "1e589d2772f9",
+        "category": "news",
+        "lang": "en",
+        "title": "US sanctions on Iran's aviation industry make travel less predictable as countries cancel flights",
+        "summary": "The threat of secondary US sanctions is putting pressure on airports, fuel suppliers and aviation companies that service Iranian airlines. Some countries have already canceled flights.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/us-sanctions-on-iran-s-aviation-industry-make-travel-less-predictable-as-countries-cancel-flights/a-79459140?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-09-28T12:53:00+00:00",
+        "subtopics": [
+          "Iran",
+          "US",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/us-sanctions-on-iran-s-aviation-industry-make-travel-less-predictable-as-countries-cancel-flights/a-79459140?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-09-28T12:53:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.113,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
       },
       {
         "id": "128533a9a4cc",
@@ -687,15 +828,15 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.084,
+        "score": 7.021,
         "firstSeen": "2026-09-27T12:38:25.975765+00:00"
       },
       {
         "id": "2c53b7e8f48b",
         "category": "news",
         "lang": "en",
-        "title": "UK diesel price hits all-time high, RAC says",
-        "summary": "The US-Israel war with Iran has caused fuel prices to soar.",
+        "title": "UK diesel price hits all-time high, the RAC says",
+        "summary": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
@@ -716,39 +857,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.078,
-        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
-      },
-      {
-        "id": "900c17b7233b",
-        "category": "news",
-        "lang": "de",
-        "title": "Der Kampf um die \"Battlegrounds\" spitzt sich zu",
-        "summary": "Manche Wahlbezirke oder Bundesstaaten sind besonders umkämpft. Dort entscheiden oft wenige Stimmen über den Ausgang der Wahl und die Machtverhältnisse im Kongress.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/midterms-2026-battlegrounds-bundesstaaten-wahlbezirke-100.html",
-        "publishedAt": "2026-09-27T10:56:00+00:00",
-        "subtopics": [
-          "US",
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/midterms-2026-battlegrounds-bundesstaaten-wahlbezirke-100.html",
-            "publishedAt": "2026-09-27T10:56:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.041,
-        "firstSeen": "2026-09-27T11:18:53.716745+00:00"
+        "score": 6.991,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "2d83d67a1e77",
@@ -775,8 +886,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.036,
+        "isNew": false,
+        "score": 6.95,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -804,8 +915,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.951,
+        "isNew": false,
+        "score": 6.861,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -834,7 +945,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.862,
+        "score": 6.793,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
@@ -862,8 +973,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.694,
+        "isNew": false,
+        "score": 6.613,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -892,7 +1003,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.536,
+        "score": 6.49,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -921,7 +1032,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.519,
+        "score": 6.473,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -948,8 +1059,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.441,
+        "isNew": false,
+        "score": 6.355,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -978,37 +1089,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.369,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
-      },
-      {
-        "id": "b84ae6f591fb",
-        "category": "news",
-        "lang": "de",
-        "title": "Midterms 2026 - was für Trump auf dem Spiel steht",
-        "summary": "Trump steht bei den Midterms nicht zur Wahl - und doch geht es um seine Macht. Warum ein Kandidat aus Texas den Demokraten Hoffnung macht und was Trumps neuer KI-Kurs bedeutet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/briefing/trump-effekt/midterms-uno-ki-100.html",
-        "publishedAt": "2026-09-26T06:30:00+00:00",
-        "subtopics": [
-          "US",
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/briefing/trump-effekt/midterms-uno-ki-100.html",
-            "publishedAt": "2026-09-26T06:30:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.337,
+        "score": 6.328,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -1036,8 +1117,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.207,
+        "isNew": false,
+        "score": 6.134,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -1066,66 +1147,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.121,
+        "score": 6.087,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
-      },
-      {
-        "id": "e7caa21728de",
-        "category": "news",
-        "lang": "en",
-        "title": "‘Xi got face’: China relishes equal treatment from Trump",
-        "summary": "Chinese state media hail the respect that US president offered their country’s leader",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
-        "publishedAt": "2026-09-28T05:55:08+00:00",
-        "subtopics": [
-          "US",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
-            "publishedAt": "2026-09-28T05:55:08+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.008,
-        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
-      },
-      {
-        "id": "bd745fe1741a",
-        "category": "news",
-        "lang": "en",
-        "title": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
-        "summary": "Board of trade will lower levies on non-sensitive goods as superpowers seek to ease tensions",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
-        "publishedAt": "2026-09-28T04:04:40+00:00",
-        "subtopics": [
-          "US",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
-            "publishedAt": "2026-09-28T04:04:40+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.935,
-        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "5f34fd6f7ec9",
@@ -1153,7 +1176,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.91,
+        "score": 5.858,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -1181,8 +1204,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.887,
+        "isNew": false,
+        "score": 5.809,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -1211,92 +1234,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.766,
+        "score": 5.743,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
-        "id": "349b62016631",
+        "id": "99f09cdfdf89",
         "category": "news",
         "lang": "en",
-        "title": "Switzerland rejects stricter interpretation of its neutrality",
-        "summary": "Early projections show Swiss voters rejecting a stricter application of the country's vaunted neutrality. Swiss neutrality has been enshrined in the constitution since 1848.",
+        "title": "What is the Budget and what could be in it?",
+        "summary": "Chancellor John Healey will set out his plans for UK taxes in October.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-27T16:02:17+00:00",
-        "subtopics": [
-          "World",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-27T16:02:17+00:00",
-            "tier": 2
-          },
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/switzerland-voters-reject-stricter-view-of-neutrality/a-79446996?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-27T11:59:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.603,
-        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
-      },
-      {
-        "id": "8c195aa597ac",
-        "category": "news",
-        "lang": "en",
-        "title": "UK: 5 arrested after 'major incident' near Fairford air base",
-        "summary": "Scores of homes were evacuated in the UK town of Whelford, near an air base used by the US military, with bomb disposal teams checking \"suspicious vehicles\" at the scene. Police said five men had been arrested.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-27T17:45:00+00:00",
-        "subtopics": [
-          "US",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-27T17:45:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.559,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
-      },
-      {
-        "id": "22b4871b04d6",
-        "category": "news",
-        "lang": "en",
-        "title": "Hungary lifts PM Peter Magyar’s immunity, clears way for probes into 2 former Orban ministers",
-        "summary": "Prime Minister Peter Magyar has backed the move himself. Two former ministers who served under his rival Viktor Orban now face separate corruption probes.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/hungary-lifts-pm-peter-magyar-s-immunity-clears-way-for-probes-into-2-former-orban-ministers/a-79458651?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-28T11:45:00+00:00",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-28T14:29:49+00:00",
         "subtopics": [
           "World",
           "Government"
         ],
         "sources": [
           {
-            "name": "DW",
-            "url": "https://www.dw.com/en/hungary-lifts-pm-peter-magyar-s-immunity-clears-way-for-probes-into-2-former-orban-ministers/a-79458651?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-28T11:45:00+00:00",
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-09-28T14:29:49+00:00",
             "tier": 2
           }
         ],
@@ -1304,37 +1263,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 5.553,
-        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+        "score": 5.584,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
       },
       {
-        "id": "f6729184d891",
+        "id": "b0b8c3ab5b35",
         "category": "news",
         "lang": "en",
-        "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
-        "summary": "The socialist Left Party won the Berlin election partly on the promise to implement the city's 2021 expropriation referendum as a way to solve the city's rent crisis. But can it really happen?",
+        "title": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
+        "summary": "The 'cockroach' movement has emerged as an influential force in Indian politics. Its latest campaign targets the election commission amid a wider debate over voter rolls and public trust in electoral institutions.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-23T14:49:00+00:00",
+        "url": "https://www.dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-09-28T14:18:00+00:00",
         "subtopics": [
-          "Germany",
+          "World",
           "Elections"
         ],
         "sources": [
           {
             "name": "DW",
-            "url": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-23T14:49:00+00:00",
+            "url": "https://www.dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-09-28T14:18:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.518,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
+        "isNew": true,
+        "score": 5.575,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
+      },
+      {
+        "id": "19e47c13ca45",
+        "category": "news",
+        "lang": "en",
+        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+        "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-28T13:32:46+00:00",
+        "subtopics": [
+          "World",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-09-28T13:32:46+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.542,
+        "firstSeen": "2026-09-28T14:51:49.546346+00:00"
       }
     ],
     "medical": [
@@ -1365,7 +1353,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.67,
+        "score": 10.65,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1398,7 +1386,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.424,
+        "score": 10.411,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1430,7 +1418,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.03,
+        "score": 9.027,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1462,7 +1450,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.253,
+        "score": 7.237,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1499,7 +1487,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.253,
+        "score": 7.237,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1531,7 +1519,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.253,
+        "score": 7.237,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1563,7 +1551,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.924,
+        "score": 6.911,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1594,7 +1582,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.46,
+        "score": 6.452,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1626,7 +1614,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.299,
+        "score": 6.293,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1658,7 +1646,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.03,
+        "score": 6.027,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1690,7 +1678,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.66,
+        "score": 5.638,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1721,7 +1709,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.323,
+        "score": 5.302,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1751,7 +1739,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.03,
+        "score": 5.027,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1782,7 +1770,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.909,
+        "score": 4.889,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1813,7 +1801,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.47,
+        "score": 4.45,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1843,7 +1831,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.249,
+        "score": 4.231,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1874,7 +1862,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.213,
+        "score": 4.196,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1904,8 +1892,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.144,
+        "isNew": false,
+        "score": 4.114,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1936,7 +1924,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.099,
+        "score": 4.093,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1967,7 +1955,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.211,
+        "score": 2.205,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1997,7 +1985,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.114,
+        "score": 2.095,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2034,7 +2022,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.948,
+        "score": 1.935,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2065,7 +2053,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.037,
+        "score": 1.033,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2096,8 +2084,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.772,
+        "isNew": false,
+        "score": 5.682,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2126,8 +2114,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.598,
+        "isNew": false,
+        "score": 5.513,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2155,8 +2143,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.133,
+        "isNew": false,
+        "score": 5.053,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2186,8 +2174,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.976,
+        "isNew": false,
+        "score": 4.901,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2217,7 +2205,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.795,
+        "score": 4.75,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2255,7 +2243,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.389,
+        "score": 4.365,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2292,7 +2280,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.343,
+        "score": 4.32,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2329,7 +2317,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.226,
+        "score": 4.174,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2358,7 +2346,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.112,
+        "score": 4.088,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2394,7 +2382,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.858,
+        "score": 3.855,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2430,7 +2418,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.834,
+        "score": 3.832,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2466,37 +2454,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.818,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "e2e7253c4cd8",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-        "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-        "publishedAt": "2026-09-25T09:16:25+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-            "publishedAt": "2026-09-25T09:16:25+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.775,
+        "score": 3.787,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2526,7 +2484,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.768,
+        "score": 3.766,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2562,7 +2520,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.766,
+        "score": 3.765,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2572,6 +2530,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=Zgu97mCGS74",
           "channel": "TED"
         }
+      },
+      {
+        "id": "e2e7253c4cd8",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+        "publishedAt": "2026-09-25T09:16:25+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+            "publishedAt": "2026-09-25T09:16:25+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.746,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
       },
       {
         "id": "983764ef19cd",
@@ -2598,7 +2586,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.743,
+        "score": 3.741,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2634,7 +2622,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.726,
+        "score": 3.724,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2670,7 +2658,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.723,
+        "score": 3.721,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2706,7 +2694,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.711,
+        "score": 3.699,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2742,7 +2730,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.687,
+        "score": 3.685,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2778,7 +2766,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.6,
+        "score": 3.567,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2807,7 +2795,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.512,
+        "score": 3.491,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2838,7 +2826,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.49,
+        "score": 3.469,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2874,7 +2862,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.343,
+        "score": 3.318,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -2903,7 +2891,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.298,
+        "score": 3.283,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2932,7 +2920,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.275,
+        "score": 3.261,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2961,7 +2949,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.166,
+        "score": 3.165,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2997,7 +2985,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.126,
+        "score": 3.125,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -3032,9 +3020,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.088,
+        "isNew": false,
+        "score": 3.07,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "e2b49867bb14",
+        "category": "growth",
+        "lang": "en",
+        "title": "Young organs may not be a fountain of youth for recipients",
+        "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+        "publishedAt": "2026-09-25T09:00:00+00:00",
+        "subtopics": [
+          "Communication",
+          "Leadership"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+            "publishedAt": "2026-09-25T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.022,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
       {
@@ -3063,7 +3081,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.037,
+        "score": 3.021,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3093,37 +3111,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.032,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "e2b49867bb14",
-        "category": "growth",
-        "lang": "en",
-        "title": "Young organs may not be a fountain of youth for recipients",
-        "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-        "publishedAt": "2026-09-25T09:00:00+00:00",
-        "subtopics": [
-          "Communication",
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-            "publishedAt": "2026-09-25T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.024,
+        "score": 3.016,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3154,7 +3142,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.934,
+        "score": 2.921,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3185,7 +3173,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.914,
+        "score": 2.902,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3238,7 +3226,7 @@
           }
         ],
         "isNew": false,
-        "score": 2.885,
+        "score": 2.873,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3320,7 +3308,7 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 24,
+      "items": 25,
       "error": null
     },
     {
@@ -3344,7 +3332,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 11,
+      "items": 10,
       "error": null
     },
     {
@@ -3487,8 +3475,8 @@
     }
   ],
   "filteredOut": {
-    "football": 83,
-    "news": 138,
+    "football": 85,
+    "news": 146,
     "medical": 23,
     "growth": 40
   }
