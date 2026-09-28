@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T21:48:53.404668+00:00",
+  "generatedAt": "2026-09-28T12:48:02.023197+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,7 +34,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.28,
+        "score": 9.963,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -63,43 +63,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.84,
+        "score": 7.297,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
-      },
-      {
-        "id": "ec41454da689",
-        "category": "football",
-        "lang": "en",
-        "title": "Republic of Ireland beat Israel in controversial Nations League meeting",
-        "summary": "The Republic of Ireland and Israel players do not shake hands with each other before or after Sunday's controversial Uefa Nations League game in Hungary.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/israel-vs-republic-of-ireland/report/554010",
-        "publishedAt": "2026-09-27T20:13:00+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/israel-vs-republic-of-ireland/report/554010",
-            "publishedAt": "2026-09-27T20:13:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-27T18:58:35+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.638,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
         "id": "fef74e573748",
@@ -127,7 +92,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.957,
+        "score": 6.163,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -156,7 +121,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.521,
+        "score": 5.904,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -186,7 +151,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.256,
+        "score": 5.747,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -215,36 +180,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.438,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
-      },
-      {
-        "id": "62a992a2fbe0",
-        "category": "football",
-        "lang": "en",
-        "title": "The issues Mourinho is struggling to fix at Real",
-        "summary": "Jose Mourinho only returned to Real Madrid in July but a lot needs to improve in order for there to be a title race in La Liga.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c620ld00n5n9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-26T09:32:55+00:00",
-        "subtopics": [
-          "La Liga",
-          "Tables"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c620ld00n5n9o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-26T09:32:55+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.352,
+        "score": 5.26,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -279,8 +215,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.246,
+        "score": 4.132,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
+      },
+      {
+        "id": "07f90f6ee843",
+        "category": "football",
+        "lang": "en",
+        "title": "Highlights: Denmark 2-0 Wales",
+        "summary": "Watch the best of the action as Denmark beat Wales 2-0 in Copenhagen in the Nations League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwm2q3jmvvg7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-27T18:22:08+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cwm2q3jmvvg7o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-09-27T18:22:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.082,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "aa2153eb38d9",
@@ -308,7 +273,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.309,
+        "score": 3.575,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -337,133 +302,242 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.061,
+        "score": 3.428,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       }
     ],
     "news": [
       {
-        "id": "128533a9a4cc",
+        "id": "bb4fb44d46cc",
         "category": "news",
         "lang": "de",
-        "title": "Zwei Tote bei Unfall von Reisebus auf A96",
-        "summary": "Auf der A96 bei Buchloe im Ostallgäu ist ein Reisebus umgekippt. Nach Polizeiangaben kamen zwei Menschen ums Leben, mehrere wurden verletzt.",
+        "title": "A7 und Elbtunnel in Hamburg wieder frei",
+        "summary": "Eine Sperrung der A7 hat am Wochenende zu langen Staus geführt. Es war die letzte Vollsperrung in diesem Jahr.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/regional/bayern/reisebus-auf-a96-umgekippt-100.html",
-        "publishedAt": "2026-09-27T15:43:14+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-wieder-frei,asieben-178.html",
+        "publishedAt": "2026-09-28T09:38:03+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-wieder-frei,asieben-178.html",
+            "publishedAt": "2026-09-28T09:38:03+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.462,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "08530409f591",
+        "category": "news",
+        "lang": "de",
+        "title": "Vor Kabinettsbeschluss: Schwarz-Rot streitet um Pflegereform",
+        "summary": "Die geplante Pflegereform wird offenbar zum Zankapfel der Koalition. Minister Linnemann wollte seine Pläne am Mittwoch ins Kabinett bringen - doch die SPD droht mit einer Blockade.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/pflege-reform-koalition-streit-union-spd-100.html",
+        "publishedAt": "2026-09-28T09:42:00+00:00",
         "subtopics": [
           "Germany",
-          "Conflict"
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/pflege-reform-koalition-streit-union-spd-100.html",
+            "publishedAt": "2026-09-28T09:42:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.865,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "1cb475df758c",
+        "category": "news",
+        "lang": "de",
+        "title": "Pflege- und Rentenreform: ARD-Korrespondent erklärt die Streitpunkte der Koalition",
+        "summary": "Pflege- und Rentenreform: ARD-Korrespondent erklärt die Streitpunkte der Koalition",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1656712.html",
+        "publishedAt": "2026-09-28T08:53:37+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/bayern/reisebus-auf-a96-umgekippt-100.html",
-            "publishedAt": "2026-09-27T15:43:14+00:00",
-            "tier": 2
-          },
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/panorama/reisebus-a96-unfall-100.html",
-            "publishedAt": "2026-09-27T12:20:00+00:00",
+            "url": "https://www.tagesschau.de/video/video-1656712.html",
+            "publishedAt": "2026-09-28T08:53:37+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 8.54,
-        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
+        "isNew": true,
+        "score": 7.831,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
-        "id": "526c692c1a3c",
+        "id": "a9b90a2d29d6",
         "category": "news",
         "lang": "de",
-        "title": "Nations League: Griechenland schlägt Deutschlands 1:0",
-        "summary": "Die deutsche Fußball-Nationalmannschaft hat das Heimdebüt des Bundestrainers Klopp 0:1 verloren. Es war im elften Duell gegen Griechenland die erste Niederlage einer DFB-Elf.",
+        "title": "Ausgang von Wadephul-Lawrow-Treffen \"war erwartbar\"",
+        "summary": "Keine Annäherung zwischen Berlin und Moskau: \"Es war erwartbar, dass die Positionen weit auseinanderliegen\", sagt Sicherheitsexpertin Major über das Wadephul-Lawrow-Treffen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.sportschau.de/fussball/nationalmannschaft/wunderheilung-vertagt-griechenland-bestraft-deutschlands-fehler,spielbericht-nations-league-deutschland-griechenland-100.html",
-        "publishedAt": "2026-09-27T21:31:34+00:00",
+        "url": "https://www.zdfheute.de/politik/ausland/wadephul-lawrow-treffen-major-ukraine-krieg-russland-100.html",
+        "publishedAt": "2026-09-28T06:24:00+00:00",
         "subtopics": [
           "Germany",
           "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/wadephul-lawrow-treffen-major-ukraine-krieg-russland-100.html",
+            "publishedAt": "2026-09-28T06:24:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.727,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "218373534f83",
+        "category": "news",
+        "lang": "en",
+        "title": "Germany news: Berlin's Left files complaint against Dobrindt",
+        "summary": "Interior Minister Dobrindt could be in legal trouble after he seemed to accuse the Left's Elif Eralp of antisemitism. Domestic intelligence has warned on research cooperation with China.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/germany-news-berlin-s-left-files-complaint-against-dobrindt/live-79453904?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-09-28T06:19:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/germany-news-berlin-s-left-files-complaint-against-dobrindt/live-79453904?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-09-28T06:19:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.724,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "bf9f122a66b0",
+        "category": "news",
+        "lang": "de",
+        "title": "Israels Wahlkampf mit harten Bandagen - Ausschluss arabischer Parteien?",
+        "summary": "In dieser Woche soll Israels Oberster Gerichtshof entscheiden, ob arabische Parteien von den Wahlen ausgeschlossen werden. Allein der Versuch des Ausschlusses sorgt für Verunsicherung und Wut.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/asien/israel-wahlen-parteien-arabisch-100.html",
+        "publishedAt": "2026-09-28T03:54:40+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.sportschau.de/fussball/nationalmannschaft/wunderheilung-vertagt-griechenland-bestraft-deutschlands-fehler,spielbericht-nations-league-deutschland-griechenland-100.html",
-            "publishedAt": "2026-09-27T21:31:34+00:00",
+            "url": "https://www.tagesschau.de/ausland/asien/israel-wahlen-parteien-arabisch-100.html",
+            "publishedAt": "2026-09-28T03:54:40+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.987,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
+        "isNew": true,
+        "score": 7.628,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
-        "id": "79c7eff59e00",
+        "id": "ab67e9343a4b",
         "category": "news",
         "lang": "de",
-        "title": "Aktuelles zum Krieg in der Ukraine",
-        "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+        "title": "Wüst in der Türkei - als Gastgeber zur Deutschen Einheit",
+        "summary": "Zum Jahrestag des Anwerbeabkommens reist der NRW-Ministerpräsident in die Türkei. Reine Landespolitik, heißt es - als Kanzleranwärter hat Wüst sich vorerst aus dem Spiel genommen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-        "publishedAt": "2026-09-27T20:44:00+00:00",
+        "url": "https://www.zdfheute.de/politik/deutschland/wuest-reise-tuerkei-100.html",
+        "publishedAt": "2026-09-28T03:01:00+00:00",
         "subtopics": [
           "Germany",
-          "Conflict"
+          "Government"
         ],
         "sources": [
           {
             "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-            "publishedAt": "2026-09-27T20:44:00+00:00",
+            "url": "https://www.zdfheute.de/politik/deutschland/wuest-reise-tuerkei-100.html",
+            "publishedAt": "2026-09-28T03:01:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.952,
-        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
+        "isNew": true,
+        "score": 7.594,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
-        "id": "bc7af8a95b37",
+        "id": "c4327e656d29",
         "category": "news",
         "lang": "de",
-        "title": "Iran-Krieg und Nahost-Konflikt: Alle Nachrichten im Liveblog",
-        "summary": "Die Lage in Nahost ist weiter angespannt - es kommt immer wieder zu Angriffen. Im Konflikt zwischen Iran und USA gibt es noch keine Lösung.",
+        "title": "Nahverkehr in Hamburg: Entwicklung der Max-App gestoppt",
+        "summary": "Die Max-App sollte eine Blaupause für ein Angebot sein, bei dem sich später alle großen ÖPNV-Unternehmen anschließen können.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-        "publishedAt": "2026-09-27T20:44:00+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/nahverkehr-in-hamburg-entwicklung-der-max-app-gestoppt,hvvapp-102.html",
+        "publishedAt": "2026-09-28T10:00:00+00:00",
         "subtopics": [
-          "Iran",
-          "US",
-          "Conflict"
+          "Hamburg",
+          "Business"
         ],
         "sources": [
           {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/iran-israel-usa-angriff-liveblog-100.html",
-            "publishedAt": "2026-09-27T20:44:00+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/nahverkehr-in-hamburg-entwicklung-der-max-app-gestoppt,hvvapp-102.html",
+            "publishedAt": "2026-09-28T10:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.952,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
+        "isNew": true,
+        "score": 7.478,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "49f1b8d0b767",
@@ -491,22 +565,22 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.922,
+        "score": 7.338,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
         "id": "dcd929adbc8f",
         "category": "news",
         "lang": "de",
-        "title": "SPD pocht auf Entlastung bei Pflegereform und fordert Reduzierung des Eigenanteils um 275 Euro",
-        "summary": "SPD pocht auf Entlastung bei Pflegereform und fordert Reduzierung des Eigenanteils um 275 Euro",
+        "title": "Geplante Pflegereform: Warum der Gesetzentwurf die Koalition spaltet",
+        "summary": "Geplante Pflegereform: Warum der Gesetzentwurf die Koalition spaltet",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/tagesthemen/video-1656568.html",
         "publishedAt": "2026-09-27T19:41:02+00:00",
         "subtopics": [
           "Germany",
-          "Markets"
+          "Government"
         ],
         "sources": [
           {
@@ -520,36 +594,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.906,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
-      },
-      {
-        "id": "ca2c31ee94ee",
-        "category": "news",
-        "lang": "de",
-        "title": "Wüst: \"Möchte Ministerpräsident von Nordrhein-Westfalen bleiben“",
-        "summary": "Ist Friedrich Merz noch der Richtige? Im ZDF fordert Hendrik Wüst, der als möglicher Nachfolger gilt, ein Ende der Kanzlerdebatte - und stellt klar, wo er aktuell seine Zukunft sieht.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-reformen-krise-kanzler-100.html",
-        "publishedAt": "2026-09-27T19:39:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/hendrik-wuest-cdu-reformen-krise-kanzler-100.html",
-            "publishedAt": "2026-09-27T19:39:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.905,
+        "score": 7.325,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
@@ -584,54 +629,48 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.861,
+        "score": 7.289,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
-        "id": "8b89044602b7",
+        "id": "fbd69c04ca8f",
         "category": "news",
         "lang": "de",
-        "title": "Umstrittener Marsch in Nordirland - Gegner blockieren Oranier-Parade",
-        "summary": "Der protestantische Oranier-Orden wollte durch einen katholischen Teil der Stadt Portadown in Nordirland marschieren. Doch Gegner blockieren den Marsch.",
+        "title": "Wie aus der \"Hamburg\" die \"Maxim Gorkiy\" wurde",
+        "summary": "1968 läuft das erste große Passagierschiff nach dem Krieg vom Stapel: die \"Hamburg\". Als \"Maxim Gorkiy\" geht sie in die Geschichte ein.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
-        "publishedAt": "2026-09-27T18:34:10+00:00",
+        "url": "https://www.ndr.de/geschichte/schiffe/auf-der-maxim-gorkiy-wurde-ende-des-kalten-kriegs-besiegelt,maximgorki102.html",
+        "publishedAt": "2026-09-28T03:00:00+00:00",
         "subtopics": [
-          "Germany",
+          "Hamburg",
           "Conflict"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
-            "publishedAt": "2026-09-27T18:34:10+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/irland-proteste-100.html",
-            "publishedAt": "2026-09-27T18:34:10+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/geschichte/schiffe/auf-der-maxim-gorkiy-wurde-ende-des-kalten-kriegs-besiegelt,maximgorki102.html",
+            "publishedAt": "2026-09-28T03:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.859,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
+        "isNew": true,
+        "score": 7.193,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
-        "id": "2103edb9965a",
+        "id": "128533a9a4cc",
         "category": "news",
         "lang": "de",
-        "title": "Was diese Woche im Ukraine-Krieg passiert ist",
-        "summary": "Angriffe auf Rechenzentren stören in Kiew das Internet, die Ukraine trifft russische Raffinerien. Moskaus behauptete Einkesselung ist nicht belegt - die Woche im Ukraine Krieg.",
+        "title": "Reisebus auf A96 umgekippt - zwei Tote, mehrere Verletzte",
+        "summary": "Auf der Autobahn 96 bei Buchloe im Ostallgäu ist ein Reisebus umgekippt, zwei Menschen sind dabei ums Leben gekommen. Die Reisegruppe war auf dem Weg zum Oktoberfest.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/infrastruktur-datennetze-ukraine-krieg-russland-100.html",
-        "publishedAt": "2026-09-27T16:26:00+00:00",
+        "url": "https://www.zdfheute.de/panorama/reisebus-a96-unfall-100.html",
+        "publishedAt": "2026-09-27T12:20:00+00:00",
         "subtopics": [
           "Germany",
           "Conflict"
@@ -639,8 +678,8 @@
         "sources": [
           {
             "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/infrastruktur-datennetze-ukraine-krieg-russland-100.html",
-            "publishedAt": "2026-09-27T16:26:00+00:00",
+            "url": "https://www.zdfheute.de/panorama/reisebus-a96-unfall-100.html",
+            "publishedAt": "2026-09-27T12:20:00+00:00",
             "tier": 2
           }
         ],
@@ -648,124 +687,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.769,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
+        "score": 7.084,
+        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
       },
       {
-        "id": "2b17ce29b0cf",
+        "id": "2c53b7e8f48b",
         "category": "news",
-        "lang": "de",
-        "title": "Linnemann lehnt von SPD geforderten \"Pflegedeckel\" ab",
-        "summary": "Die SPD droht, die geplante Pflegereform zu blockieren - und fordert Änderungen. Doch die bieten aus Sicht von Gesundheitsminister Linnemann keine Lösungen.",
+        "lang": "en",
+        "title": "UK diesel price hits all-time high, RAC says",
+        "summary": "The US-Israel war with Iran has caused fuel prices to soar.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
-        "publishedAt": "2026-09-27T16:14:05+00:00",
+        "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-28T10:00:18+00:00",
         "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-linnemann-100.html",
-            "publishedAt": "2026-09-27T16:14:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.761,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
-      },
-      {
-        "id": "4104106abeaf",
-        "category": "news",
-        "lang": "de",
-        "title": "Pflegereform wird zur Zerreißprobe für die Bundesregierung",
-        "summary": "Zwischen Durchziehen und roten Linien: Nach den Landtagswahlen steht die Pflegereform der schwarz-roten Koalition auf der Kippe. Es geht um Grundsätzliches.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/pflegereform-bundesregierung-schwarz-rote-koalition-spd-union-zerreissprobe-100.html",
-        "publishedAt": "2026-09-27T13:37:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/pflegereform-bundesregierung-schwarz-rote-koalition-spd-union-zerreissprobe-100.html",
-            "publishedAt": "2026-09-27T13:37:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.655,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
-      },
-      {
-        "id": "2947df62c601",
-        "category": "news",
-        "lang": "de",
-        "title": "Polen: Wenn der Krieg näher kommt",
-        "summary": "Drohnen und Raketen, die nah an der polnischen Grenze einschlagen - der Krieg gegen die Ukraine rückt spürbar an den Alltag der Menschen heran. Schutzräume und Warn-SMS gewinnen an Bedeutung.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
-        "publishedAt": "2026-09-27T12:01:01+00:00",
-        "subtopics": [
-          "Germany",
+          "Iran",
+          "US",
           "Conflict"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/polen-grenzgebiet-ukraine-sorgen-russland-100.html",
-            "publishedAt": "2026-09-27T12:01:01+00:00",
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-09-28T10:00:18+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.593,
-        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
-      },
-      {
-        "id": "3d49aad64c5f",
-        "category": "news",
-        "lang": "de",
-        "title": "Wurde Israel von Ägypten vor Hamas-Überfall gewarnt?",
-        "summary": "Der Hamas-Terrorangriff von 2023 beschäftigt Israel bis heute. Einem Bericht zufolge wurde Israel von Ägypten vor dem Angriff gewarnt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/asien/israel-warnungen-hamas-ueberfall-100.html",
-        "publishedAt": "2026-09-27T11:27:48+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/asien/israel-warnungen-hamas-ueberfall-100.html",
-            "publishedAt": "2026-09-27T11:27:48+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.572,
-        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
+        "isNew": true,
+        "score": 7.078,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "900c17b7233b",
@@ -794,37 +747,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.552,
+        "score": 7.041,
         "firstSeen": "2026-09-27T11:18:53.716745+00:00"
       },
       {
-        "id": "b9c0d94d276d",
+        "id": "2d83d67a1e77",
         "category": "news",
-        "lang": "de",
-        "title": "Südafrika: 17 Tote bei Schusswaffenangriff nahe Johannesburg",
-        "summary": "Es gilt als eines der schwersten Gewaltverbrechen in Südafrika der vergangenen Jahre: Nahe der Metropole Johannesburg wurden bei einem Schusswaffenangriff 17 Menschen getötet. Auch bei Kapstadt gab es einen Angriff.",
+        "lang": "en",
+        "title": "Childminder facing 'severe financial burden' as heating oil costs rise",
+        "summary": "The war in Iran is having a practical impact on people across the island as energy prices continue to climb.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/afrika/suedafrika-schusswaffenangriff-johannesburg-100.html",
-        "publishedAt": "2026-09-27T09:10:40+00:00",
+        "url": "https://www.bbc.co.uk/news/articles/cq07ly2232pzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-28T09:01:12+00:00",
         "subtopics": [
-          "Germany",
+          "Iran",
           "Conflict"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/afrika/suedafrika-schusswaffenangriff-johannesburg-100.html",
-            "publishedAt": "2026-09-27T09:10:40+00:00",
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cq07ly2232pzo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-09-28T09:01:12+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.486,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
+        "isNew": true,
+        "score": 7.036,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "30557d11efef",
+        "category": "news",
+        "lang": "de",
+        "title": "Steinmeier: \"Schützen wir unser Verfassungsgericht vor möglichen Angriffen\"",
+        "summary": "Bundespräsident Steinmeier hat anlässlich des 75-jährigen Bestehens die wichtige Rolle des Bundesverfassungsgerichts betont. Beim Festakt in Karlsruhe rief er zum Schutz des Gerichts gegen \"Verächter des Rechtsstaates\" auf.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/festakt-bundesverfassungsgericht-steinmeier-100.html",
+        "publishedAt": "2026-09-28T11:41:05+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/festakt-bundesverfassungsgericht-steinmeier-100.html",
+            "publishedAt": "2026-09-28T11:41:05+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.951,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "c0b2c77ff223",
@@ -852,96 +834,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.427,
+        "score": 6.862,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
-        "id": "84bdb70922b1",
+        "id": "a3bb00d426f0",
         "category": "news",
         "lang": "de",
-        "title": "St. Georg: Farbbeutel-Attacke auf SPD-Parteizentrale",
-        "summary": "Unbekannte sprühten Schriftzüge gegen die Bundeswehrübung \"Red Storm Charlie\" auf die Fassade. Die Übung in Hamburg war am Samstag zu Ende gegangen.",
+        "title": "75 Jahre Bundesverfassungsgericht: Wie Karlsruhe das Land geprägt hat",
+        "summary": "Vor 75 Jahren hat das Bundesverfassungsgericht seine Arbeit aufgenommen. Mit seinen Urteilen hat es das Land und die Gesellschaft geprägt.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/st-georg-farbbeutel-attacke-auf-spd-parteizentrale,kurzehh-4430.html",
-        "publishedAt": "2026-09-27T12:38:13+00:00",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-jubilaeum-100.html",
+        "publishedAt": "2026-09-28T05:34:18+00:00",
         "subtopics": [
-          "Hamburg",
-          "Conflict"
+          "Germany",
+          "Law & Policy"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/st-georg-farbbeutel-attacke-auf-spd-parteizentrale,kurzehh-4430.html",
-            "publishedAt": "2026-09-27T12:38:13+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundesverfassungsgericht-jubilaeum-100.html",
+            "publishedAt": "2026-09-28T05:34:18+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.217,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
-      },
-      {
-        "id": "8e7428049afb",
-        "category": "news",
-        "lang": "de",
-        "title": "23-Jährige in Hamburg-Lokstedt von Auto erfasst - Lebensgefahr",
-        "summary": "Die Frau war nach Polizeiangaben am frühen Sonntagmorgen plötzlich auf den Lokstedter Steindamm gelaufen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/23-jaehrige-in-hamburg-lokstedt-von-auto-erfasst-lebensgefahr,kurzehh-4428.html",
-        "publishedAt": "2026-09-27T08:05:49+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/23-jaehrige-in-hamburg-lokstedt-von-auto-erfasst-lebensgefahr,kurzehh-4428.html",
-            "publishedAt": "2026-09-27T08:05:49+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.046,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
-      },
-      {
-        "id": "2fdd728e51ab",
-        "category": "news",
-        "lang": "en",
-        "title": "Terrorism arrests made in ‘major incident’ near RAF Fairford",
-        "summary": "President Donald Trump suggests US worked with UK to prevent an attack on air base used for US strikes on Iran",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
-        "publishedAt": "2026-09-27T17:24:59+00:00",
-        "subtopics": [
-          "Iran",
-          "US",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
-            "publishedAt": "2026-09-27T17:24:59+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.01,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
+        "isNew": true,
+        "score": 6.694,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "ed427d095b69",
@@ -969,7 +892,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.92,
+        "score": 6.536,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -998,8 +921,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.899,
+        "score": 6.519,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
+      },
+      {
+        "id": "16df57d014fb",
+        "category": "news",
+        "lang": "de",
+        "title": "Baumängel: Brücke zwischen Reinbek und Bergedorf gesperrt",
+        "summary": "Grund sind Mängel an den Holzbauteilen der Pionierbrücke. Fußgänger und Radfahrer müssen einen Umweg in Kauf nehmen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/baumaengel-bruecke-zwischen-reinbek-und-bergedorf-gesperrt,regionnorderstedtnews-3832.html",
+        "publishedAt": "2026-09-28T09:08:01+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/baumaengel-bruecke-zwischen-reinbek-und-bergedorf-gesperrt,regionnorderstedtnews-3832.html",
+            "publishedAt": "2026-09-28T09:08:01+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.441,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "fa8f25d23b26",
@@ -1027,7 +978,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.711,
+        "score": 6.369,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -1057,66 +1008,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.671,
+        "score": 6.337,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
-        "id": "d50713a1aae7",
-        "category": "news",
-        "lang": "de",
-        "title": "DFB-Pokal: HSV-Frauen nach Sieg in Meppen in Runde zwei",
-        "summary": "Die Hamburgerinnen hatten im Emsland mehr Mühe als ihnen lieb war. Ihr später Erfolg beim SVM war aber insgesamt verdient.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/sport/fussball/last-minute-sieg-in-meppen-hsv-frauen-im-dfb-pokal-weiter,hsv-frauen-350.html",
-        "publishedAt": "2026-09-26T15:33:33+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/sport/fussball/last-minute-sieg-in-meppen-hsv-frauen-im-dfb-pokal-weiter,hsv-frauen-350.html",
-            "publishedAt": "2026-09-26T15:33:33+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.512,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
-      },
-      {
-        "id": "813121f68344",
+        "id": "ed065732a5b7",
         "category": "news",
         "lang": "en",
-        "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-        "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
+        "title": "EU trade agreements continue to benefit European businesses",
+        "summary": "European Commission Press release Brussels, 28 Sep 2026 The EU's growing network of trade agreements helps European businesses to access new export markets and creates a more predictable trade and investment environment, according to a report published today.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-25T23:08:02+00:00",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1983",
+        "publishedAt": "2026-09-27T22:00:00+00:00",
         "subtopics": [
-          "Germany",
-          "Elections"
+          "EU",
+          "Markets"
         ],
         "sources": [
           {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-25T23:08:02+00:00",
-            "tier": 2
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1983",
+            "publishedAt": "2026-09-27T22:00:00+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.498,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
+        "isNew": true,
+        "score": 6.207,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "e417308aa452",
@@ -1144,8 +1066,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.401,
+        "score": 6.121,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
+      },
+      {
+        "id": "e7caa21728de",
+        "category": "news",
+        "lang": "en",
+        "title": "‘Xi got face’: China relishes equal treatment from Trump",
+        "summary": "Chinese state media hail the respect that US president offered their country’s leader",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
+        "publishedAt": "2026-09-28T05:55:08+00:00",
+        "subtopics": [
+          "US",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-28T05:55:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.008,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "bd745fe1741a",
+        "category": "news",
+        "lang": "en",
+        "title": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
+        "summary": "Board of trade will lower levies on non-sensitive goods as superpowers seek to ease tensions",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
+        "publishedAt": "2026-09-28T04:04:40+00:00",
+        "subtopics": [
+          "US",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-28T04:04:40+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.935,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "5f34fd6f7ec9",
@@ -1173,27 +1153,57 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.337,
+        "score": 5.91,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
-        "id": "d40c1d1d96f5",
+        "id": "e005d4bc4ef8",
         "category": "news",
-        "lang": "de",
-        "title": "A7- und Elbtunnel-Sperrung: Staus in und um Hamburg am Wochenende",
-        "summary": "Bis Montag 5 Uhr ist die A7 zwischen Hamburg-Heimfeld und -Stellingen gesperrt. Die 55-Stunden-Sperrung führte zu starken Verkehrseinschränkungen auf Hamburgs Straßen.",
+        "lang": "en",
+        "title": "World’s worst-performing market slashes minimum price for stocks",
+        "summary": "Indonesia is trying to boost liquidity by allowing shares to trade at a tiny fraction of a US cent",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-sperrung-staus-in-und-um-hamburg-am-wochenende,asieben-178.html",
-        "publishedAt": "2026-09-27T15:18:24+00:00",
+        "url": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
+        "publishedAt": "2026-09-28T02:51:26+00:00",
         "subtopics": [
-          "Hamburg"
+          "US",
+          "Markets"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-sperrung-staus-in-und-um-hamburg-am-wochenende,asieben-178.html",
-            "publishedAt": "2026-09-27T15:18:24+00:00",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-28T02:51:26+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.887,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "0c3685cf29eb",
+        "category": "news",
+        "lang": "en",
+        "title": "After several difficult years, economists now expect German economy to grow",
+        "summary": "Germany's economy is growing again, but recovery remains on shaky ground. High government spending is keeping the economy afloat, while energy prices, a shortage of skilled workers and debt continue to weigh on it.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-09-24T17:04:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-09-24T17:04:00+00:00",
             "tier": 2
           }
         ],
@@ -1201,8 +1211,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.323,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
+        "score": 5.766,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
         "id": "349b62016631",
@@ -1236,7 +1246,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.153,
+        "score": 5.603,
         "firstSeen": "2026-09-27T12:38:25.975765+00:00"
       },
       {
@@ -1265,102 +1275,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.124,
+        "score": 5.559,
         "firstSeen": "2026-09-27T20:48:11.090728+00:00"
       },
       {
-        "id": "4c9ad830188e",
+        "id": "22b4871b04d6",
         "category": "news",
         "lang": "en",
-        "title": "Venezuela releases dozens of political prisoners as election calls grow",
-        "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+        "title": "Hungary lifts PM Peter Magyar’s immunity, clears way for probes into 2 former Orban ministers",
+        "summary": "Prime Minister Peter Magyar has backed the move himself. Two former ministers who served under his rival Viktor Orban now face separate corruption probes.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-27T15:56:25+00:00",
+        "url": "https://www.dw.com/en/hungary-lifts-pm-peter-magyar-s-immunity-clears-way-for-probes-into-2-former-orban-ministers/a-79458651?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-09-28T11:45:00+00:00",
         "subtopics": [
-          "US",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-27T15:56:25+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.049,
-        "firstSeen": "2026-09-27T20:48:11.090728+00:00"
-      },
-      {
-        "id": "0c3685cf29eb",
-        "category": "news",
-        "lang": "en",
-        "title": "After several difficult years, economists now expect German economy to grow",
-        "summary": "Germany's economy is growing again, but recovery remains on shaky ground. High government spending is keeping the economy afloat, while energy prices, a shortage of skilled workers and debt continue to weigh on it.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-24T17:04:00+00:00",
-        "subtopics": [
-          "Germany",
+          "World",
           "Government"
         ],
         "sources": [
           {
             "name": "DW",
-            "url": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-24T17:04:00+00:00",
+            "url": "https://www.dw.com/en/hungary-lifts-pm-peter-magyar-s-immunity-clears-way-for-probes-into-2-former-orban-ministers/a-79458651?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-09-28T11:45:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.957,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
-      },
-      {
-        "id": "7363f85ac0f9",
-        "category": "news",
-        "lang": "en",
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-27T07:44:11+00:00",
-        "subtopics": [
-          "Iran",
-          "US",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-27T07:44:11+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-27T07:44:11+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.833,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
+        "isNew": true,
+        "score": 5.553,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
         "id": "f6729184d891",
@@ -1388,7 +1333,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.648,
+        "score": 5.518,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       }
     ],
@@ -1420,7 +1365,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.822,
+        "score": 10.67,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1453,7 +1398,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.518,
+        "score": 10.424,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1485,7 +1430,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.056,
+        "score": 9.03,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1517,7 +1462,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.372,
+        "score": 7.253,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1554,7 +1499,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.372,
+        "score": 7.253,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1586,7 +1531,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.372,
+        "score": 7.253,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1618,7 +1563,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.018,
+        "score": 6.924,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1649,7 +1594,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.519,
+        "score": 6.46,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1681,7 +1626,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.345,
+        "score": 6.299,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1713,7 +1658,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.056,
+        "score": 6.03,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1745,7 +1690,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.827,
+        "score": 5.66,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1776,9 +1721,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.487,
+        "score": 5.323,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "02467638234d",
+        "category": "medical",
+        "lang": "en",
+        "title": "Treatment of Patellofemoral Osteoarthritis With Engineered Cartilage.",
+        "summary": "The purpose of this investigator-initiated study is to assess the efficacy of treating patellofemoral osteoarthritis with an Advanced Therapy Medicinal Product (ATMP), autologous nasal chondrocyte tissue engineered cartilage (N-TEC), in comparison with a…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT06163573",
+        "publishedAt": "2026-09-10T00:00:00+00:00",
+        "subtopics": [
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06163573",
+            "publishedAt": "2026-09-10T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.03,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1807,39 +1782,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.064,
+        "score": 4.909,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
-        "matridermRelevant": false
-      },
-      {
-        "id": "02467638234d",
-        "category": "medical",
-        "lang": "en",
-        "title": "Treatment of Patellofemoral Osteoarthritis With Engineered Cartilage.",
-        "summary": "The purpose of this investigator-initiated study is to assess the efficacy of treating patellofemoral osteoarthritis with an Advanced Therapy Medicinal Product (ATMP), autologous nasal chondrocyte tissue engineered cartilage (N-TEC), in comparison with a…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT06163573",
-        "publishedAt": "2026-09-10T00:00:00+00:00",
-        "subtopics": [
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06163573",
-            "publishedAt": "2026-09-10T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.056,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1868,7 +1813,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.622,
+        "score": 4.47,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1898,7 +1843,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.384,
+        "score": 4.249,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1929,9 +1874,40 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.345,
+        "score": 4.213,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
+        "matridermRelevant": false
+      },
+      {
+        "id": "8a7dc7200bdf",
+        "category": "medical",
+        "lang": "en",
+        "title": "3 ways to make medtech training a strategic advantage in 2027",
+        "summary": "AI-enabled medtech digital training turns training into a strategic driver of product adoption.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/spons/3-ways-to-make-medtech-training-a-strategic-advantage-in-2027/831215/",
+        "publishedAt": "2026-09-28T09:00:00+00:00",
+        "subtopics": [
+          "AI & digital health",
+          "Industry"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/spons/3-ways-to-make-medtech-training-a-strategic-advantage-in-2027/831215/",
+            "publishedAt": "2026-09-28T09:00:00+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.144,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
@@ -1960,7 +1936,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.145,
+        "score": 4.099,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1991,7 +1967,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.258,
+        "score": 2.211,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2021,37 +1997,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.253,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "8c3869911ca6",
-        "category": "medical",
-        "lang": "en",
-        "title": "Telerobotic surgery is advancing around the world. Will the US embrace it?",
-        "summary": "Medtech companies are preparing for a day when telesurgery, performed by a surgeon often hundreds of miles from the patient, could become a viable option for more people.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/telerobotic-surgery-is-advancing-around-the-world-will-the-us-embrace-it/831047/",
-        "publishedAt": "2026-09-23T13:00:00+00:00",
-        "subtopics": [
-          "Industry"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/telerobotic-surgery-is-advancing-around-the-world-will-the-us-embrace-it/831047/",
-            "publishedAt": "2026-09-23T13:00:00+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.084,
+        "score": 2.114,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2088,7 +2034,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.044,
+        "score": 1.948,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2119,13 +2065,132 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.063,
+        "score": 1.037,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "4a1b2ec2558b",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: rogue agent liability and the AI Hype Index",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+        "publishedAt": "2026-09-28T12:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+            "publishedAt": "2026-09-28T12:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.772,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "d3083a9f48e8",
+        "category": "growth",
+        "lang": "en",
+        "title": "Who’s liable when AI agents go rogue?",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+        "publishedAt": "2026-09-28T08:06:22+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+            "publishedAt": "2026-09-28T08:06:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.598,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "6d315f53d3ca",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Muse AI Agent",
+        "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+        "publishedAt": "2026-09-28T04:01:30+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+            "publishedAt": "2026-09-28T04:01:30+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.133,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "193eb09a66e5",
+        "category": "growth",
+        "lang": "en",
+        "title": "2026 in LLMs (so far)",
+        "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological exploration of everything that happened in 2026.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+        "publishedAt": "2026-09-27T23:54:15+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Presentation & speaking",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+            "publishedAt": "2026-09-27T23:54:15+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.976,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "kind": "article"
+      },
       {
         "id": "a52f415628da",
         "category": "growth",
@@ -2152,7 +2217,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.169,
+        "score": 4.795,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2162,36 +2227,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "633946563354",
-        "category": "growth",
-        "lang": "en",
-        "title": "Kākāpō Party",
-        "summary": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
-        "publishedAt": "2026-09-26T23:39:06+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
-            "publishedAt": "2026-09-26T23:39:06+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.657,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
       },
       {
         "id": "2d2c165252be",
@@ -2220,7 +2255,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.586,
+        "score": 4.389,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2257,7 +2292,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.528,
+        "score": 4.343,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2267,6 +2302,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=270q4aF0qU8",
           "channel": "TED"
         }
+      },
+      {
+        "id": "633946563354",
+        "category": "growth",
+        "lang": "en",
+        "title": "Kākāpō Party",
+        "summary": "Tool: Kākāpō Party I presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in references to the record breaking kākāpō breeding season we had in 2026.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+        "publishedAt": "2026-09-26T23:39:06+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+            "publishedAt": "2026-09-26T23:39:06+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.226,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
       },
       {
         "id": "e4b568cae7cc",
@@ -2293,7 +2358,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.315,
+        "score": 4.112,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2303,94 +2368,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=iGY7httJjQA",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "40feb6005526",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-        "publishedAt": "2026-09-25T12:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-            "publishedAt": "2026-09-25T12:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.072,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "e2e7253c4cd8",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-        "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-        "publishedAt": "2026-09-25T09:16:25+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-            "publishedAt": "2026-09-25T09:16:25+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.019,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "44842586bfdd",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting John Gruber",
-        "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-        "publishedAt": "2026-09-25T17:22:01+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-            "publishedAt": "2026-09-25T17:22:01+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.875,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
       },
       {
         "id": "4f74bac335ac",
@@ -2417,7 +2394,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.873,
+        "score": 3.858,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2453,7 +2430,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.849,
+        "score": 3.834,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2465,40 +2442,63 @@
         }
       },
       {
-        "id": "83c6b73bf15c",
+        "id": "40feb6005526",
         "category": "growth",
         "lang": "en",
-        "title": "Drone swarm defense",
-        "summary": "Attack drones are reshaping modern warfare, but many countries still lack an effective way to defend their airspace. Earendil Robotics is building autonomous interceptors, along with the software and training needed to stand up that capability from scratch.",
+        "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.youtube.com/shorts/5_ZkERt5siI",
-        "publishedAt": "2026-09-22T23:17:02+00:00",
+        "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+        "publishedAt": "2026-09-25T12:10:00+00:00",
         "subtopics": [
           "AI & smart tools"
         ],
         "sources": [
           {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/5_ZkERt5siI",
-            "publishedAt": "2026-09-22T23:17:02+00:00",
-            "tier": 3
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+            "publishedAt": "2026-09-25T12:10:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.814,
+        "score": 3.818,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "video",
-        "video": {
-          "id": "5_ZkERt5siI",
-          "thumbUrl": "https://i2.ytimg.com/vi/5_ZkERt5siI/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=5_ZkERt5siI",
-          "channel": "Y Combinator"
-        }
+        "kind": "article"
+      },
+      {
+        "id": "e2e7253c4cd8",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+        "publishedAt": "2026-09-25T09:16:25+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+            "publishedAt": "2026-09-25T09:16:25+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.775,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
       },
       {
         "id": "2bddae4cab3f",
@@ -2526,7 +2526,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.782,
+        "score": 3.768,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2562,7 +2562,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.78,
+        "score": 3.766,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2598,7 +2598,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.756,
+        "score": 3.743,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2634,7 +2634,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.739,
+        "score": 3.726,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2670,7 +2670,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.735,
+        "score": 3.723,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2679,6 +2679,42 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=SD1MypHgAwc",
           "channel": "TED"
+        }
+      },
+      {
+        "id": "83c6b73bf15c",
+        "category": "growth",
+        "lang": "en",
+        "title": "Drone swarm defense",
+        "summary": "Attack drones are reshaping modern warfare, but many countries still lack an effective way to defend their airspace. Earendil Robotics is building autonomous interceptors, along with the software and training needed to stand up that capability from scratch.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/5_ZkERt5siI",
+        "publishedAt": "2026-09-22T23:17:02+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/5_ZkERt5siI",
+            "publishedAt": "2026-09-22T23:17:02+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.711,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "video",
+        "video": {
+          "id": "5_ZkERt5siI",
+          "thumbUrl": "https://i2.ytimg.com/vi/5_ZkERt5siI/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=5_ZkERt5siI",
+          "channel": "Y Combinator"
         }
       },
       {
@@ -2706,7 +2742,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.699,
+        "score": 3.687,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2716,6 +2752,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=DnUAXX41KJ8",
           "channel": "TED"
         }
+      },
+      {
+        "id": "44842586bfdd",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting John Gruber",
+        "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+        "publishedAt": "2026-09-25T17:22:01+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+            "publishedAt": "2026-09-25T17:22:01+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.6,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
       },
       {
         "id": "0530c0285000",
@@ -2742,7 +2807,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.69,
+        "score": 3.512,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2773,7 +2838,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.662,
+        "score": 3.49,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2809,7 +2874,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.554,
+        "score": 3.343,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -2838,7 +2903,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.423,
+        "score": 3.298,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2867,7 +2932,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.394,
+        "score": 3.275,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2896,7 +2961,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.174,
+        "score": 3.166,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2906,6 +2971,71 @@
           "watchUrl": "https://www.youtube.com/watch?v=knW0YgE-Wd8",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "5819841c193f",
+        "category": "growth",
+        "lang": "en",
+        "title": "The World’s Largest Electric Aircraft Just Flew",
+        "summary": "Heart Aerospace (YC W19) just flew the largest electric airplane ever flown — a 100-foot wingspan, a takeoff weight of 25,000 pounds, and $5 of electricity to get it off the ground. In this episode of Hard Tech, YC's Gustaf Alströmer visits Heart's pilot…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+        "publishedAt": "2026-09-01T15:30:23+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+            "publishedAt": "2026-09-01T15:30:23+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.126,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "video",
+        "video": {
+          "id": "nM86DBOqgPM",
+          "thumbUrl": "https://i3.ytimg.com/vi/nM86DBOqgPM/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "9071ec1b2f35",
+        "category": "growth",
+        "lang": "en",
+        "title": "We just shipped support for the ugliest part of HTTP: Vary",
+        "summary": "My comment on We just shipped support for the ugliest part of HTTP: Vary — Hacker News. I've been wanting this from Cloudflare for years .",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
+        "publishedAt": "2026-09-23T23:14:57+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/23/hn-49823961/",
+            "publishedAt": "2026-09-23T23:14:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.088,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "kind": "article"
       },
       {
         "id": "e61359e960f8",
@@ -2933,7 +3063,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.171,
+        "score": 3.037,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2963,74 +3093,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.165,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5819841c193f",
-        "category": "growth",
-        "lang": "en",
-        "title": "The World’s Largest Electric Aircraft Just Flew",
-        "summary": "Heart Aerospace (YC W19) just flew the largest electric airplane ever flown — a 100-foot wingspan, a takeoff weight of 25,000 pounds, and $5 of electricity to get it off the ground. In this episode of Hard Tech, YC's Gustaf Alströmer visits Heart's pilot…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-        "publishedAt": "2026-09-01T15:30:23+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-            "publishedAt": "2026-09-01T15:30:23+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.134,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "video",
-        "video": {
-          "id": "nM86DBOqgPM",
-          "thumbUrl": "https://i3.ytimg.com/vi/nM86DBOqgPM/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "50fdf1ad73b0",
-        "category": "growth",
-        "lang": "en",
-        "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-        "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents. Think…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-        "publishedAt": "2026-09-23T02:53:19+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-            "publishedAt": "2026-09-23T02:53:19+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.042,
+        "score": 3.032,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3060,7 +3123,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.039,
+        "score": 3.024,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "50fdf1ad73b0",
+        "category": "growth",
+        "lang": "en",
+        "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+        "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents. Think…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+        "publishedAt": "2026-09-23T02:53:19+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+            "publishedAt": "2026-09-23T02:53:19+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.934,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3091,7 +3185,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.018,
+        "score": 2.914,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3144,159 +3238,8 @@
           }
         ],
         "isNew": false,
-        "score": 2.981,
+        "score": 2.885,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "bbd1dec96414",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting @therealcornpop",
-        "summary": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like way of writing where…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-        "publishedAt": "2026-09-22T18:03:21+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-            "publishedAt": "2026-09-22T18:03:21+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.976,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "518602a6e2af",
-        "category": "growth",
-        "lang": "en",
-        "title": "llm-typesafe 0.1a0",
-        "summary": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then set an API key ( get one here , the waitlist seems to move pretty fast): llm keys set typesafe #…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-        "publishedAt": "2026-09-22T15:54:16+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-            "publishedAt": "2026-09-22T15:54:16+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.961,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "82b7c1ad7628",
-        "category": "growth",
-        "lang": "en",
-        "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-        "summary": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant on the usual LLM…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/21/jev/",
-        "publishedAt": "2026-09-21T23:09:20+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/21/jev/",
-            "publishedAt": "2026-09-21T23:09:20+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.859,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "7549a0489268",
-        "category": "growth",
-        "lang": "en",
-        "title": "Bill Ackman: The Biggest Fight of His Life",
-        "summary": "Bill Ackman is the founder and CEO of Pershing Square Capital Management, one of the most closely watched investment firms in the world. Public Release: September 29.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
-        "publishedAt": "2026-09-24T09:50:00+00:00",
-        "subtopics": [
-          "Communication",
-          "Leadership",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
-            "publishedAt": "2026-09-24T09:50:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.717,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "61ec1eae87c6",
-        "category": "growth",
-        "lang": "en",
-        "title": "Is Startup Equity a Bad Deal?",
-        "summary": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-        "publishedAt": "2026-09-22T11:45:57+00:00",
-        "subtopics": [
-          "Presentation & speaking",
-          "Leadership",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-            "publishedAt": "2026-09-22T11:45:57+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.674,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       }
     ]
@@ -3377,13 +3320,13 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 27,
+      "items": 24,
       "error": null
     },
     {
       "id": "bbc-middleeast",
       "ok": true,
-      "items": 34,
+      "items": 29,
       "error": null
     },
     {
@@ -3401,7 +3344,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 9,
+      "items": 11,
       "error": null
     },
     {
@@ -3502,9 +3445,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3545,8 +3488,8 @@
   ],
   "filteredOut": {
     "football": 83,
-    "news": 140,
+    "news": 138,
     "medical": 23,
-    "growth": 44
+    "growth": 40
   }
 }
