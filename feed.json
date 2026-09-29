@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:03:15.991514+00:00",
+  "generatedAt": "2026-09-29T13:40:37.677670+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -32,8 +32,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.782,
+        "isNew": false,
+        "score": 11.657,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -62,7 +62,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.855,
+        "score": 6.836,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -91,7 +91,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.519,
+        "score": 5.49,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -120,7 +120,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.403,
+        "score": 5.381,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -150,7 +150,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.333,
+        "score": 5.315,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
@@ -178,37 +178,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.243,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "660c7e53e6bd",
-        "category": "football",
-        "lang": "en",
-        "title": "O'Neill 'positive' as NI maintain unbeaten start",
-        "summary": "Michael O'Neill says he is \"positive\" as Northern Ireland maintain their unbeaten start in the Nations League with a goalless draw with Hungary.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c64gr1nng300o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-28T23:21:50+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c64gr1nng300o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-28T23:21:50+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 4.431,
+        "isNew": false,
+        "score": 5.093,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -237,7 +208,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.206,
+        "score": 3.167,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       },
       {
@@ -266,7 +237,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.914,
+        "score": 2.891,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       }
     ],
@@ -302,9 +273,131 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.313,
+        "isNew": false,
+        "score": 8.243,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+      },
+      {
+        "id": "9e4185b59c9f",
+        "category": "news",
+        "lang": "de",
+        "title": "Haushalte sind so reich wie nie - Vermögen ungleich verteilt",
+        "summary": "Der KI-Boom an den Börsen hat das weltweite Geldvermögen im vergangenen Jahr auf einen Rekordwert getrieben. Die privaten Haushalte besaßen zum Jahresende ein Vermögen von 268,4 Billionen Euro.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html",
+        "publishedAt": "2026-09-29T13:17:47+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html",
+            "publishedAt": "2026-09-29T13:17:47+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.983,
+        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
+      },
+      {
+        "id": "9fbae5514b98",
+        "category": "news",
+        "lang": "de",
+        "title": "Koalition ringt um Einigung bei Pflegereform - Ines Jacobi, ARD Berlin",
+        "summary": "Die Zeit ist knapp: Morgen soll der Koalitionskompromiss zur Pflege stehen. Union und SPD versichern: Wir bekommen das hin.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1657518.html",
+        "publishedAt": "2026-09-29T13:09:54+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1657518.html",
+            "publishedAt": "2026-09-29T13:09:54+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-koalition-100.html",
+            "publishedAt": "2026-09-29T09:16:20+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.977,
+        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+      },
+      {
+        "id": "79c7eff59e00",
+        "category": "news",
+        "lang": "de",
+        "title": "Aktuelles zum Krieg in der Ukraine",
+        "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+        "publishedAt": "2026-09-29T13:06:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+            "publishedAt": "2026-09-29T13:06:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.974,
+        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
+      },
+      {
+        "id": "851165424748",
+        "category": "news",
+        "lang": "de",
+        "title": "AfD-Wahlsieger Siegmund: Stelle mich im Dezember zur Wahl",
+        "summary": "AfD-Politiker Ulrich Siegmund will sich nach seinem Sieg bei der Landtagswahl in Sachsen-Anhalt im Dezember als Ministerpräsident zur Wahl stellen. Das kündigte er in Magdeburg an.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/siegmund-will-ministerpraesident-magdeburg-100.html",
+        "publishedAt": "2026-09-29T13:03:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/siegmund-will-ministerpraesident-magdeburg-100.html",
+            "publishedAt": "2026-09-29T13:03:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.972,
+        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
       },
       {
         "id": "b065f7123270",
@@ -331,58 +424,29 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.972,
+        "isNew": false,
+        "score": 7.901,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
-        "id": "79c7eff59e00",
+        "id": "4e6bf841a38e",
         "category": "news",
         "lang": "de",
-        "title": "Aktuelles zum Krieg in der Ukraine",
-        "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+        "title": "Vermögen der Privathaushalte steigt auf Rekordsumme",
+        "summary": "Das Geldvermögen privater Haushalte ist, laut Global Wealth Report, weltweit auf ein Rekordniveau gestiegen. Wer in Aktien investierte, profitierte besonders vom Boom an der Börse.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-        "publishedAt": "2026-09-29T11:15:00+00:00",
+        "url": "https://www.zdfheute.de/wirtschaft/vermoegen-privathaushalt-rekord-global-wealth-report-100.html",
+        "publishedAt": "2026-09-29T11:07:00+00:00",
         "subtopics": [
           "Germany",
-          "Conflict"
+          "Markets"
         ],
         "sources": [
           {
             "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-            "publishedAt": "2026-09-29T11:15:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.964,
-        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
-      },
-      {
-        "id": "9fbae5514b98",
-        "category": "news",
-        "lang": "de",
-        "title": "Koalition ringt um Kompromiss zur Pflegereform",
-        "summary": "Die Zeit ist knapp: Morgen soll der Koalitionskompromiss zur Pflege stehen. Union und SPD versichern: Wir bekommen das hin.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-koalition-100.html",
-        "publishedAt": "2026-09-29T09:16:20+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-streit-koalition-100.html",
-            "publishedAt": "2026-09-29T09:16:20+00:00",
+            "url": "https://www.zdfheute.de/wirtschaft/vermoegen-privathaushalt-rekord-global-wealth-report-100.html",
+            "publishedAt": "2026-09-29T11:07:00+00:00",
             "tier": 2
           }
         ],
@@ -390,8 +454,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.878,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+        "score": 7.888,
+        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
       },
       {
         "id": "70ecf87be0fb",
@@ -418,8 +482,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.867,
+        "isNew": false,
+        "score": 7.798,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -447,8 +511,43 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.83,
+        "isNew": false,
+        "score": 7.762,
+        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+      },
+      {
+        "id": "19e64919107f",
+        "category": "news",
+        "lang": "de",
+        "title": "Gericht lässt Anklage gegen Ex-RBB-Intendantin Schlesinger zu",
+        "summary": "Die frühere rbb-Intendantin Patricia Schlesinger kommt vor Gericht. Das Landgericht Berlin hat eine Anklage der Generalstaatsanwaltschaft unter anderem wegen Untreue zugelassen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/rbb-intendantin-schlesinger-prozess-100.html",
+        "publishedAt": "2026-09-29T12:39:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/rbb-intendantin-schlesinger-prozess-100.html",
+            "publishedAt": "2026-09-29T12:39:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-anklage-gegen-ex-rbb-intendantin-schlesinger-zugelassen-100.html",
+            "publishedAt": "2026-09-29T10:01:53+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.754,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -477,8 +576,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.82,
+        "isNew": false,
+        "score": 7.753,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -506,9 +605,44 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.812,
+        "isNew": false,
+        "score": 7.745,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+      },
+      {
+        "id": "438cc8e3ec00",
+        "category": "news",
+        "lang": "de",
+        "title": "\"Red Storm Charlie\": Bundeswehr zieht positive Bilanz",
+        "summary": "Die Bundeswehr ist zufrieden mit dem Verlauf der dreitägigen Übung in Hamburg. Dabei ging es um die Zusammenarbeit mit Behörden, Unternehmen und anderen Organisationen im Ernstfall.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/red-storm-charlie-bundeswehr-zieht-positive-bilanz,kurzehh-4446.html",
+        "publishedAt": "2026-09-29T13:37:21+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/red-storm-charlie-bundeswehr-zieht-positive-bilanz,kurzehh-4446.html",
+            "publishedAt": "2026-09-29T13:37:21+00:00",
+            "tier": 2
+          },
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/red-storm-charlie-behelfsnotaufnahme-in-einer-tiefgarage,hamj-14964.html",
+            "publishedAt": "2026-09-27T09:44:45+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.598,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
         "id": "94a537af2394",
@@ -536,8 +670,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.661,
+        "isNew": false,
+        "score": 7.598,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -565,37 +699,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.551,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "ea3e8eb32dd4",
-        "category": "news",
-        "lang": "de",
-        "title": "Nach Zwangsräumung in Madrid: 87-Jährige darf in ihre Wohnung zurück",
-        "summary": "Die 87-jährige Mieterin, deren Wohnung zwangsgeräumt wurde, soll nach Hause zurückkehren können. Nach landesweiten Protesten will die spanische Regierung nun ein Dekret beschließen - gegen steigende Mieten und Wohnungsnot.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
-        "publishedAt": "2026-09-29T00:31:37+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-rentnerin-100.html",
-            "publishedAt": "2026-09-29T00:31:37+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.527,
+        "isNew": false,
+        "score": 7.48,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -623,8 +728,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.517,
+        "isNew": false,
+        "score": 7.447,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -658,8 +763,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.503,
+        "isNew": false,
+        "score": 7.439,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -688,7 +793,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.299,
+        "score": 7.244,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00"
       },
       {
@@ -717,8 +822,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.15,
+        "isNew": false,
+        "score": 7.08,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -747,8 +852,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.135,
+        "isNew": false,
+        "score": 7.065,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -777,66 +882,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.93,
+        "score": 6.884,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
-      },
-      {
-        "id": "f694a53c81c4",
-        "category": "news",
-        "lang": "de",
-        "title": "Gericht weist Klage von Verbraucherschützern gegen Lidl-App ab",
-        "summary": "Gericht weist Klage von Verbraucherschützern gegen Lidl-App ab",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1657416.html",
-        "publishedAt": "2026-09-29T10:16:22+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1657416.html",
-            "publishedAt": "2026-09-29T10:16:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.922,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "19e64919107f",
-        "category": "news",
-        "lang": "de",
-        "title": "Berlin: Anklage gegen Ex-rbb-Intendantin Schlesinger zugelassen",
-        "summary": "Die frühere rbb-Intendantin Patricia Schlesinger kommt vor Gericht. Das Landgericht Berlin hat eine Anklage der Generalstaatsanwaltschaft unter anderem wegen Untreue zugelassen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-anklage-gegen-ex-rbb-intendantin-schlesinger-zugelassen-100.html",
-        "publishedAt": "2026-09-29T10:01:53+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-anklage-gegen-ex-rbb-intendantin-schlesinger-zugelassen-100.html",
-            "publishedAt": "2026-09-29T10:01:53+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.911,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
         "id": "05c8ba26ab88",
@@ -863,9 +910,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.91,
+        "isNew": false,
+        "score": 6.84,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+      },
+      {
+        "id": "ba329a584fdd",
+        "category": "news",
+        "lang": "de",
+        "title": "Urteil wegen Finanzvergehen: Mögliche Folgen für Manchester City",
+        "summary": "Manchester City ist im Verfahren um Verstöße gegen die Finanzregeln der Premier League in fast allen Punkten schuldig gesprochen worden. Offen bleibt die Strafe - und wann sie kommt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.sportschau.de/fussball/premier-league/manchester-city-die-moeglichen-folgen-des-urteils,manchester-city-schuldig-115-anklagepunkte-financial-fairplay-100.html",
+        "publishedAt": "2026-09-29T09:41:01+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.sportschau.de/fussball/premier-league/manchester-city-die-moeglichen-folgen-des-urteils,manchester-city-schuldig-115-anklagepunkte-financial-fairplay-100.html",
+            "publishedAt": "2026-09-29T09:41:01+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.827,
+        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
       },
       {
         "id": "58258e69e061",
@@ -892,8 +968,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.861,
+        "isNew": false,
+        "score": 6.798,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -922,9 +998,67 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.772,
+        "isNew": false,
+        "score": 6.705,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+      },
+      {
+        "id": "d74f310232e5",
+        "category": "news",
+        "lang": "en",
+        "title": "Speech by President von der Leyen at the inauguration ceremony for the David Maria Sassoli building of the European Parliament",
+        "summary": "European Commission Speech Brussels, 29 Sep 2026 President Metsola, dear Roberta, Excellencies, Cara Alessandra, Giulio and Livia, David Sassoli was a true custodian of the values our Union was built on. The ...",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2006",
+        "publishedAt": "2026-09-29T10:56:10+00:00",
+        "subtopics": [
+          "EU",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2006",
+            "publishedAt": "2026-09-29T10:56:10+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.68,
+        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
+      },
+      {
+        "id": "74331fb263a3",
+        "category": "news",
+        "lang": "en",
+        "title": "Opening speech by President von der Leyen at the Connecting Europe Days",
+        "summary": "European Commission Speech Brussels, 29 Sep 2026 “Check against delivery” Commissioner Tzitzikostas, dear Apostolos, Commissioner Andrius Kubilius, Ladies and Gentlemen, It is a pleasure to be at the Connect...",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2005",
+        "publishedAt": "2026-09-29T10:42:49+00:00",
+        "subtopics": [
+          "EU",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2005",
+            "publishedAt": "2026-09-29T10:42:49+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.671,
+        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
       },
       {
         "id": "1e589d2772f9",
@@ -953,8 +1087,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.708,
+        "score": 6.648,
         "firstSeen": "2026-09-28T14:51:49.546346+00:00"
+      },
+      {
+        "id": "5b1121444f8a",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburg: 38-Jähriger wegen versuchtem Kindesmissbrauch vor Gericht",
+        "summary": "Ein 38-jähriger Mann aus Schnelsen muss sich seit Dienstag wegen versuchtem sexuellem Missbrauch und Besitz von kinderpornographischem Material vor Gericht verantworten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/prozess-versuchter-sexueller-missbrauch-von-kindern,prozess-1028.html",
+        "publishedAt": "2026-09-29T13:16:30+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/prozess-versuchter-sexueller-missbrauch-von-kindern,prozess-1028.html",
+            "publishedAt": "2026-09-29T13:16:30+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.582,
+        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
       },
       {
         "id": "2c53b7e8f48b",
@@ -983,8 +1146,49 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.588,
+        "score": 6.531,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
+      },
+      {
+        "id": "e961e20db921",
+        "category": "news",
+        "lang": "en",
+        "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
+        "summary": "Donald Trump's ban on nearly $1 billion worth of Canadian goods has come into force, further escalating a trade dispute between the longtime allies.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-09-29T13:38:06+00:00",
+        "subtopics": [
+          "US",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-09-29T13:38:06+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-09-29T13:38:06+00:00",
+            "tier": 2
+          },
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-09-29T11:18:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.298,
+        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
         "id": "e23df28e93d0",
@@ -1010,8 +1214,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.311,
+        "isNew": false,
+        "score": 6.247,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -1051,60 +1255,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.277,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "e961e20db921",
-        "category": "news",
-        "lang": "en",
-        "title": "US ban on Canadian alcohol, dairy products and motorcycles takes effect as trade dispute escalates",
-        "summary": "Donald Trump's ban on nearly $1 billion worth of Canadian goods has come into force, further escalating a trade dispute between the longtime allies.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-29T11:18:00+00:00",
-        "subtopics": [
-          "US",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/us-ban-on-canadian-alcohol-dairy-products-and-motorcycles-takes-effect-as-trade-dispute-escalates/a-79471701?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-29T11:18:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-29T04:10:33+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-29T04:10:33+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "US ban on Canadian alcohol, dairy products and motorcycles takes effect as trade dispute escalates",
-        "earlier": [
-          {
-            "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-            "source": "BBC News",
-            "publishedAt": "2026-09-29T04:10:33+00:00"
-          },
-          {
-            "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-            "source": "BBC News",
-            "publishedAt": "2026-09-29T04:10:33+00:00"
-          }
-        ],
-        "isNew": true,
-        "score": 6.267,
+        "isNew": false,
+        "score": 6.208,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -1132,8 +1284,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.266,
+        "isNew": false,
+        "score": 6.195,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -1161,190 +1313,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.259,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "262fe31d7d00",
-        "category": "news",
-        "lang": "en",
-        "title": "Argentina's Milei threatens UK with international legal action over Falkland Islands oil project",
-        "summary": "A major offshore oil project is opening a new front in the Falklands sovereignty dispute, with Buenos Aires threatening legal action and sanctions against companies involved.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-29T08:32:00+00:00",
-        "subtopics": [
-          "World",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-29T08:32:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-29T03:50:40+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.247,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "848a980f00ae",
-        "category": "news",
-        "lang": "de",
-        "title": "Hinrichtungen in Iran: Geflüchtet, zurückgekehrt, zum Tode verurteilt",
-        "summary": "Ali Zarei hat in Iran gegen das Regime protestiert, wurde verletzt und flüchtete nach Deutschland. Aus unbekannten Gründen kehrte er dann zurück - nun droht ihm die Hinrichtung.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/asien/iran-ali-zarei-100.html",
-        "publishedAt": "2026-09-29T10:31:09+00:00",
-        "subtopics": [
-          "Germany",
-          "Iran",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/asien/iran-ali-zarei-100.html",
-            "publishedAt": "2026-09-29T10:31:09+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.232,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "63a4817c41e7",
-        "category": "news",
-        "lang": "de",
-        "title": "Linnemann will Kinderkrankentage kürzen - SPD ist dagegen",
-        "summary": "Zehn statt 15 Tage im Jahr und damit zurück auf Vor-Corona-Niveau: So möchte Gesundheitsminister Linnemann künftig die Kinderkrankentage regeln. Kritik kommt vom Koalitionspartner SPD, der Linkspartei und Sozialverbänden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-will-kinderkrankentage-kuerzen-100.html",
-        "publishedAt": "2026-09-29T10:14:05+00:00",
-        "subtopics": [
-          "Germany",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-will-kinderkrankentage-kuerzen-100.html",
-            "publishedAt": "2026-09-29T10:14:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.22,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "c967ccf8fe93",
-        "category": "news",
-        "lang": "de",
-        "title": "Weniger Kinderkrankentage? SPD kritisiert Linnemanns Pläne",
-        "summary": "Gesundheitsminister Linnemann rüttelt an den sogenannten Kinderkrankentagen. Die sollen auf zehn Tage pro Kind und Elternteil reduziert werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/kinderkrankentage-spd-gegen-linnemann-100.html",
-        "publishedAt": "2026-09-29T09:13:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/kinderkrankentage-spd-gegen-linnemann-100.html",
-            "publishedAt": "2026-09-29T09:13:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.176,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "2ed289acd28e",
-        "category": "news",
-        "lang": "en",
-        "title": "UK: US government questions bail for Fairford base suspects",
-        "summary": "The US government sees \"the hand of a foreign actor\" in the security scare at RAF Fairford, a hub for US heavy bombers in Europe. Donald Trump criticized the suspects being released on bail amid ongoing investigations.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-29T08:17:00+00:00",
-        "subtopics": [
-          "US",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-29T08:17:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.136,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "4615ed8e3e5a",
-        "category": "news",
-        "lang": "de",
-        "title": "Hammer der Woche aus Freden",
-        "summary": "Seit zwei Jahren wird die alte Brücke in Freden saniert. Es wurde bereits über eine Million Euro investiert, als sich rausstellt, dass ein Stahlträger marode ist.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/video/laenderspiegel/hammer-der-woche-aus-freden-102.html",
-        "publishedAt": "2026-09-26T15:05:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/video/laenderspiegel/hammer-der-woche-aus-freden-102.html",
-            "publishedAt": "2026-09-26T15:05:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.075,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
+        "score": 6.189,
+        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       }
     ],
     "medical": [
@@ -1375,7 +1346,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.455,
+        "score": 10.441,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1408,39 +1379,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.29,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": true
-      },
-      {
-        "id": "474f9f7fe5b6",
-        "category": "medical",
-        "lang": "en",
-        "title": "HPTC Versus AFSM in Diabetic Foot Ulcers",
-        "summary": "This is a randomized controlled clinical investigation in patients suffering from diabetic foot ulcers at multiple centres in India and Bangladesh. The study compares patient outcomes using standard wound care with a High Purity Type-I Collagen-Based Skin…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07781917",
-        "publishedAt": "2026-09-10T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Dermal matrices",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07781917",
-            "publishedAt": "2026-09-10T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 8.994,
+        "score": 10.282,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1478,7 +1417,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.209,
+        "score": 8.189,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "94a4b6955140",
+        "category": "medical",
+        "lang": "en",
+        "title": "Multicenter Single-arm Trial to Investigate Clinical Outcomes When Cohealyx™ is Used for Full Thickness Wounds",
+        "summary": "The goal of this study is to look at clinical outcomes when Cohealyx Collagen Matrix is used to treat full thickness wounds after surgical excision in patients that require a skin graft to heal their wounds. The main question it aims to answer is how long…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT06787690",
+        "publishedAt": "2026-09-23T00:00:00+00:00",
+        "subtopics": [
+          "Wound care",
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06787690",
+            "publishedAt": "2026-09-23T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.072,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1515,39 +1486,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.083,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "94a4b6955140",
-        "category": "medical",
-        "lang": "en",
-        "title": "Multicenter Single-arm Trial to Investigate Clinical Outcomes When Cohealyx™ is Used for Full Thickness Wounds",
-        "summary": "The goal of this study is to look at clinical outcomes when Cohealyx Collagen Matrix is used to treat full thickness wounds after surgical excision in patients that require a skin graft to heal their wounds. The main question it aims to answer is how long…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT06787690",
-        "publishedAt": "2026-09-23T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Reconstructive surgery",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06787690",
-            "publishedAt": "2026-09-23T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.083,
+        "score": 7.072,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1579,7 +1518,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.79,
+        "score": 6.782,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1610,7 +1549,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.377,
+        "score": 6.372,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1642,7 +1581,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.234,
+        "score": 6.229,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1674,9 +1613,41 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.21,
+        "score": 6.189,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "c92d814d4c5a",
+        "category": "medical",
+        "lang": "en",
+        "title": "Decellularized Human Placental Extracellular Matrix Tissue for Rotator Cuff Repair Augmentation",
+        "summary": "The rotator cuff is a set of muscles and tendons that help move the shoulder. Tears in the rotator cuff are common, particularly as people age.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07027735",
+        "publishedAt": "2026-09-10T00:00:00+00:00",
+        "subtopics": [
+          "Biomaterials",
+          "Diagnostics & imaging",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07027735",
+            "publishedAt": "2026-09-10T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.992,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1706,7 +1677,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.425,
+        "score": 5.409,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1737,7 +1708,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.092,
+        "score": 5.077,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1767,7 +1738,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.994,
+        "score": 4.992,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1798,7 +1769,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.69,
+        "score": 4.676,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1829,7 +1800,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.255,
+        "score": 4.241,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1859,7 +1830,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.058,
+        "score": 4.046,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1890,7 +1861,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.034,
+        "score": 4.029,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1921,7 +1892,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.026,
+        "score": 4.014,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1952,7 +1923,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.823,
+        "score": 3.802,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1983,7 +1954,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.144,
+        "score": 2.14,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2020,7 +1991,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.812,
+        "score": 1.803,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2051,7 +2022,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.0,
+        "score": 0.998,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2083,7 +2054,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.793,
+        "score": 5.741,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "video",
         "video": {
@@ -2093,6 +2064,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=9Ff4S1FJdRM",
           "channel": "TED"
         }
+      },
+      {
+        "id": "afb95007eb07",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+        "publishedAt": "2026-09-29T12:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+            "publishedAt": "2026-09-29T12:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.733,
+        "firstSeen": "2026-09-29T13:40:37.677670+00:00",
+        "kind": "article"
       },
       {
         "id": "6629475b1948",
@@ -2119,8 +2119,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.741,
+        "isNew": false,
+        "score": 5.671,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00",
         "kind": "article"
       },
@@ -2149,7 +2149,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.061,
+        "score": 5.007,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2178,7 +2178,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.938,
+        "score": 4.88,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2207,7 +2207,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.903,
+        "score": 4.852,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2236,7 +2236,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.834,
+        "score": 4.779,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2266,36 +2266,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.779,
-        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "6d315f53d3ca",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Muse AI Agent",
-        "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-        "publishedAt": "2026-09-28T04:01:30+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-            "publishedAt": "2026-09-28T04:01:30+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.363,
+        "score": 4.732,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2325,7 +2296,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.358,
+        "score": 4.333,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2335,6 +2306,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "6d315f53d3ca",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Muse AI Agent",
+        "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+        "publishedAt": "2026-09-28T04:01:30+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+            "publishedAt": "2026-09-28T04:01:30+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.318,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "kind": "article"
       },
       {
         "id": "193eb09a66e5",
@@ -2363,7 +2363,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.252,
+        "score": 4.21,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2394,7 +2394,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.158,
+        "score": 4.145,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2431,7 +2431,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.126,
+        "score": 4.113,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2467,7 +2467,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.875,
+        "score": 3.861,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2503,7 +2503,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.835,
+        "score": 3.833,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2539,7 +2539,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.812,
+        "score": 3.81,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2576,7 +2576,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.748,
+        "score": 3.746,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2612,7 +2612,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.746,
+        "score": 3.745,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2648,7 +2648,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.723,
+        "score": 3.722,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2656,6 +2656,42 @@
           "thumbUrl": "https://i1.ytimg.com/vi/PRmIrFhce04/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=PRmIrFhce04",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "1ec2461a0f25",
+        "category": "growth",
+        "lang": "en",
+        "title": "Play is what happens when you stop trying to optimize everything #TEDTalks",
+        "summary": "When was the last time you just ... played?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/EIsm03Y-cDA",
+        "publishedAt": "2026-09-20T19:00:07+00:00",
+        "subtopics": [
+          "Productivity & systems"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/EIsm03Y-cDA",
+            "publishedAt": "2026-09-20T19:00:07+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.705,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "video",
+        "video": {
+          "id": "EIsm03Y-cDA",
+          "thumbUrl": "https://i2.ytimg.com/vi/EIsm03Y-cDA/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=EIsm03Y-cDA",
           "channel": "TED"
         }
       },
@@ -2685,45 +2721,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.721,
+        "score": 3.692,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
-      },
-      {
-        "id": "1ec2461a0f25",
-        "category": "growth",
-        "lang": "en",
-        "title": "Play is what happens when you stop trying to optimize everything #TEDTalks",
-        "summary": "When was the last time you just ... played?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/EIsm03Y-cDA",
-        "publishedAt": "2026-09-20T19:00:07+00:00",
-        "subtopics": [
-          "Productivity & systems"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/EIsm03Y-cDA",
-            "publishedAt": "2026-09-20T19:00:07+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.707,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "video",
-        "video": {
-          "id": "EIsm03Y-cDA",
-          "thumbUrl": "https://i2.ytimg.com/vi/EIsm03Y-cDA/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=EIsm03Y-cDA",
-          "channel": "TED"
-        }
       },
       {
         "id": "83c6b73bf15c",
@@ -2750,7 +2750,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.591,
+        "score": 3.584,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2786,7 +2786,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.52,
+        "score": 3.503,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2816,36 +2816,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.49,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "0530c0285000",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-        "publishedAt": "2026-09-24T12:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-            "publishedAt": "2026-09-24T12:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.304,
+        "score": 3.473,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2874,7 +2845,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.278,
+        "score": 3.26,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2938,8 +2909,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.099,
+        "isNew": false,
+        "score": 3.097,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00",
         "kind": "article"
       },
@@ -2969,7 +2940,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.097,
+        "score": 3.082,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2999,7 +2970,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.003,
+        "score": 3.001,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3028,7 +2999,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.916,
+        "score": 2.906,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -3058,7 +3029,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.88,
+        "score": 2.871,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3088,7 +3059,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.877,
+        "score": 2.868,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3119,7 +3090,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.807,
+        "score": 2.8,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3150,7 +3121,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.793,
+        "score": 2.786,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3203,7 +3174,7 @@
           }
         ],
         "isNew": false,
-        "score": 2.772,
+        "score": 2.766,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3285,13 +3256,13 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 25,
+      "items": 30,
       "error": null
     },
     {
       "id": "bbc-middleeast",
       "ok": true,
-      "items": 29,
+      "items": 28,
       "error": null
     },
     {
@@ -3309,7 +3280,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 11,
+      "items": 12,
       "error": null
     },
     {
@@ -3452,9 +3423,9 @@
     }
   ],
   "filteredOut": {
-    "football": 83,
-    "news": 139,
+    "football": 84,
+    "news": 137,
     "medical": 24,
-    "growth": 40
+    "growth": 41
   }
 }
