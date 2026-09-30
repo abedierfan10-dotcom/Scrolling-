@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:47:58.379274+00:00",
+  "generatedAt": "2026-09-30T11:51:30.624629+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,35 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "5f86e96e8ae1",
+        "category": "football",
+        "lang": "en",
+        "title": "Breaking down a sensational Spain goal: 70 seconds, 26 passes and an unerring Lamine Yamal",
+        "summary": "The world champions made their dominance count in their Nations League match against Croatia, starting with a fine opening goal",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.nytimes.com/athletic/7645301/2026/09/30/spain-croatia-lamine-yamal-70-second-goal/",
+        "publishedAt": "2026-09-30T06:07:12+00:00",
+        "subtopics": [
+          "Barcelona",
+          "International"
+        ],
+        "sources": [
+          {
+            "name": "The Athletic",
+            "url": "https://www.nytimes.com/athletic/7645301/2026/09/30/spain-croatia-lamine-yamal-70-second-goal/",
+            "publishedAt": "2026-09-30T06:07:12+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 11.958,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
       {
         "id": "a413175cc220",
         "category": "football",
@@ -33,7 +62,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.071,
+        "score": 10.498,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -62,7 +91,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.393,
+        "score": 4.338,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -91,37 +120,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.376,
+        "score": 4.327,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "fef74e573748",
-        "category": "football",
-        "lang": "en",
-        "title": "A more ambitious Canada starts its road to World Cup 2030 with a telling win",
-        "summary": "Canada's men turned in a program-best World Cup this summer. Now they want more",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7634214/2026/09/27/canada-chile-friendly-2030-world-cup-marsch-david/",
-        "publishedAt": "2026-09-27T09:30:19+00:00",
-        "subtopics": [
-          "World Cup",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7634214/2026/09/27/canada-chile-friendly-2030-world-cup-marsch-david/",
-            "publishedAt": "2026-09-27T09:30:19+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.357,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
         "id": "656db7a1ea5a",
@@ -149,7 +149,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.307,
+        "score": 4.284,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -178,37 +178,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.286,
+        "score": 4.27,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "a21cf35140fb",
-        "category": "football",
-        "lang": "en",
-        "title": "Multiple USMNT 'dream' scenarios unfold as 11 make debuts in cycle-starting win over Peru",
-        "summary": "On a day of many firsts, the USMNT took a successful first step in its road to the 2030 World Cup",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7633957/2026/09/26/usmnt-peru-debuts-pochettino-ellis-sullivan-albert-hall/",
-        "publishedAt": "2026-09-27T02:15:00+00:00",
-        "subtopics": [
-          "World Cup",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7633957/2026/09/26/usmnt-peru-debuts-pochettino-ellis-sullivan-albert-hall/",
-            "publishedAt": "2026-09-27T02:15:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.278,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
       },
       {
         "id": "07f90f6ee843",
@@ -236,50 +207,546 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.986,
+        "score": 2.809,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
-      },
+      }
+    ],
+    "news": [
       {
-        "id": "426c70127611",
-        "category": "football",
-        "lang": "en",
-        "title": "Gilberto Mora, 17, scores first Mexico goal, salvages draw vs. Colombia in Marquez coaching debut",
-        "summary": "Mora offered a glimpse into why he's viewed as the present and future of the Mexican national team",
+        "id": "e613a763549d",
+        "category": "news",
+        "lang": "de",
+        "title": "US-Truppen vollständig aus dem Irak abgezogen",
+        "summary": "Nach zwölf Jahren endet der US-Einsatz gegen den Islamischen Staat im Irak. Die irakische Regierung trägt nun die Hauptverantwortung im Kampf gegen verbliebene Zellen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7634034/2026/09/26/gilberto-mora-goal-mexico-colombia-rafa-marquez/",
-        "publishedAt": "2026-09-27T02:59:45+00:00",
+        "url": "https://www.zdfheute.de/politik/ausland/irak-us-truppen-abzug-100.html",
+        "publishedAt": "2026-09-30T11:10:00+00:00",
         "subtopics": [
-          "International",
-          "Results"
+          "US",
+          "Germany",
+          "Government"
         ],
         "sources": [
           {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7634034/2026/09/26/gilberto-mora-goal-mexico-colombia-rafa-marquez/",
-            "publishedAt": "2026-09-27T02:59:45+00:00",
-            "tier": 3
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/irak-us-truppen-abzug-100.html",
+            "publishedAt": "2026-09-30T11:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.969,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "9e9793a767fe",
+        "category": "news",
+        "lang": "de",
+        "title": "Warum der US-Präsident die Kontrolle von KI den Unternehmen überlässt",
+        "summary": "Warum der US-Präsident die Kontrolle von KI den Unternehmen überlässt",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1658048.html",
+        "publishedAt": "2026-09-30T10:41:08+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1658048.html",
+            "publishedAt": "2026-09-30T10:41:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.948,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "5ac9b311f6ad",
+        "category": "news",
+        "lang": "de",
+        "title": "Bundesregierung bringt Pflegereform auf den Weg",
+        "summary": "Die schwarz-rote Koalition hat sich nun doch auf einen Gesetzentwurf zur Pflege verständigt, der sich vorerst auf Einsparungen konzentriert. Es gibt aber mehr Tempo beim Bemühen um eine Strukturreform.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/eilmeldung/pflegereform-kabinett-100.html",
+        "publishedAt": "2026-09-30T10:39:33+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/eilmeldung/pflegereform-kabinett-100.html",
+            "publishedAt": "2026-09-30T10:39:33+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.947,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "5437f075ae15",
+        "category": "news",
+        "lang": "de",
+        "title": "Teilzeit auf Rekordhoch: Warum das die Wirtschaft belastet",
+        "summary": "In Deutschland sind rund 46 Millionen Menschen berufstätig und trotzdem fehlt es an Arbeitskräften. Auch, weil viele in Teilzeit arbeiten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/wirtschaft/teilzeit-arbeit-folgen-wirtschaft-100.html",
+        "publishedAt": "2026-09-30T10:39:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/wirtschaft/teilzeit-arbeit-folgen-wirtschaft-100.html",
+            "publishedAt": "2026-09-30T10:39:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.947,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "590143e53a8d",
+        "category": "news",
+        "lang": "de",
+        "title": "Nach tagelangen Verhandlungen: Darauf konnte sich die Koalition beim Thema Pflege einigen",
+        "summary": "Nach tagelangen Verhandlungen: Darauf konnte sich die Koalition beim Thema Pflege einigen",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1658040.html",
+        "publishedAt": "2026-09-30T10:27:03+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1658040.html",
+            "publishedAt": "2026-09-30T10:27:03+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.938,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "64a5ad03dea4",
+        "category": "news",
+        "lang": "de",
+        "title": "Weniger Arbeitslose, aber \"Herbstbelebung schwunglos\"",
+        "summary": "Die Zahl der Arbeitslosen sinkt unter drei Millionen. Laut Bundesagentur für Arbeit kommen die besseren Wirtschaftsaussichten aber noch nicht am Arbeitsmarkt an.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/wirtschaft/arbeitslosenzahlen-september-2026-100.html",
+        "publishedAt": "2026-09-30T10:26:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/wirtschaft/arbeitslosenzahlen-september-2026-100.html",
+            "publishedAt": "2026-09-30T10:26:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.937,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "0ebef38a6348",
+        "category": "news",
+        "lang": "de",
+        "title": "Reiche weist staatliches Unternehmen an, mehr Gas einzuspeichern",
+        "summary": "Die Gasspeicher sind aktuell nur zu etwas mehr als der Hälfte gefüllt. Nun drängt Wirtschaftsministerin Reiche alle Energieunternehmen dazu, mehr Erdgas einzuspeichern.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-reiche-winter-100.html",
+        "publishedAt": "2026-09-30T10:16:57+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/energie/gasspeicher-reiche-winter-100.html",
+            "publishedAt": "2026-09-30T10:16:57+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.93,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "2a12bd6472e0",
+        "category": "news",
+        "lang": "de",
+        "title": "Wüst verkündet Visa-Erleichterungen für Türkei",
+        "summary": "Es sei ein \"wichtiger Schritt für türkische Geschäftsleute\": NRW-Ministerpräsident Hendrik Wüst verkündet bei einer Wirtschaftskonferenz in Istanbul Visa-Erleichterungen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/wuest-tuerkei-visa-erleichterungen-geschaeftsleute-100.html",
+        "publishedAt": "2026-09-30T09:55:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/wuest-tuerkei-visa-erleichterungen-geschaeftsleute-100.html",
+            "publishedAt": "2026-09-30T09:55:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.915,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "334c5283a066",
+        "category": "news",
+        "lang": "de",
+        "title": "Reformdebatte in der schwarz-roten Koalition",
+        "summary": "Die Bundesregierung beteuert es nahezu täglich: Deutschland braucht Reformen. Noch in diesem Herbst hat Schwarz-Rot viel vor - und droht sich in Diskussionen zu verlieren.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
+        "publishedAt": "2026-09-30T08:45:42+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
+            "publishedAt": "2026-09-30T08:45:42+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.785,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00"
-      }
-    ],
-    "news": [
+        "score": 7.865,
+        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
+      },
       {
-        "id": "c8bea75a8462",
+        "id": "8674002f25bd",
         "category": "news",
         "lang": "de",
-        "title": "Manchester City in Finanzaffäre schuldig gesprochen",
-        "summary": "Die englische Premier League hat offiziell mitgeteilt, dass Manchester City \"systematisch\" mit Scheinverträgen Finanzregeln gebrochen hat. So seien Kosten von etwa einer Milliarde Euro verschleiert worden.",
+        "title": "Arbeitslosenzahl sinkt leicht unter Marke von drei Millionen",
+        "summary": "Mit dem Ende der Sommerpause gibt es meist Bewegung auf dem Arbeitsmarkt. Im September ging die Zahl der Menschen ohne Job aber nur leicht zurück.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/sport/fussball-manchester-city-premier-league-100.html",
-        "publishedAt": "2026-09-29T20:07:00+00:00",
+        "url": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-arbeitsmarkt-september-100.html",
+        "publishedAt": "2026-09-30T08:42:03+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/arbeitslosigkeit-arbeitsmarkt-september-100.html",
+            "publishedAt": "2026-09-30T08:42:03+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.862,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "8fcc098d15b4",
+        "category": "news",
+        "lang": "de",
+        "title": "Tanken in Deutschland war noch nie so teuer wie im September",
+        "summary": "Die durchschnittlichen Preise an Tankstellen in Deutschland waren noch nie höher als im September. Für den Rest des Jahres dürften die Preise für Autofahrerinnen und Autofahrer durch den \"Tankrabatt\" aber sinken.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html",
+        "publishedAt": "2026-09-30T08:23:56+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/september-tanken-100.html",
+            "publishedAt": "2026-09-30T08:23:56+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.849,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "bb83f15f4eee",
+        "category": "news",
+        "lang": "en",
+        "title": "Germany news: Cabinet approves care reform bill",
+        "summary": "The German Cabinet has approved a draft bill on reforming the care system after long debate. Police have launched raids across Germany targeting Hells Angels gangs and a money-laundering network.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-09-30T08:10:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-09-30T08:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.84,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "9e1fa9b99e99",
+        "category": "news",
+        "lang": "de",
+        "title": "Trump setzt bei KI auf Selbstkontrolle der Techbranche",
+        "summary": "Seit Wochen wird weltweit über Risiken und Beschränkungen von Künstlicher Intelligenz diskutiert. Doch US-Präsident Trump will auf gesetzliche Regulierung weiterhin verzichten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+        "publishedAt": "2026-09-30T07:59:56+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/amerika/trump-regulierung-ki-100.html",
+            "publishedAt": "2026-09-30T07:59:56+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.833,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "89e858065114",
+        "category": "news",
+        "lang": "de",
+        "title": "Deutschlandticket wird wohl wieder teurer",
+        "summary": "Heute soll über den künftigen Preis für das Deutschlandticket entschieden werden. Einem Medienbericht zufolge könnte es 2027 fast vier Euro mehr kosten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/deutschlandticket-preis-108.html",
+        "publishedAt": "2026-09-30T06:13:10+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/deutschlandticket-preis-108.html",
+            "publishedAt": "2026-09-30T06:13:10+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.759,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "46ffd19251d2",
+        "category": "news",
+        "lang": "de",
+        "title": "Hat die Schufa ihr Transparenz-Versprechen gebrochen?",
+        "summary": "Vollkommen transparent, verständlich und nachvollziehbar: So sollte der neue Schufa-Score sein, mit dem Millionen Verbraucherinnen und Verbraucher bewertet werden. Doch Recherchen von NDR und SZ zeigen: Das war offenbar nicht mehr als ein leeres Versprechen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/investigativ/ndr/schufa-score-auskunftei-verbraucher-100.html",
+        "publishedAt": "2026-09-30T04:00:51+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/investigativ/ndr/schufa-score-auskunftei-verbraucher-100.html",
+            "publishedAt": "2026-09-30T04:00:51+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.669,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "7c4848f4f146",
+        "category": "news",
+        "lang": "de",
+        "title": "Ukrainische Wirtschaft durch Krieg unter Druck",
+        "summary": "Russland hat seine Angriffe auf die Ukraine seit Wochen verstärkt. Eine große Belastung ist das auch für die Wirtschaft: Brennende Einkaufszentren und Lagerhallen, unterbrochene Logistikketten fordern Unternehmen heraus.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html",
+        "publishedAt": "2026-09-30T02:06:47+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html",
+            "publishedAt": "2026-09-30T02:06:47+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.595,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "aeac692df403",
+        "category": "news",
+        "lang": "de",
+        "title": "Helen Mirren: \"Ein Preis für das Lebenswerk ist wunderbar\"",
+        "summary": "Die 81-Jährige war beim Filmfest Hamburg ganz begeistert vom Douglas Sirk Preis: \"Der bekommt einen Ehrenplatz auf meinem Kaminsims.\"",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/kultur/film/festivals/helen-mirren-ein-preis-fuer-das-lebenswerk-ist-wunderbar,helenmirren-100.html",
+        "publishedAt": "2026-09-30T10:08:06+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/kultur/film/festivals/helen-mirren-ein-preis-fuer-das-lebenswerk-ist-wunderbar,helenmirren-100.html",
+            "publishedAt": "2026-09-30T10:08:06+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.524,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "850d433ee382",
+        "category": "news",
+        "lang": "de",
+        "title": "Leichte Entspannung auf dem Arbeitsmarkt im September",
+        "summary": "In Hamburg und anderen norddeutschen Bundesländern ist die Zahl der Arbeitslosen im Vergleich zum August zurückgegangen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/info/arbeitsmarkt-im-norden-leichte-entspannung-durch-die-herbstbelebung,arbeitsmarkt-september-110.html",
+        "publishedAt": "2026-09-30T09:54:00+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/info/arbeitsmarkt-im-norden-leichte-entspannung-durch-die-herbstbelebung,arbeitsmarkt-september-110.html",
+            "publishedAt": "2026-09-30T09:54:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.514,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "dc2d8721232b",
+        "category": "news",
+        "lang": "de",
+        "title": "Linken-Spitzenkandidatin Eralp war Mitglied der Roten Hilfe",
+        "summary": "Die Berliner Linken-Politikerin Elif Eralp war jahrelang Mitglied bei der Roten Hilfe. Der Verein gilt als linksextremistisch und wird seit 2012 vom Verfassungsschutz beobachtet.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/elif-eralp-rote-hilfe-linke-berlin-100.html",
+        "publishedAt": "2026-09-29T23:24:00+00:00",
         "subtopics": [
           "Germany",
           "Conflict"
@@ -287,87 +754,17 @@
         "sources": [
           {
             "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/sport/fussball-manchester-city-premier-league-100.html",
-            "publishedAt": "2026-09-29T20:07:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.sportschau.de/fussball/premier-league/premier-league-spricht-man-city-in-finanz-affaere-schuldig,manchester-city-statement-premier-league-100.html",
-            "publishedAt": "2026-09-29T19:08:57+00:00",
+            "url": "https://www.zdfheute.de/politik/deutschland/elif-eralp-rote-hilfe-linke-berlin-100.html",
+            "publishedAt": "2026-09-29T23:24:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 8.683,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "35fa41d91645",
-        "category": "news",
-        "lang": "de",
-        "title": "tagesschau",
-        "summary": "Regierungskoalition verhandelt vor Einbringung ins Kabinett über Gesetzentwurf zur Pflegereform, Erste große Übung der Heimatschutzdivision im öffentlichen Raum, Region Bremen und Bremerhaven soll bis 2031 zur NATO-Drehscheibe ausgebaut werden,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/tagesschau/ts-81232.html",
-        "publishedAt": "2026-09-29T22:30:14+00:00",
-        "subtopics": [
-          "Germany",
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau/ts-81232.html",
-            "publishedAt": "2026-09-29T22:30:14+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81274.html",
-            "publishedAt": "2026-09-29T18:30:38+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1657768.html",
-            "publishedAt": "2026-09-29T18:17:34+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12280.html",
-            "publishedAt": "2026-09-28T18:40:47+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "tagesschau",
-        "earlier": [
-          {
-            "title": "tagesschau",
-            "source": "Tagesschau",
-            "publishedAt": "2026-09-29T18:30:38+00:00"
-          },
-          {
-            "title": "tagesschau 20:00 Uhr",
-            "source": "Tagesschau",
-            "publishedAt": "2026-09-29T18:17:34+00:00"
-          },
-          {
-            "title": "tagesschau mit Gebärdensprache",
-            "source": "Tagesschau",
-            "publishedAt": "2026-09-28T18:40:47+00:00"
-          }
-        ],
-        "isNew": false,
-        "score": 7.987,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
+        "isNew": true,
+        "score": 7.492,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
         "id": "1f58659c8c6d",
@@ -394,8 +791,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.965,
+        "isNew": false,
+        "score": 7.441,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00"
       },
       {
@@ -424,14 +821,14 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.9,
+        "score": 7.388,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
         "id": "f1970f8e5f5a",
         "category": "news",
         "lang": "de",
-        "title": "Und plötzlich kullern beim Kanzler die Tränen",
+        "title": "Kanzler bei Preisverleihung zu Tränen gerührt",
         "summary": "Die Bertha-von-Suttner-Schule aus Mörfelden-Walldorf gewinnt den Deutschen Schulpreis. Bei der Verleihung fließen Tränen der Freude - selbst bei Bundeskanzler Friederich Merz.",
         "needsSummary": true,
         "readMore": null,
@@ -453,7 +850,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.89,
+        "score": 7.379,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -476,119 +873,43 @@
             "url": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
             "publishedAt": "2026-09-29T19:44:05+00:00",
             "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/merz-praesident-kasachstan-oel-100.html",
-            "publishedAt": "2026-09-29T19:44:05+00:00",
-            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.866,
+        "score": 7.36,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
-        "id": "e485bde0d989",
+        "id": "79f6b2bc8ea4",
         "category": "news",
         "lang": "de",
-        "title": "Marokkos König ernennt erstmals eine Frau zur Ministerpräsidentin",
-        "summary": "Als Favorit galt der populäre Chef des Königlichen Fußballverbandes. Doch Marokkos König ernannte eine Frau zur Regierungschefin - erstmals in der Geschichte des Landes: die bisheriger Wohnungsbauministerin El Mansouri.",
+        "title": "Gewalt, Erpressung und Hitlergruß: Jugendliche in Hamburg vor Gericht",
+        "summary": "Vier Jugendliche stehen in Hamburg wegen Gewalt und Erpressung vor Gericht. Der Hauptangeklagte gilt zudem als Sympathisant einer rechtsextremen Terrororganisation.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
-        "publishedAt": "2026-09-29T19:11:36+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/gewalt-erpressung-und-hitlergruss-jugendliche-in-hamburg-vor-gericht,prozess-1030.html",
+        "publishedAt": "2026-09-30T05:00:00+00:00",
         "subtopics": [
-          "Germany",
-          "Government"
+          "Hamburg",
+          "Law & Policy"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
-            "publishedAt": "2026-09-29T19:11:36+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/afrika/marokko-frau-regierungschefin-100.html",
-            "publishedAt": "2026-09-29T19:11:36+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/gewalt-erpressung-und-hitlergruss-jugendliche-in-hamburg-vor-gericht,prozess-1030.html",
+            "publishedAt": "2026-09-30T05:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.843,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "334c5283a066",
-        "category": "news",
-        "lang": "de",
-        "title": "Reformdebatte in der schwarz-roten Koalition",
-        "summary": "Die Bundesregierung beteuert es nahezu täglich: Deutschland braucht Reformen. Noch in diesem Herbst hat Schwarz-Rot viel vor - und droht sich in Diskussionen zu verlieren.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
-        "publishedAt": "2026-09-29T18:25:40+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
-            "publishedAt": "2026-09-29T18:25:40+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/reformen-bundesregierung-100.html",
-            "publishedAt": "2026-09-29T18:25:40+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.811,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "3af7ebc5eb3c",
-        "category": "news",
-        "lang": "de",
-        "title": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
-        "summary": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
-        "publishedAt": "2026-09-29T18:25:01+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/frankreich-proteste-schueler-100.html",
-            "publishedAt": "2026-09-29T18:25:01+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.811,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
+        "isNew": true,
+        "score": 7.309,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
         "id": "1305697e87d5",
@@ -616,37 +937,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.771,
+        "score": 7.282,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
-        "id": "3fd715a45da9",
+        "id": "1368ef23b8e5",
         "category": "news",
         "lang": "de",
-        "title": "Berliner Linken-Fraktionschefin Eralp war Mitglied der \"Roten Hilfe\"",
-        "summary": "Die \"Rote Hilfe\" leistet juristischen Beistand für linke Aktivisten - und wird vom Verfassungsschutz als linksextremistisch eingestuft. Die Fraktionschefin der Berliner Linken, Eralp, war mehrere Jahre passives Mitglied in dem Verein.",
+        "title": "CDU-Parteitag in Hamburg: Thering fordert Agenda 2030",
+        "summary": "Beim Landesparteitag der Hamburger CDU ging es um die jüngsten Wahlniederlagen. Landeschef Thering sieht die Verantwortung bei der Bundesregierung.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/regional/berlin/linke-eralp-rote-hilfe-100.html",
-        "publishedAt": "2026-09-29T16:17:09+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/cdu-parteitag-in-hamburg-thering-fordert-agenda-2030,cdu-540.html",
+        "publishedAt": "2026-09-30T04:09:37+00:00",
         "subtopics": [
-          "Germany",
-          "Conflict"
+          "Hamburg",
+          "Elections"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/berlin/linke-eralp-rote-hilfe-100.html",
-            "publishedAt": "2026-09-29T16:17:09+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/cdu-parteitag-in-hamburg-thering-fordert-agenda-2030,cdu-540.html",
+            "publishedAt": "2026-09-30T04:09:37+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.723,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
+        "isNew": true,
+        "score": 7.275,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
         "id": "0d69bc0d7ecc",
@@ -668,293 +989,44 @@
             "url": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-sachsen-anhalt-afd-bsw-100.html",
             "publishedAt": "2026-09-29T15:32:12+00:00",
             "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/regierungsbildung-sachsen-anhalt-afd-bsw-100.html",
-            "publishedAt": "2026-09-29T15:32:12+00:00",
-            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.693,
+        "score": 7.217,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
-        "id": "9f2a261322b4",
-        "category": "news",
-        "lang": "de",
-        "title": "Wie eine Lösung bei der Pflegereform aussehen könnte",
-        "summary": "Kann sich die Koalition auf eine Pflegereform einigen? Ob der Entwurf am Mittwoch beschlossen wird, ist weiterhin offen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/pflege-pflegereform-kabinett-cdu-spd-linnemann-faq-100.html",
-        "publishedAt": "2026-09-29T14:56:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/pflege-pflegereform-kabinett-cdu-spd-linnemann-faq-100.html",
-            "publishedAt": "2026-09-29T14:56:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.669,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "c06ffc021500",
-        "category": "news",
-        "lang": "de",
-        "title": "Spanische Regierung will Mietverträge entfristen und Zwangsräumungen verbieten",
-        "summary": "Angesichts der landesweiten Proteste hat die spanische Regierung zwei Dekrete gegen Wohnungsnot beschlossen. Die 87-Jährige, deren Zwangsräumung die Proteste ausgelöst hatte, konnte zurück in ihre Wohnung in Madrid.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/spanien-will-mietvertraege-entfristen-100.html",
-        "publishedAt": "2026-09-29T14:29:56+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/spanien-will-mietvertraege-entfristen-100.html",
-            "publishedAt": "2026-09-29T14:29:56+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/spanien-will-mietvertraege-entfristen-100.html",
-            "publishedAt": "2026-09-29T14:29:56+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.651,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "9e4185b59c9f",
-        "category": "news",
-        "lang": "de",
-        "title": "Haushalte sind so reich wie nie - Vermögen ungleich verteilt",
-        "summary": "Der KI-Boom an den Börsen hat das weltweite Geldvermögen im vergangenen Jahr auf einen Rekordwert getrieben. Die privaten Haushalte besaßen zum Jahresende ein Vermögen von 268,4 Billionen Euro.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html",
-        "publishedAt": "2026-09-29T13:17:47+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/geldvermoegen-private-haushalte-100.html",
-            "publishedAt": "2026-09-29T13:17:47+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.604,
-        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
-      },
-      {
-        "id": "851165424748",
-        "category": "news",
-        "lang": "de",
-        "title": "AfD-Wahlsieger Siegmund: Stelle mich im Dezember zur Wahl",
-        "summary": "Ulrich Siegmund will sich als Ministerpräsident in Sachsen-Anhalt zur Wahl stellen. Er wolle \"keine klassische Minderheitsregierung\" anführen, kündigt der AfD-Wahlsieger an.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/siegmund-will-ministerpraesident-magdeburg-100.html",
-        "publishedAt": "2026-09-29T13:03:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/siegmund-will-ministerpraesident-magdeburg-100.html",
-            "publishedAt": "2026-09-29T13:03:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.595,
-        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
-      },
-      {
-        "id": "b065f7123270",
-        "category": "news",
-        "lang": "de",
-        "title": "\"Die Regierung sollte diese Chance nicht verspielen\"",
-        "summary": "Wird das Rentenpaket aufgeschnürt? Deutschlands führende Wirtschafts- und Finanzwissenschaftler warnen genau davor - in einem gemeinsamen Appell von 46 Expertinnen und Experten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/rente-rentenpaket-appell-umsetzung-koalition-reformen-100.html",
-        "publishedAt": "2026-09-29T11:26:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/rente-rentenpaket-appell-umsetzung-koalition-reformen-100.html",
-            "publishedAt": "2026-09-29T11:26:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.533,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "4e6bf841a38e",
-        "category": "news",
-        "lang": "de",
-        "title": "Vermögen der Privathaushalte steigt auf Rekordsumme",
-        "summary": "Das Geldvermögen privater Haushalte ist, laut Global Wealth Report, weltweit auf ein Rekordniveau gestiegen. Wer in Aktien investierte, profitierte besonders vom Boom an der Börse.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/wirtschaft/vermoegen-privathaushalt-rekord-global-wealth-report-100.html",
-        "publishedAt": "2026-09-29T11:07:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/wirtschaft/vermoegen-privathaushalt-rekord-global-wealth-report-100.html",
-            "publishedAt": "2026-09-29T11:07:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.521,
-        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
-      },
-      {
-        "id": "07315f313290",
+        "id": "ff939e3fd88c",
         "category": "news",
         "lang": "en",
-        "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-        "summary": "The Estonian government accused Moscow of an \"act of sabotage\" that is part of Russia's broader campaign across Europe. The Baltic state has received support from EU and NATO leaders.",
+        "title": "US troops exit Iraq after more than a decade",
+        "summary": "The current deployment began in 2014 in an effort to combat 'Islamic State' extremists. Iran, which has sought a complete removal of the US military from the Middle East, celebrated the withdrawal.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-29T19:36:41+00:00",
+        "url": "https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-09-30T06:22:00+00:00",
         "subtopics": [
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-29T19:36:41+00:00",
-            "tier": 2
-          },
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/estonia-blames-russia-for-arson-attack-on-defense-company/a-79478937?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-29T18:08:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.461,
-        "firstSeen": "2026-09-29T13:40:37.677670+00:00"
-      },
-      {
-        "id": "70ecf87be0fb",
-        "category": "news",
-        "lang": "de",
-        "title": "Der Deutsche Schulpreis geht an diese Schule",
-        "summary": "Die Bertha-von-Suttner-Schule in Mörfelden-Walldorf hat den mit 100.000 Euro dotierten Deutschen Schulpreis gewonnen. Was macht diese Schule anders als andere?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/panorama/deutscher-schulpreis-2026-100.html",
-        "publishedAt": "2026-09-29T09:00:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/panorama/deutscher-schulpreis-2026-100.html",
-            "publishedAt": "2026-09-29T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.443,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "db06afc3f718",
-        "category": "news",
-        "lang": "de",
-        "title": "Kostenexplosion bei Recyclingzentrum: Wann war der Bürgermeister informiert?",
-        "summary": "Die neue Hamburger Müllverwertungsanlage wird deutlich teurer als geplant. Bürgermeister Tschentscher soll schon 2023 Hinweise auf Unregelmäßigkeiten erhalten haben.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/kostenexplosion-bei-recyclingzentrum-wann-war-der-buergermeister-informiert,muell-422.html",
-        "publishedAt": "2026-09-29T18:21:01+00:00",
-        "subtopics": [
-          "Hamburg",
+          "Iran",
+          "US",
           "Conflict"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/kostenexplosion-bei-recyclingzentrum-wann-war-der-buergermeister-informiert,muell-422.html",
-            "publishedAt": "2026-09-29T18:21:01+00:00",
+            "name": "DW",
+            "url": "https://www.dw.com/en/us-troops-exit-iraq-after-more-than-a-decade/a-79481523?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-09-30T06:22:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.408,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+        "isNew": true,
+        "score": 6.965,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
         "id": "868d7132d546",
@@ -982,7 +1054,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.406,
+        "score": 6.911,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -1011,7 +1083,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.405,
+        "score": 6.91,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -1034,49 +1106,43 @@
             "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/stadtteilschule-wilhelmsburg-erhaelt-deutschen-schulpreis-2026,hamj-15056.html",
             "publishedAt": "2026-09-29T18:16:50+00:00",
             "tier": 2
-          },
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/stadtteilschule-wilhelmsburg-erhaelt-deutschen-schulpreis-2026,hamj-15056.html",
-            "publishedAt": "2026-09-29T18:16:50+00:00",
-            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.405,
+        "score": 6.91,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
-        "id": "8b838a437e4d",
+        "id": "616c2dbc461e",
         "category": "news",
         "lang": "de",
-        "title": "Berlin: Unionsländer drohen bei Linksregierung mit Geldentzug",
-        "summary": "Die Berliner Linke lotet eine Regierung mit Grünen und SPD aus. Die unionsregierten Länder drohen nun mit Konsequenzen.",
+        "title": "Elterngeld: Prien will Reform noch einmal prüfen",
+        "summary": "Familienministerin Prien ist offen für Diskussionen über die Elterngeldreform. Die 14 Monate Bezugsdauer könnten also doch beibehalten werden.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/union-laender-drohung-berlin-linksregierung-geldentzug-100.html",
-        "publishedAt": "2026-09-29T07:43:00+00:00",
+        "url": "https://www.zdfheute.de/politik/deutschland/elterngeld-reform-prien-14-monate-bezugsdauer-100.html",
+        "publishedAt": "2026-09-30T07:00:00+00:00",
         "subtopics": [
           "Germany",
-          "Government"
+          "Law & Policy"
         ],
         "sources": [
           {
             "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/union-laender-drohung-berlin-linksregierung-geldentzug-100.html",
-            "publishedAt": "2026-09-29T07:43:00+00:00",
+            "url": "https://www.zdfheute.de/politik/deutschland/elterngeld-reform-prien-14-monate-bezugsdauer-100.html",
+            "publishedAt": "2026-09-30T07:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.397,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+        "isNew": true,
+        "score": 6.791,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
         "id": "cb8e64fdf43c",
@@ -1104,43 +1170,77 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.224,
+        "score": 6.76,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
-        "id": "d79fe8536823",
+        "id": "c210db8c1794",
         "category": "news",
-        "lang": "de",
-        "title": "\"Red Storm Charlie\": Bundeswehr zieht positive Bilanz",
-        "summary": "Die Bundeswehr ist zufrieden mit dem Verlauf der dreitägigen Übung in Hamburg. Dabei ging es um die Zusammenarbeit mit Behörden, Unternehmen und anderen Organisationen im Ernstfall.",
+        "lang": "en",
+        "title": "Remarks by Commissioner Brunner at the press conference on the European Union Critical Communication System",
+        "summary": "European Commission Questions and answers Brussels, 30 Sep 2026 What is the European Union Critical Communication System? The European Union Critical Communication System (EUCCS) connects national critical communication syst...",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/red-storm-charlie-bundeswehr-zieht-positive-bilanz,kurzehh-4446.html",
-        "publishedAt": "2026-09-29T13:37:21+00:00",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2025",
+        "publishedAt": "2026-09-30T09:51:23+00:00",
         "subtopics": [
-          "Hamburg",
-          "Business"
+          "EU",
+          "Government"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/red-storm-charlie-bundeswehr-zieht-positive-bilanz,kurzehh-4446.html",
-            "publishedAt": "2026-09-29T13:37:21+00:00",
-            "tier": 2
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2025",
+            "publishedAt": "2026-09-30T09:51:23+00:00",
+            "tier": 1
+          },
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2024",
+            "publishedAt": "2026-09-30T09:44:04+00:00",
+            "tier": 1
+          },
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2011",
+            "publishedAt": "2026-09-29T22:00:00+00:00",
+            "tier": 1
+          },
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2009",
+            "publishedAt": "2026-09-29T22:00:00+00:00",
+            "tier": 1
           }
         ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.217,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
+        "developing": true,
+        "latestUpdate": "Remarks by Commissioner Brunner at the press conference on the European Union Critical Communication System",
+        "earlier": [
+          {
+            "title": "Remarks by Executive Vice-President Virkkunen and Commissioner Brunner on the EU Critical Communication System",
+            "source": "European Commission",
+            "publishedAt": "2026-09-30T09:44:04+00:00"
+          },
+          {
+            "title": "Factsheet: EU Critical Communication System",
+            "source": "European Commission",
+            "publishedAt": "2026-09-29T22:00:00+00:00"
+          },
+          {
+            "title": "Questions and answers on the European Union Critical Communication System",
+            "source": "European Commission",
+            "publishedAt": "2026-09-29T22:00:00+00:00"
+          }
+        ],
+        "isNew": true,
+        "score": 6.712,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
         "id": "8b3dcd187e19",
         "category": "news",
         "lang": "de",
-        "title": "Bund will offenbar Zippel-Übernahme durch COSCO verhindern",
+        "title": "Bund will offenbar Zippel-Übernahme durch Cosco verhindern",
         "summary": "Die chinesische Staatsreederei plant die Übernahme des Hamburger Logistikunternehmens Zippel. Mehrere Ministerien haben jedoch \"erhebliche Sicherheitsbedenken\".",
         "needsSummary": true,
         "readMore": null,
@@ -1162,217 +1262,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.082,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "84ba26ac9d05",
-        "category": "news",
-        "lang": "de",
-        "title": "Westjordanland: Siedler verhindern Rückkehr vertriebener Palästinenser",
-        "summary": "Selbst Israels Premier schaltete sich in den Fall ein: Familie Tubassi wurde von jüdischen Siedlern aus ihrem Haus im Westjordanland vertrieben. Sie wehrte sich erfolgreich vor Gericht.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
-        "publishedAt": "2026-09-29T15:50:53+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
-            "publishedAt": "2026-09-29T15:50:53+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/siedlergewalt-westjordanland-israel-100.html",
-            "publishedAt": "2026-09-29T15:50:53+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.705,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "3e9cec0d99c6",
-        "category": "news",
-        "lang": "en",
-        "title": "Global trade weathers Iran, Ukraine and Trump's tariffs",
-        "summary": "Over the past six years, COVID, two wars and Donald Trump's tariffs have shaken world trade. With globalization already stalling, is this a temporary shock or the start of a great reversal?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-29T10:35:00+00:00",
-        "subtopics": [
-          "Iran",
-          "US",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-29T10:35:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.701,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "ba8543c42ced",
-        "category": "news",
-        "lang": "de",
-        "title": "KI-Konzerne: Ablenken von der eigenen Verantwortung",
-        "summary": "Nach Sicherheitsvorfällen kündigt OpenAI an, ein neues ChatGPT-Modell doch nicht veröffentlichen zu wollen. Dabei geht es nicht nur um KI, sondern vor allem um Verantwortung.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/openai-ki-modell-chatgpt-analyse-100.html",
-        "publishedAt": "2026-09-29T14:38:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/wirtschaft/unternehmen/openai-ki-modell-chatgpt-analyse-100.html",
-            "publishedAt": "2026-09-29T14:38:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.657,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "f2944dee9a52",
-        "category": "news",
-        "lang": "en",
-        "title": "Opening remarks by Commissioner Jørgensen at the press conference concluding the Informal Energy Council",
-        "summary": "European Commission Speech Dublin, 29 Sep 2026 Thank you, Minister, for hosting these important discussions here in Dublin.And thank you for your putting energy affordability and security at the top of the a...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2016",
-        "publishedAt": "2026-09-29T17:02:17+00:00",
-        "subtopics": [
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2016",
-            "publishedAt": "2026-09-29T17:02:17+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.554,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "05c8ba26ab88",
-        "category": "news",
-        "lang": "en",
-        "title": "AI: Concern as Germany plans to double data center capacity",
-        "summary": "Germany is rewriting the rules to attract data center investment from AI companies. But local communities are becoming increasingly skeptical.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-09-29T10:00:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-09-29T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.48,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "58258e69e061",
-        "category": "news",
-        "lang": "en",
-        "title": "Bond investors become oil traders as Iran war drives yields",
-        "summary": "Bond investors watch Iran conflict and crude price for signs as to where government borrowing costs will go",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1",
-        "publishedAt": "2026-09-29T04:00:23+00:00",
-        "subtopics": [
-          "Iran",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/f894f69a-9e2b-4c3f-bf5d-c5c4dc0e6197?syn-25a6b1a6=1",
-            "publishedAt": "2026-09-29T04:00:23+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.468,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00"
-      },
-      {
-        "id": "23633b0f31f7",
-        "category": "news",
-        "lang": "en",
-        "title": "Remarks by Commissioner Brunner at the press point on a five-point plan to strengthen resilience and security of EU external borders",
-        "summary": "European Commission Speech Brussels, 29 Sep 2026 Good morning. Later this week will discuss at the Justice and Home Affairs Council in Luxembourg, where we stand and what we still need to do on migration.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2014",
-        "publishedAt": "2026-09-29T14:18:00+00:00",
-        "subtopics": [
-          "EU",
-          "Immigration"
-        ],
-        "sources": [
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2014",
-            "publishedAt": "2026-09-29T14:18:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.444,
+        "score": 6.644,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       }
     ],
@@ -1404,7 +1294,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.364,
+        "score": 10.26,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1437,7 +1327,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.234,
+        "score": 10.169,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1475,7 +1365,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.079,
+        "score": 7.929,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1507,7 +1397,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.012,
+        "score": 6.929,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1544,7 +1434,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.012,
+        "score": 6.929,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1576,7 +1466,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.734,
+        "score": 6.669,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1607,7 +1497,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.342,
+        "score": 6.302,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1639,7 +1529,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.206,
+        "score": 6.174,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "c92d814d4c5a",
+        "category": "medical",
+        "lang": "en",
+        "title": "Decellularized Human Placental Extracellular Matrix Tissue for Rotator Cuff Repair Augmentation",
+        "summary": "The rotator cuff is a set of muscles and tendons that help move the shoulder. Tears in the rotator cuff are common, particularly as people age.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07027735",
+        "publishedAt": "2026-09-10T00:00:00+00:00",
+        "subtopics": [
+          "Biomaterials",
+          "Diagnostics & imaging",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07027735",
+            "publishedAt": "2026-09-10T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.962,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1671,41 +1593,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.07,
+        "score": 5.908,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "c92d814d4c5a",
-        "category": "medical",
-        "lang": "en",
-        "title": "Decellularized Human Placental Extracellular Matrix Tissue for Rotator Cuff Repair Augmentation",
-        "summary": "The rotator cuff is a set of muscles and tendons that help move the shoulder. Tears in the rotator cuff are common, particularly as people age.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07027735",
-        "publishedAt": "2026-09-10T00:00:00+00:00",
-        "subtopics": [
-          "Biomaterials",
-          "Diagnostics & imaging",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07027735",
-            "publishedAt": "2026-09-10T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.979,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1735,7 +1625,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.325,
+        "score": 5.21,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1766,39 +1656,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.196,
+        "score": 5.014,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "3a301c1cfd76",
-        "category": "medical",
-        "lang": "en",
-        "title": "Lab test providers want Medicare payment reform. Will Congress pass it?",
-        "summary": "Facing maximum Medicare payment cuts, test providers Quest Diagnostics and Labcorp are urging lawmakers to revamp the rate-setting process, but getting a bill through Congress this year will be a challenge.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/lab-test-providers-want-medicare-payment-reform-will-congress-pass-it/831384/",
-        "publishedAt": "2026-09-25T15:07:20+00:00",
-        "subtopics": [
-          "Diagnostics & imaging",
-          "Conference"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/lab-test-providers-want-medicare-payment-reform-will-congress-pass-it/831384/",
-            "publishedAt": "2026-09-25T15:07:20+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.994,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -1827,9 +1686,40 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.979,
+        "score": 4.962,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "3a301c1cfd76",
+        "category": "medical",
+        "lang": "en",
+        "title": "Lab test providers want Medicare payment reform. Will Congress pass it?",
+        "summary": "Facing maximum Medicare payment cuts, test providers Quest Diagnostics and Labcorp are urging lawmakers to revamp the rate-setting process, but getting a bill through Congress this year will be a challenge.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/lab-test-providers-want-medicare-payment-reform-will-congress-pass-it/831384/",
+        "publishedAt": "2026-09-25T15:07:20+00:00",
+        "subtopics": [
+          "Diagnostics & imaging",
+          "Conference"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/lab-test-providers-want-medicare-payment-reform-will-congress-pass-it/831384/",
+            "publishedAt": "2026-09-25T15:07:20+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.881,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
@@ -1858,7 +1748,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.598,
+        "score": 4.491,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1889,7 +1779,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.164,
+        "score": 4.06,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1920,7 +1810,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.006,
+        "score": 3.974,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1950,7 +1840,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.977,
+        "score": 3.885,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1981,7 +1871,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.947,
+        "score": 3.856,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2012,7 +1902,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.687,
+        "score": 3.531,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2043,7 +1933,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.116,
+        "score": 2.084,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2080,7 +1970,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.754,
+        "score": 1.688,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2111,7 +2001,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 0.985,
+        "score": 0.967,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2119,32 +2009,32 @@
     ],
     "growth": [
       {
-        "id": "1e2adcbb126c",
+        "id": "9e7b8b5e56b7",
         "category": "growth",
         "lang": "en",
-        "title": "Quoting Anthropic Frontier Red Team",
-        "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below…",
+        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+        "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-        "publishedAt": "2026-09-29T22:20:28+00:00",
+        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+        "publishedAt": "2026-09-30T10:40:30+00:00",
         "subtopics": [
           "AI & smart tools"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-            "publishedAt": "2026-09-29T22:20:28+00:00",
-            "tier": 3
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+            "publishedAt": "2026-09-30T10:40:30+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 5.48,
-        "firstSeen": "2026-09-29T22:47:58.379274+00:00",
+        "score": 5.748,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
       {
@@ -2172,7 +2062,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.469,
+        "score": 5.139,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "video",
         "video": {
@@ -2182,6 +2072,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=9Ff4S1FJdRM",
           "channel": "TED"
         }
+      },
+      {
+        "id": "1e2adcbb126c",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Anthropic Frontier Red Team",
+        "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+        "publishedAt": "2026-09-29T22:20:28+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+            "publishedAt": "2026-09-29T22:20:28+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.953,
+        "firstSeen": "2026-09-29T22:47:58.379274+00:00",
+        "kind": "article"
       },
       {
         "id": "afb95007eb07",
@@ -2208,7 +2127,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.361,
+        "score": 4.909,
         "firstSeen": "2026-09-29T13:40:37.677670+00:00",
         "kind": "article"
       },
@@ -2238,8 +2157,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.307,
+        "score": 4.864,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "cab141db60b6",
+        "category": "growth",
+        "lang": "en",
+        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+        "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv...",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+        "publishedAt": "2026-09-29T18:27:48+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+            "publishedAt": "2026-09-29T18:27:48+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.816,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
       {
@@ -2268,7 +2217,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.208,
+        "score": 4.73,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
         "kind": "article"
       },
@@ -2297,7 +2246,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.727,
+        "score": 4.387,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2326,7 +2275,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.592,
+        "score": 4.275,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2355,36 +2304,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.578,
-        "firstSeen": "2026-09-28T22:54:15.445617+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5b94c506716c",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting @joedaroo",
-        "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-        "publishedAt": "2026-09-28T19:11:42+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-            "publishedAt": "2026-09-28T19:11:42+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.489,
+        "score": 4.211,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2414,8 +2334,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.487,
+        "score": 4.189,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "5b94c506716c",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting @joedaroo",
+        "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+        "publishedAt": "2026-09-28T19:11:42+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+            "publishedAt": "2026-09-28T19:11:42+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.138,
+        "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
       {
@@ -2444,7 +2393,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.202,
+        "score": 4.042,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2454,35 +2403,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "6d315f53d3ca",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Muse AI Agent",
-        "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-        "publishedAt": "2026-09-28T04:01:30+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
-            "publishedAt": "2026-09-28T04:01:30+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.087,
-        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
-        "kind": "article"
       },
       {
         "id": "2d2c165252be",
@@ -2511,7 +2431,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.075,
+        "score": 3.991,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2548,7 +2468,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.048,
+        "score": 3.969,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2556,6 +2476,143 @@
           "thumbUrl": "https://i3.ytimg.com/vi/270q4aF0qU8/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=270q4aF0qU8",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "0972a572df6a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Would you try this reading challenge? #TEDTalks",
+        "summary": "Ann Morgan considered herself well read -- until she discovered the \"massive blindspot\" on her bookshelf. Amid a multitude of English and American authors, there were very few books from beyond the English-speaking world.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
+        "publishedAt": "2026-09-29T23:00:39+00:00",
+        "subtopics": [
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
+            "publishedAt": "2026-09-29T23:00:39+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.887,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
+        "kind": "video",
+        "video": {
+          "id": "f6VgtBnARG0",
+          "thumbUrl": "https://i3.ytimg.com/vi/f6VgtBnARG0/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=f6VgtBnARG0",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "4f74bac335ac",
+        "category": "growth",
+        "lang": "en",
+        "title": "Is this why adult friendships feel so hard?",
+        "summary": "Busy schedules, quiet group chats and no one's sure who should text first. Sound familiar?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/DBhAROQM51E",
+        "publishedAt": "2026-09-26T19:00:29+00:00",
+        "subtopics": [
+          "Psychology"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/DBhAROQM51E",
+            "publishedAt": "2026-09-26T19:00:29+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.812,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "video",
+        "video": {
+          "id": "DBhAROQM51E",
+          "thumbUrl": "https://i1.ytimg.com/vi/DBhAROQM51E/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=DBhAROQM51E",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "6d315f53d3ca",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Muse AI Agent",
+        "summary": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+        "publishedAt": "2026-09-28T04:01:30+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+            "publishedAt": "2026-09-28T04:01:30+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.807,
+        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "79509aed2d58",
+        "category": "growth",
+        "lang": "en",
+        "title": "Being a person is better than being perfect all the time #TEDTalks",
+        "summary": "Why are we so obsessed with productivity? Horticulturist Rebecca McMackin (who wants people to let their lawns grow wild) and author Catherine Price (who wrote a book about the power of fun) come together to discuss the relief of giving up control.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/vLDplW8cw4A",
+        "publishedAt": "2026-09-25T19:00:03+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/vLDplW8cw4A",
+            "publishedAt": "2026-09-25T19:00:03+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.79,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "video",
+        "video": {
+          "id": "vLDplW8cw4A",
+          "thumbUrl": "https://i3.ytimg.com/vi/vLDplW8cw4A/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=vLDplW8cw4A",
           "channel": "TED"
         }
       },
@@ -2586,28 +2643,29 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.993,
+        "score": 3.729,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
       {
-        "id": "4f74bac335ac",
+        "id": "2bddae4cab3f",
         "category": "growth",
         "lang": "en",
-        "title": "Is this why adult friendships feel so hard?",
-        "summary": "Busy schedules, quiet group chats and no one's sure who should text first. Sound familiar?",
+        "title": "Keep showing up not just for the Earth, but for each other #TEDTalks",
+        "summary": "Hope isn’t just a feeling, but a skill you can practice, explains climate activist Xiye Bastida. Taking cues from the resilience of nature, she shows why trusting Indigenous leaders who’ve protected the planet for generations can help turn despair about the…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.youtube.com/shorts/DBhAROQM51E",
-        "publishedAt": "2026-09-26T19:00:29+00:00",
+        "url": "https://www.youtube.com/shorts/RZvHtAXF-D0",
+        "publishedAt": "2026-09-22T20:00:03+00:00",
         "subtopics": [
-          "Psychology"
+          "Communication",
+          "Leadership"
         ],
         "sources": [
           {
             "name": "TED",
-            "url": "https://www.youtube.com/shorts/DBhAROQM51E",
-            "publishedAt": "2026-09-26T19:00:29+00:00",
+            "url": "https://www.youtube.com/shorts/RZvHtAXF-D0",
+            "publishedAt": "2026-09-22T20:00:03+00:00",
             "tier": 2
           }
         ],
@@ -2615,50 +2673,14 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.824,
+        "score": 3.727,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
-          "id": "DBhAROQM51E",
-          "thumbUrl": "https://i1.ytimg.com/vi/DBhAROQM51E/hqdefault.jpg",
+          "id": "RZvHtAXF-D0",
+          "thumbUrl": "https://i3.ytimg.com/vi/RZvHtAXF-D0/hqdefault.jpg",
           "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=DBhAROQM51E",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "79509aed2d58",
-        "category": "growth",
-        "lang": "en",
-        "title": "Being a person is better than being perfect all the time #TEDTalks",
-        "summary": "Why are we so obsessed with productivity? Horticulturist Rebecca McMackin (who wants people to let their lawns grow wild) and author Catherine Price (who wrote a book about the power of fun) come together to discuss the relief of giving up control.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/vLDplW8cw4A",
-        "publishedAt": "2026-09-25T19:00:03+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/vLDplW8cw4A",
-            "publishedAt": "2026-09-25T19:00:03+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.802,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "video",
-        "video": {
-          "id": "vLDplW8cw4A",
-          "thumbUrl": "https://i3.ytimg.com/vi/vLDplW8cw4A/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=vLDplW8cw4A",
+          "watchUrl": "https://www.youtube.com/watch?v=RZvHtAXF-D0",
           "channel": "TED"
         }
       },
@@ -2687,7 +2709,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.79,
+        "score": 3.703,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2695,115 +2717,6 @@
           "thumbUrl": "https://i2.ytimg.com/vi/iGY7httJjQA/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=iGY7httJjQA",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "2bddae4cab3f",
-        "category": "growth",
-        "lang": "en",
-        "title": "Keep showing up not just for the Earth, but for each other #TEDTalks",
-        "summary": "Hope isn’t just a feeling, but a skill you can practice, explains climate activist Xiye Bastida. Taking cues from the resilience of nature, she shows why trusting Indigenous leaders who’ve protected the planet for generations can help turn despair about the…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/RZvHtAXF-D0",
-        "publishedAt": "2026-09-22T20:00:03+00:00",
-        "subtopics": [
-          "Communication",
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/RZvHtAXF-D0",
-            "publishedAt": "2026-09-22T20:00:03+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.739,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "video",
-        "video": {
-          "id": "RZvHtAXF-D0",
-          "thumbUrl": "https://i3.ytimg.com/vi/RZvHtAXF-D0/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=RZvHtAXF-D0",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "e382ef189bfd",
-        "category": "growth",
-        "lang": "en",
-        "title": "How to Escape Your Obsession with Productivity | TED Intersections",
-        "summary": "Why are we so obsessed with productivity? Horticulturist Rebecca McMackin (who wants people to let their lawns grow wild) and author Catherine Price (who wrote a book about the power of fun) come together to discuss the relief of giving up control.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=Zgu97mCGS74",
-        "publishedAt": "2026-09-22T18:00:37+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=Zgu97mCGS74",
-            "publishedAt": "2026-09-22T18:00:37+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.737,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "video",
-        "video": {
-          "id": "Zgu97mCGS74",
-          "thumbUrl": "https://i3.ytimg.com/vi/Zgu97mCGS74/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=Zgu97mCGS74",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "83c6b73bf15c",
-        "category": "growth",
-        "lang": "en",
-        "title": "Drone swarm defense",
-        "summary": "Attack drones are reshaping modern warfare, but many countries still lack an effective way to defend their airspace. Earendil Robotics is building autonomous interceptors, along with the software and training needed to stand up that capability from scratch.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/5_ZkERt5siI",
-        "publishedAt": "2026-09-22T23:17:02+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/5_ZkERt5siI",
-            "publishedAt": "2026-09-22T23:17:02+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.548,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "video",
-        "video": {
-          "id": "5_ZkERt5siI",
-          "thumbUrl": "https://i2.ytimg.com/vi/5_ZkERt5siI/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=5_ZkERt5siI",
           "channel": "Y Combinator"
         }
       },
@@ -2833,7 +2746,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.541,
+        "score": 3.357,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2862,7 +2775,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.414,
+        "score": 3.305,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2892,36 +2805,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.388,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "44842586bfdd",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting John Gruber",
-        "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-        "publishedAt": "2026-09-25T17:22:01+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-            "publishedAt": "2026-09-25T17:22:01+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.163,
+        "score": 3.284,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2950,7 +2834,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.148,
+        "score": 3.141,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2986,8 +2870,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.088,
+        "score": 3.074,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "44842586bfdd",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting John Gruber",
+        "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+        "publishedAt": "2026-09-25T17:22:01+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+            "publishedAt": "2026-09-25T17:22:01+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.046,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
       {
@@ -3016,38 +2929,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.008,
+        "score": 2.919,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "e2b49867bb14",
-        "category": "growth",
-        "lang": "en",
-        "title": "Young organs may not be a fountain of youth for recipients",
-        "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-        "publishedAt": "2026-09-25T09:00:00+00:00",
-        "subtopics": [
-          "Communication",
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-            "publishedAt": "2026-09-25T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.993,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
       {
@@ -3075,7 +2958,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.854,
+        "score": 2.792,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -3105,7 +2988,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.824,
+        "score": 2.767,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3135,69 +3018,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.821,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "50fdf1ad73b0",
-        "category": "growth",
-        "lang": "en",
-        "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-        "summary": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of coding agents. Think…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-        "publishedAt": "2026-09-23T02:53:19+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-            "publishedAt": "2026-09-23T02:53:19+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.762,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4a34b417a079",
-        "category": "growth",
-        "lang": "en",
-        "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-        "summary": "Yesterday was Grok 4.7 ( pelicans ) and MiMo v2.6 Flash/Pro ( more pelicans ). Today Anthropic released Claude Opus 5.5 , and around an hour later OpenAI released GPT-6 Sol and GPT-6 Luna .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-        "publishedAt": "2026-09-22T23:46:41+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-            "publishedAt": "2026-09-22T23:46:41+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.75,
+        "score": 2.764,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3228,8 +3049,68 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.672,
+        "score": 2.66,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "61ec1eae87c6",
+        "category": "growth",
+        "lang": "en",
+        "title": "Is Startup Equity a Bad Deal?",
+        "summary": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+        "publishedAt": "2026-09-22T11:45:57+00:00",
+        "subtopics": [
+          "Presentation & speaking",
+          "Leadership",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+            "publishedAt": "2026-09-22T11:45:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.621,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "ea1e52b671ef",
+        "category": "growth",
+        "lang": "en",
+        "title": "datasette-explain 0.2.2",
+        "summary": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspired me to ship a new version of this explain plugin.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+        "publishedAt": "2026-09-20T00:22:04+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+            "publishedAt": "2026-09-20T00:22:04+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.573,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
     ]
@@ -3310,13 +3191,13 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 34,
+      "items": 27,
       "error": null
     },
     {
       "id": "bbc-middleeast",
       "ok": true,
-      "items": 28,
+      "items": 29,
       "error": null
     },
     {
@@ -3334,7 +3215,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 10,
+      "items": 9,
       "error": null
     },
     {
@@ -3435,9 +3316,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "onefutureuseful",
@@ -3477,9 +3358,9 @@
     }
   ],
   "filteredOut": {
-    "football": 80,
-    "news": 118,
-    "medical": 23,
-    "growth": 44
+    "football": 85,
+    "news": 124,
+    "medical": 24,
+    "growth": 45
   }
 }
