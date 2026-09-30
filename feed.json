@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T11:51:30.624629+00:00",
+  "generatedAt": "2026-09-30T13:14:49.366626+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,8 +33,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.958,
+        "isNew": false,
+        "score": 11.842,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -62,8 +62,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.498,
+        "score": 10.451,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
+      },
+      {
+        "id": "ce8d435f0831",
+        "category": "football",
+        "lang": "en",
+        "title": "How Man City's 'disguised funding scheme' changed the football landscape",
+        "summary": "When Sheikh Mansour completed his takeover in September 2008, marking the start of his ownership with the sensational and then-record signing of Robinho from Real Madrid, Manchester City were a club with two top-flight titles in their 114-year history.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/12040/13593612/man-city-premier-league-charges-how-disguised-funding-scheme-changed-the-football-landscape-between-the-lines",
+        "publishedAt": "2026-09-30T12:00:00+00:00",
+        "subtopics": [
+          "La Liga",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/12040/13593612/man-city-premier-league-charges-how-disguised-funding-scheme-changed-the-football-landscape-between-the-lines",
+            "publishedAt": "2026-09-30T12:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.873,
+        "firstSeen": "2026-09-30T13:14:49.366626+00:00",
+        "transfer": "OFFICIAL"
       },
       {
         "id": "50e1981901a3",
@@ -91,7 +121,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.338,
+        "score": 4.252,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -120,7 +150,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.327,
+        "score": 4.241,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -149,7 +179,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.284,
+        "score": 4.2,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -178,7 +208,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.27,
+        "score": 4.187,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -207,11 +237,140 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.809,
+        "score": 2.794,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00"
       }
     ],
     "news": [
+      {
+        "id": "198b9177b66b",
+        "category": "news",
+        "lang": "de",
+        "title": "Inflationsrate steigt im September auf 3,3 Prozent",
+        "summary": "Die Inflation in Deutschland ist im September erstmals seit fast drei Jahren auf über drei Prozent angestiegen. Schuld daran sind vor allem massiv gestiegene Energiepreise.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
+        "publishedAt": "2026-09-30T12:52:15+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/inflation-september-energiepreise-100.html",
+            "publishedAt": "2026-09-30T12:52:15+00:00",
+            "tier": 2
+          },
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/inflation-steigt-erstmals-seit-2023-ueber-drei-prozent-100.html",
+            "publishedAt": "2026-09-30T12:05:16+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.783,
+        "firstSeen": "2026-09-30T13:14:49.366626+00:00"
+      },
+      {
+        "id": "dc2d8721232b",
+        "category": "news",
+        "lang": "de",
+        "title": "Linken-Spitzenkandidatin Eralp war Mitglied der Roten Hilfe",
+        "summary": "Die \"Rote Hilfe\" leistet juristischen Beistand für linke Aktivisten - und wird vom Verfassungsschutz als linksextremistisch eingestuft. Die Fraktionschefin der Berliner Linken, Eralp, war mehrere Jahre passives Mitglied in dem Verein.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/elif-eralp-rote-hilfe-linke-berlin-100.html",
+        "publishedAt": "2026-09-29T23:24:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/elif-eralp-rote-hilfe-linke-berlin-100.html",
+            "publishedAt": "2026-09-29T23:24:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/berlin/linke-eralp-rote-hilfe-100.html",
+            "publishedAt": "2026-09-29T16:17:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 8.241,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+      },
+      {
+        "id": "ec4dbfaa1a33",
+        "category": "news",
+        "lang": "en",
+        "title": "BMW axing more than 100 managers as it speeds up cost-cutting",
+        "summary": "German carmaker braces for subdued profits for years as it grapples with plunging sales in China and US tariffs",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ft.com/content/6f0bb81a-985a-4b65-a419-d95ac3687b23?syn-25a6b1a6=1",
+        "publishedAt": "2026-09-30T13:00:05+00:00",
+        "subtopics": [
+          "Germany",
+          "US",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/6f0bb81a-985a-4b65-a419-d95ac3687b23?syn-25a6b1a6=1",
+            "publishedAt": "2026-09-30T13:00:05+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.989,
+        "firstSeen": "2026-09-30T13:14:49.366626+00:00"
+      },
+      {
+        "id": "78e1b0e06551",
+        "category": "news",
+        "lang": "de",
+        "title": "ZDFheute live: Weg frei für Pflegereform",
+        "summary": "Einigung zwischen Union und SPD: Nach wochenlangen Verhandlungen beschließt das Kabinett die Pflegereform. Was die Reform konkret vorsieht, analysiert ZDFheute live.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/video/zdfheute-live/pflegereform-koalition-kabinett-video-100.html",
+        "publishedAt": "2026-09-30T12:00:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/video/zdfheute-live/pflegereform-koalition-kabinett-video-100.html",
+            "publishedAt": "2026-09-30T12:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.945,
+        "firstSeen": "2026-09-30T13:14:49.366626+00:00"
+      },
       {
         "id": "e613a763549d",
         "category": "news",
@@ -238,8 +397,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.969,
+        "isNew": false,
+        "score": 7.909,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -268,19 +427,19 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.948,
+        "isNew": false,
+        "score": 7.888,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
-        "id": "5ac9b311f6ad",
+        "id": "3212f6c16b9c",
         "category": "news",
         "lang": "de",
         "title": "Bundesregierung bringt Pflegereform auf den Weg",
         "summary": "Die schwarz-rote Koalition hat sich nun doch auf einen Gesetzentwurf zur Pflege verständigt, der sich vorerst auf Einsparungen konzentriert. Es gibt aber mehr Tempo beim Bemühen um eine Strukturreform.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/eilmeldung/pflegereform-kabinett-100.html",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-100.html",
         "publishedAt": "2026-09-30T10:39:33+00:00",
         "subtopics": [
           "Germany",
@@ -289,7 +448,7 @@
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/eilmeldung/pflegereform-kabinett-100.html",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/pflegereform-kabinett-100.html",
             "publishedAt": "2026-09-30T10:39:33+00:00",
             "tier": 2
           }
@@ -298,8 +457,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.947,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+        "score": 7.887,
+        "firstSeen": "2026-09-30T13:14:49.366626+00:00"
       },
       {
         "id": "5437f075ae15",
@@ -326,8 +485,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.947,
+        "isNew": false,
+        "score": 7.886,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -355,8 +514,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.938,
+        "isNew": false,
+        "score": 7.878,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -384,8 +543,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.937,
+        "isNew": false,
+        "score": 7.877,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -413,8 +572,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.93,
+        "isNew": false,
+        "score": 7.871,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -442,8 +601,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.915,
+        "isNew": false,
+        "score": 7.855,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -472,7 +631,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.865,
+        "score": 7.806,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -500,8 +659,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.862,
+        "isNew": false,
+        "score": 7.804,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -529,8 +688,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.849,
+        "isNew": false,
+        "score": 7.791,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -558,8 +717,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.84,
+        "isNew": false,
+        "score": 7.782,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -588,8 +747,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.833,
+        "isNew": false,
+        "score": 7.775,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -617,8 +776,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.759,
+        "isNew": false,
+        "score": 7.702,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -646,58 +805,29 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.669,
+        "isNew": false,
+        "score": 7.615,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
-        "id": "7c4848f4f146",
+        "id": "027e065f01f6",
         "category": "news",
         "lang": "de",
-        "title": "Ukrainische Wirtschaft durch Krieg unter Druck",
-        "summary": "Russland hat seine Angriffe auf die Ukraine seit Wochen verstärkt. Eine große Belastung ist das auch für die Wirtschaft: Brennende Einkaufszentren und Lagerhallen, unterbrochene Logistikketten fordern Unternehmen heraus.",
+        "title": "Razzia wegen Menschenhandels: Kopf der Bande in Hamburg festgenommen",
+        "summary": "Der bundesweite Einsatz von Bundespolizei und Zoll richtet sich gegen eine Menschenhändler-Bande. Der Hauptbeschuldigte wurde in Bergedorf verhaftet.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html",
-        "publishedAt": "2026-09-30T02:06:47+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/ukraine-unternehmen-trotz-krieg-100.html",
-            "publishedAt": "2026-09-30T02:06:47+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.595,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
-      },
-      {
-        "id": "aeac692df403",
-        "category": "news",
-        "lang": "de",
-        "title": "Helen Mirren: \"Ein Preis für das Lebenswerk ist wunderbar\"",
-        "summary": "Die 81-Jährige war beim Filmfest Hamburg ganz begeistert vom Douglas Sirk Preis: \"Der bekommt einen Ehrenplatz auf meinem Kaminsims.\"",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/kultur/film/festivals/helen-mirren-ein-preis-fuer-das-lebenswerk-ist-wunderbar,helenmirren-100.html",
-        "publishedAt": "2026-09-30T10:08:06+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/razzia-wegen-menschenhandels-kopf-der-bande-in-hamburg-festgenommen,razzia-492.html",
+        "publishedAt": "2026-09-30T12:58:37+00:00",
         "subtopics": [
           "Hamburg",
-          "Conflict"
+          "Economy"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/kultur/film/festivals/helen-mirren-ein-preis-fuer-das-lebenswerk-ist-wunderbar,helenmirren-100.html",
-            "publishedAt": "2026-09-30T10:08:06+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/razzia-wegen-menschenhandels-kopf-der-bande-in-hamburg-festgenommen,razzia-492.html",
+            "publishedAt": "2026-09-30T12:58:37+00:00",
             "tier": 2
           }
         ],
@@ -705,8 +835,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.524,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+        "score": 7.588,
+        "firstSeen": "2026-09-30T13:14:49.366626+00:00"
       },
       {
         "id": "850d433ee382",
@@ -733,37 +863,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.514,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
-      },
-      {
-        "id": "dc2d8721232b",
-        "category": "news",
-        "lang": "de",
-        "title": "Linken-Spitzenkandidatin Eralp war Mitglied der Roten Hilfe",
-        "summary": "Die Berliner Linken-Politikerin Elif Eralp war jahrelang Mitglied bei der Roten Hilfe. Der Verein gilt als linksextremistisch und wird seit 2012 vom Verfassungsschutz beobachtet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/elif-eralp-rote-hilfe-linke-berlin-100.html",
-        "publishedAt": "2026-09-29T23:24:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/elif-eralp-rote-hilfe-linke-berlin-100.html",
-            "publishedAt": "2026-09-29T23:24:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.492,
+        "isNew": false,
+        "score": 7.454,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -792,7 +893,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.441,
+        "score": 7.391,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00"
       },
       {
@@ -821,7 +922,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.388,
+        "score": 7.339,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -850,7 +951,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.379,
+        "score": 7.331,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -879,7 +980,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.36,
+        "score": 7.312,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -907,8 +1008,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.309,
+        "isNew": false,
+        "score": 7.254,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -937,7 +1038,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.282,
+        "score": 7.235,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -965,8 +1066,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.275,
+        "isNew": false,
+        "score": 7.221,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -995,7 +1096,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.217,
+        "score": 7.172,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -1024,8 +1125,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.965,
+        "isNew": false,
+        "score": 6.908,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -1054,7 +1155,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.911,
+        "score": 6.864,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -1083,7 +1184,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.91,
+        "score": 6.863,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       },
       {
@@ -1112,8 +1213,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.91,
+        "score": 6.862,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
+      },
+      {
+        "id": "c4dacedac6af",
+        "category": "news",
+        "lang": "en",
+        "title": "President von der Leyen attends UN General Assembly underscoring the EU's commitment to multilateralism",
+        "summary": "European Commission News Brussels, 30 Sep 2026 President Ursula von der Leyen was in New York last week to participate in the 81st UN General Assembly. Throughout the week, the President engaged with world ...",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2026",
+        "publishedAt": "2026-09-30T12:50:13+00:00",
+        "subtopics": [
+          "EU",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2026",
+            "publishedAt": "2026-09-30T12:50:13+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.782,
+        "firstSeen": "2026-09-30T13:14:49.366626+00:00"
       },
       {
         "id": "616c2dbc461e",
@@ -1140,130 +1270,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.791,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
-      },
-      {
-        "id": "cb8e64fdf43c",
-        "category": "news",
-        "lang": "de",
-        "title": "Sternbrücke: Hamburg zahlt 13 Millionen Euro mehr für Neubau",
-        "summary": "Seit einem Monat ist die neue Brücke in Hamburg-Altona in Betrieb. Jetzt wird bekannt: Die Rechnung für die Stadt ist höher als gedacht.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/sternbruecke-hamburg-zahlt-13-millioneneuro-mehr-fuer-neubau,sternbruecke-272.html",
-        "publishedAt": "2026-09-29T13:47:27+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/sternbruecke-hamburg-zahlt-13-millioneneuro-mehr-fuer-neubau,sternbruecke-272.html",
-            "publishedAt": "2026-09-29T13:47:27+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.76,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
-      },
-      {
-        "id": "c210db8c1794",
-        "category": "news",
-        "lang": "en",
-        "title": "Remarks by Commissioner Brunner at the press conference on the European Union Critical Communication System",
-        "summary": "European Commission Questions and answers Brussels, 30 Sep 2026 What is the European Union Critical Communication System? The European Union Critical Communication System (EUCCS) connects national critical communication syst...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2025",
-        "publishedAt": "2026-09-30T09:51:23+00:00",
-        "subtopics": [
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2025",
-            "publishedAt": "2026-09-30T09:51:23+00:00",
-            "tier": 1
-          },
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2024",
-            "publishedAt": "2026-09-30T09:44:04+00:00",
-            "tier": 1
-          },
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2011",
-            "publishedAt": "2026-09-29T22:00:00+00:00",
-            "tier": 1
-          },
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2009",
-            "publishedAt": "2026-09-29T22:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "Remarks by Commissioner Brunner at the press conference on the European Union Critical Communication System",
-        "earlier": [
-          {
-            "title": "Remarks by Executive Vice-President Virkkunen and Commissioner Brunner on the EU Critical Communication System",
-            "source": "European Commission",
-            "publishedAt": "2026-09-30T09:44:04+00:00"
-          },
-          {
-            "title": "Factsheet: EU Critical Communication System",
-            "source": "European Commission",
-            "publishedAt": "2026-09-29T22:00:00+00:00"
-          },
-          {
-            "title": "Questions and answers on the European Union Critical Communication System",
-            "source": "European Commission",
-            "publishedAt": "2026-09-29T22:00:00+00:00"
-          }
-        ],
-        "isNew": true,
-        "score": 6.712,
+        "score": 6.734,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
-      },
-      {
-        "id": "8b3dcd187e19",
-        "category": "news",
-        "lang": "de",
-        "title": "Bund will offenbar Zippel-Übernahme durch Cosco verhindern",
-        "summary": "Die chinesische Staatsreederei plant die Übernahme des Hamburger Logistikunternehmens Zippel. Mehrere Ministerien haben jedoch \"erhebliche Sicherheitsbedenken\".",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/bund-will-offenbar-zippel-uebernahme-durch-cosco-verhindern,cosco-114.html",
-        "publishedAt": "2026-09-29T10:03:57+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/bund-will-offenbar-zippel-uebernahme-durch-cosco-verhindern,cosco-114.html",
-            "publishedAt": "2026-09-29T10:03:57+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.644,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       }
     ],
     "medical": [
@@ -1294,7 +1303,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.26,
+        "score": 10.249,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1327,7 +1336,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.169,
+        "score": 10.162,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": true
+      },
+      {
+        "id": "474f9f7fe5b6",
+        "category": "medical",
+        "lang": "en",
+        "title": "HPTC Versus AFSM in Diabetic Foot Ulcers",
+        "summary": "This is a randomized controlled clinical investigation in patients suffering from diabetic foot ulcers at multiple centres in India and Bangladesh. The study compares patient outcomes using standard wound care with a High Purity Type-I Collagen-Based Skin…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07781917",
+        "publishedAt": "2026-09-10T00:00:00+00:00",
+        "subtopics": [
+          "Wound care",
+          "Dermal matrices",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07781917",
+            "publishedAt": "2026-09-10T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 8.96,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1365,7 +1406,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.929,
+        "score": 7.914,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1397,7 +1438,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.929,
+        "score": 6.921,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1434,7 +1475,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.929,
+        "score": 6.921,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1466,7 +1507,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.669,
+        "score": 6.662,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1497,7 +1538,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.302,
+        "score": 6.298,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1529,39 +1570,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.174,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "c92d814d4c5a",
-        "category": "medical",
-        "lang": "en",
-        "title": "Decellularized Human Placental Extracellular Matrix Tissue for Rotator Cuff Repair Augmentation",
-        "summary": "The rotator cuff is a set of muscles and tendons that help move the shoulder. Tears in the rotator cuff are common, particularly as people age.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07027735",
-        "publishedAt": "2026-09-10T00:00:00+00:00",
-        "subtopics": [
-          "Biomaterials",
-          "Diagnostics & imaging",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07027735",
-            "publishedAt": "2026-09-10T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.962,
+        "score": 6.171,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1593,7 +1602,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.908,
+        "score": 5.892,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1625,7 +1634,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.21,
+        "score": 5.199,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1656,7 +1665,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.014,
+        "score": 4.996,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1686,7 +1695,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.962,
+        "score": 4.96,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1717,7 +1726,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.881,
+        "score": 4.87,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1748,7 +1757,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.491,
+        "score": 4.48,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1779,7 +1788,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.06,
+        "score": 4.049,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1810,7 +1819,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.974,
+        "score": 3.971,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1840,7 +1849,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.885,
+        "score": 3.875,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1871,7 +1880,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.856,
+        "score": 3.847,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1902,7 +1911,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.531,
+        "score": 3.515,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1933,7 +1942,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.084,
+        "score": 2.08,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1970,7 +1979,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.688,
+        "score": 1.681,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2001,13 +2010,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 0.967,
+        "score": 0.965,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "e0f6262c25e2",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+        "publishedAt": "2026-09-30T12:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+            "publishedAt": "2026-09-30T12:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.752,
+        "firstSeen": "2026-09-30T13:14:49.366626+00:00",
+        "kind": "article"
+      },
       {
         "id": "9e7b8b5e56b7",
         "category": "growth",
@@ -2032,8 +2071,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.748,
+        "isNew": false,
+        "score": 5.687,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2062,7 +2101,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.139,
+        "score": 5.107,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "video",
         "video": {
@@ -2098,7 +2137,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.953,
+        "score": 4.903,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00",
         "kind": "article"
       },
@@ -2127,7 +2166,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.909,
+        "score": 4.866,
         "firstSeen": "2026-09-29T13:40:37.677670+00:00",
         "kind": "article"
       },
@@ -2157,7 +2196,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.864,
+        "score": 4.822,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00",
         "kind": "article"
       },
@@ -2186,8 +2225,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.816,
+        "isNew": false,
+        "score": 4.768,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2217,7 +2256,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.73,
+        "score": 4.684,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
         "kind": "article"
       },
@@ -2246,7 +2285,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.387,
+        "score": 4.354,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2275,7 +2314,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.275,
+        "score": 4.245,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2304,7 +2343,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.211,
+        "score": 4.176,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2334,7 +2373,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.189,
+        "score": 4.16,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2363,7 +2402,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.138,
+        "score": 4.105,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2393,7 +2432,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.042,
+        "score": 4.027,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2431,7 +2470,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.991,
+        "score": 3.983,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2468,7 +2507,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.969,
+        "score": 3.961,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2503,8 +2542,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.887,
+        "isNew": false,
+        "score": 3.885,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "video",
         "video": {
@@ -2540,7 +2579,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.812,
+        "score": 3.811,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2548,6 +2587,42 @@
           "thumbUrl": "https://i1.ytimg.com/vi/DBhAROQM51E/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=DBhAROQM51E",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "79509aed2d58",
+        "category": "growth",
+        "lang": "en",
+        "title": "Being a person is better than being perfect all the time #TEDTalks",
+        "summary": "Why are we so obsessed with productivity? Horticulturist Rebecca McMackin (who wants people to let their lawns grow wild) and author Catherine Price (who wrote a book about the power of fun) come together to discuss the relief of giving up control.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/vLDplW8cw4A",
+        "publishedAt": "2026-09-25T19:00:03+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/vLDplW8cw4A",
+            "publishedAt": "2026-09-25T19:00:03+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.789,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "video",
+        "video": {
+          "id": "vLDplW8cw4A",
+          "thumbUrl": "https://i3.ytimg.com/vi/vLDplW8cw4A/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=vLDplW8cw4A",
           "channel": "TED"
         }
       },
@@ -2576,28 +2651,29 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.807,
+        "score": 3.78,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
       {
-        "id": "79509aed2d58",
+        "id": "2bddae4cab3f",
         "category": "growth",
         "lang": "en",
-        "title": "Being a person is better than being perfect all the time #TEDTalks",
-        "summary": "Why are we so obsessed with productivity? Horticulturist Rebecca McMackin (who wants people to let their lawns grow wild) and author Catherine Price (who wrote a book about the power of fun) come together to discuss the relief of giving up control.",
+        "title": "Keep showing up not just for the Earth, but for each other #TEDTalks",
+        "summary": "Hope isn’t just a feeling, but a skill you can practice, explains climate activist Xiye Bastida. Taking cues from the resilience of nature, she shows why trusting Indigenous leaders who’ve protected the planet for generations can help turn despair about the…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.youtube.com/shorts/vLDplW8cw4A",
-        "publishedAt": "2026-09-25T19:00:03+00:00",
+        "url": "https://www.youtube.com/shorts/RZvHtAXF-D0",
+        "publishedAt": "2026-09-22T20:00:03+00:00",
         "subtopics": [
-          "Communication"
+          "Communication",
+          "Leadership"
         ],
         "sources": [
           {
             "name": "TED",
-            "url": "https://www.youtube.com/shorts/vLDplW8cw4A",
-            "publishedAt": "2026-09-25T19:00:03+00:00",
+            "url": "https://www.youtube.com/shorts/RZvHtAXF-D0",
+            "publishedAt": "2026-09-22T20:00:03+00:00",
             "tier": 2
           }
         ],
@@ -2605,14 +2681,14 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.79,
+        "score": 3.726,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
-          "id": "vLDplW8cw4A",
-          "thumbUrl": "https://i3.ytimg.com/vi/vLDplW8cw4A/hqdefault.jpg",
+          "id": "RZvHtAXF-D0",
+          "thumbUrl": "https://i3.ytimg.com/vi/RZvHtAXF-D0/hqdefault.jpg",
           "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=vLDplW8cw4A",
+          "watchUrl": "https://www.youtube.com/watch?v=RZvHtAXF-D0",
           "channel": "TED"
         }
       },
@@ -2643,46 +2719,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.729,
+        "score": 3.704,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
-      },
-      {
-        "id": "2bddae4cab3f",
-        "category": "growth",
-        "lang": "en",
-        "title": "Keep showing up not just for the Earth, but for each other #TEDTalks",
-        "summary": "Hope isn’t just a feeling, but a skill you can practice, explains climate activist Xiye Bastida. Taking cues from the resilience of nature, she shows why trusting Indigenous leaders who’ve protected the planet for generations can help turn despair about the…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/RZvHtAXF-D0",
-        "publishedAt": "2026-09-22T20:00:03+00:00",
-        "subtopics": [
-          "Communication",
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/RZvHtAXF-D0",
-            "publishedAt": "2026-09-22T20:00:03+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.727,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "video",
-        "video": {
-          "id": "RZvHtAXF-D0",
-          "thumbUrl": "https://i3.ytimg.com/vi/RZvHtAXF-D0/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=RZvHtAXF-D0",
-          "channel": "TED"
-        }
       },
       {
         "id": "e4b568cae7cc",
@@ -2709,7 +2748,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.703,
+        "score": 3.695,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2746,7 +2785,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.357,
+        "score": 3.339,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2775,37 +2814,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.305,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "e2e7253c4cd8",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-        "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-        "publishedAt": "2026-09-25T09:16:25+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-            "publishedAt": "2026-09-25T09:16:25+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.284,
+        "score": 3.295,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2834,7 +2843,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.141,
+        "score": 3.14,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2870,7 +2879,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.074,
+        "score": 3.073,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00",
         "kind": "article"
       },
@@ -2899,7 +2908,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.046,
+        "score": 3.035,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2929,7 +2938,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.919,
+        "score": 2.91,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2958,7 +2967,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.792,
+        "score": 2.786,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2988,7 +2997,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.767,
+        "score": 2.761,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3018,7 +3027,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.764,
+        "score": 2.759,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3027,7 +3036,7 @@
         "category": "growth",
         "lang": "en",
         "title": "Bill Ackman: The Biggest Fight of His Life",
-        "summary": "Bill Ackman is the founder and CEO of Pershing Square Capital Management, one of the most closely watched investment firms in the world. In this conversation, he breaks down how he tells the difference between real innovation from hype, what he looks for…",
+        "summary": "Bill Ackman is the founder and CEO of Pershing Square Capital Management, one of the most closely watched investment firms in the world. In this conversation, he breaks down the difference between real innovation and hype, how he invests, and his plan to…",
         "needsSummary": true,
         "readMore": null,
         "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
@@ -3049,7 +3058,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.66,
+        "score": 2.659,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3080,7 +3089,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.621,
+        "score": 2.619,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3109,7 +3118,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.573,
+        "score": 2.572,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3191,7 +3200,7 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 27,
+      "items": 28,
       "error": null
     },
     {
@@ -3316,9 +3325,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3359,8 +3368,8 @@
   ],
   "filteredOut": {
     "football": 85,
-    "news": 124,
+    "news": 120,
     "medical": 24,
-    "growth": 45
+    "growth": 46
   }
 }
