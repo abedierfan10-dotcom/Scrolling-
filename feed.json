@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:21:15.425672+00:00",
+  "generatedAt": "2026-10-01T14:06:18.897791+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,7 +33,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.868,
+        "score": 10.787,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
       },
       {
@@ -62,7 +62,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.55,
+        "score": 10.488,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -90,7 +90,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.926,
+        "score": 9.901,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00"
       },
       {
@@ -118,8 +118,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.912,
+        "isNew": false,
+        "score": 7.74,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -148,7 +148,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.778,
+        "score": 6.673,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
       },
       {
@@ -176,8 +176,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.638,
+        "isNew": false,
+        "score": 6.541,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -206,11 +206,41 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.256,
+        "score": 3.212,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
       }
     ],
     "news": [
+      {
+        "id": "c4ff07bfa720",
+        "category": "news",
+        "lang": "de",
+        "title": "EU schafft rechtliche Basis für Abschiebezentren in Drittstaaten",
+        "summary": "Zwei Monate nach der Krise in Ceuta verschärfen die EU-Länder ihre Asylregeln weiter. Künftig dürfen sie umstrittene Abschiebezentren in Drittstaaten betreiben.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-drittstaaten-100.html",
+        "publishedAt": "2026-10-01T13:48:13+00:00",
+        "subtopics": [
+          "EU",
+          "Germany",
+          "Immigration"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/eu-abschiebezentren-drittstaaten-100.html",
+            "publishedAt": "2026-10-01T13:48:13+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.987,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00"
+      },
       {
         "id": "4efa9cb987b2",
         "category": "news",
@@ -236,8 +266,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.984,
+        "isNew": false,
+        "score": 7.907,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -265,8 +295,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.969,
+        "isNew": false,
+        "score": 7.892,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -294,8 +324,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.949,
+        "isNew": false,
+        "score": 7.873,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -303,7 +333,7 @@
         "category": "news",
         "lang": "de",
         "title": "Regierung ringt weiter um die Details der Zuckersteuer",
-        "summary": "Aufregung um die Zuckersteuer: Das Kanzleramt soll die Pläne von Minister Klingbeil gestoppt haben. Richtig ist: Es geht um die Details, die Steuer in Gänze soll schon kommen.",
+        "summary": "Aufregung um die Zuckersteuer: Das Kanzleramt soll die Pläne von Minister Klingbeil gestoppt haben. Richtig ist: Es geht um die Details, die Steuer an sich soll aber schon kommen.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.zdfheute.de/politik/deutschland/zuckersteuer-klingbeil-ausgesetzt-getraenke-details-100.html",
@@ -323,8 +353,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.944,
+        "isNew": false,
+        "score": 7.868,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -352,8 +382,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.941,
+        "isNew": false,
+        "score": 7.866,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -381,8 +411,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.899,
+        "isNew": false,
+        "score": 7.824,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -410,16 +440,16 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.88,
+        "isNew": false,
+        "score": 7.806,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
         "id": "f1a68178f2ce",
         "category": "news",
         "lang": "de",
-        "title": "Wie sich der Krieg gegen die Ukraine verändert – ARD-Korrespondentin berichtet",
-        "summary": "Wie sich der Krieg gegen die Ukraine verändert – ARD-Korrespondentin berichtet",
+        "title": "Wie sich der Krieg gegen die Ukraine verändert - ARD-Korrespondentin berichtet",
+        "summary": "Wie sich der Krieg gegen die Ukraine verändert - ARD-Korrespondentin berichtet",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/video/video-1658648.html",
@@ -439,8 +469,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.871,
+        "isNew": false,
+        "score": 7.797,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -468,8 +498,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.865,
+        "isNew": false,
+        "score": 7.791,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -497,30 +527,29 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.801,
+        "isNew": false,
+        "score": 7.729,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
-        "id": "98f4c3633184",
+        "id": "01457d1cb445",
         "category": "news",
         "lang": "de",
-        "title": "EU-Innenminister in Luxemburg: \"Müssen jetzt über Ceuta sprechen\"",
-        "summary": "Die EU-Innenminister beraten heute in Luxemburg über Abschiebungen. Dabei wird es zudem um die Lage in Ceuta gehen.",
+        "title": "Schwarzbuch: Drei Millionen Euro Steuern in Toilette versenkt",
+        "summary": "Der Bund der Steuerzahler kritisiert: Städte wie Hamburg müssten sich grundsätzlich fragen, welche Maßnahmen nötig seien.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/treffen-eu-innenminister-ceuta-100.html",
-        "publishedAt": "2026-10-01T03:26:32+00:00",
+        "url": "https://www.ndr.de/nachrichten/info/schwarzbuch-drei-millionen-euro-steuern-in-toilette-versenkt,ndrinfo-17886.html",
+        "publishedAt": "2026-10-01T13:21:03+00:00",
         "subtopics": [
-          "EU",
-          "Germany",
-          "Immigration"
+          "Hamburg",
+          "Markets"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/treffen-eu-innenminister-ceuta-100.html",
-            "publishedAt": "2026-10-01T03:26:32+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/info/schwarzbuch-drei-millionen-euro-steuern-in-toilette-versenkt,ndrinfo-17886.html",
+            "publishedAt": "2026-10-01T13:21:03+00:00",
             "tier": 2
           }
         ],
@@ -528,8 +557,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.627,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00"
+        "score": 7.567,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00"
+      },
+      {
+        "id": "027e065f01f6",
+        "category": "news",
+        "lang": "de",
+        "title": "Razzia wegen Menschenhandels: Kopf der Bande in Hamburg festgenommen",
+        "summary": "Der bundesweite Einsatz von Bundespolizei und Zoll richtete sich gegen eine Schleuserbande. Der Hauptbeschuldigte wurde in Bergedorf verhaftet.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/razzia-wegen-menschenhandels-kopf-der-bande-in-hamburg-festgenommen,razzia-492.html",
+        "publishedAt": "2026-10-01T13:03:58+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/razzia-wegen-menschenhandels-kopf-der-bande-in-hamburg-festgenommen,razzia-492.html",
+            "publishedAt": "2026-10-01T13:03:58+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.554,
+        "firstSeen": "2026-09-30T13:14:49.366626+00:00"
       },
       {
         "id": "351548cd385f",
@@ -556,8 +614,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.559,
+        "isNew": false,
+        "score": 7.483,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -585,96 +643,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.534,
+        "isNew": false,
+        "score": 7.468,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
-      },
-      {
-        "id": "027e065f01f6",
-        "category": "news",
-        "lang": "de",
-        "title": "Razzia wegen Menschenhandels: Kopf der Bande in Hamburg festgenommen",
-        "summary": "Der bundesweite Einsatz von Bundespolizei und Zoll richtete sich gegen eine Schleuserbande. Der Hauptbeschuldigte wurde in Bergedorf verhaftet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/razzia-wegen-menschenhandels-kopf-der-bande-in-hamburg-festgenommen,razzia-492.html",
-        "publishedAt": "2026-10-01T09:01:09+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/razzia-wegen-menschenhandels-kopf-der-bande-in-hamburg-festgenommen,razzia-492.html",
-            "publishedAt": "2026-10-01T09:01:09+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.455,
-        "firstSeen": "2026-09-30T13:14:49.366626+00:00"
-      },
-      {
-        "id": "7bf8f57df1b0",
-        "category": "news",
-        "lang": "de",
-        "title": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
-        "summary": "Nach dem gewaltsamen Vorfall im Cockpit eines Flydubai-Flugzeugs auf dem Weg nach Tel Aviv geht die israelische Regierung von einem versuchten Terroranschlag aus. Was über den Zwischenfall bekannt ist - und was nicht.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
-        "publishedAt": "2026-09-30T20:31:18+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
-            "publishedAt": "2026-09-30T20:31:18+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.37,
-        "firstSeen": "2026-09-30T21:49:34.126591+00:00"
-      },
-      {
-        "id": "47ff752cbd78",
-        "category": "news",
-        "lang": "de",
-        "title": "Ronaldo-Hammer: Superstar verlässt Nationalmannschaft",
-        "summary": "Nachdem Cristiano Ronaldo zwei Mal nicht für die Startelf der portugiesischen Nationalmannschaft vorgesehen war, zieht der 41-Jährige Konsequenzen: Er reist von der Selecao ab.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/sport/fussball-cristiano-ronaldo-verlaesst-nationalmannschaft-portugal-100.html",
-        "publishedAt": "2026-09-30T19:46:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/sport/fussball-cristiano-ronaldo-verlaesst-nationalmannschaft-portugal-100.html",
-            "publishedAt": "2026-09-30T19:46:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.344,
-        "firstSeen": "2026-09-30T21:49:34.126591+00:00"
       },
       {
         "id": "a04b1502aa19",
@@ -703,7 +674,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.326,
+        "score": 7.267,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
       },
       {
@@ -731,8 +702,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.292,
+        "isNew": false,
+        "score": 7.223,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -766,8 +737,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.16,
+        "isNew": false,
+        "score": 7.084,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -802,7 +773,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.954,
+        "score": 6.893,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
       },
       {
@@ -830,8 +801,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.937,
+        "isNew": false,
+        "score": 6.867,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -860,7 +831,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.853,
+        "score": 6.795,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00"
       },
       {
@@ -889,8 +860,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.828,
+        "isNew": false,
+        "score": 6.755,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -918,8 +889,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.781,
+        "isNew": false,
+        "score": 6.705,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -947,9 +918,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.711,
+        "isNew": false,
+        "score": 6.636,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
+      },
+      {
+        "id": "7c0e05b68eb4",
+        "category": "news",
+        "lang": "en",
+        "title": "Statement by President von der Leyen at the joint press conference with the Prime Minister of Kosovo, Albin Kurti",
+        "summary": "European Commission Statement Pristina, 01 Oct 2026 Prime Minister Kurti, Dear Albin. Thank you for welcoming me back to Pristina, for the sixth time.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2042",
+        "publishedAt": "2026-10-01T10:13:21+00:00",
+        "subtopics": [
+          "EU",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2042",
+            "publishedAt": "2026-10-01T10:13:21+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.632,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00"
       },
       {
         "id": "f1970f8e5f5a",
@@ -977,8 +977,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.653,
+        "score": 6.61,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00"
+      },
+      {
+        "id": "377d9b5d4067",
+        "category": "news",
+        "lang": "de",
+        "title": "Verkehrschaos im Hamburger Süden: Wichtige Straßen bleiben gesperrt",
+        "summary": "Die Reparatur der Wasserleitung in der Amsinckstaße wird voraussichtlich mehrere Wochen dauern. Das hat die Verkehrsbehörde NDR Hamburg am Donnerstagvormittag mitgeteilt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/verkehrsbehoerde-reparatur-an-der-amsinckstrasse-dauert-mehrere-wochen,verkehrschaos-100.html",
+        "publishedAt": "2026-10-01T14:03:08+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/verkehrsbehoerde-reparatur-an-der-amsinckstrasse-dauert-mehrere-wochen,verkehrschaos-100.html",
+            "publishedAt": "2026-10-01T14:03:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.598,
+        "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
         "id": "75fe3aba95a5",
@@ -1005,8 +1033,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.64,
+        "isNew": false,
+        "score": 6.567,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -1034,65 +1062,72 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.602,
+        "isNew": false,
+        "score": 6.53,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
-        "id": "377d9b5d4067",
+        "id": "4fddea8faad0",
         "category": "news",
-        "lang": "de",
-        "title": "Verkehrschaos im Hamburger Süden: Wichtige Straßen bleiben gesperrt",
-        "summary": "Die Reparatur der Wasserleitung in der Amsinckstaße wird voraussichtlich mehrere Wochen dauern. Das hat die Verkehrsbehörde NDR Hamburg am Donnerstagvormittag mitgeteilt.",
+        "lang": "en",
+        "title": "Zimbabwe tycoon Wicknell Chivayo dies in helicopter crash",
+        "summary": "Zimbabwe's President Emmerson Mnangagwa has confirmed the death of businessman Wicknell Chivayo and his wife in a helicopter crash, calling the high-rollers with a lavish lifestyle \"consummately philanthropic.\"",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/verkehrsbehoerde-reparatur-an-der-amsinckstrasse-dauert-mehrere-wochen,verkehrschaos-100.html",
-        "publishedAt": "2026-10-01T12:01:31+00:00",
+        "url": "https://www.dw.com/en/zimbabwe-tycoon-wicknell-chivayo-dies-in-helicopter-crash/a-79501691?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-01T13:35:00+00:00",
         "subtopics": [
-          "Hamburg"
+          "World",
+          "Government"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/verkehrsbehoerde-reparatur-an-der-amsinckstrasse-dauert-mehrere-wochen,verkehrschaos-100.html",
-            "publishedAt": "2026-10-01T12:01:31+00:00",
+            "name": "DW",
+            "url": "https://www.dw.com/en/zimbabwe-tycoon-wicknell-chivayo-dies-in-helicopter-crash/a-79501691?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-01T13:35:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-01T13:13:33+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.585,
+        "isNew": false,
+        "score": 6.377,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
-        "id": "ed1ae4c0ee3c",
+        "id": "7008ffc49975",
         "category": "news",
-        "lang": "en",
-        "title": "Keynote speech by Jozef Síkela at the Ambrela Development Forum 2026: Re-centering Human Development in the Global Gateway",
-        "summary": "European Commission Speech Bratislava, 01 Oct 2026 Distinguished guests, It is a pleasure to be back in Bratislava. For five years, as CEO of Slovenská sporiteľňa, this city was my home.",
+        "lang": "de",
+        "title": "Tennessee: Frau überlebt Giftspritze, Hinrichtung abgebrochen",
+        "summary": "Die erste Exekution einer Frau in Tennessee seit mehr als 200 Jahren sorgt für Kritik. Christa Pike überlebte zwei Giftspritzen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2033",
-        "publishedAt": "2026-10-01T07:19:05+00:00",
+        "url": "https://www.zdfheute.de/politik/ausland/tennessee-hinrichtung-abgebrochen-giftspritze-100.html",
+        "publishedAt": "2026-10-01T12:14:00+00:00",
         "subtopics": [
-          "EU",
-          "Business"
+          "Germany",
+          "Healthcare"
         ],
         "sources": [
           {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2033",
-            "publishedAt": "2026-10-01T07:19:05+00:00",
-            "tier": 1
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/tennessee-hinrichtung-abgebrochen-giftspritze-100.html",
+            "publishedAt": "2026-10-01T12:14:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.583,
+        "isNew": false,
+        "score": 6.218,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -1115,13 +1150,19 @@
             "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
             "publishedAt": "2026-10-01T11:37:46+00:00",
             "tier": 2
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-01T11:37:46+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.268,
+        "isNew": false,
+        "score": 6.191,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -1149,37 +1190,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.147,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00"
-      },
-      {
-        "id": "7008ffc49975",
-        "category": "news",
-        "lang": "de",
-        "title": "Tennessee: Frau überlebt Giftspritze, Hinrichtung abgebrochen",
-        "summary": "Die erste Exekution einer Frau in Tennessee seit mehr als 200 Jahren sorgt für Kritik. Christa Pike überlebte laut Verteidigern zwei Giftspritzen, bevor sie ins Krankenhaus kam.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/tennessee-hinrichtung-abgebrochen-giftspritze-100.html",
-        "publishedAt": "2026-10-01T08:50:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/tennessee-hinrichtung-abgebrochen-giftspritze-100.html",
-            "publishedAt": "2026-10-01T08:50:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.147,
+        "isNew": false,
+        "score": 6.074,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -1207,29 +1219,30 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.125,
+        "isNew": false,
+        "score": 6.052,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
-        "id": "b50cc41698c2",
+        "id": "b7a1a60005fd",
         "category": "news",
         "lang": "en",
-        "title": "US military cuts generals, admirals by 20%, Hegseth says",
-        "summary": "The US defense secretary has also unveiled major changes, including a new drone command and an Elon Musk-led task force to assess the future of warfare.",
+        "title": "EU countries in crisis talks over release of diesel stocks",
+        "summary": "Trump administration has pressured European countries to release strategic reserves, warning that it could ban US diesel exports if they do not do so",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-01T01:45:00+00:00",
+        "url": "https://www.ft.com/content/0234bcc7-386c-40b6-9f04-88aef3a1e24c?syn-25a6b1a6=1",
+        "publishedAt": "2026-10-01T13:20:40+00:00",
         "subtopics": [
           "US",
-          "Conflict"
+          "EU",
+          "Markets"
         ],
         "sources": [
           {
-            "name": "DW",
-            "url": "https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-01T01:45:00+00:00",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/0234bcc7-386c-40b6-9f04-88aef3a1e24c?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-01T13:20:40+00:00",
             "tier": 2
           }
         ],
@@ -1237,8 +1250,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 5.862,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00"
+        "score": 5.966,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00"
       }
     ],
     "medical": [
@@ -1269,7 +1282,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.081,
+        "score": 10.069,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1302,10 +1315,290 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.058,
+        "score": 10.051,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
+      },
+      {
+        "id": "93a80ecc5485",
+        "category": "medical",
+        "lang": "en",
+        "title": "Therapeutic potential of dermal matrix in orthopaedic trauma.",
+        "summary": "Injury (2026 Sep 6). Christenson MM, Boike SC, Puckett HD",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42762675/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Dermal matrices",
+          "Orthopaedics"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42762675/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 9.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": true
+      },
+      {
+        "id": "4d5dd77c1fb3",
+        "category": "medical",
+        "lang": "en",
+        "title": "Long-term surgical results and satisfaction in patients born with 46, XX, SRY-negative, ovotesticular-DSD and raised as male.",
+        "summary": "J Pediatr Urol (2026 Sep 17). Ibrahim H, El-Ghoneimi A, Pierucci UM",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42816306/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Surgical products",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42816306/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "c94731b5eee7",
+        "category": "medical",
+        "lang": "en",
+        "title": "Evaluating the Impact of Therapeutic Anticoagulation Management in Head and Neck Free Tissue Transfer: A Retrospective Study of 126 Cases.",
+        "summary": "Microsurgery (2026 Oct). Lee AJ, Vos DJ, Blunck CK",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42806682/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42806682/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "5392e5aefbf7",
+        "category": "medical",
+        "lang": "en",
+        "title": "Prophylactic Immediate Lymphatic Reconstruction for the Prevention of Secondary Lymphedema: A Systematic Review and Meta-Analysis of Comparative Studies.",
+        "summary": "Microsurgery (2026 Oct). Read T, Arora R, Velli G",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42803604/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42803604/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "49cc9bba8ad3",
+        "category": "medical",
+        "lang": "en",
+        "title": "Development and validation of a prediction model for neurological outcomes of brain arteriovenous malformations undergoing microsurgical resection: a nationwide retrospective cohort study.",
+        "summary": "J Neurosurg (2026 Sep 25). Zhang Y, Li Z, Chen Y",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42790000/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42790000/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "4a78a11937fe",
+        "category": "medical",
+        "lang": "en",
+        "title": "Outcomes for recipient vessel selection in head and neck free flap reconstruction: a retrospective cohort study.",
+        "summary": "Int J Oral Maxillofac Surg (2026 Sep 24). Mohr J, Bergner L, Pippich K",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42786047/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42786047/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "df9186a52311",
+        "category": "medical",
+        "lang": "en",
+        "title": "Association of opioid-based and opioid-free multimodal analgesia with hospital length of stay and postoperative pain in outpatient aesthetic plastic surgery: a retrospective cohort study.",
+        "summary": "JPRAS Open (2026 Nov). Jarrín-Navarro S, González-Andrade F",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42780305/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Plastic surgery",
+          "Medical aesthetics",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42780305/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "56dda3d216b7",
+        "category": "medical",
+        "lang": "en",
+        "title": "Head and neck free flap reconstruction in frail patients with the Awake Integrated Microsurgical approach.",
+        "summary": "Plast Reconstr Surg (2026 Sep 23). Brunetti B, Tenna S, Governatori L",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42776854/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42776854/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "6ed98ee1ccde",
+        "category": "medical",
+        "lang": "en",
+        "title": "Quality-of-life outcomes and osteoarthritis development at 10-years after anterior cruciate ligament reconstruction: A large randomized clinical trial comparing patellar tendon, hamstring tendon and double-bundle grafts.",
+        "summary": "J ISAKOS (2026 Sep 19). Mohtadi N, Chan D, Hunter D",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42762953/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42762953/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
       },
       {
         "id": "c6afc37e474c",
@@ -1338,8 +1631,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.522,
+        "isNew": false,
+        "score": 8.497,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1370,9 +1663,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.522,
+        "isNew": false,
+        "score": 8.497,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "078ebbeee5dd",
+        "category": "medical",
+        "lang": "en",
+        "title": "Contemporary surgical management of vulvar cancer is associated with improved survival but increased reoperation rate: A Finnish nationwide study.",
+        "summary": "Gynecol Oncol (2026 Sep 21). Mörsky MK, Purolainen S, Kaartinen IS",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42767169/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Surgical products"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42767169/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1403,7 +1726,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.789,
+        "score": 6.779,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1435,7 +1758,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.789,
+        "score": 6.779,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1472,8 +1795,189 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.789,
+        "score": 6.779,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "ac5c3f65fdfa",
+        "category": "medical",
+        "lang": "en",
+        "title": "Muscle-Sparing Latissimus Dorsi Flap with a Longitudinal Muscle Cuff: A Practical Strategy for Reliable Harvest of Elongated Skin Paddles.",
+        "summary": "J Clin Med (2026 Sep 19). Ha Y, Lee S, Hong SE",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42796068/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Reconstructive surgery"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42796068/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "5061f85b9695",
+        "category": "medical",
+        "lang": "en",
+        "title": "Morphological Heterogeneity of Large (Koos Grade 4) Vestibular Schwannomas: Surgical Consequences and Predictors of Facial Nerve Outcome.",
+        "summary": "J Clin Med (2026 Sep 15). Shawarba J, Urbas M, Arnoldner C",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42795923/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Surgical products"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42795923/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "baec65021ea4",
+        "category": "medical",
+        "lang": "en",
+        "title": "Does timing of physical exercise after reconstructive prolapse surgery matter?",
+        "summary": "Braz J Phys Ther (2026 Sep 24). Micussi M, Ghandour RM, Gabriel I",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42785145/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Reconstructive surgery"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42785145/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "67f18f9ea92a",
+        "category": "medical",
+        "lang": "en",
+        "title": "Cannabis and Wound Healing: A Narrative Review of Current Evidence and Applications to Facial Plastic Surgery.",
+        "summary": "J Pers Med (2026 Aug 24). Naimi BR, Hom DB",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42783473/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Wound care",
+          "Plastic surgery"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42783473/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "2d0a3fb7ce83",
+        "category": "medical",
+        "lang": "en",
+        "title": "Beyond finger reconstruction; where the esthetic refinements meet microsurgery.",
+        "summary": "J Plast Reconstr Aesthet Surg (2026 Sep 7). Chen C, Aksöyler D, Wang ZT",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42772163/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Reconstructive surgery"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42772163/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "72acd6ed00db",
+        "category": "medical",
+        "lang": "en",
+        "title": "Peptides in Plastic Surgery: Promise, Evidence, and Pitfalls.",
+        "summary": "Ann Plast Surg (2026 Sep 18). Lau HX, Sharma SC",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42758872/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Plastic surgery"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42758872/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1504,8 +2008,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.558,
+        "score": 6.551,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "24b092b9c7fe",
+        "category": "medical",
+        "lang": "en",
+        "title": "Clinical Management After Rupture of Silicone Gel-Filled Breast Implants in a Surgically Treated Cohort: A Retrospective Study.",
+        "summary": "Eur J Breast Health (2026 Sep 23). Tran MT, Chotarova M, Harsanyi S",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42775998/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Orthopaedics",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42775998/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.5,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1535,7 +2070,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.233,
+        "score": 6.228,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1567,7 +2102,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.12,
+        "score": 6.116,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1599,9 +2134,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.633,
+        "score": 5.614,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "457aa533b647",
+        "category": "medical",
+        "lang": "en",
+        "title": "[Construction and validation of a multimodal risk prediction model for burn sepsis in infants and toddlers based on deep learning].",
+        "summary": "Zhonghua Shao Shang Yu Chuang Mian Xiu Fu Za Zhi (2026 Sep 20). Shen YH, Zhang L, Ji Y",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42811577/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Burns"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42811577/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.4,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1630,9 +2195,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.704,
+        "score": 4.683,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
         "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "62d74b867bde",
+        "category": "medical",
+        "lang": "en",
+        "title": "The Dental Operating Microscope in Endodontics: A Narrative Review of Clinical Applications, Supporting Evidence, and Limitations.",
+        "summary": "Cureus (2026 Sep). Ucmak S",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42807697/",
+        "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+        "subtopics": [
+          "Dental"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42807697/",
+            "publishedAt": "2026-10-01T14:06:18.897791+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.5,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1661,7 +2256,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.309,
+        "score": 4.297,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1692,7 +2287,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.92,
+        "score": 3.916,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1723,7 +2318,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.881,
+        "score": 3.869,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1753,149 +2348,48 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.726,
+        "score": 3.716,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "9d601953fee0",
-        "category": "medical",
-        "lang": "en",
-        "title": "Federal Court Enters Consent Decree Against Gold Star Distribution, Inc. Following Persistent Insanitary Warehouse Conditions",
-        "summary": "A U.S. Food and Drug Administration investigation resulted in a federal court order, dated Sept.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent",
-        "publishedAt": "2026-09-23T19:50:17+00:00",
-        "subtopics": [
-          "Industry",
-          "Regulatory"
-        ],
-        "sources": [
-          {
-            "name": "FDA",
-            "url": "http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent",
-            "publishedAt": "2026-09-23T19:50:17+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.701,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "regulator",
-        "matridermRelevant": false
-      },
-      {
-        "id": "8a7dc7200bdf",
-        "category": "medical",
-        "lang": "en",
-        "title": "3 ways to make medtech training a strategic advantage in 2027",
-        "summary": "AI-enabled medtech digital training turns training into a strategic driver of product adoption.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/spons/3-ways-to-make-medtech-training-a-strategic-advantage-in-2027/831215/",
-        "publishedAt": "2026-09-28T09:00:00+00:00",
-        "subtopics": [
-          "AI & digital health",
-          "Industry"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/spons/3-ways-to-make-medtech-training-a-strategic-advantage-in-2027/831215/",
-            "publishedAt": "2026-09-28T09:00:00+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.264,
-        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "953ea359818c",
-        "category": "medical",
-        "lang": "en",
-        "title": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
-        "summary": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-        "publishedAt": "2026-09-15T04:00:00+00:00",
-        "subtopics": [
-          "Diagnostics & imaging",
-          "Safety"
-        ],
-        "sources": [
-          {
-            "name": "FDA MedWatch",
-            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
-            "publishedAt": "2026-09-15T04:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.028,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "evidence": "regulator",
-        "matridermRelevant": false
-      },
-      {
-        "id": "48f1529a7c8e",
-        "category": "medical",
-        "lang": "en",
-        "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
-        "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188)…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
-        "publishedAt": "2026-09-21T04:00:00+00:00",
-        "subtopics": [
-          "Industry",
-          "Safety"
-        ],
-        "sources": [
-          {
-            "name": "FDA MedWatch",
-            "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
-            "publishedAt": "2026-09-21T04:00:00+00:00",
-            "tier": 1
-          },
-          {
-            "name": "FDA MedWatch",
-            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
-            "publishedAt": "2026-09-18T04:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 1.575,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "evidence": "regulator",
         "matridermRelevant": false
       }
     ],
     "growth": [
       {
+        "id": "b4189086b2d7",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+        "publishedAt": "2026-10-01T12:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+            "publishedAt": "2026-10-01T12:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.715,
+        "firstSeen": "2026-10-01T14:06:18.897791+00:00",
+        "kind": "article"
+      },
+      {
         "id": "de2eaf93f271",
         "category": "growth",
         "lang": "en",
-        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan",
-        "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and recreate that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.",
+        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+        "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
@@ -1914,8 +2408,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.72,
+        "isNew": false,
+        "score": 5.645,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -1943,8 +2437,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.249,
+        "isNew": false,
+        "score": 5.178,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -1974,7 +2468,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.893,
+        "score": 4.839,
         "firstSeen": "2026-09-30T13:14:49.366626+00:00",
         "kind": "article"
       },
@@ -2003,7 +2497,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.847,
+        "score": 4.795,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2032,7 +2526,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.669,
+        "score": 4.641,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "video",
         "video": {
@@ -2068,7 +2562,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.265,
+        "score": 4.227,
         "firstSeen": "2026-09-29T13:40:37.677670+00:00",
         "kind": "article"
       },
@@ -2098,7 +2592,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.234,
+        "score": 4.197,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00",
         "kind": "article"
       },
@@ -2127,7 +2621,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.204,
+        "score": 4.16,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00",
         "kind": "article"
       },
@@ -2157,7 +2651,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.108,
+        "score": 4.067,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2186,7 +2680,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.068,
+        "score": 4.028,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "article"
       },
@@ -2216,37 +2710,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.049,
+        "score": 4.009,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "eea3badab1c0",
-        "category": "growth",
-        "lang": "en",
-        "title": "When can we say AI made a scientific discovery?",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-        "publishedAt": "2026-09-28T17:03:16+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-            "publishedAt": "2026-09-28T17:03:16+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.902,
-        "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
       {
@@ -2274,7 +2739,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.884,
+        "score": 3.882,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "video",
         "video": {
@@ -2284,6 +2749,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=N8J-PIunXBM",
           "channel": "TED"
         }
+      },
+      {
+        "id": "eea3badab1c0",
+        "category": "growth",
+        "lang": "en",
+        "title": "When can we say AI made a scientific discovery?",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+        "publishedAt": "2026-09-28T17:03:16+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+            "publishedAt": "2026-09-28T17:03:16+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.874,
+        "firstSeen": "2026-09-28T22:54:15.445617+00:00",
+        "kind": "article"
       },
       {
         "id": "0972a572df6a",
@@ -2310,7 +2804,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.862,
+        "score": 3.86,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "video",
         "video": {
@@ -2320,35 +2814,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=f6VgtBnARG0",
           "channel": "TED"
         }
-      },
-      {
-        "id": "4a1b2ec2558b",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: rogue agent liability and the AI Hype Index",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-        "publishedAt": "2026-09-28T12:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-            "publishedAt": "2026-09-28T12:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.825,
-        "firstSeen": "2026-09-28T12:48:02.023197+00:00",
-        "kind": "article"
       },
       {
         "id": "a52f415628da",
@@ -2376,7 +2841,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.816,
+        "score": 3.802,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2412,7 +2877,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.789,
+        "score": 3.788,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2448,7 +2913,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.768,
+        "score": 3.766,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2484,7 +2949,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.688,
+        "score": 3.658,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2513,7 +2978,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.638,
+        "score": 3.608,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2542,7 +3007,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.58,
+        "score": 3.573,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2578,7 +3043,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.408,
+        "score": 3.384,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2609,7 +3074,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.354,
+        "score": 3.332,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2638,7 +3103,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.129,
+        "score": 3.128,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2673,8 +3138,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.098,
+        "isNew": false,
+        "score": 3.096,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2704,7 +3169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.095,
+        "score": 3.08,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2733,7 +3198,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.05,
+        "score": 3.048,
         "firstSeen": "2026-09-29T12:03:15.991514+00:00",
         "kind": "article"
       },
@@ -2762,7 +3227,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.879,
+        "score": 2.869,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2790,8 +3255,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 2.797,
+        "isNew": false,
+        "score": 2.796,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2821,7 +3286,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.791,
+        "score": 2.783,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2852,7 +3317,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.639,
+        "score": 2.637,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2883,7 +3348,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.6,
+        "score": 2.599,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2914,7 +3379,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.477,
+        "score": 2.475,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -2975,7 +3440,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.375,
+        "score": 2.374,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3057,7 +3522,7 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 37,
+      "items": 32,
       "error": null
     },
     {
@@ -3122,9 +3587,9 @@
     },
     {
       "id": "pubmed-reconstructive",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 25,
+      "error": null
     },
     {
       "id": "pubmed-burns",
@@ -3225,8 +3690,8 @@
   ],
   "filteredOut": {
     "football": 88,
-    "news": 143,
-    "medical": 27,
+    "news": 142,
+    "medical": 33,
     "growth": 52
   }
 }
