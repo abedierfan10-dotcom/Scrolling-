@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T13:27:47.575101+00:00",
+  "generatedAt": "2026-10-02T21:46:30.354537+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,8 +33,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 12.479,
+        "isNew": false,
+        "score": 11.732,
         "firstSeen": "2026-10-02T13:27:47.575101+00:00"
       },
       {
@@ -63,7 +63,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.254,
+        "score": 10.815,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
       },
       {
@@ -91,37 +91,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.072,
+        "score": 9.929,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
       },
       {
-        "id": "5f86e96e8ae1",
+        "id": "7fb347448457",
         "category": "football",
         "lang": "en",
-        "title": "Breaking down a sensational Spain goal: 70 seconds, 26 passes and an unerring Lamine Yamal",
-        "summary": "The world champions made their dominance count in their Nations League match against Croatia, starting with a fine opening goal",
+        "title": "England U21s qualify for Euro 2027 after Slovakia stalemate",
+        "summary": "England U21s booked their spot at next summer's European Championship despite being held to a goalless draw by Slovakia in Stoke.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7645301/2026/09/30/spain-croatia-lamine-yamal-70-second-goal/",
-        "publishedAt": "2026-09-30T06:07:12+00:00",
+        "url": "https://www.skysports.com/football/england-u21-vs-slovakia-u21/report/527118",
+        "publishedAt": "2026-10-02T22:03:00+00:00",
         "subtopics": [
-          "Barcelona",
-          "International"
+          "Euros",
+          "Results"
         ],
         "sources": [
           {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7645301/2026/09/30/spain-croatia-lamine-yamal-70-second-goal/",
-            "publishedAt": "2026-09-30T06:07:12+00:00",
-            "tier": 3
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/england-u21-vs-slovakia-u21/report/527118",
+            "publishedAt": "2026-10-02T22:03:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 9.939,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00"
+        "isNew": true,
+        "score": 8.0,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "cbfe586117f3",
+        "category": "football",
+        "lang": "en",
+        "title": "Why Aston Villa played Sevilla for a trophy you haven't heard of",
+        "summary": "Aston Villa beat Sevilla in the Antonio Puerta Trophy, named in memory of one of the Spanish club's former players.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/crvg6xd6p9n5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-02T21:02:23+00:00",
+        "subtopics": [
+          "La Liga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/crvg6xd6p9n5o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-02T21:02:23+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.924,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
         "id": "40b319f3e953",
@@ -149,8 +178,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.706,
+        "score": 6.278,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
+      },
+      {
+        "id": "936041263e99",
+        "category": "football",
+        "lang": "en",
+        "title": "Man City whistleblower set to lose protection amid fears for life",
+        "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-02T19:26:13+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-02T19:26:13+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.266,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "1520e1c8b0ae",
+        "category": "football",
+        "lang": "en",
+        "title": "Brighton latest: Hurzeler, Gross and Dunk win Premier League awards for September",
+        "summary": "",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+        "publishedAt": "2026-10-02T16:07:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+            "publishedAt": "2026-10-02T16:07:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.965,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
         "id": "6a364a162f1e",
@@ -178,7 +265,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.743,
+        "score": 5.557,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
       },
       {
@@ -207,8 +294,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.685,
+        "score": 5.513,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
+      },
+      {
+        "id": "e8151f2dc174",
+        "category": "football",
+        "lang": "en",
+        "title": "Brown scores twice as Northen Ireland cruise to win over Ukraine",
+        "summary": "Ciaron Brown's first international goals came as a pair to help a young Northern Ireland side stun Ukraine 3-0 and go clear at the top of Nations League Group B2.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
+        "publishedAt": "2026-10-02T21:47:00+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
+            "publishedAt": "2026-10-02T21:47:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.5,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
         "id": "153a12c9a2bd",
@@ -236,7 +352,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.876,
+        "score": 4.28,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00"
       },
       {
@@ -265,37 +381,210 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.22,
+        "score": 3.789,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
       }
     ],
     "news": [
       {
-        "id": "2d1ae93d7411",
+        "id": "ba77f814c7b9",
         "category": "news",
-        "lang": "en",
-        "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-        "summary": "The Trump administration has urged its European allies, particularly Germany and France, to release strategic diesel reserves to ease fuel prices. The EU was holding an emergency meeting on Friday to discuss the issue.",
+        "lang": "de",
+        "title": "Schröder wird Aufsichtsrat bei russischem Globus-Ableger",
+        "summary": "Altkanzler Schröder wird Aufsichtsrat beim russischen Ableger der Supermarktkette Globus. Erst vor wenigen Tagen hatte Kremlchef Putin ausländische Firmen, darunter auch Metro, in Russland unter Zwangsverwaltung gestellt.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-02T08:54:00+00:00",
+        "url": "https://www.zdfheute.de/politik/schroeder-spd-globus-altkanzler-russland-100.html",
+        "publishedAt": "2026-10-02T16:13:00+00:00",
         "subtopics": [
           "Germany",
-          "US",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/schroeder-spd-globus-altkanzler-russland-100.html",
+            "publishedAt": "2026-10-02T16:13:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/altkanzler-schroeder-aufsichtsrat-russischer-globus-100.html",
+            "publishedAt": "2026-10-02T14:39:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.562,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "8925b4d43d37",
+        "category": "news",
+        "lang": "de",
+        "title": "Woher kommt die Spannung in der Koalition?, Markus Preiß, ARD Berlin",
+        "summary": "Woher kommt die Spannung in der Koalition?, Markus Preiß, ARD Berlin",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/tagesthemen/video-1659604.html",
+        "publishedAt": "2026-10-02T20:39:57+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesthemen/video-1659604.html",
+            "publishedAt": "2026-10-02T20:39:57+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.951,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "7b9f0559d474",
+        "category": "news",
+        "lang": "de",
+        "title": "Warenhauskette Galeria stellt erneut Insolvenzantrag",
+        "summary": "Warenhauskette Galeria stellt erneut Insolvenzantrag",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/tagesthemen/video-1659602.html",
+        "publishedAt": "2026-10-02T20:39:07+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesthemen/video-1659602.html",
+            "publishedAt": "2026-10-02T20:39:07+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.95,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "cc9b83d6530f",
+        "category": "news",
+        "lang": "de",
+        "title": "Spaniens Regierung scheitert mit Dekret gegen Zwangsräumung",
+        "summary": "Mit zwei neuen Dekreten wollte die spanische Regierung auf den Unmut in der Bevölkerung wegen der Wohnungsnot reagieren. Beide Vorschläge wurden von der Opposition blockiert.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/spanien-wohnungsnot-dekret-sanchez-100.html",
+        "publishedAt": "2026-10-02T20:12:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/spanien-wohnungsnot-dekret-sanchez-100.html",
+            "publishedAt": "2026-10-02T20:12:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.931,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "ced07029552b",
+        "category": "news",
+        "lang": "de",
+        "title": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
+        "summary": "Seit Tagen gehen Schülerinnen und Schüler in Frankreich auf die Straße, um mehr Geld für Bildung einzufordern. Bildungsminister Geffray versprach Verbesserungen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
+        "publishedAt": "2026-10-02T19:00:30+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
+            "publishedAt": "2026-10-02T19:00:30+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.879,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "091cf1f3719c",
+        "category": "news",
+        "lang": "de",
+        "title": "tagesschau 20:00 Uhr",
+        "summary": "Warenhauskette Galeria meldet erneut Insolvenz an, Bahnstrecke Hannover-Berlin wird erneut für Sanierung gesperrt, Werft fordert 4,7 Milliarden Euro von Deutschland nach gestopptem Fregatten-Projekt, G7-Staaten einigen sich auf Freigabe von bis zu 100…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1659562.html",
+        "publishedAt": "2026-10-02T18:46:05+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1659562.html",
+            "publishedAt": "2026-10-02T18:46:05+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.869,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "b1fb690d6995",
+        "category": "news",
+        "lang": "de",
+        "title": "Wahl-Panne in Berlin: Abgeordnetenhaus wird kleiner",
+        "summary": "Eine Neuauszählung in einem Berliner Wahlkreis hat ergeben, dass ein Direktmandat an die AfD und nicht - wie bislang angenommen - an die CDU geht. Das Berliner Abgeordnetenhaus wird daher fünf Sitze weniger haben als bisher gedacht.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-wahl-panne-in-spandau-abgeordnetenhaus-wird-doch-kleiner-100.html",
+        "publishedAt": "2026-10-02T18:37:50+00:00",
+        "subtopics": [
+          "Germany",
           "Elections"
         ],
         "sources": [
           {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-02T08:54:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-02T03:51:00+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-wahl-panne-in-spandau-abgeordnetenhaus-wird-doch-kleiner-100.html",
+            "publishedAt": "2026-10-02T18:37:50+00:00",
             "tier": 2
           }
         ],
@@ -303,35 +592,117 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.603,
-        "firstSeen": "2026-10-01T22:17:28.809174+00:00"
+        "score": 7.863,
+        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
       },
       {
-        "id": "4dcd2a1192af",
+        "id": "80804f372633",
         "category": "news",
         "lang": "de",
-        "title": "Astronauten erreichen ISS in Rekordzeit",
-        "summary": "So schnell war noch kein US-Raumschiff an der ISS: Knapp acht Stunden nach dem Start hat eine \"Dragon\"-Kapsel die Weltraumstation erreicht. An Bord sind vier Raumfahrer aus den USA, Kanada und Russland.",
+        "title": "Warum es in der schwarz-roten Koalition knirscht",
+        "summary": "Pflege, Rente, Zuckersteuer und überall Spardruck: Es ruckelt heftig in der schwarz-roten Koalition. Gleichzeitig steigt die Unzufriedenheit, viele Menschen fordern spürbare Entlastungen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html",
-        "publishedAt": "2026-10-02T05:22:09+00:00",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
+        "publishedAt": "2026-10-02T17:53:12+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
+            "publishedAt": "2026-10-02T17:53:12+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.831,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "6823cb442bb8",
+        "category": "news",
+        "lang": "de",
+        "title": "Trump vor den Midterms: Was Wähler so unzufrieden macht",
+        "summary": "Die US-Wirtschaft steht nicht schlecht da, trotzdem ist die Stimmung der Amerikaner dazu so schlecht wie seit Jahren nicht. Warum?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/usa-trump-midterms-zustimmungswerte-wirtschaft-100.html",
+        "publishedAt": "2026-10-02T15:56:00+00:00",
         "subtopics": [
           "US",
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/usa-trump-midterms-zustimmungswerte-wirtschaft-100.html",
+            "publishedAt": "2026-10-02T15:56:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.75,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "8399161c24d9",
+        "category": "news",
+        "lang": "de",
+        "title": "USA: Trumps Republikaner unter Druck vor den Midterms",
+        "summary": "Den Republikanern drohen bei den US-Zwischenwahlen herbe Verluste. Das liegt auch an Präsident Trump.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/midterms-republikaner-trump-100.html",
+        "publishedAt": "2026-10-02T15:54:40+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/midterms-republikaner-trump-100.html",
+            "publishedAt": "2026-10-02T15:54:40+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.749,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "6eef00ea2f3e",
+        "category": "news",
+        "lang": "de",
+        "title": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
+        "summary": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
+        "publishedAt": "2026-10-02T14:59:41+00:00",
+        "subtopics": [
           "Germany",
           "Conflict"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/amerika/iss-crew-im-all-angekommen-100.html",
-            "publishedAt": "2026-10-02T05:22:09+00:00",
-            "tier": 2
-          },
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/wissen/usa-kanada-russland-iss-nasa-raumfahrt-rekordflug-100.html",
-            "publishedAt": "2026-10-02T04:02:00+00:00",
+            "url": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
+            "publishedAt": "2026-10-02T14:59:41+00:00",
             "tier": 2
           }
         ],
@@ -339,15 +710,102 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.46,
+        "score": 7.712,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00"
+      },
+      {
+        "id": "5315427be574",
+        "category": "news",
+        "lang": "de",
+        "title": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
+        "summary": "Die Koalition von Spaniens Regierungschef Sánchez ist im Parlament mit ihren Dekreten für mehr Mieterschutz gescheitert. Nach landesweiten Protesten wollte die Regierung unter anderem Zwangsräumungen in sozialen Notlagen verbieten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
+        "publishedAt": "2026-10-02T14:42:28+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
+            "publishedAt": "2026-10-02T14:42:28+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.701,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "38a07e9f52d2",
+        "category": "news",
+        "lang": "en",
+        "title": "Germany's Franz Reindl elected new IIHF president",
+        "summary": "Franz Reindl has been elected president of ice hockey's world governing body. The former forward was a member of West Germany's Olympic bronze medal-winning team.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-02T14:29:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-02T14:29:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.692,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "996407d4c51d",
+        "category": "news",
+        "lang": "de",
+        "title": "Schülerproteste in Frankreich: Warum die Lage eskaliert",
+        "summary": "In Frankreich wächst die Wut über Missstände im Bildungssystem. Die Regierung steht unter Druck.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/frankreich-schueler-proteste-schulen-100.html",
+        "publishedAt": "2026-10-02T14:10:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/frankreich-schueler-proteste-schulen-100.html",
+            "publishedAt": "2026-10-02T14:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.679,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
         "id": "f051b38dac41",
         "category": "news",
         "lang": "de",
         "title": "Schwedens Wahlsiegerin Andersson unternimmt zweiten Anlauf zur Regierungsbildung",
-        "summary": "Eigentlich hatte Schwedens Wahlsiegerin Andersson die Regierungsbildung für unmöglich erklärt. Nun soll sie es trotzdem nochmal versuchen.",
+        "summary": "Eigentlich hatte Schwedens Wahlsiegerin Andersson die Regierungsbildung für unmöglich erklärt. Nun soll sie es trotzdem noch mal versuchen.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/ausland/europa/schwedische-regierungsbildung-andersson-100.html",
@@ -367,8 +825,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.991,
+        "isNew": false,
+        "score": 7.643,
         "firstSeen": "2026-10-02T13:27:47.575101+00:00"
       },
       {
@@ -396,8 +854,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.984,
+        "isNew": false,
+        "score": 7.637,
         "firstSeen": "2026-10-02T13:27:47.575101+00:00"
       },
       {
@@ -425,38 +883,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.983,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00"
-      },
-      {
-        "id": "2bcc7bc4e815",
-        "category": "news",
-        "lang": "en",
-        "title": "Investors seek refuge from bond rout in haven German debt",
-        "summary": "Bund yields have fallen this week even as US, French and other governments’ bonds have sold off sharply over inflation fears",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/93028839-5f0e-43c4-8ee7-44990115ea57?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-02T13:03:12+00:00",
-        "subtopics": [
-          "Germany",
-          "US",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/93028839-5f0e-43c4-8ee7-44990115ea57?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-02T13:03:12+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.982,
+        "isNew": false,
+        "score": 7.636,
         "firstSeen": "2026-10-02T13:27:47.575101+00:00"
       },
       {
@@ -484,8 +912,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.949,
+        "isNew": false,
+        "score": 7.605,
         "firstSeen": "2026-10-02T13:27:47.575101+00:00"
       },
       {
@@ -514,7 +942,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.924,
+        "score": 7.584,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00"
       },
       {
@@ -543,36 +971,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.906,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "b1fb690d6995",
-        "category": "news",
-        "lang": "de",
-        "title": "Wahl-Panne in Berlin: Abgeordnetenhaus wird kleiner",
-        "summary": "Eine Neuauszählung in einem Berliner Wahlkreis hat ergeben, dass ein Direktmandat an die AfD und nicht - wie bislang angenommen - an die CDU geht. Das Berliner Abgeordnetenhaus wird daher fünf Sitze weniger haben als bisher gedacht.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-wahl-panne-in-spandau-abgeordnetenhaus-wird-doch-kleiner-100.html",
-        "publishedAt": "2026-10-02T11:08:08+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-wahl-panne-in-spandau-abgeordnetenhaus-wird-doch-kleiner-100.html",
-            "publishedAt": "2026-10-02T11:08:08+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.898,
+        "score": 7.568,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00"
       },
       {
@@ -602,7 +1001,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.886,
+        "score": 7.551,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00"
       },
       {
@@ -631,69 +1030,11 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.869,
+        "score": 7.535,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00"
       },
       {
-        "id": "6eef00ea2f3e",
-        "category": "news",
-        "lang": "de",
-        "title": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
-        "summary": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
-        "publishedAt": "2026-10-02T10:00:37+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
-            "publishedAt": "2026-10-02T10:00:37+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.85,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "7ddeea4cc824",
-        "category": "news",
-        "lang": "de",
-        "title": "Warenhauskette Galeria stellt erneut Insolvenzantrag",
-        "summary": "Warenhauskette Galeria stellt erneut Insolvenzantrag",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1659230.html",
-        "publishedAt": "2026-10-02T09:42:28+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1659230.html",
-            "publishedAt": "2026-10-02T09:42:28+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.837,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "25591351719e",
+        "id": "735cf2ff6e25",
         "category": "news",
         "lang": "de",
         "title": "Nach BGH-Urteil - Amazon senkt Preis für langjährige Prime-Kunden",
@@ -712,224 +1053,14 @@
             "url": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-102.html",
             "publishedAt": "2026-10-02T09:08:12+00:00",
             "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/amazon-prime-preiserhoehung-bgh-100.html",
-            "publishedAt": "2026-10-01T15:47:54+00:00",
-            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.813,
-        "firstSeen": "2026-10-01T22:17:28.809174+00:00"
-      },
-      {
-        "id": "b392c9f5d0ce",
-        "category": "news",
-        "lang": "de",
-        "title": "Copernicus: Sommer in Westeuropa war so heiß wie nie zuvor",
-        "summary": "Der Sommer in Westeuropa war so heiß und trocken wie nie zuvor. Auch bei den Hitzetagen gab es diesen Sommer laut dem EU-Klimadienst Copernicus einen neuen Höchststand - mit ernsten Folgen für die Gesundheit.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html",
-        "publishedAt": "2026-10-02T07:28:09+00:00",
-        "subtopics": [
-          "EU",
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wissen/klima/copernicus-heisser-sommer-100.html",
-            "publishedAt": "2026-10-02T07:28:09+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.744,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "9a73f91aef78",
-        "category": "news",
-        "lang": "de",
-        "title": "Gestopptes Fregatten-Projekt: Werft will 4,7 Milliarden Euro von Deutschland",
-        "summary": "Massive Verzögerungen und eine Kostenexplosion - im Juni hatte Verteidigungsminister Pistorius ein neues Fregatten-Projekt für die Bundeswehr gestoppt. Nun fordert die betroffene niederländische Werft Milliarden vom Bund.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html",
-        "publishedAt": "2026-10-02T07:19:51+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/werft-milliardenforderung-fregatte-bundeswehr-100.html",
-            "publishedAt": "2026-10-02T07:19:51+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.738,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "2c3bb7fbbd6b",
-        "category": "news",
-        "lang": "de",
-        "title": "Frauen in Teilzeit: Warum aktuelle Reformen zu kurz greifen",
-        "summary": "Alle sollen mehr arbeiten, sagt der Kanzler. Zwei Fehlanreize, die Teilzeitarbeit vor allem von Frauen begünstigen, will der Staat nun reformieren.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/ehegattensplitting-minijob-rente-reform-finanzen-100.html",
-        "publishedAt": "2026-10-02T07:00:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/ehegattensplitting-minijob-rente-reform-finanzen-100.html",
-            "publishedAt": "2026-10-02T07:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.725,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "4cd2aa40f16b",
-        "category": "news",
-        "lang": "de",
-        "title": "Verdienter Sieg gegen einen schwachen Gegner",
-        "summary": "Nils Kaben sieht den Erfolg der DFB-Elf über Serbien als \"hochverdienten Erfolg\". Gleichzeitig tritt der ZDF-Reporter aber auch auf die Euphorie-Bremse: \"Der Gegner war tatsächlich schwach\".",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/video/zdf-morgenmagazin/nils-kaben-nations-league-104.html",
-        "publishedAt": "2026-10-02T06:30:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/video/zdf-morgenmagazin/nils-kaben-nations-league-104.html",
-            "publishedAt": "2026-10-02T06:30:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.705,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "ce85d6bac215",
-        "category": "news",
-        "lang": "de",
-        "title": "UN-Hilfswerk warnt vor Bildungskrise für Flüchtlingskinder",
-        "summary": "Millionen Flüchtlingskinder könnten wegen fehlender Mittel den Zugang zu Bildung verlieren, warnt das UNHCR. Schon jetzt gehe fast jedes zweite nicht zur Schule.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/fluechtlinge-kinder-bildung-mangel-unhcr-100.html",
-        "publishedAt": "2026-10-02T03:58:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Immigration"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/fluechtlinge-kinder-bildung-mangel-unhcr-100.html",
-            "publishedAt": "2026-10-02T03:58:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.605,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "98ad8ea38517",
-        "category": "news",
-        "lang": "de",
-        "title": "Schulprotest in Frankreich eskaliert: Fast 2.000 Festnahmen",
-        "summary": "In Frankreich arten Schulproteste aus. Inzwischen sind die teils gewaltsamen Ausschreitungen zum Politikum geworden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/frankreich-schuelerproteste-festnahmen-gewalt-100.html",
-        "publishedAt": "2026-10-01T23:21:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/frankreich-schuelerproteste-festnahmen-gewalt-100.html",
-            "publishedAt": "2026-10-01T23:21:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.432,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "5c53aab05c0c",
-        "category": "news",
-        "lang": "de",
-        "title": "Klopp nach erstem Sieg: \"Das war einfach Wow\"",
-        "summary": "Nach seinem ersten Sieg als Bundestrainer gegen Serbien analysiert Jürgen Klopp mit den ZDF-Experten Per Mertesacker und Chris Kramer das Spiel. In Summe ist er hoch zufrieden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/sport/fussball-nations-league/video/dfb-deutschland-serbien-klopp-analyse-100.html",
-        "publishedAt": "2026-10-01T21:37:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/sport/fussball-nations-league/video/dfb-deutschland-serbien-klopp-analyse-100.html",
-            "publishedAt": "2026-10-01T21:37:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.37,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
+        "isNew": true,
+        "score": 7.486,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
         "id": "85a4cae88975",
@@ -958,28 +1089,29 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.365,
+        "score": 7.043,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00"
       },
       {
-        "id": "0b4a594ad76b",
+        "id": "f48d54a4a28f",
         "category": "news",
-        "lang": "de",
-        "title": "Bischof erlöst Klopp: Deutschland gewinnt gegen Serbien",
-        "summary": "Jürgen Klopp hat mit einem 2:0 gegen Serbien seinen ersten Sieg als Bundestrainer gefeiert. Es war ein kleiner Befreiungsschlag.",
+        "lang": "en",
+        "title": "Quant hedge funds reap big gains from global bond sell-off",
+        "summary": "Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.sportschau.de/fussball/nationalmannschaft/klopps-erster-sieg-als-kleiner-befreiungsschlag,spielbericht-nations-league-deutschland-serbien-100.html",
-        "publishedAt": "2026-10-01T20:40:16+00:00",
+        "url": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
+        "publishedAt": "2026-10-02T15:13:59+00:00",
         "subtopics": [
-          "Germany",
+          "Iran",
+          "US",
           "Conflict"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.sportschau.de/fussball/nationalmannschaft/klopps-erster-sieg-als-kleiner-befreiungsschlag,spielbericht-nations-league-deutschland-serbien-100.html",
-            "publishedAt": "2026-10-01T20:40:16+00:00",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-02T15:13:59+00:00",
             "tier": 2
           }
         ],
@@ -987,66 +1119,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.337,
-        "firstSeen": "2026-10-01T22:17:28.809174+00:00"
-      },
-      {
-        "id": "dbbb70c4f73c",
-        "category": "news",
-        "lang": "de",
-        "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
-        "summary": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
-        "publishedAt": "2026-10-01T17:49:18+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-protest-klingbeil-entwurf-100.html",
-            "publishedAt": "2026-10-01T17:49:18+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.24,
-        "firstSeen": "2026-10-01T22:17:28.809174+00:00"
-      },
-      {
-        "id": "18209ea6454b",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundeswehr reagiert mit erstem Drohnenregiment auf Ukraine-Krieg",
-        "summary": "Die Bundeswehr wird ein eigenes Drohnenregiment mit bis zu 600 Soldaten aufstellen - eine Konsequenz aus dem Ukraine-Krieg. Das kündigte Verteidigungsminister Pistorius an.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html",
-        "publishedAt": "2026-10-01T17:25:59+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/drohnenregiment-pistorius-100.html",
-            "publishedAt": "2026-10-01T17:25:59+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.227,
-        "firstSeen": "2026-10-01T22:17:28.809174+00:00"
+        "score": 6.922,
+        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
       },
       {
         "id": "501fc6ca661a",
@@ -1073,9 +1147,44 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.206,
+        "isNew": false,
+        "score": 6.903,
         "firstSeen": "2026-10-02T13:27:47.575101+00:00"
+      },
+      {
+        "id": "2d1ae93d7411",
+        "category": "news",
+        "lang": "en",
+        "title": "Europe to release diesel reserves after Trump request",
+        "summary": "The US leader asked European countries to release some of their diesel reserves to ease the rising prices. The issue has damaged Trump's popularity back home.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-02T15:02:00+00:00",
+        "subtopics": [
+          "US",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-02T15:02:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-02T08:54:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.814,
+        "firstSeen": "2026-10-01T22:17:28.809174+00:00"
       },
       {
         "id": "38bf375b6d31",
@@ -1103,7 +1212,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.044,
+        "score": 6.713,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00"
       },
       {
@@ -1132,178 +1241,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.884,
+        "score": 6.665,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
       },
       {
-        "id": "f48d54a4a28f",
+        "id": "ded109380219",
         "category": "news",
         "lang": "en",
-        "title": "Quant hedge funds reap big gains from global bond sell-off",
-        "summary": "Trend-following portfolios have latched on to sharp rise in yields this year as Iran war and strong US economic data fuel inflation fears",
+        "title": "Eurozone inflation hits three-year high of 3.8%",
+        "summary": "Consumer prices rose at higher rate than expected in September",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-02T04:00:23+00:00",
+        "url": "https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1",
+        "publishedAt": "2026-10-02T15:45:53+00:00",
         "subtopics": [
-          "Iran",
-          "US",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-02T04:00:23+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.806,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "857f04e2d142",
-        "category": "news",
-        "lang": "de",
-        "title": "Martin Hofmann wird neuer Michel-Hauptpastor",
-        "summary": "Die Synode des evangelischen Kirchenkreises Hamburg-Ost wählte ihn im dritten Wahlgang mit 73 von 92 abgegebenen Stimmen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal_1800/Hamburg-Journal-1800,hamj-15140.html",
-        "publishedAt": "2026-10-01T16:36:01+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal_1800/Hamburg-Journal-1800,hamj-15140.html",
-            "publishedAt": "2026-10-01T16:36:01+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.799,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "2b4f270d7f64",
-        "category": "news",
-        "lang": "en",
-        "title": "Diesel falls sharply as EU considers releasing 50mn barrels under pressure from Trump",
-        "summary": "US president has threatened to ban US exports of the fuel if the continent does not unlock reserves",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-02T10:59:36+00:00",
-        "subtopics": [
-          "US",
           "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-02T10:59:36+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.692,
-        "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "027e065f01f6",
-        "category": "news",
-        "lang": "de",
-        "title": "Razzia wegen Menschenhandels: Kopf der Bande in Hamburg festgenommen",
-        "summary": "Der bundesweite Einsatz von Bundespolizei und Zoll richtete sich gegen eine Schleuserbande. Der Hauptbeschuldigte wurde in Bergedorf verhaftet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/razzia-wegen-menschenhandels-kopf-der-bande-in-hamburg-festgenommen,razzia-492.html",
-        "publishedAt": "2026-10-01T13:03:58+00:00",
-        "subtopics": [
-          "Hamburg",
           "Economy"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/razzia-wegen-menschenhandels-kopf-der-bande-in-hamburg-festgenommen,razzia-492.html",
-            "publishedAt": "2026-10-01T13:03:58+00:00",
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-02T15:45:53+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.687,
-        "firstSeen": "2026-09-30T13:14:49.366626+00:00"
-      },
-      {
-        "id": "7c0e05b68eb4",
-        "category": "news",
-        "lang": "en",
-        "title": "Statement by President von der Leyen with Prime Minister of North Macedonia Mickoski",
-        "summary": "European Commission Statement Podgorica, 02 Oct 2026 Prime Minister, Dear Milojko, Thank you for welcoming me to Podgorica. Tomorrow morning, we will inaugurate the new National Coordination Centre.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2053",
-        "publishedAt": "2026-10-02T10:19:03+00:00",
-        "subtopics": [
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2053",
-            "publishedAt": "2026-10-02T10:19:03+00:00",
-            "tier": 1
-          },
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2049",
-            "publishedAt": "2026-10-01T14:23:47+00:00",
-            "tier": 1
-          },
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2042",
-            "publishedAt": "2026-10-01T10:13:21+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "Statement by President von der Leyen with Prime Minister of North Macedonia Mickoski",
-        "earlier": [
-          {
-            "title": "Statement by President von der Leyen with Prime Minister of Montenegro Spajić",
-            "source": "European Commission",
-            "publishedAt": "2026-10-01T14:23:47+00:00"
-          },
-          {
-            "title": "Statement by President von der Leyen at the joint press conference with the Prime Minister of Kosovo, Albin Kurti",
-            "source": "European Commission",
-            "publishedAt": "2026-10-01T10:13:21+00:00"
-          }
-        ],
-        "isNew": false,
-        "score": 6.663,
-        "firstSeen": "2026-10-01T14:06:18.897791+00:00"
+        "isNew": true,
+        "score": 6.543,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
         "id": "a04b1502aa19",
@@ -1332,8 +1300,130 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.601,
+        "score": 6.415,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
+      },
+      {
+        "id": "42ba448ea84d",
+        "category": "news",
+        "lang": "en",
+        "title": "Statement by President von der Leyen with Prime Minister of North Macedonia Mickoski",
+        "summary": "European Commission Statement Podgorica, 02 Oct 2026 Prime Minister, Dear Milojko, Thank you for welcoming me to Podgorica. Tomorrow morning, we will inaugurate the new National Coordination Centre.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2053",
+        "publishedAt": "2026-10-02T10:19:03+00:00",
+        "subtopics": [
+          "EU",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2053",
+            "publishedAt": "2026-10-02T10:19:03+00:00",
+            "tier": 1
+          },
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2049",
+            "publishedAt": "2026-10-01T14:23:47+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.33,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "a3260e0056d8",
+        "category": "news",
+        "lang": "de",
+        "title": "Der Wahlkreis-Krieg war entschieden - dann kam Trump",
+        "summary": "Republikaner und Demokraten liefern sich seit Monaten einen Kampf um die Wahlkreise. Längst schien das Rennen entschieden - doch nun hoffen die Demokraten auf einen Trump-Effekt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/midterms-republikaner-demokraten-trump-gerrymandering-100.html",
+        "publishedAt": "2026-09-30T13:50:00+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/midterms-republikaner-demokraten-trump-gerrymandering-100.html",
+            "publishedAt": "2026-09-30T13:50:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.305,
+        "firstSeen": "2026-09-30T21:49:34.126591+00:00"
+      },
+      {
+        "id": "54c348aeacf4",
+        "category": "news",
+        "lang": "de",
+        "title": "Binnenalster: Vermisster löst Großeinsatz aus",
+        "summary": "Ein Mann sprang offenbar am Freitagmorgen am Jungfernstieg in die Hamburger Binnenalster. Die Suche nach ihm blieb erfolglos.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/vermisster-schwimmer-loest-grosseinsatz-an-binnenalster-aus,kurzehh-4490.html",
+        "publishedAt": "2026-10-02T13:18:19+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/vermisster-schwimmer-loest-grosseinsatz-an-binnenalster-aus,kurzehh-4490.html",
+            "publishedAt": "2026-10-02T13:18:19+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.245,
+        "firstSeen": "2026-10-02T13:27:47.575101+00:00"
+      },
+      {
+        "id": "528e97b5b20a",
+        "category": "news",
+        "lang": "en",
+        "title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
+        "summary": "Figure renews market debate about outlook for further Fed rate rises",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1",
+        "publishedAt": "2026-10-02T20:05:51+00:00",
+        "subtopics": [
+          "US",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-02T20:05:51+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.226,
+        "firstSeen": "2026-10-02T13:27:47.575101+00:00"
       }
     ],
     "medical": [
@@ -1365,7 +1455,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.958,
+        "score": 9.927,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1397,37 +1487,30 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.92,
+        "score": 9.87,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
       },
       {
-        "id": "d7a2a96d6351",
+        "id": "bca4fcc89231",
         "category": "medical",
         "lang": "en",
-        "title": "A Composite Ovine Forestomach Matrix and Hyaluronic Acid CAMP for the Treatment of Full Thickness Wounds of the Foot in People With Diabetes: A Randomized Controlled Trial.",
-        "summary": "To assess the need for additional fusion surgery versus the risk of a revision surgery in patients with degenerative lumbar spinal disease and to assess efficacy and risk of the ligamentous fixation technique (vertebropexy)",
+        "title": "Efficacy of Early Postoperative ON101 Application for Lower-extremity Fracture Incisions: a Prospective Evaluator-blinded Controlled Study of Scar Quality and Digital-clinical Concordance",
+        "summary": "Background: Postoperative scars after lower-extremity fracture fixation endure high tension, where excessive scarring can restrict periarticular mobility. While the 2002 International Clinical Recommendations on Scar Management emphasize early prevention,…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42823610/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
+        "url": "https://clinicaltrials.gov/study/NCT07854470",
+        "publishedAt": "2026-10-02T00:00:00+00:00",
         "subtopics": [
           "Wound care",
-          "Biomaterials",
           "Clinical study"
         ],
         "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42823610/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          },
           {
             "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06024785",
-            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "url": "https://clinicaltrials.gov/study/NCT07854470",
+            "publishedAt": "2026-10-02T00:00:00+00:00",
             "tier": 2
           }
         ],
@@ -1435,40 +1518,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 9.5,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "ff09e7d66c1e",
-        "category": "medical",
-        "lang": "en",
-        "title": "Advanced dressings and growth factors in surgical wound healing of diabetic patients: A narrative review of nursing implications.",
-        "summary": "J Tissue Viability (2026 Sep 28). Shahdadi H",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42815207/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Surgical products",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42815207/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 8.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
+        "score": 8.393,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1499,7 +1550,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.438,
+        "score": 8.327,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1524,13 +1575,19 @@
             "url": "https://clinicaltrials.gov/study/NCT07852338",
             "publishedAt": "2026-10-01T00:00:00+00:00",
             "tier": 2
+          },
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06024785",
+            "publishedAt": "2026-09-28T00:00:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.191,
+        "score": 8.091,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1562,588 +1619,71 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.191,
+        "score": 8.091,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
-        "id": "09126fe5a89a",
+        "id": "2e6947219851",
         "category": "medical",
         "lang": "en",
-        "title": "Use of a Synthetic Polylactic Acid Matrix for Pyoderma Gangrenosum: A Case Series.",
-        "summary": "Int Wound J (2026 Oct). Ramírez-García-Luna JL, Novoa-Moreno AL, Novoa-Moreno MF",
+        "title": "Edwards’ adjustable heart valve for children lands FDA approval",
+        "summary": "The device could help young patients avoid multiple open-heart surgeries as they grow, FDA officials said.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42823925/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
+        "url": "https://www.medtechdive.com/news/edwards-adjustable-heart-valve-for-children-lands-fda-approval/832028/",
+        "publishedAt": "2026-10-02T15:27:47+00:00",
         "subtopics": [
-          "Wound care"
+          "Cardiovascular",
+          "Clinical study"
         ],
         "sources": [
           {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42823925/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/edwards-adjustable-heart-valve-for-children-lands-fda-approval/832028/",
+            "publishedAt": "2026-10-02T15:27:47+00:00",
+            "tier": 5
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
+        "score": 7.408,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
-        "id": "dd97742c710a",
+        "id": "4e1e4ab585ee",
         "category": "medical",
         "lang": "en",
-        "title": "Macrophages promote collagen deposition through circadian regulation of fibroblasts.",
-        "summary": "iScience (2026 Oct 16). Lowles K, Zhang XY, Yao XF",
+        "title": "Randomized Controlled Trial to Investigate Clinical Outcomes and Associated Costs When PermeaDerm is Used as Temporary Dressing for Surgical Wounds",
+        "summary": "The goal of this study is to compare the cost and clinical outcomes for two temporary dressings (Allograft and PermeaDerm) used in patients that need a skin graft to heal their wound. The researchers will review cost and other treatment results including how…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42819738/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42819738/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "96a8952517e0",
-        "category": "medical",
-        "lang": "en",
-        "title": "Multifunctional hydrogel assembled from phenylboronic acid-chitosan and Polygonati Rhizoma polysaccharide for accelerated radiation-combined wound healing.",
-        "summary": "Colloids Surf B Biointerfaces (2026 Sep 25). Guo J, Wang Y, Hu B",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42822316/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
+        "url": "https://clinicaltrials.gov/study/NCT06750809",
+        "publishedAt": "2026-09-23T00:00:00+00:00",
         "subtopics": [
           "Wound care",
-          "Biomaterials"
+          "Reconstructive surgery",
+          "Clinical study"
         ],
         "sources": [
           {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42822316/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06750809",
+            "publishedAt": "2026-09-23T00:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "b98ea13751ed",
-        "category": "medical",
-        "lang": "en",
-        "title": "Clinical evidence and practice of moist wound healing in Hemorrhoidectomy: A narrative review.",
-        "summary": "J Tissue Viability (2026 Sep 29). Hu MY, Ye TW, Bu F",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42822092/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42822092/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "8a02fdb112c8",
-        "category": "medical",
-        "lang": "en",
-        "title": "Stimuli-Responsive Smart Bandages for Chronic Wound Management: From Sensing Platforms to AI-Driven Closed-Loop Systems.",
-        "summary": "Adv Healthc Mater (2026 Oct 1). Ibraheam MN, Saravanan V, N L",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42817755/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42817755/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "174ef8d0cb77",
-        "category": "medical",
-        "lang": "en",
-        "title": "Various Protein Receptor Functionality in Wound Healing.",
-        "summary": "Curr Pharm Des (2026 Sep 29). Shahjad, Saxena D, Garg Y",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42817130/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42817130/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "6c754a9a799a",
-        "category": "medical",
-        "lang": "en",
-        "title": "Probiotics-Armed Cationic Photosensitizer for Combating Chronic Wound Infections with Multidrug-Resistant Bacteria Through Dismantling Biofilms and Reprogramming Hostile Wound Milieu.",
-        "summary": "Small (2026 Sep 30). Wang JL, Wang MD, Chen Y",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42817001/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42817001/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "162263a1689b",
-        "category": "medical",
-        "lang": "en",
-        "title": "Electrospun silk sericin-poly(lactic acid) coaxial nanofiber scaffold for esmolol and ferulic acid co-delivery in expedited diabetic wound healing.",
-        "summary": "Int J Biol Macromol (2026 Sep 30). Pandey G, Kolipaka T, Yadav D",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42815666/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42815666/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "f0653935ed11",
-        "category": "medical",
-        "lang": "en",
-        "title": "Photopolymerized antimicrobial hydrogels based on thiol-functionalized MXenes and in-situ generated silver nanoparticles.",
-        "summary": "Biomater Adv (2026 Sep 26). Toader G, Zorila FL, Alexandru M",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42815074/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42815074/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "2d9c5991e25f",
-        "category": "medical",
-        "lang": "en",
-        "title": "Magnesium Phosphate Composite Hydrogel Dressing Promotes Diabetic Wound Repair Through Anti-Inflammatory, Antioxidant, Angiogenic, and Metabolic Regulatory Mechanisms.",
-        "summary": "Adv Healthc Mater (2026 Sep 30). Wang X, Zuo Y, Liu S",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42814517/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42814517/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "8e8b2ce6f575",
-        "category": "medical",
-        "lang": "en",
-        "title": "Biodegradable polyethylene glycol-based poly(β-amino ester) hydrogel for curcumin delivery in wound treatment.",
-        "summary": "RSC Adv (2026 Sep 29). Nguyen PT, Tam Tran NA, Le HH",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42812851/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42812851/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "b4b3fe2439f6",
-        "category": "medical",
-        "lang": "en",
-        "title": "[Expert consensus on the application of the hydrosurgery system in wound debridement (2026 edition)].",
-        "summary": "Zhonghua Shao Shang Yu Chuang Mian Xiu Fu Za Zhi (2026 Sep 20). Wound Repair Professional Committee of Chinese Medical Doctor Association",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811573/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42811573/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "4ecf91b437f0",
-        "category": "medical",
-        "lang": "en",
-        "title": "PRP-Integrated Conductive Hydrogels With Dynamic Crosslinking for Accelerated Wound Healing and Physiological Monitoring.",
-        "summary": "Adv Healthc Mater (2026 Sep 29). Li Y, Liu Y, Guo Y",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811379/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42811379/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "35f1bea8f380",
-        "category": "medical",
-        "lang": "en",
-        "title": "A Dynamic Polysaccharide Hydrogel With Reactive Oxygen Species-Scavenging, Antibacterial Activity, and Angiogenesis for Pressure Injury and Diabetic Wound Healing.",
-        "summary": "Adv Healthc Mater (2026 Sep 29). Ma Y, Zhao H, Zhang Y",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42811356/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42811356/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "2b90e11e5f85",
-        "category": "medical",
-        "lang": "en",
-        "title": "A glucose oxidase-powered multi-responsive composite hydrogel with a cascade-amplified antibacterial response for wound dressing.",
-        "summary": "Biomater Sci (2026 Sep 29). Liang Q, Liu Z, Zhu C",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42808836/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42808836/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "c0a08eeb7587",
-        "category": "medical",
-        "lang": "en",
-        "title": "Advanced Hydrogel Functionalization Strategies for Burn-Related Wound Treatment.",
-        "summary": "Biomater Res (2026). Hasan ML, Al Mazid MF, Khan Y",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42807586/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42807586/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "88d6e2be9e1e",
-        "category": "medical",
-        "lang": "en",
-        "title": "An Injectable Polyurethane/Hyaluronic Acid Hybrid Hydrogel for Glucose-Responsive CAPE Release and Immune Remodeling in Diabetic Wound Healing.",
-        "summary": "ACS Appl Mater Interfaces (2026 Sep 29). Chen S, Liu J, Guo X",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42806474/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42806474/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "15664c03ba8e",
-        "category": "medical",
-        "lang": "en",
-        "title": "Ginsenoside Rd-functionalized hydrogel for immune modulation and enhanced diabetic wound healing.",
-        "summary": "J Control Release (2026 Sep 28). Wu Q, Li Y, Gao X",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42805566/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42805566/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "7a1298ca5c89",
-        "category": "medical",
-        "lang": "en",
-        "title": "Bioaugmented ZnO/MoO₃-activated carbon nanocomposite as platform for antibacterial, wound healing efficacy with embryonic toxicity assessment.",
-        "summary": "Biomater Adv (2026 Sep 17). Suresh K, Faiyazuddin M, Dharmaraj PK",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42805154/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42805154/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
+        "isNew": false,
+        "score": 6.622,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -2174,39 +1714,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.661,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "4e1e4ab585ee",
-        "category": "medical",
-        "lang": "en",
-        "title": "Randomized Controlled Trial to Investigate Clinical Outcomes and Associated Costs When PermeaDerm is Used as Temporary Dressing for Surgical Wounds",
-        "summary": "The goal of this study is to compare the cost and clinical outcomes for two temporary dressings (Allograft and PermeaDerm) used in patients that need a skin graft to heal their wound. The researchers will review cost and other treatment results including how…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT06750809",
-        "publishedAt": "2026-09-23T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Reconstructive surgery",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06750809",
-            "publishedAt": "2026-09-23T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.661,
+        "score": 6.622,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2243,7 +1751,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.661,
+        "score": 6.622,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2275,9 +1783,41 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.458,
+        "score": 6.427,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "7cc538c2a86c",
+        "category": "medical",
+        "lang": "en",
+        "title": "FDA to prioritize guidance on AI, surgical robots next year",
+        "summary": "The FDA outlined its A-list and B-list guidance priorities for the 2027 fiscal year.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/831984/",
+        "publishedAt": "2026-10-02T15:00:00+00:00",
+        "subtopics": [
+          "Surgical products",
+          "Surgical robotics",
+          "Regulatory"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/831984/",
+            "publishedAt": "2026-10-02T15:00:00+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.401,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
@@ -2306,7 +1846,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.171,
+        "score": 6.152,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2338,106 +1878,303 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.071,
+        "score": 6.056,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
-        "id": "69af8b0feb37",
+        "id": "9d02dbc9bbb2",
         "category": "medical",
         "lang": "en",
-        "title": "FDA issues draft guidance for surgical robots",
-        "summary": "A two-day public workshop on evaluating robotic surgery systems with autonomous or remote capabilities is also on the agency’s agenda, as telesurgery advances globally.",
+        "title": "Data privacy concerns could hold patients back from using AI",
+        "summary": "Although artificial intelligence has quickly become integrated into our daily lives, Americans say they’re becoming increasingly concerned about their health data.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.medtechdive.com/news/fda-issues-draft-guidance-for-surgical-robots/831509/",
-        "publishedAt": "2026-09-28T15:34:51+00:00",
+        "url": "https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
+        "publishedAt": "2026-10-01T15:27:21+00:00",
         "subtopics": [
-          "Surgical products",
-          "Surgical robotics",
-          "Regulatory"
+          "AI & digital health",
+          "Clinical study"
         ],
         "sources": [
           {
             "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/fda-issues-draft-guidance-for-surgical-robots/831509/",
-            "publishedAt": "2026-09-28T15:34:51+00:00",
+            "url": "https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
+            "publishedAt": "2026-10-01T15:27:21+00:00",
             "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.383,
-        "firstSeen": "2026-09-28T22:54:15.445617+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "3c044d60f0f2",
-        "category": "medical",
-        "lang": "en",
-        "title": "Penile Prosthesis Implantation in a Patient With Post-polio Residual Paralysis and Pelvic Deformity: A Case Report.",
-        "summary": "Cureus (2026 Aug). Joshi PB, Sriramula SD",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42807140/",
-        "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-        "subtopics": [
-          "Orthopaedics"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42807140/",
-            "publishedAt": "2026-10-02T13:27:47.575101+00:00",
-            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 4.5,
-        "firstSeen": "2026-10-02T13:27:47.575101+00:00",
-        "evidence": "peer_reviewed",
+        "score": 5.781,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
-        "id": "2d046d0e446c",
+        "id": "f8fa5a4b941c",
         "category": "medical",
         "lang": "en",
-        "title": "Sofinnova raises 82M euros to fund medtech startups",
-        "summary": "The venture capital firm expects to launch up to eight new medtech ventures over the next five years.",
+        "title": "Angiographic Catheter Recall: Boston Scientific Removes Imager II Angiographic Catheters",
+        "summary": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.medtechdive.com/news/sofinnova-raises-82m-euros-to-fund-medtech-startups/831649/",
-        "publishedAt": "2026-09-29T15:41:15+00:00",
+        "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
+        "publishedAt": "2026-09-25T04:00:00+00:00",
         "subtopics": [
-          "Industry",
-          "Product launch"
+          "Cardiovascular",
+          "Safety"
         ],
         "sources": [
           {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/sofinnova-raises-82m-euros-to-fund-medtech-startups/831649/",
-            "publishedAt": "2026-09-29T15:41:15+00:00",
-            "tier": 5
+            "name": "FDA MedWatch",
+            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
+            "publishedAt": "2026-09-25T04:00:00+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.422,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00",
-        "evidence": "trade_press",
+        "score": 4.094,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "evidence": "regulator",
+        "matridermRelevant": false
+      },
+      {
+        "id": "554299e1a27c",
+        "category": "medical",
+        "lang": "en",
+        "title": "Safety, Efficacy, & Use of ViviGen Cellular Bone Matrix Allograft in Orthopaedic Fracture Care",
+        "summary": "Prospective registry and retrospective data collection study to assess the efficacy and safety of Vivigen Cellular Bone Matrix (Vivigen) in orthopaedic trauma patients who require bone grafting in the acute, delayed, non-union fracture as well as use in…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT04299022",
+        "publishedAt": "2026-09-15T00:00:00+00:00",
+        "subtopics": [
+          "Orthopaedics",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT04299022",
+            "publishedAt": "2026-09-15T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.856,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "6e51bb3dcbd3",
+        "category": "medical",
+        "lang": "en",
+        "title": "Assessment of Two Soft Tissue Augmentation Using Acellular Dermis Around Dental Implants",
+        "summary": "This study aims to compare soft tissue grafting with acellular dermis at Phase I or Phase II dental implant surgery.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07512245",
+        "publishedAt": "2026-09-25T00:00:00+00:00",
+        "subtopics": [
+          "Orthopaedics",
+          "Dental"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07512245",
+            "publishedAt": "2026-09-25T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.67,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "d09d0815f008",
+        "category": "medical",
+        "lang": "en",
+        "title": "X-BS Ortho Bone Graft Study",
+        "summary": "Randomised investigation of the osteoconductive performance and safety of CE-marked FDBS bone graft (GraftR3®), with contextual reference to CE-marked IBS (MBCP® Putty), in the filling of orthopaedic bone defects.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT06326827",
+        "publishedAt": "2026-09-24T00:00:00+00:00",
+        "subtopics": [
+          "Orthopaedics"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06326827",
+            "publishedAt": "2026-09-24T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.539,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "9d601953fee0",
+        "category": "medical",
+        "lang": "en",
+        "title": "Federal Court Enters Consent Decree Against Gold Star Distribution, Inc. Following Persistent Insanitary Warehouse Conditions",
+        "summary": "A U.S. Food and Drug Administration investigation resulted in a federal court order, dated Sept.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent",
+        "publishedAt": "2026-09-23T19:50:17+00:00",
+        "subtopics": [
+          "Industry",
+          "Regulatory"
+        ],
+        "sources": [
+          {
+            "name": "FDA",
+            "url": "http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent",
+            "publishedAt": "2026-09-23T19:50:17+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.518,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "evidence": "regulator",
+        "matridermRelevant": false
+      },
+      {
+        "id": "953ea359818c",
+        "category": "medical",
+        "lang": "en",
+        "title": "Esophageal pH Monitoring Capsule Recall: Medtronic and Given Imaging Remove Esophageal pH Monitoring Capsule Delivery Device",
+        "summary": "The Medtronic and Given Imaging Bravo CF esophageal pH monitoring capsule can fail to attach to the esophagus or detach from its delivery device.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+        "publishedAt": "2026-09-15T04:00:00+00:00",
+        "subtopics": [
+          "Diagnostics & imaging",
+          "Safety"
+        ],
+        "sources": [
+          {
+            "name": "FDA MedWatch",
+            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/esophageal-ph-monitoring-capsule-recall-medtronic-and-given-imaging-remove-esophageal-ph-monitoring",
+            "publishedAt": "2026-09-15T04:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 1.963,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "evidence": "regulator",
+        "matridermRelevant": false
+      },
+      {
+        "id": "48f1529a7c8e",
+        "category": "medical",
+        "lang": "en",
+        "title": "Otsuka ICU Medical LLC Issues Voluntary Nationwide Recall of 0.9% Sodium Chloride Injection, USP Due To a Product Mix-up with 10 mEq Potassium Chloride Injection",
+        "summary": "Otsuka ICU Medical LLC is issuing a voluntary recall for one lot of 0.9% SODIUM CHLORIDE Injection, USP, 100mL single pack to the user level due to a potential mix-up. The affected lot of 0.9% SODIUM CHLORIDE Injection, USP (NDC: 0990-7984-23 Lot 1042188)…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
+        "publishedAt": "2026-09-21T04:00:00+00:00",
+        "subtopics": [
+          "Industry",
+          "Safety"
+        ],
+        "sources": [
+          {
+            "name": "FDA MedWatch",
+            "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/otsuka-icu-medical-llc-issues-voluntary-nationwide-recall-09-sodium-chloride-injection-usp-due",
+            "publishedAt": "2026-09-21T04:00:00+00:00",
+            "tier": 1
+          },
+          {
+            "name": "FDA MedWatch",
+            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/sodium-chloride-flush-recall-spectra-medical-removes-sodium-chloride-injection-usp-ampules",
+            "publishedAt": "2026-09-18T04:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 1.441,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "evidence": "regulator",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "e37457e9ac00",
+        "category": "growth",
+        "lang": "en",
+        "title": "What If We Stopped Using GPUs? | YC Paper Club",
+        "summary": "This week’s Paper Club is all about alternative compute. Modern AI has been shaped by a tight coupling between transformers, backpropagation, and GPUs.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+        "publishedAt": "2026-10-02T14:00:19+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+            "publishedAt": "2026-10-02T14:00:19+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.972,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "kind": "video",
+        "video": {
+          "id": "xc2FTBGRSJo",
+          "thumbUrl": "https://i1.ytimg.com/vi/xc2FTBGRSJo/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+          "channel": "Y Combinator"
+        }
+      },
       {
         "id": "ee76fcb97177",
         "category": "growth",
@@ -2463,7 +2200,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.913,
+        "score": 5.644,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2473,6 +2210,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=lSpsm8aVsuc",
           "channel": "TED"
         }
+      },
+      {
+        "id": "ac719b52e635",
+        "category": "growth",
+        "lang": "en",
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+        "publishedAt": "2026-10-02T15:49:04+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+            "publishedAt": "2026-10-02T15:49:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.545,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "kind": "article"
       },
       {
         "id": "7579a1422f79",
@@ -2499,7 +2265,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.748,
+        "score": 5.498,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2541,7 +2307,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.743,
+        "score": 5.4,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00",
         "kind": "article"
       },
@@ -2570,7 +2336,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.859,
+        "score": 4.619,
         "firstSeen": "2026-10-01T14:06:18.897791+00:00",
         "kind": "article"
       },
@@ -2599,36 +2365,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.81,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "89ed10d59c95",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Matthew Green",
-        "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-        "publishedAt": "2026-10-01T06:29:01+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-            "publishedAt": "2026-10-01T06:29:01+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.392,
+        "score": 4.576,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2657,7 +2394,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.336,
+        "score": 4.25,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "video",
         "video": {
@@ -2667,6 +2404,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=9Ff4S1FJdRM",
           "channel": "TED"
         }
+      },
+      {
+        "id": "89ed10d59c95",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Matthew Green",
+        "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+        "publishedAt": "2026-10-01T06:29:01+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+            "publishedAt": "2026-10-01T06:29:01+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.172,
+        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
+        "kind": "article"
       },
       {
         "id": "e0f6262c25e2",
@@ -2694,7 +2460,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.241,
+        "score": 4.073,
         "firstSeen": "2026-09-30T13:14:49.366626+00:00",
         "kind": "article"
       },
@@ -2723,9 +2489,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.209,
+        "score": 4.045,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
+      },
+      {
+        "id": "e0d113feca38",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Gravity-Defying Future of Manufacturing | Schendy Kernizan | TED",
+        "summary": "3D printing promised to reinvent how we make things, but it's mostly stuck producing prototypes with a high level of waste. Designer and TED Fellow Schendy Kernizan found a different way — by printing objects directly into a tub of gel.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=r63spwe1LCI",
+        "publishedAt": "2026-10-02T15:00:07+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=r63spwe1LCI",
+            "publishedAt": "2026-10-02T15:00:07+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.893,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "kind": "video",
+        "video": {
+          "id": "r63spwe1LCI",
+          "thumbUrl": "https://i3.ytimg.com/vi/r63spwe1LCI/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=r63spwe1LCI",
+          "channel": "TED"
+        }
       },
       {
         "id": "e51238a5b3f5",
@@ -2752,7 +2554,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.858,
+        "score": 3.85,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "video",
         "video": {
@@ -2788,7 +2590,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.837,
+        "score": 3.829,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "video",
         "video": {
@@ -2824,73 +2626,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.808,
+        "score": 3.691,
         "firstSeen": "2026-09-29T13:40:37.677670+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4f74bac335ac",
-        "category": "growth",
-        "lang": "en",
-        "title": "Is this why adult friendships feel so hard?",
-        "summary": "Busy schedules, quiet group chats and no one's sure who should text first. Sound familiar?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/DBhAROQM51E",
-        "publishedAt": "2026-09-26T19:00:29+00:00",
-        "subtopics": [
-          "Psychology"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/DBhAROQM51E",
-            "publishedAt": "2026-09-26T19:00:29+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.767,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "video",
-        "video": {
-          "id": "DBhAROQM51E",
-          "thumbUrl": "https://i1.ytimg.com/vi/DBhAROQM51E/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=DBhAROQM51E",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "1e2adcbb126c",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Anthropic Frontier Red Team",
-        "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-        "publishedAt": "2026-09-29T22:20:28+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-            "publishedAt": "2026-09-29T22:20:28+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.673,
-        "firstSeen": "2026-09-29T22:47:58.379274+00:00",
         "kind": "article"
       },
       {
@@ -2919,7 +2656,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.655,
+        "score": 3.614,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "video",
         "video": {
@@ -2929,6 +2666,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "1e2adcbb126c",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Anthropic Frontier Red Team",
+        "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+        "publishedAt": "2026-09-29T22:20:28+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+            "publishedAt": "2026-09-29T22:20:28+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.536,
+        "firstSeen": "2026-09-29T22:47:58.379274+00:00",
+        "kind": "article"
       },
       {
         "id": "cab141db60b6",
@@ -2956,7 +2722,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.607,
+        "score": 3.478,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2985,7 +2751,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.579,
+        "score": 3.454,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "article"
       },
@@ -3015,7 +2781,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.566,
+        "score": 3.442,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
         "kind": "article"
       },
@@ -3044,7 +2810,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.318,
+        "score": 3.223,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -3073,8 +2839,109 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.283,
+        "score": 3.192,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "67d200a66bf8",
+        "category": "growth",
+        "lang": "en",
+        "title": "Paul Graham on what motivates founders",
+        "summary": "Paul Graham on what drives founders through the hard parts: “Being dutiful is not enough. The obstacles are too fearsome for mere dutifulness.” “You know what actually motivates founders day to day?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/Wxq7ZIEodJg",
+        "publishedAt": "2026-09-05T16:46:07+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/Wxq7ZIEodJg",
+            "publishedAt": "2026-09-05T16:46:07+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.123,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "kind": "video",
+        "video": {
+          "id": "Wxq7ZIEodJg",
+          "thumbUrl": "https://i4.ytimg.com/vi/Wxq7ZIEodJg/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=Wxq7ZIEodJg",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "057df725d4fb",
+        "category": "growth",
+        "lang": "en",
+        "title": "Hard Tech Startups Are Built One Milestone at a Time",
+        "summary": "At Heart Aerospace, Anders Forslund built the company one material milestone at a time, using each one to earn the credibility and capital to build the next. “We really had no technology.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/knW0YgE-Wd8",
+        "publishedAt": "2026-09-04T19:35:16+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/knW0YgE-Wd8",
+            "publishedAt": "2026-09-04T19:35:16+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.112,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "video",
+        "video": {
+          "id": "knW0YgE-Wd8",
+          "thumbUrl": "https://i4.ytimg.com/vi/knW0YgE-Wd8/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=knW0YgE-Wd8",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "713be224f255",
+        "category": "growth",
+        "lang": "en",
+        "title": "How smaller, distributed batteries could help the grid",
+        "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+        "publishedAt": "2026-10-01T10:00:00+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+            "publishedAt": "2026-10-01T10:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.063,
+        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
       {
@@ -3102,45 +2969,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.125,
+        "score": 3.052,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
-      },
-      {
-        "id": "057df725d4fb",
-        "category": "growth",
-        "lang": "en",
-        "title": "Hard Tech Startups Are Built One Milestone at a Time",
-        "summary": "At Heart Aerospace, Anders Forslund built the company one material milestone at a time, using each one to earn the credibility and capital to build the next. “We really had no technology.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/knW0YgE-Wd8",
-        "publishedAt": "2026-09-04T19:35:16+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/knW0YgE-Wd8",
-            "publishedAt": "2026-09-04T19:35:16+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.116,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "video",
-        "video": {
-          "id": "knW0YgE-Wd8",
-          "thumbUrl": "https://i4.ytimg.com/vi/knW0YgE-Wd8/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=knW0YgE-Wd8",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "193eb09a66e5",
@@ -3169,66 +3000,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.088,
+        "score": 3.019,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "713be224f255",
-        "category": "growth",
-        "lang": "en",
-        "title": "How smaller, distributed batteries could help the grid",
-        "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-        "publishedAt": "2026-10-01T10:00:00+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-            "publishedAt": "2026-10-01T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.072,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "dca90bdd5204",
-        "category": "growth",
-        "lang": "en",
-        "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-        "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-        "publishedAt": "2026-09-29T11:00:00+00:00",
-        "subtopics": [
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-            "publishedAt": "2026-09-29T11:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.026,
-        "firstSeen": "2026-09-29T12:03:15.991514+00:00",
         "kind": "article"
       },
       {
@@ -3257,7 +3030,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.91,
+        "score": 2.862,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3286,37 +3059,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.772,
+        "score": 2.763,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "44842586bfdd",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting John Gruber",
-        "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and because it’s packaged in an easy-to-install easy-to-use way. It’s literally…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-        "publishedAt": "2026-09-25T17:22:01+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-            "publishedAt": "2026-09-25T17:22:01+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.761,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
       {
@@ -3346,7 +3090,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.618,
+        "score": 2.611,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3377,7 +3121,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.58,
+        "score": 2.574,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3408,7 +3152,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.46,
+        "score": 2.455,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a842fefb2bdb",
+        "category": "growth",
+        "lang": "en",
+        "title": "What It’s Like to Be…a Mail Carrier",
+        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+        "publishedAt": "2026-08-11T12:30:27+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+            "publishedAt": "2026-08-11T12:30:27+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.41,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3439,95 +3213,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.361,
+        "score": 2.357,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
-        "id": "f05a3ea43d40",
+        "id": "a821601d6da8",
         "category": "growth",
         "lang": "en",
-        "title": "The Myth of Owning Your Time",
-        "summary": "You've probably heard it all before. Be your own boss.",
+        "title": "What It’s Like to Be…a Hotshot",
+        "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
-        "publishedAt": "2026-08-18T11:45:54+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
-            "publishedAt": "2026-08-18T11:45:54+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.157,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "9df6253b05bb",
-        "category": "growth",
-        "lang": "en",
-        "title": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
-        "summary": "David Baszucki is the co-founder and CEO of Roblox, a platform built around a simple idea: give people the tools and incentives to create together. In this short conversation, he shares how a health decision saved his son’s life and how it changed how he…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-        "publishedAt": "2026-08-13T09:45:00+00:00",
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+        "publishedAt": "2026-07-28T12:23:34+00:00",
         "subtopics": [
           "Communication",
-          "Entrepreneurship"
+          "Relationships"
         ],
         "sources": [
           {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-            "publishedAt": "2026-08-13T09:45:00+00:00",
-            "tier": 3
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+            "publishedAt": "2026-07-28T12:23:34+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.123,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a584a05fe444",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
-        "summary": "This summer, I’m revisiting one of my favorite episodes. If you haven’t heard it, now is the time.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-        "publishedAt": "2026-07-30T09:45:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-            "publishedAt": "2026-07-30T09:45:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.051,
+        "score": 2.342,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3609,7 +3325,7 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 30,
+      "items": 35,
       "error": null
     },
     {
@@ -3633,7 +3349,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 10,
+      "items": 12,
       "error": null
     },
     {
@@ -3662,9 +3378,9 @@
     },
     {
       "id": "pubmed-woundcare",
-      "ok": true,
-      "items": 25,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "id": "pubmed-dermal",
@@ -3734,9 +3450,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3776,9 +3492,9 @@
     }
   ],
   "filteredOut": {
-    "football": 83,
-    "news": 125,
-    "medical": 31,
-    "growth": 53
+    "football": 78,
+    "news": 138,
+    "medical": 27,
+    "growth": 54
   }
 }
