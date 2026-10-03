@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:33:07.588098+00:00",
+  "generatedAt": "2026-10-03T21:56:38.097107+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -35,7 +35,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.915,
+        "score": 12.825,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -64,7 +64,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.344,
+        "score": 11.257,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -93,8 +93,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.512,
+        "score": 10.464,
         "firstSeen": "2026-10-02T13:27:47.575101+00:00"
+      },
+      {
+        "id": "60266ed7b2b9",
+        "category": "football",
+        "lang": "en",
+        "title": "Lamine Yamal stunner helps Spain restore NL advantage over England",
+        "summary": "",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+        "publishedAt": "2026-10-01T23:00:00+00:00",
+        "subtopics": [
+          "Barcelona"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+            "publishedAt": "2026-10-01T23:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 10.088,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00"
       },
       {
         "id": "6b4723038220",
@@ -123,7 +151,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.019,
+        "score": 6.924,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -152,7 +180,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.581,
+        "score": 6.483,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -181,7 +209,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.326,
+        "score": 6.263,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
@@ -210,7 +238,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.579,
+        "score": 5.552,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
       },
       {
@@ -238,38 +266,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.343,
-        "firstSeen": "2026-10-03T20:33:07.588098+00:00"
-      },
-      {
-        "id": "6a364a162f1e",
-        "category": "football",
-        "lang": "en",
-        "title": "Late drama as Chelsea draw away at Lyon",
-        "summary": "Chelsea have a penalty overturned by VAR, while Lauren James and Maika Hamano come close to scoring a winner during their 0-0 draw away at Lyon in the Champions League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr86x8n80572o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-09-30T21:17:02+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cr86x8n80572o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-09-30T21:17:02+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 5.253,
-        "firstSeen": "2026-09-30T21:49:34.126591+00:00"
+        "score": 5.208,
+        "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
         "id": "f9b228d04c36",
@@ -296,8 +295,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.079,
+        "isNew": false,
+        "score": 4.957,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -326,7 +325,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.754,
+        "score": 4.695,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
@@ -355,11 +354,41 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.084,
+        "score": 3.057,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
       }
     ],
     "news": [
+      {
+        "id": "35849a5e3279",
+        "category": "news",
+        "lang": "de",
+        "title": "Mit Manipulation und Tricks in die US-Midterms",
+        "summary": "Wie frei und fair sind Wahlen in den USA? Im Großen und Ganzen gilt das US-Wahlsystem als gut geschützt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/usa-midterms-2026-briefwahl-trump-streit-manipulation-100.html",
+        "publishedAt": "2026-10-03T20:55:00+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/usa-midterms-2026-briefwahl-trump-streit-manipulation-100.html",
+            "publishedAt": "2026-10-03T20:55:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.954,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00"
+      },
       {
         "id": "88c068d1df49",
         "category": "news",
@@ -385,8 +414,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.943,
+        "isNew": false,
+        "score": 7.883,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -414,8 +443,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.909,
+        "isNew": false,
+        "score": 7.849,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -443,8 +472,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.885,
+        "isNew": false,
+        "score": 7.825,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -472,8 +501,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.868,
+        "isNew": false,
+        "score": 7.809,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -501,8 +530,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.838,
+        "isNew": false,
+        "score": 7.78,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -531,7 +560,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.788,
+        "score": 7.731,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00"
       },
       {
@@ -560,8 +589,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.777,
+        "isNew": false,
+        "score": 7.72,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -589,8 +618,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.762,
+        "isNew": false,
+        "score": 7.705,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -618,8 +647,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.737,
+        "isNew": false,
+        "score": 7.681,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -648,7 +677,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.6,
+        "score": 7.547,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -677,7 +706,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.595,
+        "score": 7.541,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -706,7 +735,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.575,
+        "score": 7.522,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -736,7 +765,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.495,
+        "score": 7.444,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -765,7 +794,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.356,
+        "score": 7.308,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -793,8 +822,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.275,
+        "isNew": false,
+        "score": 7.22,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -822,8 +851,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.256,
+        "isNew": false,
+        "score": 7.201,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -852,7 +881,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.017,
+        "score": 6.976,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
@@ -882,7 +911,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.96,
+        "score": 6.919,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
@@ -911,7 +940,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.918,
+        "score": 6.878,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
@@ -940,7 +969,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.771,
+        "score": 6.735,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
@@ -969,7 +998,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.436,
+        "score": 6.386,
         "firstSeen": "2026-10-03T12:10:43.532437+00:00"
       },
       {
@@ -999,37 +1028,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.341,
+        "score": 6.305,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00"
-      },
-      {
-        "id": "700cde106bf7",
-        "category": "news",
-        "lang": "en",
-        "title": "Bosnia and Herzegovina is still shaped by war, separatism, EU ambitions",
-        "summary": "Bosnia and Herzegovina is governed by a system established after the Bosnian war — more than 30 years ago. Ethnic divisions, a complex administration and European integration all shape the country's political reality.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-03T06:51:00+00:00",
-        "subtopics": [
-          "EU",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-03T06:51:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.247,
-        "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
         "id": "501fc6ca661a",
@@ -1057,8 +1057,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.241,
+        "score": 6.207,
         "firstSeen": "2026-10-02T13:27:47.575101+00:00"
+      },
+      {
+        "id": "700cde106bf7",
+        "category": "news",
+        "lang": "en",
+        "title": "Bosnia and Herzegovina is still shaped by war, separatism, EU ambitions",
+        "summary": "Bosnia and Herzegovina is governed by a system established after the Bosnian war — more than 30 years ago. Ethnic divisions, a complex administration and European integration all shape the country's political reality.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-03T06:51:00+00:00",
+        "subtopics": [
+          "EU",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/bosnia-and-herzegovina-is-still-shaped-by-war-separatism-eu-ambitions/a-79523557?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-03T06:51:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.196,
+        "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
         "id": "f6111f4ad6e1",
@@ -1086,37 +1115,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.186,
+        "score": 6.162,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
-      },
-      {
-        "id": "18bf7e6967b3",
-        "category": "news",
-        "lang": "de",
-        "title": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
-        "summary": "Nach der missglückten Hinrichtung liegt die zum Tode verurteilte Christa Pike bewusstlos in einem Krankenhaus und wird künstlich beatmet. Nun gerät das Personal in den Fokus - der Behördenchef ist zurückgetreten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
-        "publishedAt": "2026-10-03T17:04:05+00:00",
-        "subtopics": [
-          "Germany",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
-            "publishedAt": "2026-10-03T17:04:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.148,
-        "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
         "id": "1bda14beca0e",
@@ -1145,37 +1145,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.147,
+        "score": 6.107,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
-        "id": "b8707a06b498",
+        "id": "18bf7e6967b3",
         "category": "news",
-        "lang": "en",
-        "title": "Why has Brazil accused the US of election interference?",
-        "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+        "lang": "de",
+        "title": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
+        "summary": "Nach der missglückten Hinrichtung liegt die zum Tode verurteilte Christa Pike bewusstlos in einem Krankenhaus und wird künstlich beatmet. Nun gerät das Personal in den Fokus - der Behördenchef ist zurückgetreten.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-03T13:52:13+00:00",
+        "url": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
+        "publishedAt": "2026-10-03T17:04:05+00:00",
         "subtopics": [
-          "US",
-          "Elections"
+          "Germany",
+          "Healthcare"
         ],
         "sources": [
           {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-03T13:52:13+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
+            "publishedAt": "2026-10-03T17:04:05+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.016,
-        "firstSeen": "2026-10-03T20:33:07.588098+00:00"
+        "isNew": false,
+        "score": 6.09,
+        "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
         "id": "a04b1502aa19",
@@ -1204,19 +1204,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.008,
+        "score": 5.987,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
       },
       {
-        "id": "cd798fd9cd96",
+        "id": "b8707a06b498",
         "category": "news",
         "lang": "en",
-        "title": "Will Spain's housing crisis lead to a snap election?",
-        "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
+        "title": "Why has Brazil accused the US of election interference?",
+        "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-03T12:26:30+00:00",
+        "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T13:52:13+00:00",
         "subtopics": [
           "US",
           "Elections"
@@ -1224,16 +1224,16 @@
         "sources": [
           {
             "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-03T12:26:30+00:00",
+            "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-03T13:52:13+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.959,
+        "isNew": false,
+        "score": 5.96,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -1263,8 +1263,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.93,
+        "score": 5.911,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
+      },
+      {
+        "id": "cd798fd9cd96",
+        "category": "news",
+        "lang": "en",
+        "title": "Will Spain's housing crisis lead to a snap election?",
+        "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T12:26:30+00:00",
+        "subtopics": [
+          "US",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-03T12:26:30+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.904,
+        "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
         "id": "42ba448ea84d",
@@ -1298,7 +1327,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.602,
+        "score": 5.566,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
@@ -1327,7 +1356,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.59,
+        "score": 5.543,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -1355,37 +1384,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.524,
-        "firstSeen": "2026-10-03T20:33:07.588098+00:00"
-      },
-      {
-        "id": "fdc58987363e",
-        "category": "news",
-        "lang": "en",
-        "title": "Latvia: Ruling party leads in exit polls amid populist gains",
-        "summary": "According to an exit poll by public broadcaster LSM, Latvian Prime Minister Andris Kulbergs' centerist party, United List, was projected to win 35.6% of the vote.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-03T18:05:00+00:00",
-        "subtopics": [
-          "World",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-03T18:05:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.492,
+        "isNew": false,
+        "score": 5.464,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       }
     ],
@@ -1418,7 +1418,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.849,
+        "score": 9.845,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1450,10 +1450,201 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.745,
+        "score": 9.738,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
+      },
+      {
+        "id": "1f021073ee40",
+        "category": "medical",
+        "lang": "en",
+        "title": "The Unknown Benefits of Dermal Matrices in Prevent Loss of Albumin in Patient with Major Burns.",
+        "summary": "Eur Burn J (2026 Sep 17). Ting WCJ, Cheung LYR, Ma H",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42782831/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Dermal matrices",
+          "Burns"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42782831/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 9.7,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": true
+      },
+      {
+        "id": "477b8d5e3ae3",
+        "category": "medical",
+        "lang": "en",
+        "title": "Development and Validation of The Skin Graft Loss Risk Estimator: An Interpretable Machine Learning-Driven Tool for Individualized Assessment in Burn Patients.",
+        "summary": "J Burn Care Res (2026 Sep 18). Hassan AM, Liu HY, Spera LJ",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757870/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Burns",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42757870/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "6ca518a1d141",
+        "category": "medical",
+        "lang": "en",
+        "title": "Re: Secondary Burn Reconstruction: A Longitudinal Descriptive Study of a Prospective Registry to Optimize Reconstructive Practice Development in a Regional Burn Center.",
+        "summary": "Ann Plast Surg (2026 Sep 16). Karti S",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42748027/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Burns",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42748027/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "fdc5216d7232",
+        "category": "medical",
+        "lang": "en",
+        "title": "Free Flap Reconstruction for Burn Injuries: A Single-Center Retrospective Comparison of Primary and Secondary Cases.",
+        "summary": "J Clin Med (2026 Aug 26). Kang D, Wang H, Hong SE",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42739606/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Burns",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42739606/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "84f982ab2b1d",
+        "category": "medical",
+        "lang": "en",
+        "title": "Pre-Grafting Infection Biomarker Burden and Autologous Skin Graft Take in Adults with Severe Burns: A Single-Center Retrospective Cohort Study.",
+        "summary": "J Vis Exp (2026 Sep 11). Zhang Y, Wang X, Lai Q",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42730670/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Burns",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42730670/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "b74b7c9313ef",
+        "category": "medical",
+        "lang": "en",
+        "title": "Early Digital and Inflammatory Markers of Delayed Healing in Burns, Ulcers, and Hand Reconstruction: A Prospective Cohort Study.",
+        "summary": "J Vis Exp (2026 Sep 11). Wang J, Li Z, Wang M",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42730666/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Wound care",
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42730666/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
       },
       {
         "id": "bca4fcc89231",
@@ -1481,7 +1672,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.105,
+        "score": 8.089,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1513,7 +1704,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.047,
+        "score": 8.031,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1550,7 +1741,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.835,
+        "score": 7.821,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1582,8 +1773,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.835,
+        "score": 7.821,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "3548d22395e5",
+        "category": "medical",
+        "lang": "en",
+        "title": "Intracompartmental Pressure and Burn Depth Dynamics in Circumferential Deep Dermal Burns Treated with Bromelain-Based Enzymatic Debridement: A Retrospective, Hypothesis-Generating Single-Center Study.",
+        "summary": "Eur Burn J (2026 Sep 11). Moraru DC, Constantinescu MC, Amarandei AH",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42782830/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Burns",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42782830/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.4,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1613,9 +1835,133 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.097,
+        "score": 7.079,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "da73beff3c18",
+        "category": "medical",
+        "lang": "en",
+        "title": "Therapeutic potential of Manganese (Mn) and Zinc (Zn) ion-doped bioactive glass-based fish collagen-carrageenan biomatrix in tissue remodeling of burn wounds.",
+        "summary": "J Biomater Appl (2026 Sep 29). Nandi SK",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42808689/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Wound care",
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42808689/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "2aa2387aeef1",
+        "category": "medical",
+        "lang": "en",
+        "title": "Beyond Early Excision and Grafting: A Perspective on Tissue-Preserving and Regenerative Topical Burn Wound Care.",
+        "summary": "J Clin Med (2026 Sep 11). Matsumura H, Fujii M",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42795806/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Wound care",
+          "Regenerative medicine"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42795806/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.7,
+        "firstSeen": "2026-09-27T20:48:11.090728+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "276119523385",
+        "category": "medical",
+        "lang": "en",
+        "title": "Acute Herpes Zoster-Like Eruption in a Free Flap after Reconstruction of Post-Burn Hand Contracture: A Case Report.",
+        "summary": "Hand Surg Rehabil (2026 Sep 19). Lee JK, Kim JT",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42762976/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Burns"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42762976/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "204778158da2",
+        "category": "medical",
+        "lang": "en",
+        "title": "Pedicled Total-Leg Fillet Flap for Salvage Coverage of a Combined Pelvic and Proximal Femoral Defect After High-Voltage Electrical Burn: Technical Considerations, Limitations and Focused Review.",
+        "summary": "J Burn Care Res (2026 Sep 18). Joly ELE, David V, Pichon X",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42757863/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Burns"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42757863/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1645,7 +1991,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.524,
+        "score": 6.518,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1677,7 +2023,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.524,
+        "score": 6.518,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1714,7 +2060,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.524,
+        "score": 6.518,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1746,7 +2092,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.349,
+        "score": 6.345,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1777,7 +2123,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.103,
+        "score": 6.101,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1809,7 +2155,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.091,
+        "score": 6.073,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1841,7 +2187,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.018,
+        "score": 6.016,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1872,9 +2218,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.505,
+        "score": 5.49,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "d5fb27380007",
+        "category": "medical",
+        "lang": "en",
+        "title": "Reading between the lesions: Recognizing intent in pediatric burn injuries.",
+        "summary": "J Forensic Sci (2026 Sep 16). Buzzelli A, Amadasi A, Franceschetti L",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42748100/",
+        "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+        "subtopics": [
+          "Burns"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42748100/",
+            "publishedAt": "2026-10-03T21:56:38.097107+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.4,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00",
+        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1903,7 +2279,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.966,
+        "score": 3.959,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1934,7 +2310,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.818,
+        "score": 3.816,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1965,7 +2341,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.545,
+        "score": 3.538,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1995,7 +2371,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.428,
+        "score": 3.422,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2026,7 +2402,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.409,
+        "score": 3.403,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2057,7 +2433,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.924,
+        "score": 1.922,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2094,7 +2470,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.362,
+        "score": 1.358,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2127,7 +2503,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.204,
+        "score": 5.165,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2163,7 +2539,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.057,
+        "score": 5.027,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2199,7 +2575,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.952,
+        "score": 4.924,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2235,7 +2611,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.756,
+        "score": 4.716,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "article"
       },
@@ -2270,7 +2646,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.653,
+        "score": 4.615,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00",
         "kind": "article"
       },
@@ -2299,7 +2675,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.096,
+        "score": 4.07,
         "firstSeen": "2026-10-01T14:06:18.897791+00:00",
         "kind": "article"
       },
@@ -2328,7 +2704,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.065,
+        "score": 4.039,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2357,7 +2733,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.87,
+        "score": 3.868,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2393,7 +2769,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.828,
+        "score": 3.827,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "video",
         "video": {
@@ -2429,7 +2805,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.808,
+        "score": 3.806,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "video",
         "video": {
@@ -2466,37 +2842,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.707,
+        "score": 3.688,
         "firstSeen": "2026-09-30T13:14:49.366626+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "89ed10d59c95",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Matthew Green",
-        "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-        "publishedAt": "2026-10-01T06:29:01+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-            "publishedAt": "2026-10-01T06:29:01+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.691,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
       {
@@ -2524,8 +2871,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.687,
+        "score": 3.669,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "89ed10d59c95",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Matthew Green",
+        "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+        "publishedAt": "2026-10-01T06:29:01+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+            "publishedAt": "2026-10-01T06:29:01+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.667,
+        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
       {
@@ -2553,7 +2929,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.435,
+        "score": 3.422,
         "firstSeen": "2026-09-29T13:40:37.677670+00:00",
         "kind": "article"
       },
@@ -2582,7 +2958,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.238,
+        "score": 3.223,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00",
         "kind": "article"
       },
@@ -2612,7 +2988,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.197,
+        "score": 3.183,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2641,7 +3017,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.179,
+        "score": 3.166,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "article"
       },
@@ -2671,7 +3047,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.171,
+        "score": 3.157,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
         "kind": "article"
       },
@@ -2700,7 +3076,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.112,
+        "score": 3.111,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2736,7 +3112,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.102,
+        "score": 3.101,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2772,7 +3148,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.041,
+        "score": 3.04,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2801,7 +3177,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.015,
+        "score": 3.004,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2830,7 +3206,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.993,
+        "score": 2.983,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2859,7 +3235,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.893,
+        "score": 2.885,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2890,7 +3266,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.87,
+        "score": 2.862,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2920,7 +3296,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.758,
+        "score": 2.753,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2949,7 +3325,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.741,
+        "score": 2.74,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2980,7 +3356,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.592,
+        "score": 2.591,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3011,7 +3387,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.556,
+        "score": 2.555,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3042,7 +3418,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.44,
+        "score": 2.439,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3072,7 +3448,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.405,
+        "score": 2.404,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3103,7 +3479,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.345,
+        "score": 2.344,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3133,7 +3509,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.339,
+        "score": 2.338,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3348,9 +3724,9 @@
     },
     {
       "id": "pubmed-burns",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 12,
+      "error": null
     },
     {
       "id": "ctgov-dermal",
@@ -3445,7 +3821,7 @@
   ],
   "filteredOut": {
     "football": 82,
-    "news": 148,
+    "news": 147,
     "medical": 27,
     "growth": 55
   }
