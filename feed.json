@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T11:43:40.220855+00:00",
+  "generatedAt": "2026-10-04T12:59:50.016836+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -35,7 +35,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.131,
+        "score": 12.082,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -64,7 +64,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.589,
+        "score": 10.542,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -92,8 +92,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.718,
+        "isNew": false,
+        "score": 7.601,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -121,8 +121,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.301,
+        "isNew": false,
+        "score": 7.201,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -152,7 +152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.192,
+        "score": 6.141,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -181,7 +181,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.729,
+        "score": 5.676,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -210,37 +210,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.342,
+        "score": 5.327,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
-      },
-      {
-        "id": "07f298db3cb2",
-        "category": "football",
-        "lang": "en",
-        "title": "Seventh heaven for England in Croatia",
-        "summary": "John Murray presents reaction in Croatia to England's 7-0 Nations League win.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sounds/play/p0pdvwxg?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-03T20:38:00+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sounds/play/p0pdvwxg?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-03T20:38:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 4.276,
-        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
         "id": "936041263e99",
@@ -268,8 +239,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.241,
+        "score": 4.209,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00"
+      },
+      {
+        "id": "07f298db3cb2",
+        "category": "football",
+        "lang": "en",
+        "title": "Seventh heaven for England in Croatia",
+        "summary": "John Murray presents reaction in Croatia to England's 7-0 Nations League win.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sounds/play/p0pdvwxg?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T20:38:00+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sounds/play/p0pdvwxg?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-03T20:38:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.2,
+        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
         "id": "f9b228d04c36",
@@ -297,7 +297,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.023,
+        "score": 3.957,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -326,7 +326,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.845,
+        "score": 2.83,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
       }
     ],
@@ -335,12 +335,12 @@
         "id": "8001d914032a",
         "category": "news",
         "lang": "de",
-        "title": "Wahl in Lettland: Partei von Ministerpräsident in Führung",
+        "title": "Wahl in Lettland: Pro-EU-Partei liegt vorn",
         "summary": "Die Letten haben ein neues Parlament gewählt - nachdem die meisten Stimmen ausgezählt sind, liegt die Vereinigte Liste von Ministerpräsident Kulbergs vorn. Doch auch prorussische Parteien haben zugelegt.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
-        "publishedAt": "2026-10-04T07:58:11+00:00",
+        "url": "https://www.zdfheute.de/politik/ausland/lettland-wahl-eu-100.html",
+        "publishedAt": "2026-10-04T12:21:00+00:00",
         "subtopics": [
           "EU",
           "Germany",
@@ -348,15 +348,15 @@
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
-            "publishedAt": "2026-10-04T07:58:11+00:00",
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/lettland-wahl-eu-100.html",
+            "publishedAt": "2026-10-04T12:21:00+00:00",
             "tier": 2
           },
           {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/lettland-wahl-eu-100.html",
-            "publishedAt": "2026-10-04T06:45:00+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
+            "publishedAt": "2026-10-04T07:58:11+00:00",
             "tier": 2
           }
         ],
@@ -364,19 +364,48 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.637,
+        "score": 8.771,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
+      },
+      {
+        "id": "79c7eff59e00",
+        "category": "news",
+        "lang": "de",
+        "title": "Aktuelles zum Krieg in der Ukraine",
+        "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+        "publishedAt": "2026-10-04T12:56:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+            "publishedAt": "2026-10-04T12:56:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.997,
+        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
       },
       {
         "id": "0ae8c94f2488",
         "category": "news",
         "lang": "de",
         "title": "Rhein will AfD Ausschussvorsitze ermöglichen",
-        "summary": "Hessens Ministerpräsident Rhein schließt eine inhaltliche Zusammenarbeit mit der AfD zwar aus. Sie solle aber im Bundestag Ausschussvorsitze übernehmen können.",
+        "summary": "Hessens Ministerpräsident Rhein plädiert dafür, dass die AfD im Bundestag Ausschussvorsitze übernehmen könne. Aus dem Parlament gibt es für den CDU-Politiker klaren Widerspruch, die AfD begrüßt den Vorstoß.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
-        "publishedAt": "2026-10-04T11:36:23+00:00",
+        "publishedAt": "2026-10-04T12:21:51+00:00",
         "subtopics": [
           "Germany",
           "Government"
@@ -385,7 +414,65 @@
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
-            "publishedAt": "2026-10-04T11:36:23+00:00",
+            "publishedAt": "2026-10-04T12:21:51+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.972,
+        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
+      },
+      {
+        "id": "64edcfdca6a3",
+        "category": "news",
+        "lang": "en",
+        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+        "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-04T12:09:04+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-04T12:09:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.962,
+        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
+      },
+      {
+        "id": "028e31d2d9da",
+        "category": "news",
+        "lang": "de",
+        "title": "Baskenland und Katalonien: Mehrere Tote bei schweren Unwettern in Spanien",
+        "summary": "Bei heftigen Regenfällen in Spanien sind drei Menschen ums Leben gekommen. In Katalonien und im Baskenland wurden Straßen und Keller überflutet - die Feuerwehr war im Dauereinsatz.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html",
+        "publishedAt": "2026-10-04T11:43:22+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/unwetter-spanien-124.html",
+            "publishedAt": "2026-10-04T11:43:22+00:00",
             "tier": 2
           }
         ],
@@ -393,8 +480,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.995,
-        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
+        "score": 7.944,
+        "firstSeen": "2026-10-04T12:59:50.016836+00:00"
       },
       {
         "id": "2e5e9c934821",
@@ -421,66 +508,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.994,
-        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
-      },
-      {
-        "id": "79c7eff59e00",
-        "category": "news",
-        "lang": "de",
-        "title": "Aktuelles zum Krieg in der Ukraine",
-        "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-        "publishedAt": "2026-10-04T11:29:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-            "publishedAt": "2026-10-04T11:29:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.989,
-        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
-      },
-      {
-        "id": "64edcfdca6a3",
-        "category": "news",
-        "lang": "en",
-        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-04T11:25:35+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-04T11:25:35+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.987,
+        "score": 7.938,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -508,8 +537,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.96,
+        "isNew": false,
+        "score": 7.905,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -538,8 +567,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.938,
+        "isNew": false,
+        "score": 7.883,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -567,8 +596,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.918,
+        "isNew": false,
+        "score": 7.863,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -591,19 +620,13 @@
             "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-drohnen-100.html",
             "publishedAt": "2026-10-04T09:39:12+00:00",
             "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/eilmeldung-merz-kiew-100.html",
-            "publishedAt": "2026-10-04T04:44:05+00:00",
-            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.909,
+        "isNew": false,
+        "score": 7.854,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -631,8 +654,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.905,
+        "isNew": false,
+        "score": 7.851,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -660,8 +683,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.904,
+        "isNew": false,
+        "score": 7.849,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -689,8 +712,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.859,
+        "isNew": false,
+        "score": 7.805,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -718,8 +741,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.847,
+        "isNew": false,
+        "score": 7.794,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -727,7 +750,7 @@
         "category": "news",
         "lang": "en",
         "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
-        "summary": "A Kyiv bridge was hit by a Russian drone shortly after Chancellor Merz arrived in the Ukrainian capital. During his visit, Merz is set to announce new measures to support Ukraine, including plans for drone production.",
+        "summary": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine, including plans for joint Ukrainian-German drone production.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf",
@@ -747,8 +770,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.847,
+        "isNew": false,
+        "score": 7.794,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -782,8 +805,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.844,
+        "isNew": false,
+        "score": 7.791,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -811,8 +834,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.842,
+        "isNew": false,
+        "score": 7.788,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -840,8 +863,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.752,
+        "isNew": false,
+        "score": 7.701,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -869,8 +892,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.676,
+        "isNew": false,
+        "score": 7.626,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -898,8 +921,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.637,
+        "isNew": false,
+        "score": 7.588,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -911,7 +934,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.ndr.de/nachrichten/hamburg/plaza-der-hamburger-elbphilharmonie-kostet-ab-montag-eintritt,elphi-116.html",
-        "publishedAt": "2026-10-04T11:27:11+00:00",
+        "publishedAt": "2026-10-04T12:37:02+00:00",
         "subtopics": [
           "Hamburg",
           "Markets"
@@ -920,15 +943,15 @@
           {
             "name": "NDR",
             "url": "https://www.ndr.de/nachrichten/hamburg/plaza-der-hamburger-elbphilharmonie-kostet-ab-montag-eintritt,elphi-116.html",
-            "publishedAt": "2026-10-04T11:27:11+00:00",
+            "publishedAt": "2026-10-04T12:37:02+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.588,
+        "isNew": false,
+        "score": 7.583,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -957,7 +980,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.348,
+        "score": 7.304,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -986,36 +1009,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.302,
-        "firstSeen": "2026-10-03T20:33:07.588098+00:00"
-      },
-      {
-        "id": "117d9870f82e",
-        "category": "news",
-        "lang": "de",
-        "title": "Historisch: England demütigt desolates Kroatien mit 7:0",
-        "summary": "Mit einem beeindruckenden Kantersieg hat England Kroatien geschlagen. Das Spiel war schon vor dem Halbzeitpfiff praktisch entschieden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/sport/fussball-nations-league/fussball-nations-league-england-kroatien-tore-ergebnis-26-27-100.html",
-        "publishedAt": "2026-10-03T17:31:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/sport/fussball-nations-league/fussball-nations-league-england-kroatien-tore-ergebnis-26-27-100.html",
-            "publishedAt": "2026-10-03T17:31:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.288,
+        "score": 7.258,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -1044,7 +1038,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.265,
+        "score": 7.222,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -1073,36 +1067,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.203,
-        "firstSeen": "2026-10-03T20:33:07.588098+00:00"
-      },
-      {
-        "id": "4ddf4df0bc8f",
-        "category": "news",
-        "lang": "de",
-        "title": "Landesweit große Demos gegen Wohnungsnot in Spanien",
-        "summary": "Nach dem Scheitern wichtiger Mietdekrete sind in Spanien viele Menschen auf die Straße gegangen. Veranstalter sprechen von 500.000 Teilnehmern allein in Madrid - die Regierung von 70.000.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
-        "publishedAt": "2026-10-03T14:22:55+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
-            "publishedAt": "2026-10-03T14:22:55+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.184,
+        "score": 7.162,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -1131,7 +1096,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.719,
+        "score": 6.679,
         "firstSeen": "2026-10-03T20:33:07.588098+00:00"
       },
       {
@@ -1159,8 +1124,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.702,
+        "isNew": false,
+        "score": 6.648,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -1189,7 +1154,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.53,
+        "score": 6.501,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00"
       },
       {
@@ -1216,8 +1181,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.367,
+        "isNew": false,
+        "score": 6.315,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -1245,8 +1210,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.279,
+        "isNew": false,
+        "score": 6.223,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -1275,7 +1240,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.946,
+        "score": 5.929,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00"
       },
       {
@@ -1304,7 +1269,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.943,
+        "score": 5.907,
         "firstSeen": "2026-10-03T12:10:43.532437+00:00"
       },
       {
@@ -1333,7 +1298,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.909,
+        "score": 5.885,
         "firstSeen": "2026-10-02T13:27:47.575101+00:00"
       },
       {
@@ -1363,8 +1328,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.804,
+        "score": 5.789,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00"
+      },
+      {
+        "id": "5fd0f08962b4",
+        "category": "news",
+        "lang": "en",
+        "title": "Why Canada is preparing for a (long shot) US invasion",
+        "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-03T23:30:06+00:00",
+        "subtopics": [
+          "US",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-03T23:30:06+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.754,
+        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       }
     ],
     "medical": [
@@ -1396,7 +1390,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.802,
+        "score": 9.798,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1428,7 +1422,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.669,
+        "score": 9.663,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1459,7 +1453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.931,
+        "score": 7.917,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1491,7 +1485,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.876,
+        "score": 7.863,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1528,7 +1522,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.68,
+        "score": 7.668,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1560,7 +1554,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.68,
+        "score": 7.668,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1591,7 +1585,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.909,
+        "score": 6.893,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1623,7 +1617,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.464,
+        "score": 6.459,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1655,7 +1649,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.464,
+        "score": 6.459,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1692,7 +1686,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.464,
+        "score": 6.459,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1724,7 +1718,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.302,
+        "score": 6.298,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1755,7 +1749,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.074,
+        "score": 6.072,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1787,7 +1781,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.995,
+        "score": 5.993,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1819,7 +1813,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.903,
+        "score": 5.888,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1850,7 +1844,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.338,
+        "score": 5.325,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1881,7 +1875,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.889,
+        "score": 3.883,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1912,7 +1906,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.795,
+        "score": 3.793,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1943,7 +1937,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.469,
+        "score": 3.463,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1973,7 +1967,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.361,
+        "score": 3.355,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2004,7 +1998,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.343,
+        "score": 3.338,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2035,7 +2029,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.901,
+        "score": 1.899,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2072,7 +2066,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.314,
+        "score": 1.31,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2104,8 +2098,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.003,
+        "isNew": false,
+        "score": 4.957,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2134,8 +2128,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.946,
+        "isNew": false,
+        "score": 4.9,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2165,7 +2159,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.819,
+        "score": 4.791,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2201,7 +2195,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.762,
+        "score": 4.74,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2237,7 +2231,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.679,
+        "score": 4.659,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2273,7 +2267,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.361,
+        "score": 4.332,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "article"
       },
@@ -2308,7 +2302,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.278,
+        "score": 4.251,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00",
         "kind": "article"
       },
@@ -2337,7 +2331,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.855,
+        "score": 3.853,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2373,7 +2367,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.834,
+        "score": 3.815,
         "firstSeen": "2026-10-01T14:06:18.897791+00:00",
         "kind": "article"
       },
@@ -2402,7 +2396,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.814,
+        "score": 3.812,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "video",
         "video": {
@@ -2410,6 +2404,42 @@
           "thumbUrl": "https://i3.ytimg.com/vi/N8J-PIunXBM/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=N8J-PIunXBM",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "0972a572df6a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Would you try this reading challenge? #TEDTalks",
+        "summary": "Ann Morgan considered herself well read -- until she discovered the \"massive blindspot\" on her bookshelf. Amid a multitude of English and American authors, there were very few books from beyond the English-speaking world.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
+        "publishedAt": "2026-09-29T23:00:39+00:00",
+        "subtopics": [
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
+            "publishedAt": "2026-09-29T23:00:39+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.792,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
+        "kind": "video",
+        "video": {
+          "id": "f6VgtBnARG0",
+          "thumbUrl": "https://i3.ytimg.com/vi/f6VgtBnARG0/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=f6VgtBnARG0",
           "channel": "TED"
         }
       },
@@ -2438,45 +2468,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.81,
+        "score": 3.791,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
-      },
-      {
-        "id": "0972a572df6a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Would you try this reading challenge? #TEDTalks",
-        "summary": "Ann Morgan considered herself well read -- until she discovered the \"massive blindspot\" on her bookshelf. Amid a multitude of English and American authors, there were very few books from beyond the English-speaking world.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
-        "publishedAt": "2026-09-29T23:00:39+00:00",
-        "subtopics": [
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
-            "publishedAt": "2026-09-29T23:00:39+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.794,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
-        "kind": "video",
-        "video": {
-          "id": "f6VgtBnARG0",
-          "thumbUrl": "https://i3.ytimg.com/vi/f6VgtBnARG0/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=f6VgtBnARG0",
-          "channel": "TED"
-        }
       },
       {
         "id": "e0f6262c25e2",
@@ -2504,7 +2498,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.524,
+        "score": 3.51,
         "firstSeen": "2026-09-30T13:14:49.366626+00:00",
         "kind": "article"
       },
@@ -2533,7 +2527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.508,
+        "score": 3.495,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2562,7 +2556,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.45,
+        "score": 3.433,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2591,7 +2585,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.306,
+        "score": 3.297,
         "firstSeen": "2026-09-29T13:40:37.677670+00:00",
         "kind": "article"
       },
@@ -2620,7 +2614,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.105,
+        "score": 3.104,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2656,7 +2650,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.095,
+        "score": 3.094,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2692,7 +2686,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.089,
+        "score": 3.078,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00",
         "kind": "article"
       },
@@ -2722,7 +2716,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.056,
+        "score": 3.046,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2751,8 +2745,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.042,
+        "score": 3.032,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "713be224f255",
+        "category": "growth",
+        "lang": "en",
+        "title": "How smaller, distributed batteries could help the grid",
+        "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+        "publishedAt": "2026-10-01T10:00:00+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+            "publishedAt": "2026-10-01T10:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.025,
+        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
       {
@@ -2781,37 +2804,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.035,
+        "score": 3.025,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "713be224f255",
-        "category": "growth",
-        "lang": "en",
-        "title": "How smaller, distributed batteries could help the grid",
-        "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-        "publishedAt": "2026-10-01T10:00:00+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-            "publishedAt": "2026-10-01T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.026,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
       {
@@ -2839,7 +2833,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.911,
+        "score": 2.903,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2868,7 +2862,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.893,
+        "score": 2.886,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2897,7 +2891,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.814,
+        "score": 2.808,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2928,7 +2922,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.795,
+        "score": 2.79,
         "firstSeen": "2026-09-28T12:48:02.023197+00:00",
         "kind": "article"
       },
@@ -2957,7 +2951,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.726,
+        "score": 2.725,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2988,7 +2982,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.58,
+        "score": 2.579,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3019,7 +3013,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.545,
+        "score": 2.544,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3050,7 +3044,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.431,
+        "score": 2.43,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a842fefb2bdb",
+        "category": "growth",
+        "lang": "en",
+        "title": "What It’s Like to Be…a Mail Carrier",
+        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+        "publishedAt": "2026-08-11T12:30:27+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+            "publishedAt": "2026-08-11T12:30:27+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.401,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3081,95 +3105,68 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.337,
+        "score": 2.336,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
-        "id": "f05a3ea43d40",
+        "id": "a821601d6da8",
         "category": "growth",
         "lang": "en",
-        "title": "The Myth of Owning Your Time",
-        "summary": "You've probably heard it all before. Be your own boss.",
+        "title": "What It’s Like to Be…a Hotshot",
+        "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
-        "publishedAt": "2026-08-18T11:45:54+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
-            "publishedAt": "2026-08-18T11:45:54+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.144,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "9df6253b05bb",
-        "category": "growth",
-        "lang": "en",
-        "title": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
-        "summary": "David Baszucki is the co-founder and CEO of Roblox, a platform built around a simple idea: give people the tools and incentives to create together. In this short conversation, he shares how a health decision saved his son’s life and how it changed how he…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-        "publishedAt": "2026-08-13T09:45:00+00:00",
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+        "publishedAt": "2026-07-28T12:23:34+00:00",
         "subtopics": [
           "Communication",
-          "Entrepreneurship"
+          "Relationships"
         ],
         "sources": [
           {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-            "publishedAt": "2026-08-13T09:45:00+00:00",
-            "tier": 3
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+            "publishedAt": "2026-07-28T12:23:34+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.112,
+        "score": 2.336,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
-        "id": "a584a05fe444",
+        "id": "e31a514b7f90",
         "category": "growth",
         "lang": "en",
-        "title": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
-        "summary": "This summer, I’m revisiting one of my favorite episodes. If you haven’t heard it, now is the time.",
+        "title": "Journey to Robbers Cave",
+        "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-        "publishedAt": "2026-07-30T09:45:00+00:00",
+        "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
+        "publishedAt": "2026-07-19T22:58:46+00:00",
         "subtopics": [
-          "Communication"
+          "Productivity & systems",
+          "Communication",
+          "Presentation & speaking"
         ],
         "sources": [
           {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-            "publishedAt": "2026-07-30T09:45:00+00:00",
-            "tier": 3
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
+            "publishedAt": "2026-07-19T22:58:46+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.044,
+        "score": 2.307,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3376,9 +3373,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3418,8 +3415,8 @@
     }
   ],
   "filteredOut": {
-    "football": 82,
-    "news": 129,
+    "football": 80,
+    "news": 130,
     "medical": 27,
     "growth": 54
   }
