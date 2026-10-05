@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T15:28:52.068309+00:00",
+  "generatedAt": "2026-10-05T23:40:28.355143+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,7 +33,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.538,
+        "score": 11.033,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -61,7 +61,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.538,
+        "score": 11.033,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -90,8 +90,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.915,
+        "score": 9.812,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
+      },
+      {
+        "id": "74e566cc3415",
+        "category": "football",
+        "lang": "en",
+        "title": "Mamardashvili's late penalty save denies Northern Ireland win vs Georgia",
+        "summary": "Isaac Price missed a late penalty as Northern Ireland were held to a goalless draw by Georgia which nevertheless keeps them top of their Nations League group.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/northern-ireland-vs-georgia/report/554072",
+        "publishedAt": "2026-10-05T22:00:00+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/northern-ireland-vs-georgia/report/554072",
+            "publishedAt": "2026-10-05T22:00:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/ck5ynp3ej7m8o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-05T21:56:05+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.131,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
         "id": "29add49b7c37",
@@ -119,7 +154,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.037,
+        "score": 5.78,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -148,7 +183,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.878,
+        "score": 5.66,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -177,37 +212,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.67,
+        "score": 5.256,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "9b462d1979fa",
-        "category": "football",
-        "lang": "en",
-        "title": "Republic of Ireland draw with Israel in second Nations League meeting",
-        "summary": "The Republic of Ireland drew 1-1 with Israel in the second controversial Nations League fixture between the sides.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
-        "publishedAt": "2026-10-04T21:51:00+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
-            "publishedAt": "2026-10-04T21:51:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.626,
-        "firstSeen": "2026-10-04T22:09:18.187694+00:00"
       },
       {
         "id": "d4b890349c32",
@@ -235,7 +241,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.969,
+        "score": 4.853,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -264,7 +270,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.662,
+        "score": 4.126,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -293,21 +299,250 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.185,
+        "score": 3.768,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       }
     ],
     "news": [
       {
-        "id": "408043815929",
+        "id": "f3c4bc6052cb",
         "category": "news",
         "lang": "de",
-        "title": "Spaniens Ministerpräsident Sánchez kündigt vorgezogene Neuwahlen an",
-        "summary": "Der Streit über die Wohnungsmarktpolitik führt zu Neuwahlen in Spanien. Regierungschef Sánchez kündigte eine vorgezogene Parlamentswahl im November an.",
+        "title": "tagesschau",
+        "summary": "Deutsche Nachrichtendienste warnen vor Aktivitäten Russlands, Pläne für neuen Marinehafen in Emden, Spanischer Ministerpräsident Sanchez setzt vorgezogene Neuwahlen an, Flavio Bolsonaro liegt bei Präsidentschaftswahlen im ersten Wahlgang vorne, Seit…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1660766.html",
-        "publishedAt": "2026-10-05T14:08:10+00:00",
+        "url": "https://www.tagesschau.de/tagesschau/ts-81308.html",
+        "publishedAt": "2026-10-05T22:48:07+00:00",
+        "subtopics": [
+          "Germany",
+          "US",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau/ts-81308.html",
+            "publishedAt": "2026-10-05T22:48:07+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1661008.html",
+            "publishedAt": "2026-10-05T18:38:06+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12298.html",
+            "publishedAt": "2026-10-05T18:30:43+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81356.html",
+            "publishedAt": "2026-10-05T18:29:01+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.961,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "2d0f689eaf2f",
+        "category": "news",
+        "lang": "de",
+        "title": "Plaza der Hamburger Elbphilharmonie kostet jetzt Eintritt",
+        "summary": "Fast zehn Jahre lang war der Besuch der Aussichtsplattform der Hamburger Elbphilharmonie kostenfrei. Von heute an kostet dieser fünf Euro.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/regional/hamburg/plaza-der-hamburger-elbphilharmonie-kostet-jetzt-eintritt,elphi-116.html",
+        "publishedAt": "2026-10-05T12:49:59+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/hamburg/plaza-der-hamburger-elbphilharmonie-kostet-jetzt-eintritt,elphi-116.html",
+            "publishedAt": "2026-10-05T12:49:59+00:00",
+            "tier": 2
+          },
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/plaza-der-hamburger-elbphilharmonie-kostet-jetzt-eintritt,elphi-116.html",
+            "publishedAt": "2026-10-05T12:49:59+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.953,
+        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "79c7eff59e00",
+        "category": "news",
+        "lang": "de",
+        "title": "Aktuelles zum Krieg in der Ukraine",
+        "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+        "publishedAt": "2026-10-05T21:41:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+            "publishedAt": "2026-10-05T21:41:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.912,
+        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
+      },
+      {
+        "id": "9395cb93d13d",
+        "category": "news",
+        "lang": "de",
+        "title": "Brasilien: Warum so viele für Flávio Bolsonaro stimmten",
+        "summary": "Präsident Lula verfehlt den Sieg im ersten Wahlgang, das Bolsonaro-Lager feiert einen Überraschungserfolg. Vor der Stichwahl wächst bei der Linken die Sorge vor einem Machtwechsel.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/brasilien-bolsonaro-lula-stichwahl-100.html",
+        "publishedAt": "2026-10-05T19:55:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/brasilien-bolsonaro-lula-stichwahl-100.html",
+            "publishedAt": "2026-10-05T19:55:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.837,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "63ab6abbb367",
+        "category": "news",
+        "lang": "de",
+        "title": "Ärger um neue Fregatten der Bundeswehr - Opposition macht Druck",
+        "summary": "Eigentlich sollte ein niederländisches Unternehmen moderne Fregatten für die Bundeswehr liefern. Doch das Verteidigungsministerium beendete das Projekt - und beauftragte eine andere Firma.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
+        "publishedAt": "2026-10-05T18:01:40+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/verteidigungsministerium-fregatten-bundeswehr-kritik-100.html",
+            "publishedAt": "2026-10-05T18:01:40+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.758,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "b9bd724fb06b",
+        "category": "news",
+        "lang": "de",
+        "title": "America.gov: Digitaler Service oder Überwachung per KI?",
+        "summary": "Die US-Regierung will Behördengänge in einer einzigen, KI-gestützten Plattform bündeln. Bequem, schnell und angeblich ohne zentrale Datensammlung.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
+        "publishedAt": "2026-10-05T17:12:58+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/amerika/usa-america-gov-100.html",
+            "publishedAt": "2026-10-05T17:12:58+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.725,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "ccf3882e56f0",
+        "category": "news",
+        "lang": "de",
+        "title": "Wie die Chefs der Nachrichtendienste die Sicherheitslage einschätzen",
+        "summary": "Einschüchterung, Cyberangriffe, Anschlagspläne - Russland führe einen \"Schattenkrieg\" gegen Deutschland, sagt BND-Chef Jäger. Ein offener Krieg sei das nicht, doch die Grenze verschwimme.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
+        "publishedAt": "2026-10-05T17:11:29+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
+            "publishedAt": "2026-10-05T17:11:29+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.724,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "a9477811246d",
+        "category": "news",
+        "lang": "de",
+        "title": "Warum die Linke wegen eines Insta-Posts bis vor das Verfassungsgericht zieht",
+        "summary": "Wirtschaftsministerin Reiche greift die Linke in einer Rede scharf an. Ihr Ministerium macht daraus einen Instagram-Post.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-100.html",
+        "publishedAt": "2026-10-05T17:10:20+00:00",
         "subtopics": [
           "Germany",
           "Government"
@@ -315,40 +550,133 @@
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1660766.html",
-            "publishedAt": "2026-10-05T14:08:10+00:00",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-100.html",
+            "publishedAt": "2026-10-05T17:10:20+00:00",
             "tier": 2
-          },
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.723,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "19f34b40623e",
+        "category": "news",
+        "lang": "de",
+        "title": "Günther kritisiert Energiepolitik von Ministerin Reiche",
+        "summary": "Um Kosten zu sparen, will Bundeswirtschaftsministerin Reiche die Förderung Erneuerbarer Energien kürzen. Mit scharfen Worten versucht Schleswig-Holsteins Ministerpräsident Günther, das Vorhaben seiner Parteigenossin zu verhindern.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-guenther-energiepolitik-100.html",
+        "publishedAt": "2026-10-05T17:01:40+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html",
-            "publishedAt": "2026-10-05T08:11:20+00:00",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-guenther-energiepolitik-100.html",
+            "publishedAt": "2026-10-05T17:01:40+00:00",
             "tier": 2
-          },
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.717,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "f199ebbb3082",
+        "category": "news",
+        "lang": "de",
+        "title": "Neuwahlen in Spanien: Geht Sánchez' gewagter Plan auf?",
+        "summary": "Spaniens Ministerpräsident Pedro Sánchez ruft für den 29. November Neuwahlen aus.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/spanien-sanchez-neuwahlen-richtungswahl-100.html",
+        "publishedAt": "2026-10-05T16:32:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
           {
             "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/spanien-neuwahl-pedro-sanchez-100.html",
-            "publishedAt": "2026-10-05T07:37:00+00:00",
+            "url": "https://www.zdfheute.de/politik/ausland/spanien-sanchez-neuwahlen-richtungswahl-100.html",
+            "publishedAt": "2026-10-05T16:32:00+00:00",
             "tier": 2
           }
         ],
-        "developing": true,
-        "latestUpdate": "Spaniens Ministerpräsident Sánchez kündigt vorgezogene Neuwahlen an",
-        "earlier": [
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.698,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "857873da3dc0",
+        "category": "news",
+        "lang": "de",
+        "title": "Staatsschutz ermittelt nach Feuer an Stromkabeln in Berlin-Marzahn",
+        "summary": "Erneut hat es in Berlin an Stromkabeln gebrannt, diesmal in Marzahn. Die Polizei geht von Brandstiftung aus, der Staatsschutz hat die Ermittlungen übernommen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/regional/berlin/ermittlungen-brandstiftung-berlin-100.html",
+        "publishedAt": "2026-10-05T16:31:40+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
           {
-            "title": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
-            "source": "Tagesschau",
-            "publishedAt": "2026-10-05T08:11:20+00:00"
-          },
-          {
-            "title": "Spanien: Ministerpräsident Sanchez kündigt Neuwahlen an",
-            "source": "ZDFheute",
-            "publishedAt": "2026-10-05T07:37:00+00:00"
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/berlin/ermittlungen-brandstiftung-berlin-100.html",
+            "publishedAt": "2026-10-05T16:31:40+00:00",
+            "tier": 2
           }
         ],
-        "isNew": false,
-        "score": 8.741,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.697,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "c7cc456e5b71",
+        "category": "news",
+        "lang": "de",
+        "title": "Regierungstruppen im Jemen melden Kontrolle über wichtige Meerenge",
+        "summary": "Lange war die Huthi-Miliz im Jemen auf dem Vormarsch, jetzt schlagen die Regierungstruppen zurück. Unterstützt von Saudi-Arabien konnten sie offenbar die strategisch wichtige Meerenge Bab al-Mandab unter Kontrolle bringen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/asien/jemen-regierungstruppen-100.html",
+        "publishedAt": "2026-10-05T16:24:40+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/asien/jemen-regierungstruppen-100.html",
+            "publishedAt": "2026-10-05T16:24:40+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.693,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
         "id": "42d04c22077f",
@@ -375,8 +703,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.986,
+        "isNew": false,
+        "score": 7.644,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
@@ -404,38 +732,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.959,
+        "isNew": false,
+        "score": 7.619,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
-        "id": "79c7eff59e00",
+        "id": "5f21088148c6",
         "category": "news",
         "lang": "de",
-        "title": "Aktuelles zum Krieg in der Ukraine",
-        "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+        "title": "„Krieg ohne Kriegserklärung“: Was der BND über Russlands Pläne sagt",
+        "summary": "„Krieg ohne Kriegserklärung“: Was der BND über Russlands Pläne sagt",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-        "publishedAt": "2026-10-05T13:10:00+00:00",
+        "url": "https://www.tagesschau.de/video/video-1660752.html",
+        "publishedAt": "2026-10-05T13:40:15+00:00",
         "subtopics": [
           "Germany",
           "Conflict"
         ],
         "sources": [
           {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-            "publishedAt": "2026-10-05T13:10:00+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1660752.html",
+            "publishedAt": "2026-10-05T13:40:15+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.898,
-        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
+        "isNew": true,
+        "score": 7.585,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
         "id": "ad65680eee7e",
@@ -463,36 +791,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.872,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "cf2922664a7b",
-        "category": "news",
-        "lang": "de",
-        "title": "BND-Chef warnt vor \"gewaltsamem Konflikt mit Russland\"",
-        "summary": "Nach Einschätzung von BND-Chef Jäger ist Deutschland in einem \"Schattenkrieg\" mit Russland. Bei ihrer Anhörung warnten die Nachrichtendienste erneut vor einem Anschlagsrisiko.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html",
-        "publishedAt": "2026-10-05T12:29:07+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html",
-            "publishedAt": "2026-10-05T12:29:07+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.869,
+        "score": 7.542,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -521,7 +820,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.853,
+        "score": 7.526,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -550,36 +849,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.849,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "00dbe3bce1a5",
-        "category": "news",
-        "lang": "de",
-        "title": "Moldau: Wassermangel trifft hohe Ölpreise",
-        "summary": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
-        "publishedAt": "2026-10-05T11:43:42+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/moldau-energie-notstand-100.html",
-            "publishedAt": "2026-10-05T11:43:42+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.837,
+        "score": 7.522,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -608,124 +878,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.825,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "f3f638261eeb",
-        "category": "news",
-        "lang": "de",
-        "title": "E-Autos boomen bei deutschen Käufern",
-        "summary": "Die hohen Spritpreise lassen offenbar viele Menschen umdenken: Mehr als jedes dritte neu zugelassene Auto war zuletzt ein Elektroauto. Die Zulassungen von Benzin- und Dieselautos brachen dagegen ein.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/neuzulassungen-pkw-kba-100.html",
-        "publishedAt": "2026-10-05T10:01:36+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/neuzulassungen-pkw-kba-100.html",
-            "publishedAt": "2026-10-05T10:01:36+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.766,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "038048bd63ae",
-        "category": "news",
-        "lang": "de",
-        "title": "Alltag in Iran zwischen Wirtschaftskrise und Angst vor Krieg",
-        "summary": "Im Krieg der USA gegen Iran ist keine Lösung in Sicht. Gekämpft wird zwar nicht, Gespräche haben aber keine Fortschritte gebracht.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/asien/iran-alltag-wirtschaftskrise-100.html",
-        "publishedAt": "2026-10-05T09:26:49+00:00",
-        "subtopics": [
-          "Iran",
-          "US",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/asien/iran-alltag-wirtschaftskrise-100.html",
-            "publishedAt": "2026-10-05T09:26:49+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.742,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "ceeeb0c47f04",
-        "category": "news",
-        "lang": "de",
-        "title": "BND-Chef: \"Russland führt einen Schattenkrieg gegen uns\"",
-        "summary": "Bei der jährlichen Anhörung der Nachrichtendienst-Chefs im Bundestag warnt BND-Chef Jäger vor zunehmenden russischen Aktionen gegen Deutschland. Wie wahrscheinlich ist ein Krieg?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/nachrichtendienste-anhoerung-bnd-russland-bedrohung-100.html",
-        "publishedAt": "2026-10-05T09:23:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/nachrichtendienste-anhoerung-bnd-russland-bedrohung-100.html",
-            "publishedAt": "2026-10-05T09:23:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.74,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "1035e4b13593",
-        "category": "news",
-        "lang": "de",
-        "title": "Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt",
-        "summary": "Unbekannte haben sich Zugriff zum dänischen Melderegister verschafft. Die zuständige Ministerin spricht von einem äußerst schwerwiegenden Vorfall.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html",
-        "publishedAt": "2026-10-05T09:14:13+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html",
-            "publishedAt": "2026-10-05T09:14:13+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.734,
+        "score": 7.501,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -755,65 +908,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.732,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "34ebca6ccd29",
-        "category": "news",
-        "lang": "de",
-        "title": "Linke zieht gegen Ministerin Reiche vors Verfassungsgericht",
-        "summary": "In einem Instagram-Video hatte sich Wirtschaftsministerin Reiche nach der Berlin-Wahl gegen die Linke positioniert. Die Partei fordert nun in Karlsruhe die Löschung des Beitrags.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/reiche-linke-bundesverfassungsgericht-berlin-wahl-100.html",
-        "publishedAt": "2026-10-05T08:41:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/reiche-linke-bundesverfassungsgericht-berlin-wahl-100.html",
-            "publishedAt": "2026-10-05T08:41:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.711,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "834406466f79",
-        "category": "news",
-        "lang": "de",
-        "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
-        "summary": "Das Amtsgericht Düsseldorf hat das vorläufige Insolvenzverfahren für Galeria angeordnet. Die Zukunft der Kaufhauskette ungewiss.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
-        "publishedAt": "2026-10-05T08:24:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
-            "publishedAt": "2026-10-05T08:24:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.7,
+        "score": 7.418,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -842,95 +937,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.699,
+        "score": 7.389,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
-        "id": "f98119f1439c",
+        "id": "20e6d526e248",
         "category": "news",
         "lang": "de",
-        "title": "Merz noch der Richtige? Evers kritisiert den Kanzler scharf",
-        "summary": "Fehlende Empathie und verlorengegangene Glaubwürdigkeit: Der Berliner CDU-Chef Stefan Evers übt nach den Wahlniederlagen seiner Partei deutliche Kritik - auch an Kanzler Merz.",
+        "title": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
+        "summary": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/evers-merz-kritik-cdu-berlin-100.html",
-        "publishedAt": "2026-10-05T07:44:00+00:00",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
+        "publishedAt": "2026-10-05T03:00:50+00:00",
         "subtopics": [
           "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/evers-merz-kritik-cdu-berlin-100.html",
-            "publishedAt": "2026-10-05T07:44:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.673,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "a6b3da01b568",
-        "category": "news",
-        "lang": "de",
-        "title": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
-        "summary": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
-        "publishedAt": "2026-10-05T07:22:10+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
+          "Government"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
-            "publishedAt": "2026-10-05T07:22:10+00:00",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/spd-arbeitszeit-woche-100.html",
+            "publishedAt": "2026-10-05T03:00:50+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.659,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "2d0f689eaf2f",
-        "category": "news",
-        "lang": "de",
-        "title": "Plaza der Hamburger Elbphilharmonie kostet jetzt Eintritt",
-        "summary": "Fast zehn Jahre lang war der Besuch der Aussichtsplattform der Elbphilharmonie kostenfrei. Von heute an ändert sich das.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/plaza-der-hamburger-elbphilharmonie-kostet-jetzt-eintritt,elphi-116.html",
-        "publishedAt": "2026-10-05T12:49:59+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/plaza-der-hamburger-elbphilharmonie-kostet-jetzt-eintritt,elphi-116.html",
-            "publishedAt": "2026-10-05T12:49:59+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.484,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+        "isNew": true,
+        "score": 7.206,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
         "id": "f1dd1da6d4f4",
@@ -957,38 +994,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.449,
-        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
-      },
-      {
-        "id": "547de87a2f5c",
-        "category": "news",
-        "lang": "de",
-        "title": "Europa-Passage: Hamburgs Shopping-Tempel ist Prestige-Objekt",
-        "summary": "Am 5. Oktober 2006 öffnete der Shopping-Tempel in der City seine Türen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/geschichte/chronologie/europa-passage-hamburgs-einkaufszentrum-oeffnet-vor-20-jahren,europapassage-104.html",
-        "publishedAt": "2026-10-05T09:35:41+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/geschichte/chronologie/europa-passage-hamburgs-einkaufszentrum-oeffnet-vor-20-jahren,europapassage-104.html",
-            "publishedAt": "2026-10-05T09:35:41+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.348,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+        "score": 7.122,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
         "id": "8d28fdcdd51d",
@@ -1015,9 +1023,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.336,
+        "isNew": false,
+        "score": 7.022,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00"
+      },
+      {
+        "id": "952433102502",
+        "category": "news",
+        "lang": "en",
+        "title": "Yemen launches major military operation against Houthis",
+        "summary": "Yemen's internationally recognized government has launched a new military offensive to retake Houthi-held territory, as the Iran-backed rebel group claims new attacks in Saudi Arabia.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-05T18:36:00+00:00",
+        "subtopics": [
+          "Iran",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-05T18:36:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.982,
+        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
         "id": "c06a410363d6",
@@ -1045,9 +1082,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.138,
+        "isNew": false,
+        "score": 6.8,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00"
+      },
+      {
+        "id": "3c3b7e8ef975",
+        "category": "news",
+        "lang": "en",
+        "title": "Australia's migrant policy offers lessons for EU and US",
+        "summary": "Australia has used offshore processing centers to deter asylum seekers for more than two decades. As the EU and US pursue similar third-country arrangements, Australia's experience highlights the potential problems.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-05T19:26:00+00:00",
+        "subtopics": [
+          "US",
+          "EU",
+          "Immigration"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-05T19:26:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.617,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
         "id": "dd1ddcb3ecbe",
@@ -1074,38 +1141,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.937,
-        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
-      },
-      {
-        "id": "c80c93ee549c",
-        "category": "news",
-        "lang": "de",
-        "title": "\"Loki, die Seegurke\": Entdeckung in 2.500 Meter Tiefe",
-        "summary": "Forscher haben bei einer Tiefsee-Expedition in Argentinien 57 neue Meeresarten gefunden, darunter fünf ganz neue Gattungen. Ein besonderer Fund war eine Seegurke.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/video/57-neue-meeresarten-argentinien-reel-video-100.html",
-        "publishedAt": "2026-10-04T09:52:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/video/57-neue-meeresarten-argentinien-reel-video-100.html",
-            "publishedAt": "2026-10-04T09:52:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.931,
-        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
+        "score": 6.6,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
         "id": "bfc85de5c3a7",
@@ -1133,47 +1171,46 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.797,
+        "score": 6.591,
         "firstSeen": "2026-10-04T20:49:32.029721+00:00"
       },
       {
-        "id": "dd884364b381",
+        "id": "c238c94712bc",
         "category": "news",
-        "lang": "en",
-        "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
-        "summary": "Gulf crude exports returned to pre-war levels in September, with producers increasingly relying on alternative routes and ship-to-ship transfers to bypass Hormuz. Iranian exports remain below the pre-war average.",
+        "lang": "de",
+        "title": "Stromausfall in Hamburg: 2.000 Haushalte betroffen",
+        "summary": "In Ohlsdorf, Wellingsbüttel und Teilen von Groß-Borstel hatten die Haushalte rund eine Stunde keinen Strom.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-05T05:35:00+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/stromausfall-in-hamburg-2000-haushalte-betroffen,kurzehh-4518.html",
+        "publishedAt": "2026-10-05T19:39:49+00:00",
         "subtopics": [
-          "Iran",
-          "Conflict"
+          "Hamburg"
         ],
         "sources": [
           {
-            "name": "DW",
-            "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T05:35:00+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/stromausfall-in-hamburg-2000-haushalte-betroffen,kurzehh-4518.html",
+            "publishedAt": "2026-10-05T19:39:49+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.789,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+        "isNew": true,
+        "score": 6.426,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
-        "id": "525c5d302f28",
+        "id": "5a3543ddd3fd",
         "category": "news",
         "lang": "en",
-        "title": "Euro plummets against US dollar: has the next crisis begun?",
+        "title": "Euro plummets against US dollar: has the next financial crisis begun?",
         "summary": "The euro has fallen to a 17-month low against the dollar. That will make inflation worse in the EU, where political worries and concern over French debt are already troubling investors.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
+        "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
         "publishedAt": "2026-10-05T14:28:00+00:00",
         "subtopics": [
           "US",
@@ -1183,7 +1220,7 @@
         "sources": [
           {
             "name": "DW",
-            "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
+            "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
             "publishedAt": "2026-10-05T14:28:00+00:00",
             "tier": 2
           }
@@ -1192,8 +1229,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 6.755,
-        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
+        "score": 6.416,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
         "id": "4a90abece525",
@@ -1221,7 +1258,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.699,
+        "score": 6.367,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1233,7 +1270,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.ndr.de/nachrichten/hamburg/nach-wasserrohrbruch-amsinckstrasse-noch-wochenlang-gesperrt,wasserrohrbruch-162.html",
-        "publishedAt": "2026-10-05T14:09:46+00:00",
+        "publishedAt": "2026-10-05T18:04:18+00:00",
         "subtopics": [
           "Hamburg"
         ],
@@ -1241,7 +1278,7 @@
           {
             "name": "NDR",
             "url": "https://www.ndr.de/nachrichten/hamburg/nach-wasserrohrbruch-amsinckstrasse-noch-wochenlang-gesperrt,wasserrohrbruch-162.html",
-            "publishedAt": "2026-10-05T14:09:46+00:00",
+            "publishedAt": "2026-10-05T18:04:18+00:00",
             "tier": 2
           }
         ],
@@ -1249,8 +1286,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.542,
+        "score": 6.36,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "5fab3a69922b",
+        "category": "news",
+        "lang": "de",
+        "title": "Nach Rohrbruch: Amsinckstraße wohl bis Dezember gesperrt",
+        "summary": "Autofahrer brauchen Geduld: Die Hamburger Energienetze nutzen die Sperrung, um Leitungsbauarbeiten in der Spaldingstraße vorzuziehen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/nach-rohrbruch-amsinckstrasse-wohl-bis-dezember-gesperrt,hamj-15260.html",
+        "publishedAt": "2026-10-05T17:49:14+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/nach-rohrbruch-amsinckstrasse-wohl-bis-dezember-gesperrt,hamj-15260.html",
+            "publishedAt": "2026-10-05T17:49:14+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.35,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
         "id": "e9ddf27a0b07",
@@ -1277,71 +1342,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.371,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "e7bb19d3233c",
-        "category": "news",
-        "lang": "en",
-        "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-05T13:16:00+00:00",
-        "subtopics": [
-          "US",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-05T13:16:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.203,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "88b9a903a67d",
-        "category": "news",
-        "lang": "en",
-        "title": "Spanish Prime Minister Pedro Sánchez calls snap election",
-        "summary": "The Spanish prime minister had repeatedly insisted he would serve out his four-year term, with elections scheduled for 2027. The move comes after a major defeat for his coalition's proposed housing reforms.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-05T09:00:07+00:00",
-        "subtopics": [
-          "World",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/866dea03-4cee-4009-b130-6f7a191336c4?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-05T09:00:07+00:00",
-            "tier": 2
-          },
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T07:12:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.124,
+        "score": 6.053,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       }
     ],
@@ -1373,7 +1374,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.478,
+        "score": 11.368,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1406,7 +1407,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.725,
+        "score": 9.704,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1438,7 +1439,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.545,
+        "score": 9.511,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1469,8 +1470,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.787,
+        "isNew": false,
+        "score": 8.668,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "evidence": "trade_press",
         "matridermRelevant": true
@@ -1501,7 +1502,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.478,
+        "score": 8.368,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1533,7 +1534,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.597,
+        "score": 7.521,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1570,7 +1571,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.426,
+        "score": 7.357,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1602,7 +1603,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.426,
+        "score": 7.357,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1633,7 +1634,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.599,
+        "score": 6.515,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1665,7 +1666,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.366,
+        "score": 6.339,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1702,7 +1703,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.366,
+        "score": 6.339,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1734,7 +1735,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.366,
+        "score": 6.339,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1766,7 +1767,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.225,
+        "score": 6.204,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1797,7 +1798,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.026,
+        "score": 6.013,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1829,8 +1830,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.594,
+        "score": 5.511,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "30b01ad87492",
+        "category": "medical",
+        "lang": "en",
+        "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
+        "summary": "Sofie Biosciences is expected to expand GE HealthCare’s footprint in the radiopharmaceutical industry, helping manufacture and distribute time-sensitive drugs used in PET imaging.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/ge-healthcare-to-acquire-sofie-biosciences-for-945m/832148/",
+        "publishedAt": "2026-10-05T15:22:56+00:00",
+        "subtopics": [
+          "Diagnostics & imaging",
+          "Acquisition"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/ge-healthcare-to-acquire-sofie-biosciences-for-945m/832148/",
+            "publishedAt": "2026-10-05T15:22:56+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.079,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -1860,40 +1892,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.063,
+        "score": 4.989,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "f8fa5a4b941c",
-        "category": "medical",
-        "lang": "en",
-        "title": "Angiographic Catheter Recall: Boston Scientific Removes Imager II Angiographic Catheters",
-        "summary": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
-        "publishedAt": "2026-09-25T04:00:00+00:00",
-        "subtopics": [
-          "Cardiovascular",
-          "Safety"
-        ],
-        "sources": [
-          {
-            "name": "FDA MedWatch",
-            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
-            "publishedAt": "2026-09-25T04:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.762,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "regulator",
         "matridermRelevant": false
       },
       {
@@ -1922,9 +1923,40 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.757,
+        "score": 3.747,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "f8fa5a4b941c",
+        "category": "medical",
+        "lang": "en",
+        "title": "Angiographic Catheter Recall: Boston Scientific Removes Imager II Angiographic Catheters",
+        "summary": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
+        "publishedAt": "2026-09-25T04:00:00+00:00",
+        "subtopics": [
+          "Cardiovascular",
+          "Safety"
+        ],
+        "sources": [
+          {
+            "name": "FDA MedWatch",
+            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
+            "publishedAt": "2026-09-25T04:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.727,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "evidence": "regulator",
         "matridermRelevant": false
       },
       {
@@ -1953,7 +1985,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.345,
+        "score": 3.311,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1983,7 +2015,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.25,
+        "score": 3.22,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2014,7 +2046,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.235,
+        "score": 3.205,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2045,7 +2077,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.862,
+        "score": 1.852,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2082,13 +2114,42 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.235,
+        "score": 1.214,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "d2e4790c9fab",
+        "category": "growth",
+        "lang": "en",
+        "title": "Connecting AI agents to enterprise knowledge",
+        "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+        "publishedAt": "2026-10-05T15:47:52+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+            "publishedAt": "2026-10-05T15:47:52+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.468,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00",
+        "kind": "article"
+      },
       {
         "id": "1d28d12072be",
         "category": "growth",
@@ -2114,8 +2175,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.713,
+        "isNew": false,
+        "score": 5.378,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "article"
       },
@@ -2145,7 +2206,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.656,
+        "score": 5.328,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "kind": "article"
       },
@@ -2175,7 +2236,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.484,
+        "score": 5.176,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "kind": "article"
       },
@@ -2204,8 +2265,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.329,
+        "score": 5.039,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "3bcfe2f4d2ef",
+        "category": "growth",
+        "lang": "en",
+        "title": "Qwen3.8 27B addition in words",
+        "summary": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+        "publishedAt": "2026-10-04T23:34:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+            "publishedAt": "2026-10-04T23:34:00+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.596,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
       {
@@ -2233,7 +2323,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.369,
+        "score": 4.281,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2269,7 +2359,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.314,
+        "score": 4.232,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2306,7 +2396,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.305,
+        "score": 4.19,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2343,7 +2433,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.156,
+        "score": 3.966,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2373,7 +2463,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.118,
+        "score": 3.933,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2401,8 +2491,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.9,
+        "isNew": false,
+        "score": 3.891,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2412,35 +2502,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
           "channel": "TED"
         }
-      },
-      {
-        "id": "ac719b52e635",
-        "category": "growth",
-        "lang": "en",
-        "title": "Redefining enterprise intelligence with autonomous AI",
-        "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-        "publishedAt": "2026-10-02T15:49:04+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-            "publishedAt": "2026-10-02T15:49:04+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.833,
-        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
-        "kind": "article"
       },
       {
         "id": "e0d113feca38",
@@ -2467,7 +2528,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.828,
+        "score": 3.82,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2503,7 +2564,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.788,
+        "score": 3.78,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "video",
         "video": {
@@ -2513,6 +2574,71 @@
           "watchUrl": "https://www.youtube.com/watch?v=N8J-PIunXBM",
           "channel": "TED"
         }
+      },
+      {
+        "id": "0972a572df6a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Would you try this reading challenge? #TEDTalks",
+        "summary": "Ann Morgan considered herself well read -- until she discovered the \"massive blindspot\" on her bookshelf. Amid a multitude of English and American authors, there were very few books from beyond the English-speaking world.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
+        "publishedAt": "2026-09-29T23:00:39+00:00",
+        "subtopics": [
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
+            "publishedAt": "2026-09-29T23:00:39+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.761,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
+        "kind": "video",
+        "video": {
+          "id": "f6VgtBnARG0",
+          "thumbUrl": "https://i3.ytimg.com/vi/f6VgtBnARG0/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=f6VgtBnARG0",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "ac719b52e635",
+        "category": "growth",
+        "lang": "en",
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+        "publishedAt": "2026-10-02T15:49:04+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+            "publishedAt": "2026-10-02T15:49:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.714,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "kind": "article"
       },
       {
         "id": "e009d974688d",
@@ -2545,45 +2671,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.778,
+        "score": 3.666,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00",
         "kind": "article"
-      },
-      {
-        "id": "0972a572df6a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Would you try this reading challenge? #TEDTalks",
-        "summary": "Ann Morgan considered herself well read -- until she discovered the \"massive blindspot\" on her bookshelf. Amid a multitude of English and American authors, there were very few books from beyond the English-speaking world.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
-        "publishedAt": "2026-09-29T23:00:39+00:00",
-        "subtopics": [
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
-            "publishedAt": "2026-09-29T23:00:39+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.769,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
-        "kind": "video",
-        "video": {
-          "id": "f6VgtBnARG0",
-          "thumbUrl": "https://i3.ytimg.com/vi/f6VgtBnARG0/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=f6VgtBnARG0",
-          "channel": "TED"
-        }
       },
       {
         "id": "b4189086b2d7",
@@ -2610,66 +2700,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.484,
+        "score": 3.406,
         "firstSeen": "2026-10-01T14:06:18.897791+00:00",
         "kind": "article"
       },
       {
-        "id": "de2eaf93f271",
+        "id": "25a4cc82249d",
         "category": "growth",
         "lang": "en",
-        "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-        "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.",
+        "title": "pwasm 0.2a0",
+        "summary": "Release: pwasm 0.2a0 pwasm is one of my folly projects - an entirely vibe-coded pure Python WebAssembly engine that I built in January during my first bout of AI mania . I hadn't touched it since January, so I decided to let Claude Opus 5.5 loose on it and…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-        "publishedAt": "2026-10-01T10:32:24+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-            "publishedAt": "2026-10-01T10:32:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.468,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "89ed10d59c95",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Matthew Green",
-        "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-        "publishedAt": "2026-10-01T06:29:01+00:00",
+        "url": "https://simonwillison.net/2026/Oct/1/pwasm/",
+        "publishedAt": "2026-10-01T17:10:31+00:00",
         "subtopics": [
           "AI & smart tools"
         ],
         "sources": [
           {
             "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-            "publishedAt": "2026-10-01T06:29:01+00:00",
+            "url": "https://simonwillison.net/2026/Oct/1/pwasm/",
+            "publishedAt": "2026-10-01T17:10:31+00:00",
             "tier": 3
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 3.129,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
+        "isNew": true,
+        "score": 3.153,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
       {
@@ -2697,7 +2758,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.092,
+        "score": 3.088,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2733,7 +2794,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.082,
+        "score": 3.079,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2743,6 +2804,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=knW0YgE-Wd8",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "89ed10d59c95",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Matthew Green",
+        "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+        "publishedAt": "2026-10-01T06:29:01+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+            "publishedAt": "2026-10-01T06:29:01+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.057,
+        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
+        "kind": "article"
       },
       {
         "id": "1e2adcbb126c",
@@ -2769,7 +2859,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.89,
+        "score": 2.845,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00",
         "kind": "article"
       },
@@ -2799,7 +2889,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.868,
+        "score": 2.826,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2828,7 +2918,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.859,
+        "score": 2.818,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "article"
       },
@@ -2858,66 +2948,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.854,
+        "score": 2.814,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "12d1ff862c61",
-        "category": "growth",
-        "lang": "en",
-        "title": "Claude Sonnet 5.5",
-        "summary": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet 5 but appears to beat it on every benchmark, and should be cheaper to run as well.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-        "publishedAt": "2026-09-28T22:07:38+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-            "publishedAt": "2026-09-28T22:07:38+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.772,
-        "firstSeen": "2026-09-28T22:54:15.445617+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5b94c506716c",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting @joedaroo",
-        "summary": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-        "publishedAt": "2026-09-28T19:11:42+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-            "publishedAt": "2026-09-28T19:11:42+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.76,
-        "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
       {
@@ -2945,7 +2977,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.7,
+        "score": 2.693,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2976,7 +3008,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.559,
+        "score": 2.553,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3007,7 +3039,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.525,
+        "score": 2.519,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3038,7 +3070,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.414,
+        "score": 2.409,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3069,7 +3101,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.323,
+        "score": 2.319,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3098,7 +3130,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.136,
+        "score": 2.134,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3128,7 +3160,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.105,
+        "score": 2.103,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3157,7 +3189,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.039,
+        "score": 2.038,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3186,7 +3218,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.994,
+        "score": 1.993,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3268,7 +3300,7 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 25,
+      "items": 23,
       "error": null
     },
     {
@@ -3292,7 +3324,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 10,
+      "items": 13,
       "error": null
     },
     {
@@ -3436,8 +3468,8 @@
   ],
   "filteredOut": {
     "football": 79,
-    "news": 127,
-    "medical": 26,
+    "news": 130,
+    "medical": 28,
     "growth": 55
   }
 }
