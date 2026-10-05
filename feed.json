@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:29:24.679791+00:00",
+  "generatedAt": "2026-10-05T15:28:52.068309+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -32,8 +32,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.684,
+        "isNew": false,
+        "score": 11.538,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -60,8 +60,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.684,
+        "isNew": false,
+        "score": 11.538,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -90,7 +90,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.945,
+        "score": 9.915,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -119,7 +119,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.111,
+        "score": 6.037,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -148,7 +148,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.941,
+        "score": 5.878,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -176,8 +176,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.789,
+        "isNew": false,
+        "score": 5.67,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -206,7 +206,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.743,
+        "score": 5.626,
         "firstSeen": "2026-10-04T22:09:18.187694+00:00"
       },
       {
@@ -235,7 +235,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.002,
+        "score": 4.969,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -263,8 +263,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.816,
+        "isNew": false,
+        "score": 4.662,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -292,8 +292,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.305,
+        "isNew": false,
+        "score": 4.185,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       }
     ],
@@ -302,17 +302,23 @@
         "id": "408043815929",
         "category": "news",
         "lang": "de",
-        "title": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
+        "title": "Spaniens Ministerpräsident Sánchez kündigt vorgezogene Neuwahlen an",
         "summary": "Der Streit über die Wohnungsmarktpolitik führt zu Neuwahlen in Spanien. Regierungschef Sánchez kündigte eine vorgezogene Parlamentswahl im November an.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html",
-        "publishedAt": "2026-10-05T08:11:20+00:00",
+        "url": "https://www.tagesschau.de/video/video-1660766.html",
+        "publishedAt": "2026-10-05T14:08:10+00:00",
         "subtopics": [
           "Germany",
           "Government"
         ],
         "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1660766.html",
+            "publishedAt": "2026-10-05T14:08:10+00:00",
+            "tier": 2
+          },
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html",
@@ -326,12 +332,81 @@
             "tier": 2
           }
         ],
+        "developing": true,
+        "latestUpdate": "Spaniens Ministerpräsident Sánchez kündigt vorgezogene Neuwahlen an",
+        "earlier": [
+          {
+            "title": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
+            "source": "Tagesschau",
+            "publishedAt": "2026-10-05T08:11:20+00:00"
+          },
+          {
+            "title": "Spanien: Ministerpräsident Sanchez kündigt Neuwahlen an",
+            "source": "ZDFheute",
+            "publishedAt": "2026-10-05T07:37:00+00:00"
+          }
+        ],
+        "isNew": false,
+        "score": 8.741,
+        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "42d04c22077f",
+        "category": "news",
+        "lang": "de",
+        "title": "Union und SPD planen neue Plastiksteuer",
+        "summary": "Union und SPD wollen Unternehmen mit einer neuen Steuer dazu bringen, den Verbrauch von Plastik zu reduzieren. Sie erhoffen sich auch wichtige Einnahmen für den Haushalt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/koalition-fraktionen-plastiksteuer-100.html",
+        "publishedAt": "2026-10-05T15:10:29+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/koalition-fraktionen-plastiksteuer-100.html",
+            "publishedAt": "2026-10-05T15:10:29+00:00",
+            "tier": 2
+          }
+        ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 8.572,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+        "score": 7.986,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
+      },
+      {
+        "id": "e9108b63bc4a",
+        "category": "news",
+        "lang": "de",
+        "title": "Tote nach Schiffsunglück im Schwarzen Meer - Drohnenangriff?",
+        "summary": "Im Schwarzen Meer ist ein Schiff nach einem Brand an Bord gesunken. Berichten zufolge wurde der Frachter von einer Drohne getroffen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-schiff-verunglueckt-100.html",
+        "publishedAt": "2026-10-05T14:33:37+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/schwarzes-meer-schiff-verunglueckt-100.html",
+            "publishedAt": "2026-10-05T14:33:37+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.959,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
         "id": "79c7eff59e00",
@@ -359,7 +434,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.986,
+        "score": 7.898,
         "firstSeen": "2026-09-27T12:38:25.975765+00:00"
       },
       {
@@ -387,8 +462,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.958,
+        "isNew": false,
+        "score": 7.872,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -411,19 +486,13 @@
             "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-chefs-anhoerung-100.html",
             "publishedAt": "2026-10-05T12:29:07+00:00",
             "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1660694.html",
-            "publishedAt": "2026-10-05T12:17:05+00:00",
-            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.955,
+        "isNew": false,
+        "score": 7.869,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -451,15 +520,15 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.939,
+        "isNew": false,
+        "score": 7.853,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
         "id": "eef8ac684705",
         "category": "news",
         "lang": "de",
-        "title": "Das Problem des Friedrich Merz - ein Wahlforscher ordnet ein",
+        "title": "Warum Friedrich Merz ein Vertrauensproblem hat",
         "summary": "Sehr bekannt, aber nicht sehr beliebt: Wahlforscher Thorsten Faas ordnet im Gespräch mit dem ZDF ein, welchen Anteil Kanzler Friedrich Merz an der Krise der CDU hat.",
         "needsSummary": true,
         "readMore": null,
@@ -480,8 +549,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.935,
+        "isNew": false,
+        "score": 7.849,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -509,37 +578,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.922,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "834406466f79",
-        "category": "news",
-        "lang": "de",
-        "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
-        "summary": "Das Amtsgericht Düsseldorf hat das vorläufige Insolvenzverfahren für Galeria angeordnet. Die Zukunft der Kaufhauskette ungewiss.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
-        "publishedAt": "2026-10-05T11:43:35+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
-            "publishedAt": "2026-10-05T11:43:35+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.922,
+        "isNew": false,
+        "score": 7.837,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -567,8 +607,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.91,
+        "isNew": false,
+        "score": 7.825,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -596,8 +636,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.849,
+        "isNew": false,
+        "score": 7.766,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -626,8 +666,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.825,
+        "isNew": false,
+        "score": 7.742,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -655,8 +695,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.822,
+        "isNew": false,
+        "score": 7.74,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -684,8 +724,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.816,
+        "isNew": false,
+        "score": 7.734,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -714,8 +754,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.814,
+        "isNew": false,
+        "score": 7.732,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -743,8 +783,37 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.793,
+        "isNew": false,
+        "score": 7.711,
+        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "834406466f79",
+        "category": "news",
+        "lang": "de",
+        "title": "Gericht ordnet Insolvenzverfahren für Galeria an",
+        "summary": "Das Amtsgericht Düsseldorf hat das vorläufige Insolvenzverfahren für Galeria angeordnet. Die Zukunft der Kaufhauskette ungewiss.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
+        "publishedAt": "2026-10-05T08:24:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/galeria-insolvenzverfahren-zulassung-100.html",
+            "publishedAt": "2026-10-05T08:24:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.7,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -772,8 +841,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.78,
+        "isNew": false,
+        "score": 7.699,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -801,8 +870,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.754,
+        "isNew": false,
+        "score": 7.673,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -830,8 +899,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.739,
+        "isNew": false,
+        "score": 7.659,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -859,9 +928,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.571,
+        "isNew": false,
+        "score": 7.484,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "f1dd1da6d4f4",
+        "category": "news",
+        "lang": "de",
+        "title": "5 Euro für Hamburger Elb-Aussicht",
+        "summary": "Die Aussichtsplattform Plaza der Elbphilharmonie kostet ab sofort fünf Euro Eintritt. Nach fast zehn Jahren soll damit der Kulturhaushalt der Stadt entlastet werden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/video/heute-in-deutschland/5-euro-fuer-hamburger-elb-aussicht-100.html",
+        "publishedAt": "2026-10-05T12:00:00+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/video/heute-in-deutschland/5-euro-fuer-hamburger-elb-aussicht-100.html",
+            "publishedAt": "2026-10-05T12:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.449,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
         "id": "547de87a2f5c",
@@ -888,67 +986,97 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.431,
+        "isNew": false,
+        "score": 7.348,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
-        "id": "eb683dcbe396",
+        "id": "8d28fdcdd51d",
         "category": "news",
-        "lang": "en",
-        "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
-        "summary": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine, including plans for joint Ukrainian-German drone production.",
+        "lang": "de",
+        "title": "Kiosk, Clubs, Werkstatt: Dieser Ort war für viele Hamburger ein Zuhause",
+        "summary": "Regisseur Christian Hornung begleitet die Menschen eines Ortes fünf Jahre durch ihren Alltag - bis der sich grundlegend ändert.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-04T14:24:00+00:00",
+        "url": "https://www.ndr.de/kultur/film/verlorener-ort-doku-sternbruecke-forever-blickt-auf-kiez-legende,sternbrueckeforever-100.html",
+        "publishedAt": "2026-10-05T09:16:44+00:00",
         "subtopics": [
-          "Germany",
-          "Government"
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/kultur/film/verlorener-ort-doku-sternbruecke-forever-blickt-auf-kiez-legende,sternbrueckeforever-100.html",
+            "publishedAt": "2026-10-05T09:16:44+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.336,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
+      },
+      {
+        "id": "c06a410363d6",
+        "category": "news",
+        "lang": "en",
+        "title": "Iran poised to exploit security vacuum as US leaves Iraq",
+        "summary": "The end of the US military mission in Iraq leaves the Kurdistan region facing a severe security vacuum. As Erbil grapples with deep internal divisions, Tehran is well positioned to make strategic gains.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-05T14:04:00+00:00",
+        "subtopics": [
+          "Iran",
+          "US",
+          "Conflict"
         ],
         "sources": [
           {
             "name": "DW",
-            "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-04T14:24:00+00:00",
+            "url": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-05T14:04:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.128,
-        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
+        "isNew": true,
+        "score": 7.138,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
-        "id": "64edcfdca6a3",
+        "id": "dd1ddcb3ecbe",
         "category": "news",
         "lang": "en",
-        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+        "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
+        "summary": "Germany's top court, which turned 75 this year, is losing the population's trust, surveys show. Some say reforms in the way it picks candidates would help, to also accept candidates nominated by the far-right AfD.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-04T12:09:04+00:00",
+        "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-05T14:03:00+00:00",
         "subtopics": [
           "Germany",
-          "Government"
+          "Law & Policy"
         ],
         "sources": [
           {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-04T12:09:04+00:00",
+            "name": "DW",
+            "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-05T14:03:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.058,
-        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
+        "isNew": true,
+        "score": 6.937,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
         "id": "c80c93ee549c",
@@ -976,37 +1104,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.989,
+        "score": 6.931,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
-      },
-      {
-        "id": "dd884364b381",
-        "category": "news",
-        "lang": "en",
-        "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
-        "summary": "Gulf crude exports returned to pre-war levels in September, with producers increasingly relying on alternative routes and ship-to-ship transfers to bypass Hormuz. Iranian exports remain below the pre-war average.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-05T05:35:00+00:00",
-        "subtopics": [
-          "Iran",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T05:35:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.867,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
         "id": "bfc85de5c3a7",
@@ -1034,8 +1133,67 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.851,
+        "score": 6.797,
         "firstSeen": "2026-10-04T20:49:32.029721+00:00"
+      },
+      {
+        "id": "dd884364b381",
+        "category": "news",
+        "lang": "en",
+        "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
+        "summary": "Gulf crude exports returned to pre-war levels in September, with producers increasingly relying on alternative routes and ship-to-ship transfers to bypass Hormuz. Iranian exports remain below the pre-war average.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-05T05:35:00+00:00",
+        "subtopics": [
+          "Iran",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-05T05:35:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.789,
+        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "525c5d302f28",
+        "category": "news",
+        "lang": "en",
+        "title": "Euro plummets against US dollar: has the next crisis begun?",
+        "summary": "The euro has fallen to a 17-month low against the dollar. That will make inflation worse in the EU, where political worries and concern over French debt are already troubling investors.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-05T14:28:00+00:00",
+        "subtopics": [
+          "US",
+          "EU",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-05T14:28:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.755,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
         "id": "4a90abece525",
@@ -1062,8 +1220,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.787,
+        "isNew": false,
+        "score": 6.699,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1075,7 +1233,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.ndr.de/nachrichten/hamburg/nach-wasserrohrbruch-amsinckstrasse-noch-wochenlang-gesperrt,wasserrohrbruch-162.html",
-        "publishedAt": "2026-10-05T13:19:50+00:00",
+        "publishedAt": "2026-10-05T14:09:46+00:00",
         "subtopics": [
           "Hamburg"
         ],
@@ -1083,15 +1241,15 @@
           {
             "name": "NDR",
             "url": "https://www.ndr.de/nachrichten/hamburg/nach-wasserrohrbruch-amsinckstrasse-noch-wochenlang-gesperrt,wasserrohrbruch-162.html",
-            "publishedAt": "2026-10-05T13:19:50+00:00",
+            "publishedAt": "2026-10-05T14:09:46+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.593,
+        "isNew": false,
+        "score": 6.542,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1118,8 +1276,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.455,
+        "isNew": false,
+        "score": 6.371,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1147,8 +1305,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.29,
+        "isNew": false,
+        "score": 6.203,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1182,158 +1340,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.206,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "bbd45a6243f9",
-        "category": "news",
-        "lang": "de",
-        "title": "\"Bauzug vergessen\": 28 Menschen sterben 1961 in Hamburger S-Bahn",
-        "summary": "28 Tote und rund 100 Verletzte: Beim Aufprall auf einen Bauzug am 5. Oktober 1961 wurde der erste Waggon regelrecht aufgespießt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/geschichte/schauplaetze/vor-65-jahren-28-menschen-sterben-in-hamburger-s-bahn,sbahnunglueck100.html",
-        "publishedAt": "2026-10-05T03:00:00+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/geschichte/schauplaetze/vor-65-jahren-28-menschen-sterben-in-hamburger-s-bahn,sbahnunglueck100.html",
-            "publishedAt": "2026-10-05T03:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.166,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "4ce5dd19bfde",
-        "category": "news",
-        "lang": "en",
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-05T10:03:38+00:00",
-        "subtopics": [
-          "US",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-05T10:03:38+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-05T10:03:38+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.151,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "1d711b063c6a",
-        "category": "news",
-        "lang": "de",
-        "title": "Streckensanierung Berlin-Hannover wird aufwendiger - und teurer",
-        "summary": "Fast 1,5 Stunden länger brauchen nun Züge zwischen Hannover und Berlin. Und die Generalsanierung soll mehr als ein Jahr dauern - wesentlich länger als noch vor kurzem angekündigt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-hannover-berlin-102.html",
-        "publishedAt": "2026-10-05T09:15:37+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-hannover-berlin-102.html",
-            "publishedAt": "2026-10-05T09:15:37+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.117,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "38a07e9f52d2",
-        "category": "news",
-        "lang": "en",
-        "title": "Germany's Franz Reindl elected new IIHF president",
-        "summary": "Franz Reindl has been elected president of ice hockey's world governing body. The former forward was a member of West Germany's Olympic bronze medal-winning team.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-02T14:29:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/germany-s-franz-reindl-elected-new-iihf-president/a-79521799?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-02T14:29:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.043,
-        "firstSeen": "2026-10-02T21:46:30.354537+00:00"
-      },
-      {
-        "id": "6d8074524d9b",
-        "category": "news",
-        "lang": "en",
-        "title": "India news: Top court hears petitions against Chief Election Commissioner Gyanesh Kumar",
-        "summary": "The Supreme Court heard pleas against India's beleagured poll body chief over alleged unilateral decisions related to the large-scale revision of voter lists. DW has the latest.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/india-news-top-court-hears-petitions-against-chief-election-commissioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-05T05:50:00+00:00",
-        "subtopics": [
-          "US",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/india-news-top-court-hears-petitions-against-chief-election-commissioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T05:50:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.977,
+        "score": 6.124,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       }
     ],
@@ -1364,8 +1372,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.506,
+        "isNew": false,
+        "score": 11.478,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1398,7 +1406,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.73,
+        "score": 9.725,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1430,9 +1438,41 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.553,
+        "score": 9.545,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
+        "matridermRelevant": true
+      },
+      {
+        "id": "cf1bba378d5c",
+        "category": "medical",
+        "lang": "en",
+        "title": "After years-long turnaround, Convatec’s new CEO plans R&D push",
+        "summary": "Mason, who became CEO of the medtech firm a year ago following the death of Karim Bitar, said Convatec’s pace of launching new devices has accelerated for 2026 and 2027.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/after-years-long-turnaround-convatecs-new-ceo-plans-rd-push/832127/",
+        "publishedAt": "2026-10-05T14:38:03+00:00",
+        "subtopics": [
+          "Competitors",
+          "Industry",
+          "Product launch"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/after-years-long-turnaround-convatecs-new-ceo-plans-rd-push/832127/",
+            "publishedAt": "2026-10-05T14:38:03+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.787,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": true
       },
       {
@@ -1461,7 +1501,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.506,
+        "score": 8.478,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1493,7 +1533,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.615,
+        "score": 7.597,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1530,7 +1570,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.443,
+        "score": 7.426,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1562,7 +1602,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.443,
+        "score": 7.426,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1593,7 +1633,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.62,
+        "score": 6.599,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1625,7 +1665,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.372,
+        "score": 6.366,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1662,7 +1702,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.372,
+        "score": 6.366,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1694,7 +1734,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.372,
+        "score": 6.366,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1726,7 +1766,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.23,
+        "score": 6.225,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1757,7 +1797,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.029,
+        "score": 6.026,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1789,7 +1829,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.615,
+        "score": 5.594,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1820,7 +1860,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.082,
+        "score": 5.063,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1851,7 +1891,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.77,
+        "score": 3.762,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1882,7 +1922,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.759,
+        "score": 3.757,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1913,7 +1953,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.353,
+        "score": 3.345,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1943,7 +1983,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.257,
+        "score": 3.25,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1974,7 +2014,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.242,
+        "score": 3.235,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2005,7 +2045,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.865,
+        "score": 1.862,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2042,13 +2082,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.241,
+        "score": 1.235,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "1d28d12072be",
+        "category": "growth",
+        "lang": "en",
+        "title": "Bringing predictive analytics to the agentic AI era",
+        "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+        "publishedAt": "2026-10-05T13:29:32+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Decision-making"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+            "publishedAt": "2026-10-05T13:29:32+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.713,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00",
+        "kind": "article"
+      },
       {
         "id": "6db01a0f6cd3",
         "category": "growth",
@@ -2074,8 +2144,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.741,
+        "isNew": false,
+        "score": 5.656,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "kind": "article"
       },
@@ -2104,8 +2174,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.565,
+        "isNew": false,
+        "score": 5.484,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "kind": "article"
       },
@@ -2133,8 +2203,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.405,
+        "isNew": false,
+        "score": 5.329,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "kind": "article"
       },
@@ -2163,7 +2233,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.392,
+        "score": 4.369,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2171,6 +2241,42 @@
           "thumbUrl": "https://i1.ytimg.com/vi/lSpsm8aVsuc/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=lSpsm8aVsuc",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "7579a1422f79",
+        "category": "growth",
+        "lang": "en",
+        "title": "How AI Unleashed (Not Replaced) My Creativity | Kelly A. Boesch | TED",
+        "summary": "After working for years in film, fashion and graphic design, visual artist Kelly A. Boesch found a new collaborator to work with: AI.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=Hd8npxrnpuo",
+        "publishedAt": "2026-10-01T15:00:07+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=Hd8npxrnpuo",
+            "publishedAt": "2026-10-01T15:00:07+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.314,
+        "firstSeen": "2026-10-01T22:17:28.809174+00:00",
+        "kind": "video",
+        "video": {
+          "id": "Hd8npxrnpuo",
+          "thumbUrl": "https://i1.ytimg.com/vi/Hd8npxrnpuo/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=Hd8npxrnpuo",
           "channel": "TED"
         }
       },
@@ -2200,7 +2306,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.335,
+        "score": 4.305,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2209,42 +2315,6 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
           "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "7579a1422f79",
-        "category": "growth",
-        "lang": "en",
-        "title": "How AI Unleashed (Not Replaced) My Creativity | Kelly A. Boesch | TED",
-        "summary": "After working for years in film, fashion and graphic design, visual artist Kelly A. Boesch found a new collaborator to work with: AI.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=Hd8npxrnpuo",
-        "publishedAt": "2026-10-01T15:00:07+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=Hd8npxrnpuo",
-            "publishedAt": "2026-10-01T15:00:07+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.335,
-        "firstSeen": "2026-10-01T22:17:28.809174+00:00",
-        "kind": "video",
-        "video": {
-          "id": "Hd8npxrnpuo",
-          "thumbUrl": "https://i1.ytimg.com/vi/Hd8npxrnpuo/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=Hd8npxrnpuo",
-          "channel": "TED"
         }
       },
       {
@@ -2273,7 +2343,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.206,
+        "score": 4.156,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2303,9 +2373,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.167,
+        "score": 4.118,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
+      },
+      {
+        "id": "7961cc30350d",
+        "category": "growth",
+        "lang": "en",
+        "title": "How to Use Tech to Outsmart Dictators | Leopoldo López | TED",
+        "summary": "In seven years as a political prisoner in Venezuela, activist Leopoldo López kept asking one question: Who holds the keys to freedom? Now the leader of an alliance of dissidents and exiles from more than 60 countries, he makes the case that open-source,…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
+        "publishedAt": "2026-10-05T15:00:04+00:00",
+        "subtopics": [
+          "Leadership"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
+            "publishedAt": "2026-10-05T15:00:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.9,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00",
+        "kind": "video",
+        "video": {
+          "id": "RCNO3k4QL5M",
+          "thumbUrl": "https://i3.ytimg.com/vi/RCNO3k4QL5M/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
+          "channel": "TED"
+        }
       },
       {
         "id": "ac719b52e635",
@@ -2332,7 +2438,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.864,
+        "score": 3.833,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "article"
       },
@@ -2361,7 +2467,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.829,
+        "score": 3.828,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2369,6 +2475,42 @@
           "thumbUrl": "https://i3.ytimg.com/vi/r63spwe1LCI/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=r63spwe1LCI",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "e51238a5b3f5",
+        "category": "growth",
+        "lang": "en",
+        "title": "Banning social media may not be the fix you think it is #TEDTalks",
+        "summary": "For years, the warning has been: smartphones are destroying a generation. But developmental psychologist Candice Odgers says that decades of data on teens tells a different story — violence, alcohol use and pregnancy are at historic lows, and research shows…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/N8J-PIunXBM",
+        "publishedAt": "2026-09-30T20:30:09+00:00",
+        "subtopics": [
+          "Psychology"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/N8J-PIunXBM",
+            "publishedAt": "2026-09-30T20:30:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.788,
+        "firstSeen": "2026-09-30T21:49:34.126591+00:00",
+        "kind": "video",
+        "video": {
+          "id": "N8J-PIunXBM",
+          "thumbUrl": "https://i3.ytimg.com/vi/N8J-PIunXBM/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=N8J-PIunXBM",
           "channel": "TED"
         }
       },
@@ -2403,45 +2545,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.808,
+        "score": 3.778,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00",
         "kind": "article"
-      },
-      {
-        "id": "e51238a5b3f5",
-        "category": "growth",
-        "lang": "en",
-        "title": "Banning social media may not be the fix you think it is #TEDTalks",
-        "summary": "For years, the warning has been: smartphones are destroying a generation. But developmental psychologist Candice Odgers says that decades of data on teens tells a different story — violence, alcohol use and pregnancy are at historic lows, and research shows…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/N8J-PIunXBM",
-        "publishedAt": "2026-09-30T20:30:09+00:00",
-        "subtopics": [
-          "Psychology"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/N8J-PIunXBM",
-            "publishedAt": "2026-09-30T20:30:09+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.79,
-        "firstSeen": "2026-09-30T21:49:34.126591+00:00",
-        "kind": "video",
-        "video": {
-          "id": "N8J-PIunXBM",
-          "thumbUrl": "https://i3.ytimg.com/vi/N8J-PIunXBM/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=N8J-PIunXBM",
-          "channel": "TED"
-        }
       },
       {
         "id": "0972a572df6a",
@@ -2468,7 +2574,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.77,
+        "score": 3.769,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "video",
         "video": {
@@ -2504,7 +2610,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.505,
+        "score": 3.484,
         "firstSeen": "2026-10-01T14:06:18.897791+00:00",
         "kind": "article"
       },
@@ -2533,7 +2639,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.488,
+        "score": 3.468,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2562,7 +2668,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.148,
+        "score": 3.129,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2591,7 +2697,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.093,
+        "score": 3.092,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2627,7 +2733,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.083,
+        "score": 3.082,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2637,35 +2743,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=knW0YgE-Wd8",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "713be224f255",
-        "category": "growth",
-        "lang": "en",
-        "title": "How smaller, distributed batteries could help the grid",
-        "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-        "publishedAt": "2026-10-01T10:00:00+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-            "publishedAt": "2026-10-01T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.002,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
-        "kind": "article"
       },
       {
         "id": "1e2adcbb126c",
@@ -2692,7 +2769,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.902,
+        "score": 2.89,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00",
         "kind": "article"
       },
@@ -2722,7 +2799,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.879,
+        "score": 2.868,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2751,7 +2828,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.869,
+        "score": 2.859,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "article"
       },
@@ -2781,7 +2858,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.865,
+        "score": 2.854,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
         "kind": "article"
       },
@@ -2810,7 +2887,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.78,
+        "score": 2.772,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2839,7 +2916,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.768,
+        "score": 2.76,
         "firstSeen": "2026-09-28T22:54:15.445617+00:00",
         "kind": "article"
       },
@@ -2868,7 +2945,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.702,
+        "score": 2.7,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2899,7 +2976,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.56,
+        "score": 2.559,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2930,7 +3007,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.526,
+        "score": 2.525,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2961,67 +3038,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.415,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a842fefb2bdb",
-        "category": "growth",
-        "lang": "en",
-        "title": "What It’s Like to Be…a Mail Carrier",
-        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
-        "publishedAt": "2026-08-11T12:30:27+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
-            "publishedAt": "2026-08-11T12:30:27+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.395,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a821601d6da8",
-        "category": "growth",
-        "lang": "en",
-        "title": "What It’s Like to Be…a Hotshot",
-        "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
-        "publishedAt": "2026-07-28T12:23:34+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
-            "publishedAt": "2026-07-28T12:23:34+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.332,
+        "score": 2.414,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3052,99 +3069,124 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.324,
+        "score": 2.323,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
-        "id": "e31a514b7f90",
+        "id": "f05a3ea43d40",
         "category": "growth",
         "lang": "en",
-        "title": "Journey to Robbers Cave",
-        "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War.",
+        "title": "The Myth of Owning Your Time",
+        "summary": "You've probably heard it all before. Be your own boss.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-        "publishedAt": "2026-07-19T22:58:46+00:00",
+        "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
+        "publishedAt": "2026-08-18T11:45:54+00:00",
         "subtopics": [
-          "Productivity & systems",
-          "Communication",
-          "Presentation & speaking"
+          "Entrepreneurship"
         ],
         "sources": [
           {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-            "publishedAt": "2026-07-19T22:58:46+00:00",
-            "tier": 2
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
+            "publishedAt": "2026-08-18T11:45:54+00:00",
+            "tier": 3
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.304,
+        "score": 2.136,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
-        "id": "59753c6e2af5",
+        "id": "9df6253b05bb",
         "category": "growth",
         "lang": "en",
-        "title": "What It’s Like to Be…an Airport CEO",
-        "summary": "Pitching airline executives during route-planning speed dates, opening a $1.7 billion new terminal, and making space for emotional airport reunions with Christina Cassotis , CEO of Pittsburgh International Airport. Why does she have a beekeeper on contract?",
+        "title": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
+        "summary": "David Baszucki is the co-founder and CEO of Roblox, a platform built around a simple idea: give people the tools and incentives to create together. In this short conversation, he shares how a health decision saved his son’s life and how it changed how he…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://behavioralscientist.org/what-its-like-to-be-an-airport-ceo/",
-        "publishedAt": "2026-07-14T16:47:00+00:00",
+        "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
+        "publishedAt": "2026-08-13T09:45:00+00:00",
         "subtopics": [
           "Communication",
-          "Presentation & speaking",
-          "Leadership"
+          "Entrepreneurship"
         ],
         "sources": [
           {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/what-its-like-to-be-an-airport-ceo/",
-            "publishedAt": "2026-07-14T16:47:00+00:00",
-            "tier": 2
+            "name": "Farnam Street",
+            "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
+            "publishedAt": "2026-08-13T09:45:00+00:00",
+            "tier": 3
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.29,
+        "score": 2.105,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
-        "id": "d7aee6799a8b",
+        "id": "a584a05fe444",
         "category": "growth",
         "lang": "en",
-        "title": "What It’s Like to Be…a Civil Aviation Engineer",
-        "summary": "Designing runways for hot air and heavy planes, inspecting pavement cracks with measuring wheels, and protecting vicious little owls from construction crews with Eileen Vélez-Vega , a civil aviation engineer in Puerto Rico. What does the color of runway…",
+        "title": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
+        "summary": "This summer, I’m revisiting one of my favorite episodes. If you haven’t heard it, now is the time.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://behavioralscientist.org/what-its-like-to-be-a-civil-aviation-engineer/",
-        "publishedAt": "2026-07-07T16:44:00+00:00",
+        "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
+        "publishedAt": "2026-07-30T09:45:00+00:00",
         "subtopics": [
-          "Communication",
-          "Relationships"
+          "Communication"
         ],
         "sources": [
           {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/what-its-like-to-be-a-civil-aviation-engineer/",
-            "publishedAt": "2026-07-07T16:44:00+00:00",
-            "tier": 2
+            "name": "Farnam Street",
+            "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
+            "publishedAt": "2026-07-30T09:45:00+00:00",
+            "tier": 3
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.274,
+        "score": 2.039,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "3665b33cb33a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Truth Over Feelings: Inside Opendoor’s Turnaround",
+        "summary": "No company decides to fail. It drifts there one comfortable lie at a time.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
+        "publishedAt": "2026-07-16T09:50:00+00:00",
+        "subtopics": [
+          "Business case studies"
+        ],
+        "sources": [
+          {
+            "name": "Farnam Street",
+            "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
+            "publishedAt": "2026-07-16T09:50:00+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 1.994,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3232,7 +3274,7 @@
     {
       "id": "bbc-middleeast",
       "ok": true,
-      "items": 31,
+      "items": 33,
       "error": null
     },
     {
@@ -3250,7 +3292,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 11,
+      "items": 10,
       "error": null
     },
     {
@@ -3351,9 +3393,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "onefutureuseful",
@@ -3393,9 +3435,9 @@
     }
   ],
   "filteredOut": {
-    "football": 80,
-    "news": 128,
-    "medical": 28,
-    "growth": 56
+    "football": 79,
+    "news": 127,
+    "medical": 26,
+    "growth": 55
   }
 }
