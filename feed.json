@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:40:28.355143+00:00",
+  "generatedAt": "2026-10-06T00:32:09.823013+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,7 +33,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.033,
+        "score": 10.988,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -61,7 +61,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.033,
+        "score": 10.988,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -90,7 +90,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.812,
+        "score": 9.803,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -124,8 +124,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.131,
+        "isNew": false,
+        "score": 6.047,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -154,7 +154,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.78,
+        "score": 5.757,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -183,7 +183,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.66,
+        "score": 5.641,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -212,7 +212,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.256,
+        "score": 5.219,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -241,7 +241,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.853,
+        "score": 4.842,
         "firstSeen": "2026-10-03T11:02:11.115129+00:00"
       },
       {
@@ -270,7 +270,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.126,
+        "score": 4.079,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -299,7 +299,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.768,
+        "score": 3.73,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       }
     ],
@@ -348,8 +348,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.961,
+        "isNew": false,
+        "score": 7.924,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -384,8 +384,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.953,
+        "score": 7.921,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "4e02e08b0b0e",
+        "category": "news",
+        "lang": "de",
+        "title": "Bundesregierung plant neue Plastiksteuer",
+        "summary": "Bis zu 1,5 Milliarden Euro könnte der Staat mit der neuen Steuer einnehmen. Die Abgabe soll Anreize schaffen, den Verbrauch von Kunststoffverpackungen zu verringern.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/plastiksteuer-bundesregierung-umweltministerium-100.html",
+        "publishedAt": "2026-10-05T22:36:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/wirtschaft/unternehmen/plastiksteuer-bundesregierung-umweltministerium-100.html",
+            "publishedAt": "2026-10-05T22:36:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.915,
+        "firstSeen": "2026-10-06T00:32:09.823013+00:00"
       },
       {
         "id": "79c7eff59e00",
@@ -413,7 +442,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.912,
+        "score": 7.875,
         "firstSeen": "2026-09-27T12:38:25.975765+00:00"
       },
       {
@@ -441,8 +470,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.837,
+        "isNew": false,
+        "score": 7.801,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -470,8 +499,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.758,
+        "isNew": false,
+        "score": 7.723,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -500,8 +529,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.725,
+        "isNew": false,
+        "score": 7.69,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -529,8 +558,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.724,
+        "isNew": false,
+        "score": 7.689,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -558,8 +587,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.723,
+        "isNew": false,
+        "score": 7.689,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -587,8 +616,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.717,
+        "isNew": false,
+        "score": 7.683,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -616,8 +645,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.698,
+        "isNew": false,
+        "score": 7.663,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -645,8 +674,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.697,
+        "isNew": false,
+        "score": 7.663,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -674,8 +703,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.693,
+        "isNew": false,
+        "score": 7.658,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -704,7 +733,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.644,
+        "score": 7.61,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
@@ -733,7 +762,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.619,
+        "score": 7.586,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
@@ -761,8 +790,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.585,
+        "isNew": false,
+        "score": 7.552,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -791,65 +820,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.542,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "8905220654d1",
-        "category": "news",
-        "lang": "de",
-        "title": "Nach tagelangen Regenfällen: Auf Kreta beginnen die Aufräumarbeiten",
-        "summary": "Auf der griechischen Insel Kreta sind durch heftige Regenfälle Straßen überschwemmt und Häuser beschädigt worden. Eine Delegation der Regierung reist ins Schadensgebiet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/griechenland-ueberflutung-100.html",
-        "publishedAt": "2026-10-05T12:06:27+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/griechenland-ueberflutung-100.html",
-            "publishedAt": "2026-10-05T12:06:27+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.526,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "eef8ac684705",
-        "category": "news",
-        "lang": "de",
-        "title": "Warum Friedrich Merz ein Vertrauensproblem hat",
-        "summary": "Sehr bekannt, aber nicht sehr beliebt: Wahlforscher Thorsten Faas ordnet im Gespräch mit dem ZDF ein, welchen Anteil Kanzler Friedrich Merz an der Krise der CDU hat.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/merz-cdu-krise-faas-interview-100.html",
-        "publishedAt": "2026-10-05T12:01:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/merz-cdu-krise-faas-interview-100.html",
-            "publishedAt": "2026-10-05T12:01:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.522,
+        "score": 7.51,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -878,7 +849,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.501,
+        "score": 7.469,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -908,7 +879,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.418,
+        "score": 7.388,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -937,7 +908,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.389,
+        "score": 7.359,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -965,8 +936,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.206,
+        "isNew": false,
+        "score": 7.178,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -995,7 +966,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.122,
+        "score": 7.089,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
@@ -1024,7 +995,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.022,
+        "score": 6.991,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
@@ -1053,7 +1024,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.982,
+        "score": 6.946,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1083,7 +1054,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.8,
+        "score": 6.767,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
@@ -1112,38 +1083,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.617,
-        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
-      },
-      {
-        "id": "dd1ddcb3ecbe",
-        "category": "news",
-        "lang": "en",
-        "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
-        "summary": "Germany's top court, which turned 75 this year, is losing the population's trust, surveys show. Some say reforms in the way it picks candidates would help, to also accept candidates nominated by the far-right AfD.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-05T14:03:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T14:03:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.6,
-        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
+        "score": 6.581,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
         "id": "bfc85de5c3a7",
@@ -1171,8 +1113,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.591,
+        "score": 6.57,
         "firstSeen": "2026-10-04T20:49:32.029721+00:00"
+      },
+      {
+        "id": "dd1ddcb3ecbe",
+        "category": "news",
+        "lang": "en",
+        "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
+        "summary": "Germany's top court, which turned 75 this year, is losing the population's trust, surveys show. Some say reforms in the way it picks candidates would help, to also accept candidates nominated by the far-right AfD.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-05T14:03:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-05T14:03:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.567,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
       },
       {
         "id": "c238c94712bc",
@@ -1198,8 +1169,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.426,
+        "isNew": false,
+        "score": 6.39,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -1228,8 +1199,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.416,
+        "isNew": false,
+        "score": 6.383,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -1258,7 +1229,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.367,
+        "score": 6.334,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1286,7 +1257,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.36,
+        "score": 6.325,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1313,9 +1284,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.35,
+        "isNew": false,
+        "score": 6.315,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "9808a1a99545",
+        "category": "news",
+        "lang": "de",
+        "title": "Linke zieht gegen Reiche vor Bundesverfassungsgericht",
+        "summary": "Die Linke wirft CDU-Politikerin Reiche vor, mit einem Video auf dem Account des Bundeswirtschaftsministeriums das Neutralitätsgebot verletzt zu haben. Nun will die Partei das höchste deutsche Gericht entscheiden lassen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
+        "publishedAt": "2026-10-05T03:39:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/linke-klage-reiche-bundesverfassungsgericht-100.html",
+            "publishedAt": "2026-10-05T03:39:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.199,
+        "firstSeen": "2026-10-06T00:32:09.823013+00:00"
       },
       {
         "id": "e9ddf27a0b07",
@@ -1342,7 +1342,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.053,
+        "score": 6.022,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       }
     ],
@@ -1374,7 +1374,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.368,
+        "score": 11.356,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1407,7 +1407,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.704,
+        "score": 9.702,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1439,7 +1439,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.511,
+        "score": 9.508,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1449,7 +1449,7 @@
         "category": "medical",
         "lang": "en",
         "title": "After years-long turnaround, Convatec’s new CEO plans R&D push",
-        "summary": "Mason, who became CEO of the medtech firm a year ago following the death of Karim Bitar, said Convatec’s pace of launching new devices has accelerated for 2026 and 2027.",
+        "summary": "Jonny Mason, who became CEO of the medtech firm a year ago following the death of Karim Bitar, said Convatec’s pace of launching new devices has accelerated for 2026 and 2027.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.medtechdive.com/news/after-years-long-turnaround-convatecs-new-ceo-plans-rd-push/832127/",
@@ -1471,7 +1471,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.668,
+        "score": 8.656,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "evidence": "trade_press",
         "matridermRelevant": true
@@ -1502,7 +1502,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.368,
+        "score": 8.356,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1534,7 +1534,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.521,
+        "score": 7.513,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1571,7 +1571,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.357,
+        "score": 7.35,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1603,7 +1603,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.357,
+        "score": 7.35,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1634,7 +1634,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.515,
+        "score": 6.507,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1666,7 +1666,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.339,
+        "score": 6.337,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1703,7 +1703,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.339,
+        "score": 6.337,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1735,7 +1735,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.339,
+        "score": 6.337,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1767,7 +1767,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.204,
+        "score": 6.202,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1798,7 +1798,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.013,
+        "score": 6.012,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1830,7 +1830,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.511,
+        "score": 5.502,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1860,8 +1860,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.079,
+        "isNew": false,
+        "score": 5.067,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1892,40 +1892,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.989,
+        "score": 4.981,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "554299e1a27c",
-        "category": "medical",
-        "lang": "en",
-        "title": "Safety, Efficacy, & Use of ViviGen Cellular Bone Matrix Allograft in Orthopaedic Fracture Care",
-        "summary": "Prospective registry and retrospective data collection study to assess the efficacy and safety of Vivigen Cellular Bone Matrix (Vivigen) in orthopaedic trauma patients who require bone grafting in the acute, delayed, non-union fracture as well as use in…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT04299022",
-        "publishedAt": "2026-09-15T00:00:00+00:00",
-        "subtopics": [
-          "Orthopaedics",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT04299022",
-            "publishedAt": "2026-09-15T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.747,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1954,7 +1923,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.727,
+        "score": 3.724,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1985,7 +1954,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.311,
+        "score": 3.308,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2015,7 +1984,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.22,
+        "score": 3.217,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2046,7 +2015,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.205,
+        "score": 3.202,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2077,7 +2046,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.852,
+        "score": 1.851,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2114,13 +2083,42 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.214,
+        "score": 1.212,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "cbee4f834379",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Felix Rieseberg",
+        "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+        "publishedAt": "2026-10-05T23:56:47+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+            "publishedAt": "2026-10-05T23:56:47+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.474,
+        "firstSeen": "2026-10-06T00:32:09.823013+00:00",
+        "kind": "article"
+      },
       {
         "id": "d2e4790c9fab",
         "category": "growth",
@@ -2145,8 +2143,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.468,
+        "isNew": false,
+        "score": 5.434,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2176,7 +2174,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.378,
+        "score": 5.345,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "article"
       },
@@ -2206,7 +2204,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.328,
+        "score": 5.296,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "kind": "article"
       },
@@ -2236,7 +2234,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.176,
+        "score": 5.146,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "kind": "article"
       },
@@ -2265,7 +2263,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.039,
+        "score": 5.01,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "kind": "article"
       },
@@ -2293,8 +2291,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.596,
+        "isNew": false,
+        "score": 4.569,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2323,7 +2321,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.281,
+        "score": 4.272,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2359,7 +2357,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.232,
+        "score": 4.224,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2396,7 +2394,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.19,
+        "score": 4.179,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2433,7 +2431,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.966,
+        "score": 3.948,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2463,7 +2461,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.933,
+        "score": 3.914,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2492,7 +2490,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.891,
+        "score": 3.89,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2528,7 +2526,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.82,
+        "score": 3.819,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2600,7 +2598,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.761,
+        "score": 3.76,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "video",
         "video": {
@@ -2636,7 +2634,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.714,
+        "score": 3.703,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "article"
       },
@@ -2671,7 +2669,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.666,
+        "score": 3.655,
         "firstSeen": "2026-10-02T11:49:25.647658+00:00",
         "kind": "article"
       },
@@ -2700,7 +2698,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.406,
+        "score": 3.398,
         "firstSeen": "2026-10-01T14:06:18.897791+00:00",
         "kind": "article"
       },
@@ -2728,8 +2726,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.153,
+        "isNew": false,
+        "score": 3.144,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2794,7 +2792,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.079,
+        "score": 3.078,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2830,7 +2828,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.057,
+        "score": 3.05,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2859,7 +2857,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.845,
+        "score": 2.841,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00",
         "kind": "article"
       },
@@ -2889,7 +2887,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.826,
+        "score": 2.822,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "article"
       },
@@ -2918,7 +2916,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.818,
+        "score": 2.813,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "article"
       },
@@ -2948,7 +2946,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.814,
+        "score": 2.81,
         "firstSeen": "2026-09-29T21:47:58.995323+00:00",
         "kind": "article"
       },
@@ -2977,7 +2975,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.693,
+        "score": 2.692,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3008,7 +3006,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.553,
+        "score": 2.552,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3039,7 +3037,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.519,
+        "score": 2.518,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3075,6 +3073,66 @@
         "kind": "article"
       },
       {
+        "id": "a842fefb2bdb",
+        "category": "growth",
+        "lang": "en",
+        "title": "What It’s Like to Be…a Mail Carrier",
+        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+        "publishedAt": "2026-08-11T12:30:27+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+            "publishedAt": "2026-08-11T12:30:27+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.393,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a821601d6da8",
+        "category": "growth",
+        "lang": "en",
+        "title": "What It’s Like to Be…a Hotshot",
+        "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+        "publishedAt": "2026-07-28T12:23:34+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+            "publishedAt": "2026-07-28T12:23:34+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.331,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
         "id": "8ba822b78432",
         "category": "growth",
         "lang": "en",
@@ -3106,119 +3164,33 @@
         "kind": "article"
       },
       {
-        "id": "f05a3ea43d40",
+        "id": "e31a514b7f90",
         "category": "growth",
         "lang": "en",
-        "title": "The Myth of Owning Your Time",
-        "summary": "You've probably heard it all before. Be your own boss.",
+        "title": "Journey to Robbers Cave",
+        "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
-        "publishedAt": "2026-08-18T11:45:54+00:00",
+        "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
+        "publishedAt": "2026-07-19T22:58:46+00:00",
         "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
-            "publishedAt": "2026-08-18T11:45:54+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.134,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "9df6253b05bb",
-        "category": "growth",
-        "lang": "en",
-        "title": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
-        "summary": "David Baszucki is the co-founder and CEO of Roblox, a platform built around a simple idea: give people the tools and incentives to create together. In this short conversation, he shares how a health decision saved his son’s life and how it changed how he…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-        "publishedAt": "2026-08-13T09:45:00+00:00",
-        "subtopics": [
+          "Productivity & systems",
           "Communication",
-          "Entrepreneurship"
+          "Presentation & speaking"
         ],
         "sources": [
           {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-            "publishedAt": "2026-08-13T09:45:00+00:00",
-            "tier": 3
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
+            "publishedAt": "2026-07-19T22:58:46+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.103,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a584a05fe444",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
-        "summary": "This summer, I’m revisiting one of my favorite episodes. If you haven’t heard it, now is the time.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-        "publishedAt": "2026-07-30T09:45:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-            "publishedAt": "2026-07-30T09:45:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.038,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "3665b33cb33a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Truth Over Feelings: Inside Opendoor’s Turnaround",
-        "summary": "No company decides to fail. It drifts there one comfortable lie at a time.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
-        "publishedAt": "2026-07-16T09:50:00+00:00",
-        "subtopics": [
-          "Business case studies"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
-            "publishedAt": "2026-07-16T09:50:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 1.993,
+        "score": 2.303,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3425,9 +3397,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
