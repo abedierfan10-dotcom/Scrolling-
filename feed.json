@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:15:25.975374+00:00",
+  "generatedAt": "2026-10-06T22:51:37.766412+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,35 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "888d599d086c",
+        "category": "football",
+        "lang": "en",
+        "title": "No decision on JJ Gabriel future amid Barca, Real Madrid, Bayern & PSG interest",
+        "summary": "JJ Gabriel and his family are yet to make a decision on his future but it is increasingly likely his next club will be in Europe.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/12040/13595964/jj-gabriel-man-utd-prodigy-yet-to-make-decision-on-future-amid-interest-from-barcelona-real-madrid-bayern-munich-and-psg",
+        "publishedAt": "2026-10-06T23:00:00+00:00",
+        "subtopics": [
+          "Barcelona",
+          "La Liga"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/12040/13595964/jj-gabriel-man-utd-prodigy-yet-to-make-decision-on-future-amid-interest-from-barcelona-real-madrid-bayern-munich-and-psg",
+            "publishedAt": "2026-10-06T23:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 12.5,
+        "firstSeen": "2026-10-06T22:51:37.766412+00:00"
+      },
       {
         "id": "28cde068a9a9",
         "category": "football",
@@ -33,7 +62,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.2,
+        "score": 10.186,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -61,8 +90,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.2,
+        "score": 10.186,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "0c580d191371",
+        "category": "football",
+        "lang": "en",
+        "title": "'Outfought' and 'not good enough' - Robertson on Scotland defeat",
+        "summary": "Scotland were \"outfought\" and simply \"not good enough\" in their 2-1 Nations League defeat by Slovenia, according to captain Andy Robertson.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/crz98xv1e8nlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-06T22:13:15+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/crz98xv1e8nlo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-06T22:13:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.434,
+        "firstSeen": "2026-10-06T22:51:37.766412+00:00"
       },
       {
         "id": "e54ad51d4e57",
@@ -89,8 +147,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.473,
+        "isNew": false,
+        "score": 5.412,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -118,9 +176,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.411,
+        "isNew": false,
+        "score": 5.351,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "29add49b7c37",
+        "category": "football",
+        "lang": "en",
+        "title": "USMNT victory over Mexico, youthful surge give Pochettino, U.S. fans much to celebrate",
+        "summary": "The 2030 World Cup cycle could hardly have started in a more positive fashion for Mauricio Pochettino and the USMNT",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.nytimes.com/athletic/7657760/2026/10/04/usmnt-mexico-rivalry-pochettino-sullivan-hall-world-cup/",
+        "publishedAt": "2026-10-04T08:53:16+00:00",
+        "subtopics": [
+          "World Cup",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Athletic",
+            "url": "https://www.nytimes.com/athletic/7657760/2026/10/04/usmnt-mexico-rivalry-pochettino-sullivan-hall-world-cup/",
+            "publishedAt": "2026-10-04T08:53:16+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.349,
+        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
         "id": "cf967ffc2c8b",
@@ -154,37 +241,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.377,
+        "score": 5.334,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "29add49b7c37",
-        "category": "football",
-        "lang": "en",
-        "title": "USMNT victory over Mexico, youthful surge give Pochettino, U.S. fans much to celebrate",
-        "summary": "The 2030 World Cup cycle could hardly have started in a more positive fashion for Mauricio Pochettino and the USMNT",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7657760/2026/10/04/usmnt-mexico-rivalry-pochettino-sullivan-hall-world-cup/",
-        "publishedAt": "2026-10-04T08:53:16+00:00",
-        "subtopics": [
-          "World Cup",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7657760/2026/10/04/usmnt-mexico-rivalry-pochettino-sullivan-hall-world-cup/",
-            "publishedAt": "2026-10-04T08:53:16+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.356,
-        "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
         "id": "e4a93ca2d434",
@@ -212,7 +270,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.301,
+        "score": 5.295,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -241,7 +299,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.101,
+        "score": 5.058,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -270,7 +328,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.789,
+        "score": 3.763,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -299,7 +357,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.243,
+        "score": 3.227,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       }
     ],
@@ -335,8 +393,55 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.607,
+        "isNew": false,
+        "score": 8.582,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "59284c5e80bc",
+        "category": "news",
+        "lang": "de",
+        "title": "tagesschau",
+        "summary": "AfD-Politiker Rausch zum Landtagspräsidenten in Sachsen-Anhalt gewählt, Kritischer Blick über Abstimmungsverhalten der CDU nach Wahl des Landtagspräsidenten in Sachsen-Anhalt, Früherer BND-Chef Hanning wegen Spionageverdacht festgenommen, Türkei und Pakistan…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/tagesschau/ts-81396.html",
+        "publishedAt": "2026-10-06T22:35:17+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau/ts-81396.html",
+            "publishedAt": "2026-10-06T22:35:17+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1661712.html",
+            "publishedAt": "2026-10-06T18:54:07+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81294.html",
+            "publishedAt": "2026-10-06T18:31:29+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12292.html",
+            "publishedAt": "2026-10-06T18:30:52+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.988,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -386,8 +491,8 @@
             "publishedAt": "2026-10-06T11:02:00+00:00"
           }
         ],
-        "isNew": true,
-        "score": 8.007,
+        "isNew": false,
+        "score": 7.982,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -415,8 +520,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.989,
+        "isNew": false,
+        "score": 7.962,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -444,49 +549,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.925,
-        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
-      },
-      {
-        "id": "59284c5e80bc",
-        "category": "news",
-        "lang": "de",
-        "title": "tagesschau 20:00 Uhr",
-        "summary": "AfD-Politiker Rausch zum Landtagspräsidenten in Sachsen-Anhalt gewählt, Kritischer Blick über Abstimmungsverhalten der CDU nach Wahl des Landtagspräsidenten in Sachsen-Anhalt, Früherer BND-Chef Hanning wegen Spionageverdacht festgenommen, Türkei und Pakistan…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1661712.html",
-        "publishedAt": "2026-10-06T18:54:07+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1661712.html",
-            "publishedAt": "2026-10-06T18:54:07+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81294.html",
-            "publishedAt": "2026-10-06T18:31:29+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau/ts-81292.html",
-            "publishedAt": "2026-10-06T15:26:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.854,
+        "isNew": false,
+        "score": 7.899,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -521,7 +585,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.823,
+        "score": 7.798,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -549,8 +613,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.817,
+        "isNew": false,
+        "score": 7.792,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -579,8 +643,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.804,
+        "isNew": false,
+        "score": 7.779,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -614,8 +678,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.778,
+        "isNew": false,
+        "score": 7.753,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -644,8 +708,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.773,
+        "isNew": false,
+        "score": 7.748,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -673,8 +737,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.755,
+        "isNew": false,
+        "score": 7.73,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -702,8 +766,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.744,
+        "isNew": false,
+        "score": 7.719,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -731,8 +795,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.728,
+        "isNew": false,
+        "score": 7.703,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -760,8 +824,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.718,
+        "isNew": false,
+        "score": 7.694,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -789,8 +853,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.682,
+        "isNew": false,
+        "score": 7.658,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -825,7 +889,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.675,
+        "score": 7.649,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -854,7 +918,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.631,
+        "score": 7.608,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00"
       },
       {
@@ -883,7 +947,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.567,
+        "score": 7.544,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -912,7 +976,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.5,
+        "score": 7.477,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -941,7 +1005,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.5,
+        "score": 7.477,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -969,8 +1033,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.391,
+        "isNew": false,
+        "score": 7.369,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -999,8 +1063,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.112,
+        "isNew": false,
+        "score": 7.086,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -1029,7 +1093,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.947,
+        "score": 6.929,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00"
       },
       {
@@ -1057,8 +1121,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.862,
+        "isNew": false,
+        "score": 6.836,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -1087,7 +1151,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.817,
+        "score": 6.8,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1116,7 +1180,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.805,
+        "score": 6.789,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -1144,8 +1208,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.617,
+        "isNew": false,
+        "score": 6.592,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -1173,8 +1237,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.567,
+        "isNew": false,
+        "score": 6.542,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -1202,8 +1266,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.498,
+        "isNew": false,
+        "score": 6.474,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -1231,7 +1295,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.383,
+        "score": 6.358,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -1259,8 +1323,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.326,
+        "isNew": false,
+        "score": 6.304,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -1288,8 +1352,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.266,
+        "isNew": false,
+        "score": 6.239,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -1317,8 +1381,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.251,
+        "isNew": false,
+        "score": 6.225,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -1347,7 +1411,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.203,
+        "score": 6.181,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -1375,8 +1439,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.197,
+        "isNew": false,
+        "score": 6.171,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       }
     ],
@@ -1408,7 +1472,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.085,
+        "score": 11.078,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1441,7 +1505,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.65,
+        "score": 9.649,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1473,7 +1537,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.425,
+        "score": 9.423,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1505,7 +1569,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.364,
+        "score": 8.357,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "evidence": "trade_press",
         "matridermRelevant": true
@@ -1536,7 +1600,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.085,
+        "score": 8.078,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1568,7 +1632,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.328,
+        "score": 7.323,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1605,7 +1669,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.181,
+        "score": 7.177,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1637,7 +1701,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.181,
+        "score": 7.177,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1668,7 +1732,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.302,
+        "score": 6.296,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1700,7 +1764,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.272,
+        "score": 6.27,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1737,7 +1801,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.272,
+        "score": 6.27,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1769,7 +1833,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.272,
+        "score": 6.27,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1801,7 +1865,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.15,
+        "score": 6.149,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1832,8 +1896,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.08,
+        "isNew": false,
+        "score": 6.071,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1864,7 +1928,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.98,
+        "score": 5.979,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1896,7 +1960,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.298,
+        "score": 5.292,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1927,7 +1991,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.774,
+        "score": 4.766,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1958,7 +2022,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.64,
+        "score": 3.638,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1989,7 +2053,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.225,
+        "score": 3.223,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2019,7 +2083,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.144,
+        "score": 3.142,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2050,7 +2114,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.131,
+        "score": 3.129,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2087,7 +2151,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.159,
+        "score": 1.158,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2120,8 +2184,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.293,
+        "isNew": false,
+        "score": 6.269,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "video",
         "video": {
@@ -2156,8 +2220,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.468,
+        "isNew": false,
+        "score": 5.442,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2185,8 +2249,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.428,
+        "isNew": false,
+        "score": 5.402,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2220,8 +2284,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.414,
+        "isNew": false,
+        "score": 5.388,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2249,8 +2313,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.205,
+        "isNew": false,
+        "score": 5.181,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2279,7 +2343,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.652,
+        "score": 4.633,
         "firstSeen": "2026-10-06T00:32:09.823013+00:00",
         "kind": "article"
       },
@@ -2308,7 +2372,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.086,
+        "score": 4.082,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2344,7 +2408,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.052,
+        "score": 4.048,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2380,7 +2444,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.998,
+        "score": 3.984,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2410,7 +2474,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.936,
+        "score": 3.93,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2446,7 +2510,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.868,
+        "score": 3.867,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2482,7 +2546,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.799,
+        "score": 3.798,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2554,7 +2618,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.742,
+        "score": 3.741,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "video",
         "video": {
@@ -2591,7 +2655,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.548,
+        "score": 3.538,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2621,7 +2685,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.524,
+        "score": 3.515,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2650,7 +2714,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.088,
+        "score": 3.087,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00",
         "kind": "article"
       },
@@ -2751,7 +2815,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.966,
+        "score": 2.962,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2780,7 +2844,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.898,
+        "score": 2.894,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2813,35 +2877,6 @@
         "isNew": false,
         "score": 2.789,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "1e2adcbb126c",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Anthropic Frontier Red Team",
-        "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%. Although GLM-5.3 performs below…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-        "publishedAt": "2026-09-29T22:20:28+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-            "publishedAt": "2026-09-29T22:20:28+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.747,
-        "firstSeen": "2026-09-29T22:47:58.379274+00:00",
         "kind": "article"
       },
       {
@@ -2900,7 +2935,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.536,
+        "score": 2.535,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2931,7 +2966,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.503,
+        "score": 2.502,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3221,7 +3256,7 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 28,
+      "items": 29,
       "error": null
     },
     {
@@ -3245,7 +3280,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 10,
+      "items": 11,
       "error": null
     },
     {
@@ -3388,9 +3423,9 @@
     }
   ],
   "filteredOut": {
-    "football": 82,
+    "football": 81,
     "news": 135,
     "medical": 28,
-    "growth": 57
+    "growth": 58
   }
 }
