@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T13:50:59.706295+00:00",
+  "generatedAt": "2026-10-06T22:15:25.975374+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,7 +33,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.437,
+        "score": 10.2,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -61,8 +61,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.437,
+        "score": 10.2,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "e54ad51d4e57",
+        "category": "football",
+        "lang": "en",
+        "title": "Slovenia come from behind to beat Scotland in Nations League",
+        "summary": "Scotland head coach Sebastien Pocognoli remains without a Hampden Park win as Slovenia came from behind to take the points in their Nations League match.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/scotland-vs-slovenia/report/554082",
+        "publishedAt": "2026-10-06T22:00:00+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/scotland-vs-slovenia/report/554082",
+            "publishedAt": "2026-10-06T22:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.473,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "2b5c6d8c6ad7",
+        "category": "football",
+        "lang": "en",
+        "title": "Scotland let lead slip in abject defeat by Slovenia",
+        "summary": "Watch the best of the action as Slovenia come from behind to beat Scotland 2-1 in the Nations League at Hampden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-06T21:23:34+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-06T21:23:34+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.411,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
         "id": "cf967ffc2c8b",
@@ -96,36 +154,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.082,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "b96d70b98cf2",
-        "category": "football",
-        "lang": "en",
-        "title": "Predicted PL table - latest from the Sky Sports supercomputer",
-        "summary": "Who will finish where in the 2026/27 Premier League season? Check the latest expected and predicted standings, according to the Sky Sports supercomputer.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
-        "publishedAt": "2026-10-06T12:00:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Tables"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
-            "publishedAt": "2026-10-06T12:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.813,
+        "score": 5.377,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -154,7 +183,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.477,
+        "score": 5.356,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
       },
       {
@@ -183,8 +212,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.404,
+        "score": 5.301,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00"
+      },
+      {
+        "id": "b96d70b98cf2",
+        "category": "football",
+        "lang": "en",
+        "title": "Predicted PL table - latest from the Sky Sports supercomputer",
+        "summary": "Who will finish where in the 2026/27 Premier League season? Check the latest expected and predicted standings, according to the Sky Sports supercomputer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
+        "publishedAt": "2026-10-06T12:00:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Tables"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/12040/13580733/premier-league-predicted-and-xg-table-26-27-latest-sky-sports-supercomputer-standings-for-title-top-four-relegation",
+            "publishedAt": "2026-10-06T12:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.101,
+        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
         "id": "a459b6a95257",
@@ -212,7 +270,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.226,
+        "score": 3.789,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -241,70 +299,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.494,
+        "score": 3.243,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       }
     ],
     "news": [
       {
-        "id": "5f40899f4a24",
-        "category": "news",
-        "lang": "en",
-        "title": "Former German spy chief arrested for treason",
-        "summary": "August Hanning, the man who once led Germany's spy service, is now under investigation for passing on state secrets.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-06T10:34:25+00:00",
-        "subtopics": [
-          "Germany"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/4c565931-6ac7-4b4c-be72-d86e8e3a8aec?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-06T10:34:25+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-06T10:05:42+00:00",
-            "tier": 2
-          },
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/germany-s-ex-spy-chief-arrested-for-espionage/a-79560278?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-06T08:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 8.457,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "c03218ff7ccd",
+        "id": "6041ee1e2ad6",
         "category": "news",
         "lang": "de",
-        "title": "Wahl Sachsen-Anhalt im Liveticker: AfD-Politiker Rausch mit mehr Ja-Stimmen gewählt als erwartet",
-        "summary": "AfD-Politiker Rausch ist mit 48 Stimmen zum neuen Landtagspräsidenten gewählt worden. Nur fünf Abgeordnete enthielten sich.",
+        "title": "Paramount übernimmt Warner und wird zu Skydance",
+        "summary": "Monatelang liefen die Verhandlungen über eine Übernahme des Warner-Konzerns. Jetzt hat Paramount den milliardenschweren Deal finalisiert.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/liveticker-erste-sitzung-landtagspraesident-rausch,landtag-sachsen-anhalt-338.html",
-        "publishedAt": "2026-10-06T13:50:16+00:00",
+        "url": "https://www.zdfheute.de/wirtschaft/paramount-warner-uebernahme-skydance-100.html",
+        "publishedAt": "2026-10-06T17:47:00+00:00",
         "subtopics": [
           "Germany",
-          "Elections"
+          "Business"
         ],
         "sources": [
           {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/wirtschaft/paramount-warner-uebernahme-skydance-100.html",
+            "publishedAt": "2026-10-06T17:47:00+00:00",
+            "tier": 2
+          },
+          {
             "name": "Tagesschau",
-            "url": "https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/liveticker-erste-sitzung-landtagspraesident-rausch,landtag-sachsen-anhalt-338.html",
-            "publishedAt": "2026-10-06T13:50:16+00:00",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-102.html",
+            "publishedAt": "2026-10-06T15:18:04+00:00",
             "tier": 2
           }
         ],
@@ -312,8 +336,497 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.999,
-        "firstSeen": "2026-10-06T13:50:59.706295+00:00"
+        "score": 8.607,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "2d54971b056d",
+        "category": "news",
+        "lang": "de",
+        "title": "Spionageverdacht: Ex-BND-Präsident Hanning festgenommen",
+        "summary": "Ermittler haben am Morgen den ehemaligen BND-Präsidenten August Hanning festgenommen. Er steht unter Spionageverdacht.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/spionageverdacht-ex-bnd-praesident-hanning-festgenommen,hamj-15292.html",
+        "publishedAt": "2026-10-06T17:47:45+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/spionageverdacht-ex-bnd-praesident-hanning-festgenommen,hamj-15292.html",
+            "publishedAt": "2026-10-06T17:47:45+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1661458.html",
+            "publishedAt": "2026-10-06T14:12:55+00:00",
+            "tier": 2
+          },
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/august-hanning-ex-bnd-chef-spionage-100.html",
+            "publishedAt": "2026-10-06T11:02:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": true,
+        "latestUpdate": "Spionageverdacht: Ex-BND-Präsident Hanning festgenommen",
+        "earlier": [
+          {
+            "title": "Ex-BND-Präsident Hanning wegen Spionageverdacht festgenommen",
+            "source": "Tagesschau",
+            "publishedAt": "2026-10-06T14:12:55+00:00"
+          },
+          {
+            "title": "Spionage-Verdacht: Ex-BND-Chef Hanning festgenommen",
+            "source": "ZDFheute",
+            "publishedAt": "2026-10-06T11:02:00+00:00"
+          }
+        ],
+        "isNew": true,
+        "score": 8.007,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "d5b49ed50b99",
+        "category": "news",
+        "lang": "de",
+        "title": "Dank Super-Joker: Spanien siegt in Kroatien",
+        "summary": "Das war knapper als erwartet. Die Kroaten zeigen gegen Spanien eine Reaktion auf ihre historische England-Pleite.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/sport/fussball-nations-league/video/kroatien-spanien-highlights-maenner-zusammenfassung-100.html",
+        "publishedAt": "2026-10-06T22:00:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/sport/fussball-nations-league/video/kroatien-spanien-highlights-maenner-zusammenfassung-100.html",
+            "publishedAt": "2026-10-06T22:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.989,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "594260328035",
+        "category": "news",
+        "lang": "de",
+        "title": "Debatte um Abstimmungsverhalten nach Wahl von AfD-Politikern ins Landtagspräsidium in Sachsen-Anhalt",
+        "summary": "Debatte um Abstimmungsverhalten nach Wahl von AfD-Politikern ins Landtagspräsidium in Sachsen-Anhalt",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/tagesthemen/video-1661748.html",
+        "publishedAt": "2026-10-06T20:34:02+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesthemen/video-1661748.html",
+            "publishedAt": "2026-10-06T20:34:02+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.925,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "59284c5e80bc",
+        "category": "news",
+        "lang": "de",
+        "title": "tagesschau 20:00 Uhr",
+        "summary": "AfD-Politiker Rausch zum Landtagspräsidenten in Sachsen-Anhalt gewählt, Kritischer Blick über Abstimmungsverhalten der CDU nach Wahl des Landtagspräsidenten in Sachsen-Anhalt, Früherer BND-Chef Hanning wegen Spionageverdacht festgenommen, Türkei und Pakistan…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1661712.html",
+        "publishedAt": "2026-10-06T18:54:07+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1661712.html",
+            "publishedAt": "2026-10-06T18:54:07+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81294.html",
+            "publishedAt": "2026-10-06T18:31:29+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/tagesschau/ts-81292.html",
+            "publishedAt": "2026-10-06T15:26:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.854,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "e59071401f4b",
+        "category": "news",
+        "lang": "en",
+        "title": "German far right secures first regional parliament president",
+        "summary": "For the first time since World War II, a far-right party has a house speaker in a German state parliament. And Germany's foreign minister has warned that the climate crisis could fuel extremism.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4?syn-25a6b1a6=1",
+        "publishedAt": "2026-10-06T18:10:25+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-06T18:10:25+00:00",
+            "tier": 2
+          },
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-06T06:21:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.823,
+        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
+      },
+      {
+        "id": "99d6c53d232b",
+        "category": "news",
+        "lang": "de",
+        "title": "AfD-Landtagspräsident in Sachsen-Anhalt: Sicher ist nichts mehr",
+        "summary": "Mit der Wahl des AfD-Politikers Rausch zum Landtagspräsidenten in Sachsen-Anhalt zementiert die AfD ihren Machtanspruch. Und sie zeigt, dass sie Mehrheiten für ihre Kandidaten organisieren kann.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
+        "publishedAt": "2026-10-06T18:01:14+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/kommentar/sachsen-anhalt-wahl-landtagspraesident-100.html",
+            "publishedAt": "2026-10-06T18:01:14+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.817,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "881f92824ba0",
+        "category": "news",
+        "lang": "de",
+        "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
+        "summary": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
+        "publishedAt": "2026-10-06T17:43:36+00:00",
+        "subtopics": [
+          "Germany",
+          "EU",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/eu-china-handelsgespraeche-100.html",
+            "publishedAt": "2026-10-06T17:43:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.804,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "9ecc15a580fc",
+        "category": "news",
+        "lang": "de",
+        "title": "Ärger in Berlin nach AfD-Erfolg in Sachsen-Anhalt",
+        "summary": "Erstmals stellt die AfD einen Landtagspräsidenten. Die Wahl von Tobias Rausch in Sachsen-Anhalt bringt vor allem einen Politiker der CDU in Bedrängnis: Noch-Ministerpräsident Sven Schulze.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
+        "publishedAt": "2026-10-06T17:05:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/wahl-landtagspraesident-sachsen-anhalt-afd-100.html",
+            "publishedAt": "2026-10-06T17:05:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/magdeburg-afd-landtagspraesident-100.html",
+            "publishedAt": "2026-10-06T16:22:39+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.778,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "3e378820169c",
+        "category": "news",
+        "lang": "de",
+        "title": "Wer bremst, verliert? Woran mehr KI-Regeln derzeit scheitern",
+        "summary": "Verkehrte Welt im Silicon Valley: Während KI-Firmen für Pausen in der Entwicklung werben, drückt die US-Regierung aufs Tempo. Woran liegt es, dass bisher nicht mehr reguliert wird?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/anthropic-ki-regulierung-trump-sicherheit-100.html",
+        "publishedAt": "2026-10-06T16:58:00+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/wirtschaft/unternehmen/anthropic-ki-regulierung-trump-sicherheit-100.html",
+            "publishedAt": "2026-10-06T16:58:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.773,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "9365c096920b",
+        "category": "news",
+        "lang": "de",
+        "title": "Propaganda, Dementi und Unklarheit im Jemen-Krieg",
+        "summary": "Ob Huthi-Miliz, jemenitische Regierungstruppen oder Saudi-Arabien - die Parteien im Jemen-Krieg sprechen oft von Schlägen und Erfolgen, bei denen unklar ist, was stimmt. Klar ist aber: Ein Ende des Kriegs ist nicht in Sicht.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/asien/jemen-propaganda-kaempfe-100.html",
+        "publishedAt": "2026-10-06T16:31:55+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/asien/jemen-propaganda-kaempfe-100.html",
+            "publishedAt": "2026-10-06T16:31:55+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.755,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "663de78a0591",
+        "category": "news",
+        "lang": "de",
+        "title": "Sachsen-Anhalt: AfD stellt mit Tillschneider auch Landtagsvizepräsident",
+        "summary": "Der AfD-Politiker Tillschneider ist zum neuen Landtagsvizepräsidenten in Sachsen-Anhalt gewählt worden. Die CDU stellt mit dem Abgeordneten Borchert den zweiten Vizepräsidenten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html",
+        "publishedAt": "2026-10-06T16:15:19+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/sachsen-anhalt-landtagsvizepraesident-tillschneider-100.html",
+            "publishedAt": "2026-10-06T16:15:19+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.744,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "2f5e9cdb4ece",
+        "category": "news",
+        "lang": "de",
+        "title": "Entsetzen nach Festnahme des Ex-BND-Chefs Hanning",
+        "summary": "\"Verstörend\" und \"alarmierend\": Die überraschende Festnahme des Ex-BND-Chefs Hanning hat für Aufsehen gesorgt. Sicherheitspolitiker von Regierung und Opposition zeigen sich entsetzt und fordern eine umfassende Aufklärung des Falls.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/festnahme-hanning-bnd-reaktionen-100.html",
+        "publishedAt": "2026-10-06T15:51:40+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/festnahme-hanning-bnd-reaktionen-100.html",
+            "publishedAt": "2026-10-06T15:51:40+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.728,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "8a3a470ab528",
+        "category": "news",
+        "lang": "de",
+        "title": "Erster AfD-Landtagspräsident: Vier Lehren aus Magdeburg",
+        "summary": "Mit Tobias Rausch in Sachsen-Anhalt stellt die AfD erstmals einen Landtagspräsidenten. Was seine Wahl über Ulrich Siegmunds Erfolgschancen und den Zustand der CDU verrät.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/afd-sachsen-anhalt-landtagspraesident-tobias-rausch-100.html",
+        "publishedAt": "2026-10-06T15:38:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/afd-sachsen-anhalt-landtagspraesident-tobias-rausch-100.html",
+            "publishedAt": "2026-10-06T15:38:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.718,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "eb9cbd16a010",
+        "category": "news",
+        "lang": "en",
+        "title": "AfD candidate elected speaker of German regional parliament for first time",
+        "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-06T14:44:03+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-06T14:44:03+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.682,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "dd5b093c8754",
+        "category": "news",
+        "lang": "de",
+        "title": "Gericht weist Klage Hinterbliebener im Germanwings-Prozess ab",
+        "summary": "2015 hatte ein Co-Pilot eine Germanwings-Maschine zum Absturz gebracht. 150 Menschen starben.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/prozess-um-germanwings-absturz-klage-von-angehoerigen-abgewiesen,germanwings-452.html",
+        "publishedAt": "2026-10-06T19:23:08+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/niedersachsen/prozess-um-germanwings-absturz-klage-von-angehoerigen-abgewiesen,germanwings-452.html",
+            "publishedAt": "2026-10-06T19:23:08+00:00",
+            "tier": 2
+          },
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/panorama/germanwings-absturz-angehoerige-klage-100.html",
+            "publishedAt": "2026-10-06T17:09:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.675,
+        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
         "id": "83a1149b3830",
@@ -340,96 +853,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.982,
-        "firstSeen": "2026-10-06T13:50:59.706295+00:00"
-      },
-      {
-        "id": "4f937b1c727b",
-        "category": "news",
-        "lang": "de",
-        "title": "Sabine Falk-Bartz, MDR, zur Wahl eines AfD-Landtagspräsidenten in Sachsen-Anhalt",
-        "summary": "Sabine Falk-Bartz, MDR, zur Wahl eines AfD-Landtagspräsidenten in Sachsen-Anhalt",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1661420.html",
-        "publishedAt": "2026-10-06T13:06:24+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1661420.html",
-            "publishedAt": "2026-10-06T13:06:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.967,
-        "firstSeen": "2026-10-06T13:50:59.706295+00:00"
-      },
-      {
-        "id": "4f67afd22702",
-        "category": "news",
-        "lang": "de",
-        "title": "Neumann: \"Diesen Gefallen sollte man Putin nicht tun\"",
-        "summary": "Ist Deutschland in Gefahr, in einen Krieg mit Russland zu geraten? Sicherheitsexperte Peter R.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/russland-bedrohung-angriff-bnd-neumann-100.html",
-        "publishedAt": "2026-10-06T12:33:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/russland-bedrohung-angriff-bnd-neumann-100.html",
-            "publishedAt": "2026-10-06T12:33:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.943,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "79c7eff59e00",
-        "category": "news",
-        "lang": "de",
-        "title": "Aktuelles zum Krieg in der Ukraine",
-        "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-        "publishedAt": "2026-10-06T12:05:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
-            "publishedAt": "2026-10-06T12:05:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.922,
-        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
+        "score": 7.631,
+        "firstSeen": "2026-10-06T13:50:59.706295+00:00"
       },
       {
         "id": "63b016c0fbc0",
@@ -457,7 +883,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.909,
+        "score": 7.567,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -486,7 +912,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.833,
+        "score": 7.5,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -515,107 +941,48 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.833,
+        "score": 7.5,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
-        "id": "da895653450b",
+        "id": "5083cbbcdd4b",
         "category": "news",
         "lang": "de",
-        "title": "Abwehrkampf der Ukraine: Massiver Drohnenangriff auf Moskau",
-        "summary": "Als Teil ihres Abwehrkampfs nimmt die Ukraine immer wieder Ziele tief im russischen Hinterland ins Visier. Die russischen Behörden melden einen großangelegten Angriff auf die Hauptstadt Moskau mit rund 650 Drohnen.",
+        "title": "Ukraine-Besuch: Mit Merz im Luftalarm",
+        "summary": "Allen russischen Warnungen zum Trotz hat der Kanzler erneut die Ukraine besucht. Welche Botschaften sandte er von dort – an die Ukrainer, an Putin und an Deutschland?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/drohnenangriff-moskau-104.html",
-        "publishedAt": "2026-10-06T09:20:20+00:00",
+        "url": "https://www.zdf.de/video/magazine/politix-104/kanzler-merz-ukraine-besuch-angriffe-luftalarm-100",
+        "publishedAt": "2026-10-06T07:00:00+00:00",
         "subtopics": [
           "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/drohnenangriff-moskau-104.html",
-            "publishedAt": "2026-10-06T09:20:20+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.805,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "4fc669dd7b97",
-        "category": "news",
-        "lang": "de",
-        "title": "Warum Polen für die deutsche Wirtschaft immer wichtiger wird",
-        "summary": "Polens Wirtschaft wächst kräftig. Das Land kauft deutsche Waren - und ist unser viertgrößter Exportmarkt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/wirtschaft/deutschland-polen-wirtschaft-export-absatzmarkt-100.html",
-        "publishedAt": "2026-10-06T07:44:00+00:00",
-        "subtopics": [
-          "Germany",
-          "US",
-          "Economy"
+          "Government"
         ],
         "sources": [
           {
             "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/wirtschaft/deutschland-polen-wirtschaft-export-absatzmarkt-100.html",
-            "publishedAt": "2026-10-06T07:44:00+00:00",
+            "url": "https://www.zdf.de/video/magazine/politix-104/kanzler-merz-ukraine-besuch-angriffe-luftalarm-100",
+            "publishedAt": "2026-10-06T07:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.739,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
+        "isNew": true,
+        "score": 7.391,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
-        "id": "f432572a87ee",
+        "id": "7142c08fb1a4",
         "category": "news",
-        "lang": "de",
-        "title": "Wohnungsnot in Barcelona: Zehntausende gegen hohe Mieten",
-        "summary": "Tausende protestieren in Barcelona gegen die Wohnungsnot. Wegen gescheiterter Gesetze rief Premier Sánchez Neuwahlen aus.",
+        "lang": "en",
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/barcelona-protest-wohnungsnot-spanien-sanchez-100.html",
-        "publishedAt": "2026-10-06T06:07:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/barcelona-protest-wohnungsnot-spanien-sanchez-100.html",
-            "publishedAt": "2026-10-06T06:07:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.674,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "4dfdf8f940ee",
-        "category": "news",
-        "lang": "de",
-        "title": "Trump erlaubt angesichts hoher Spritpreise Nutzung von steuerfreiem Diesel",
-        "summary": "Mit dem Iran-Krieg ist das Tanken auch in den USA deutlich teurer geworden. Nun verspricht US-Präsident Trump Abhilfe: Autofahrer sollen steuerfreien, \"roten\" Diesel nutzen können.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
-        "publishedAt": "2026-10-06T05:30:33+00:00",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-06T20:15:31+00:00",
         "subtopics": [
           "Iran",
           "US",
@@ -623,67 +990,38 @@
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-diesel-100.html",
-            "publishedAt": "2026-10-06T05:30:33+00:00",
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-06T20:15:31+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.65,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
+        "isNew": true,
+        "score": 7.112,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
-        "id": "e59071401f4b",
-        "category": "news",
-        "lang": "en",
-        "title": "German far right set to secure first-ever regional parliament president",
-        "summary": "Tobias Rausch hoping to become the AfD’s figurehead in the Saxony-Anhalt assembly",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-06T04:00:27+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-06T04:00:27+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.591,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "b9c4c2c4665b",
+        "id": "ccf3882e56f0",
         "category": "news",
         "lang": "de",
-        "title": "Kiosk, Clubs, Werkstatt: Dieser Ort war für viele Hamburger ein Zuhause",
-        "summary": "Regisseur Christian Hornung begleitet die Menschen eines Ortes fünf Jahre durch ihren Alltag - bis der sich grundlegend ändert.",
+        "title": "Wie die Chefs der Nachrichtendienste die Sicherheitslage einschätzen",
+        "summary": "Einschüchterung, Cyberangriffe, Anschlagspläne - Russland führe einen \"Schattenkrieg\" gegen Deutschland, sagt BND-Chef Jäger. Ein offener Krieg sei das nicht, doch die Grenze verschwimme.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/kultur/film/verlorener-ort-dokufilm-sternbruecke-forever-blickt-auf-kiez-legende,sternbrueckeforever-100.html",
-        "publishedAt": "2026-10-06T08:33:07+00:00",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
+        "publishedAt": "2026-10-05T17:11:29+00:00",
         "subtopics": [
-          "Hamburg",
+          "Germany",
           "Conflict"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/kultur/film/verlorener-ort-dokufilm-sternbruecke-forever-blickt-auf-kiez-legende,sternbrueckeforever-100.html",
-            "publishedAt": "2026-10-06T08:33:07+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-praesidenten-bedrohung-100.html",
+            "publishedAt": "2026-10-05T17:11:29+00:00",
             "tier": 2
           }
         ],
@@ -691,8 +1029,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.373,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
+        "score": 6.947,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
+      },
+      {
+        "id": "6dea4acbf014",
+        "category": "news",
+        "lang": "de",
+        "title": "Separatistenführer Puigdemont vor Rückkehr aus dem Exil",
+        "summary": "Vor neun Jahren floh der katalonische Separatistenführer Carles Puigdemont nach Belgien. Nun scheint seine Rückkehr nach Spanien möglich - durch ein Urteil des Verfassungsgerichts.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/carles-puigdemont-spanien-justiz-rueckkehr-100.html",
+        "publishedAt": "2026-10-06T19:05:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/carles-puigdemont-spanien-justiz-rueckkehr-100.html",
+            "publishedAt": "2026-10-06T19:05:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.862,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
         "id": "ad65680eee7e",
@@ -720,7 +1087,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.059,
+        "score": 6.817,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -749,87 +1116,114 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.045,
+        "score": 6.805,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
-        "id": "dd5b093c8754",
+        "id": "b2006377783c",
         "category": "news",
-        "lang": "de",
-        "title": "Gericht weist Klage Hinterbliebener im Germanwings-Prozess ab",
-        "summary": "2015 hatte ein Co-Pilot eine Germanwings-Maschine zum Absturz gebracht. 150 Menschen starben.",
+        "lang": "en",
+        "title": "EU seeks ways to make expansion more palatable to members",
+        "summary": "The European Commission has put forward ideas it hopes will both ease the EU expansion process and allay concerns among existing members. Several countries, not least war-torn Ukraine, are among the candidates.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/regional/niedersachsen/prozess-um-germanwings-absturz-klage-von-angehoerigen-abgewiesen,germanwings-452.html",
-        "publishedAt": "2026-10-06T13:36:50+00:00",
+        "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-06T18:02:00+00:00",
         "subtopics": [
-          "Germany",
-          "Law & Policy"
+          "EU",
+          "Conflict"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/niedersachsen/prozess-um-germanwings-absturz-klage-von-angehoerigen-abgewiesen,germanwings-452.html",
-            "publishedAt": "2026-10-06T13:36:50+00:00",
+            "name": "DW",
+            "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-06T18:02:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.989,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
+        "isNew": true,
+        "score": 6.617,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
-        "id": "e95419fa729d",
+        "id": "3a9da4e75c44",
         "category": "news",
         "lang": "en",
-        "title": "Commissioner Roswall's keynote speech at the event \"Water - A Key Resource for Competitiveness, Quality of Live, and Resilience\"",
-        "summary": "European Commission Speech Berlin, 05 Oct 2026 Minister Schneider, Excellencies, ladies and gentlemen, This past summer, as Europe was gripped by drought, as our soils were sucked dry and our rivers ran lo...",
+        "title": "France’s conundrum: How to cut spending amid protests",
+        "summary": "Prime Minister Lecornu is pledging to improve schools at a time when the government seeks to save billions. France's dilemma can be seen across the EU: How to cut spending when citizens are demanding more from the state?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2069",
-        "publishedAt": "2026-10-05T09:11:34+00:00",
+        "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-06T16:49:00+00:00",
         "subtopics": [
-          "Germany",
+          "EU",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-06T16:49:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.567,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "547b4cfa64a5",
+        "category": "news",
+        "lang": "en",
+        "title": "Video message by President von der Leyen to mark 25th Anniversary of IFOAM Organics Europe",
+        "summary": "European Commission Speech Brussels, 06 Oct 2026 President Drexler, Dear Dora, Ladies and gentlemen, Congratulations on your 25th anniversary! IFOAM Organics Europe and all its members have so much to be proud...",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2089",
+        "publishedAt": "2026-10-06T15:07:09+00:00",
+        "subtopics": [
           "EU",
           "Government"
         ],
         "sources": [
           {
             "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2069",
-            "publishedAt": "2026-10-05T09:11:34+00:00",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2089",
+            "publishedAt": "2026-10-06T15:07:09+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.958,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+        "isNew": true,
+        "score": 6.498,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
-        "id": "5617bd62de84",
+        "id": "fd73d1a82b4e",
         "category": "news",
-        "lang": "en",
-        "title": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
-        "summary": "For the first time since World War II, a far-right party has a house speaker in a German state parliament. And Germany's foreign minister has warned that the climate crisis could fuel extremism.",
+        "lang": "de",
+        "title": "Lastwagen gerät auf Autobahn 1 in Brand",
+        "summary": "Auf der A1 hat in der Nacht zum Dienstag zwischen Hamburg-Harburg und dem Maschener Kreuz ein Lkw gebrannt. Die Autobahn wurde Richtung Bremen gesperrt.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-06T06:21:00+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/lastwagen-geraet-auf-autobahn-1-in-brand,kurzehh-4522.html",
+        "publishedAt": "2026-10-06T17:12:24+00:00",
         "subtopics": [
-          "Germany",
-          "Government"
+          "Hamburg"
         ],
         "sources": [
           {
-            "name": "DW",
-            "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-06T06:21:00+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/lastwagen-geraet-auf-autobahn-1-in-brand,kurzehh-4522.html",
+            "publishedAt": "2026-10-06T17:12:24+00:00",
             "tier": 2
           }
         ],
@@ -837,37 +1231,95 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.883,
+        "score": 6.383,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
-        "id": "f1dd1da6d4f4",
+        "id": "1b2a37f43b40",
         "category": "news",
-        "lang": "de",
-        "title": "5 Euro für Hamburger Elb-Aussicht",
-        "summary": "Die Aussichtsplattform Plaza der Elbphilharmonie kostet ab sofort fünf Euro Eintritt. Nach fast zehn Jahren soll damit der Kulturhaushalt der Stadt entlastet werden.",
+        "lang": "en",
+        "title": "Joint statement by High Representative/Vice-President Kallas and Commissioner Kos on the general elections in Bosnia and Herzegovina",
+        "summary": "European Commission Statement Strasbourg, 06 Oct 2026 On Sunday 4 October 2026, the citizens of Bosnia and Herzegovina exercised their democratic right to elect their representatives who will decide on the directio...",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/video/heute-in-deutschland/5-euro-fuer-hamburger-elb-aussicht-100.html",
-        "publishedAt": "2026-10-05T12:00:00+00:00",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2083",
+        "publishedAt": "2026-10-06T10:42:26+00:00",
         "subtopics": [
-          "Hamburg",
-          "Markets"
+          "EU",
+          "Elections"
         ],
         "sources": [
           {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/video/heute-in-deutschland/5-euro-fuer-hamburger-elb-aussicht-100.html",
-            "publishedAt": "2026-10-05T12:00:00+00:00",
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2083",
+            "publishedAt": "2026-10-06T10:42:26+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.326,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "b1b10415c08d",
+        "category": "news",
+        "lang": "en",
+        "title": "Jim Clyburn urges Black voters not to be ‘fooled’ by Trump",
+        "summary": "Civil rights veteran says Republicans will ‘reap the reaction’ for redistricting moves ahead of midterm elections",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1",
+        "publishedAt": "2026-10-06T21:29:02+00:00",
+        "subtopics": [
+          "US",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-06T21:29:02+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.642,
-        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
+        "isNew": true,
+        "score": 6.266,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
+      },
+      {
+        "id": "649b102659a0",
+        "category": "news",
+        "lang": "en",
+        "title": "Trump says he is considering suspending federal petrol tax",
+        "summary": "Surging fuel prices are heaping pressure on the president and his Republican Party four weeks ahead of midterm elections",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+        "publishedAt": "2026-10-06T21:09:16+00:00",
+        "subtopics": [
+          "US",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-06T21:09:16+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.251,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
         "id": "4f0c5789c3ed",
@@ -895,162 +1347,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.523,
+        "score": 6.203,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
-        "id": "ae5e1115b987",
-        "category": "news",
-        "lang": "en",
-        "title": "Speech by President von der Leyen at the European Parliament plenary debate in preparation of the European Council meeting of 15-16 October 2026",
-        "summary": "European Commission Speech Strasbourg, 06 Oct 2026 Madam President, dear Roberta, Minister Byrne, Honourable Members, Let me start directly with a topic affecting us all – the high energy costs. Families and ind...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2077",
-        "publishedAt": "2026-10-06T05:53:03+00:00",
-        "subtopics": [
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2077",
-            "publishedAt": "2026-10-06T05:53:03+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.465,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "952433102502",
-        "category": "news",
-        "lang": "en",
-        "title": "Yemen launches major military operation against Houthis",
-        "summary": "Yemen's internationally recognized government has launched a new military offensive to retake Houthi-held territory, as the Iran-backed rebel group claims new attacks in Saudi Arabia.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-05T18:36:00+00:00",
-        "subtopics": [
-          "Iran",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T18:36:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.453,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "2e6e92baf001",
+        "id": "87cb21502f51",
         "category": "news",
         "lang": "de",
-        "title": "Nach Wasserrohrbruch: Amsinckstraße noch wochenlang gesperrt",
-        "summary": "Die Arbeiten an der Hamburger Hauptverkehrsader ziehen sich wohl noch bis Mitte Dezember hin. Dafür sollen andere Baumaßnahmen verschoben werden.",
+        "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
+        "summary": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein 56.000 in Paris.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/nach-wasserrohrbruch-amsinckstrasse-noch-wochenlang-gesperrt,wasserrohrbruch-162.html",
-        "publishedAt": "2026-10-06T10:01:15+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/nach-wasserrohrbruch-amsinckstrasse-noch-wochenlang-gesperrt,wasserrohrbruch-162.html",
-            "publishedAt": "2026-10-06T10:01:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.434,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "fd73d1a82b4e",
-        "category": "news",
-        "lang": "de",
-        "title": "Lastwagen gerät auf Autobahn 1 in Brand",
-        "summary": "Auf der A1 hat in der Nacht zum Dienstag zwischen Hamburg-Harburg und dem Maschener Kreuz ein Lkw gebrannt. Die Autobahn wurde Richtung Bremen gesperrt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/lastwagen-geraet-auf-autobahn-1-in-brand,kurzehh-4522.html",
-        "publishedAt": "2026-10-06T09:14:17+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/lastwagen-geraet-auf-autobahn-1-in-brand,kurzehh-4522.html",
-            "publishedAt": "2026-10-06T09:14:17+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.401,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "b604904e0e00",
-        "category": "news",
-        "lang": "en",
-        "title": "The bond market turns on France",
-        "summary": "The country is being hit by a pre-election debt sell-off. Many fear it could shake the Eurozone",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-06T04:00:17+00:00",
-        "subtopics": [
-          "EU",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-06T04:00:17+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.391,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "77350c3de6aa",
-        "category": "news",
-        "lang": "de",
-        "title": "Schülerproteste in Frankreich erreichen neuen Höhepunkt",
-        "summary": "Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
-        "publishedAt": "2026-10-06T13:42:34+00:00",
+        "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
+        "publishedAt": "2026-10-06T19:54:16+00:00",
         "subtopics": [
           "Germany",
           "Protests"
@@ -1058,8 +1367,8 @@
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-schulen-100.html",
-            "publishedAt": "2026-10-06T13:42:34+00:00",
+            "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-grossdemo-100.html",
+            "publishedAt": "2026-10-06T19:54:16+00:00",
             "tier": 2
           }
         ],
@@ -1067,214 +1376,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 6.294,
-        "firstSeen": "2026-10-06T13:50:59.706295+00:00"
-      },
-      {
-        "id": "b1c893ba98cf",
-        "category": "news",
-        "lang": "de",
-        "title": "US-Bundesstaat Pennsylvania meldet mehr als 1.000 Masern-Fälle",
-        "summary": "Der US-Bundesstaat Pennsylvania hat mehr als 1.000 Masern-Fälle gemeldet - das ist der höchste Stand seit 35 Jahren. Etwa 200 Menschen werden im Krankenhaus behandelt, fünf sind gestorben.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
-        "publishedAt": "2026-10-06T09:36:32+00:00",
-        "subtopics": [
-          "US",
-          "Germany",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/amerika/pennsylvania-masern-100.html",
-            "publishedAt": "2026-10-06T09:36:32+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.117,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "dd1ddcb3ecbe",
-        "category": "news",
-        "lang": "en",
-        "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
-        "summary": "Germany's top court, which turned 75 this year, is losing the population's trust, surveys show. Some say reforms in the way it picks candidates would help, to also accept candidates nominated by the far-right AfD.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-05T14:03:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T14:03:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.105,
-        "firstSeen": "2026-10-05T15:28:52.068309+00:00"
-      },
-      {
-        "id": "3c3b7e8ef975",
-        "category": "news",
-        "lang": "en",
-        "title": "Australia's migrant policy offers lessons for EU and US",
-        "summary": "Australia has used offshore processing centers to deter asylum seekers for more than two decades. As the EU and US pursue similar third-country arrangements, Australia's experience highlights the potential problems.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-05T19:26:00+00:00",
-        "subtopics": [
-          "US",
-          "EU",
-          "Immigration"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T19:26:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.081,
-        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
-      },
-      {
-        "id": "317286033ca8",
-        "category": "news",
-        "lang": "en",
-        "title": "Canada: Quebec separatists return to power, promise new independence referendum",
-        "summary": "Parti Quebecois has won the provincial election, but fallen short of a majority. Leader Paul St-Pierre Plamondon says he will seek another referendum on independence, but not while US President Donald Trump is in office.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-06T06:57:00+00:00",
-        "subtopics": [
-          "US",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-06T06:57:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.007,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "e6bcfb7f9e24",
-        "category": "news",
-        "lang": "de",
-        "title": "Schüler-Proteste in Frankreich: Neuer Höhepunkt erwartet",
-        "summary": "Frankreich steht vor einem weiteren Aktionstag von Schülern, der zu einem neuen Höhepunkt der Proteste werden könnte. Zuletzt endeten diese in Gewalt und Tausenden Festnahmen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/protest-frankreich-schueler-ausschreitungen-100.html",
-        "publishedAt": "2026-10-06T05:39:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/protest-frankreich-schueler-ausschreitungen-100.html",
-            "publishedAt": "2026-10-06T05:39:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.955,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "5a3543ddd3fd",
-        "category": "news",
-        "lang": "en",
-        "title": "Euro plummets against US dollar: Has the next financial crisis begun?",
-        "summary": "The euro has fallen to a 17-month low against the dollar. That will make inflation worse in the EU, where political worries and concern over French debt are already troubling investors.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-05T14:28:00+00:00",
-        "subtopics": [
-          "US",
-          "EU",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T14:28:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.918,
-        "firstSeen": "2026-10-05T23:40:28.355143+00:00"
-      },
-      {
-        "id": "4a90abece525",
-        "category": "news",
-        "lang": "en",
-        "title": "Executive Vice-President Ribera opening speech at the Barcelona University Opening Ceremony of the 2026-2027 Academic Year",
-        "summary": "European Commission Discurso Barcelona, 05 Oct 2026 Magnífico rector, claustro, autoridades, miembros de la comunidad académica, personal de la universidad, estudiantes, queridas amigas y amigos, buenas tardes y ...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/es/speech_26_2074",
-        "publishedAt": "2026-10-05T13:11:24+00:00",
-        "subtopics": [
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/es/speech_26_2074",
-            "publishedAt": "2026-10-05T13:11:24+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.879,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+        "score": 6.197,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       }
     ],
     "medical": [
@@ -1305,7 +1408,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.186,
+        "score": 11.085,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1338,7 +1441,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.67,
+        "score": 9.65,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1370,7 +1473,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.456,
+        "score": 9.425,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1380,7 +1483,7 @@
         "category": "medical",
         "lang": "en",
         "title": "After years-long turnaround, Convatec’s new CEO plans R&D push",
-        "summary": "Mason, who became CEO of the medtech firm a year ago following the death of Karim Bitar, said Convatec’s pace of launching new devices has accelerated for 2026 and 2027.",
+        "summary": "Jonny Mason, who became CEO of the medtech firm a year ago following the death of Karim Bitar, said Convatec’s pace of launching new devices has accelerated for 2026 and 2027.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.medtechdive.com/news/after-years-long-turnaround-convatecs-new-ceo-plans-rd-push/832127/",
@@ -1402,7 +1505,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.474,
+        "score": 8.364,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "evidence": "trade_press",
         "matridermRelevant": true
@@ -1433,7 +1536,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.186,
+        "score": 8.085,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1465,7 +1568,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.397,
+        "score": 7.328,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1502,7 +1605,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.244,
+        "score": 7.181,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1534,7 +1637,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.244,
+        "score": 7.181,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1565,7 +1668,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.378,
+        "score": 6.302,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1597,7 +1700,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.296,
+        "score": 6.272,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1634,7 +1737,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.296,
+        "score": 6.272,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1666,7 +1769,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.296,
+        "score": 6.272,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1698,9 +1801,41 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.17,
+        "score": 6.15,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "56382831d166",
+        "category": "medical",
+        "lang": "en",
+        "title": "Top medtech conferences in 2027",
+        "summary": "From AdvaMed’s meeting in San Francisco to a robotics conference in Rome, next year’s calendar is already filled with medtech events to attend.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/top-medtech-conferences-in-2027/831800/",
+        "publishedAt": "2026-10-06T14:00:00+00:00",
+        "subtopics": [
+          "Surgical robotics",
+          "Industry",
+          "Conference"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/top-medtech-conferences-in-2027/831800/",
+            "publishedAt": "2026-10-06T14:00:00+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.08,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
@@ -1729,7 +1864,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.992,
+        "score": 5.98,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1761,7 +1896,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.374,
+        "score": 5.298,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1792,39 +1927,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.884,
+        "score": 4.774,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "9d02dbc9bbb2",
-        "category": "medical",
-        "lang": "en",
-        "title": "Data privacy concerns could hold patients back from using AI",
-        "summary": "Although artificial intelligence has quickly become integrated into our daily lives, Americans say they’re becoming increasingly concerned about their health data.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
-        "publishedAt": "2026-10-01T15:27:21+00:00",
-        "subtopics": [
-          "AI & digital health",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831904/",
-            "publishedAt": "2026-10-01T15:27:21+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.868,
-        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -1854,7 +1958,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.671,
+        "score": 3.64,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1885,7 +1989,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.256,
+        "score": 3.225,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1915,7 +2019,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.171,
+        "score": 3.144,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1946,7 +2050,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.158,
+        "score": 3.131,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1983,13 +2087,173 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.179,
+        "score": 1.159,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "6326c3a406d0",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why the Future is Human … Plus AI | Esther Perel and Sal Khan",
+        "summary": "As AI reshapes work, school and love, what part of being human can't a machine take over? In a wide-ranging conversation, psychotherapist Esther Perel and TED's vision steward Sal Khan provide their unique takes on the answer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
+        "publishedAt": "2026-10-06T15:00:08+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication",
+          "Psychology"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
+            "publishedAt": "2026-10-06T15:00:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.293,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00",
+        "kind": "video",
+        "video": {
+          "id": "oyRxhiAC9u8",
+          "thumbUrl": "https://i4.ytimg.com/vi/oyRxhiAC9u8/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "224eb5aa6e6d",
+        "category": "growth",
+        "lang": "en",
+        "title": "llm-mistral 0.16",
+        "summary": "Release: llm-mistral 0.16 Adds support for reasoning models, such as the newly released Mistral Large 4 . Tags: llm , mistral , llm-reasoning",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+        "publishedAt": "2026-10-06T21:32:34+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+            "publishedAt": "2026-10-06T21:32:34+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.468,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "fef1d0f44391",
+        "category": "growth",
+        "lang": "en",
+        "title": "EmbeddingGemma 2",
+        "summary": "My comment on EmbeddingGemma 2 — Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+        "publishedAt": "2026-10-06T20:37:53+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+            "publishedAt": "2026-10-06T20:37:53+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.428,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "0522fc02b69e",
+        "category": "growth",
+        "lang": "en",
+        "title": "Introducing Mistral Large 4: Le chonk",
+        "summary": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace Blackwell GPUs.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+        "publishedAt": "2026-10-06T20:18:19+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+            "publishedAt": "2026-10-06T20:18:19+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+            "publishedAt": "2026-10-06T18:20:58+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.414,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a6221988f02f",
+        "category": "growth",
+        "lang": "en",
+        "title": "Scrimshaw Jukebox",
+        "summary": "Tool: Scrimshaw Jukebox I wanted to see if Claude Opus 5.5 could compose music, so I tried this : I want you to write some computer game music for me. First design simple text based format for the music and build an artifact that can play it out loud -…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+        "publishedAt": "2026-10-06T15:17:39+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+            "publishedAt": "2026-10-06T15:17:39+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.205,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00",
+        "kind": "article"
+      },
       {
         "id": "cbee4f834379",
         "category": "growth",
@@ -2015,37 +2279,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.939,
+        "score": 4.652,
         "firstSeen": "2026-10-06T00:32:09.823013+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "3bcfe2f4d2ef",
-        "category": "growth",
-        "lang": "en",
-        "title": "Qwen3.8 27B addition in words",
-        "summary": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-        "publishedAt": "2026-10-04T23:34:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-            "publishedAt": "2026-10-04T23:34:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.197,
-        "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
       {
@@ -2073,7 +2308,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.151,
+        "score": 4.086,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2109,7 +2344,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.112,
+        "score": 4.052,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2119,6 +2354,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=Hd8npxrnpuo",
           "channel": "TED"
         }
+      },
+      {
+        "id": "3bcfe2f4d2ef",
+        "category": "growth",
+        "lang": "en",
+        "title": "Qwen3.8 27B addition in words",
+        "summary": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"compute the sum but return the answer in words\" across increasingly large numbers. Here's the chart…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+        "publishedAt": "2026-10-04T23:34:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+            "publishedAt": "2026-10-04T23:34:00+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.998,
+        "firstSeen": "2026-10-05T23:40:28.355143+00:00",
+        "kind": "article"
       },
       {
         "id": "e37457e9ac00",
@@ -2146,7 +2410,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.021,
+        "score": 3.936,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2182,7 +2446,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.877,
+        "score": 3.868,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2218,7 +2482,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.806,
+        "score": 3.799,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2254,7 +2518,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.768,
+        "score": 3.76,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "video",
         "video": {
@@ -2290,7 +2554,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.749,
+        "score": 3.742,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "video",
         "video": {
@@ -2327,7 +2591,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.687,
+        "score": 3.548,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2357,7 +2621,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.66,
+        "score": 3.524,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2386,37 +2650,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.097,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5af88e0f5042",
-        "category": "growth",
-        "lang": "en",
-        "title": "BasiGo and its fleet of electric buses",
-        "summary": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and is changing the way…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
-        "publishedAt": "2026-10-06T10:35:00+00:00",
-        "subtopics": [
-          "Entrepreneurship",
-          "Business case studies"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
-            "publishedAt": "2026-10-06T10:35:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.097,
+        "score": 3.088,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00",
         "kind": "article"
       },
@@ -2445,7 +2679,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.082,
+        "score": 3.078,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2481,7 +2715,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.072,
+        "score": 3.069,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2517,7 +2751,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.029,
+        "score": 2.966,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2546,7 +2780,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.951,
+        "score": 2.898,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2576,8 +2810,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 2.798,
+        "isNew": false,
+        "score": 2.789,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -2606,97 +2840,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.779,
+        "score": 2.747,
         "firstSeen": "2026-09-29T22:47:58.379274+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "cab141db60b6",
-        "category": "growth",
-        "lang": "en",
-        "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-        "summary": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I was live-blogging the keynote: https://simonwillison.net/2026/Sep/29/openai-devday-2026-liv...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-        "publishedAt": "2026-09-29T18:27:48+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
-            "publishedAt": "2026-09-29T18:27:48+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.764,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "b3701a1b653f",
-        "category": "growth",
-        "lang": "en",
-        "title": "Photo Scrubber — local face blur & metadata removal",
-        "summary": "Tool: Photo Scrubber — local face blur & metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of strangers with identifiable faces. I had GPT-6 Astra build this experimental tool that would identify…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-        "publishedAt": "2026-09-29T16:45:27+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-            "publishedAt": "2026-09-29T16:45:27+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.757,
-        "firstSeen": "2026-09-30T21:49:34.126591+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "f7665b70e425",
-        "category": "growth",
-        "lang": "en",
-        "title": "OpenAI DevDay 2026 live blog",
-        "summary": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-        "publishedAt": "2026-09-29T15:55:13+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-            "publishedAt": "2026-09-29T15:55:13+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.754,
-        "firstSeen": "2026-09-29T21:47:58.995323+00:00",
         "kind": "article"
       },
       {
@@ -2724,7 +2869,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.68,
+        "score": 2.672,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2755,7 +2900,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.542,
+        "score": 2.536,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2786,7 +2931,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.509,
+        "score": 2.503,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -2817,7 +2962,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.401,
+        "score": 2.396,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -2848,7 +2993,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.312,
+        "score": 2.308,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -2877,7 +3022,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.13,
+        "score": 2.128,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -2907,7 +3052,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.1,
+        "score": 2.098,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -2936,7 +3081,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.035,
+        "score": 2.034,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -2965,7 +3110,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.992,
+        "score": 1.991,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -2994,7 +3139,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.976,
+        "score": 1.975,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3076,13 +3221,13 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 25,
+      "items": 28,
       "error": null
     },
     {
       "id": "bbc-middleeast",
       "ok": true,
-      "items": 31,
+      "items": 32,
       "error": null
     },
     {
@@ -3243,9 +3388,9 @@
     }
   ],
   "filteredOut": {
-    "football": 79,
-    "news": 143,
-    "medical": 29,
-    "growth": 59
+    "football": 82,
+    "news": 135,
+    "medical": 28,
+    "growth": 57
   }
 }
