@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:34:32.938707+00:00",
+  "generatedAt": "2026-10-07T14:08:36.377830+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,8 +33,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.755,
+        "isNew": false,
+        "score": 11.635,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -62,7 +62,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.926,
+        "score": 9.903,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       },
       {
@@ -90,8 +90,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.926,
+        "score": 9.903,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
+      },
+      {
+        "id": "87901d7a0dc3",
+        "category": "football",
+        "lang": "en",
+        "title": "World Cup criticism still stings Tuchel despite Nations League positives",
+        "summary": "The Wembley crowd was in party mood and the fans sang Thomas Tuchel's name. Three straight wins without conceding, Harry Kane feted as England's greatest ever servant, a Nations League quarter-final all-but guaranteed.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/12040/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
+        "publishedAt": "2026-10-07T12:38:00+00:00",
+        "subtopics": [
+          "World Cup",
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/12040/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
+            "publishedAt": "2026-10-07T12:38:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.847,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
       },
       {
         "id": "cdfe13a6733e",
@@ -118,44 +148,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.741,
+        "isNew": false,
+        "score": 5.623,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
-        "id": "cf967ffc2c8b",
+        "id": "2ad7a3437f4b",
         "category": "football",
         "lang": "en",
-        "title": "UEFA opens investigation into alleged spitting incident at Republic of Ireland vs. Israel",
-        "summary": "Uefa has confirms it is investigating the half-time incident during Sunday's Nations League game between Republic of Ireland and Israel following an accusation of spitting.",
+        "title": "What questions face Pocognoli after Scotland defeat?",
+        "summary": "Sebastien Pocognoli has much to ponder before next month's Nations League group-stage finale after a bruising home defeat by Slovenia.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7635827/2026/10/06/israel-republic-of-ireland-spitting/",
-        "publishedAt": "2026-10-06T11:40:28+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqn49204wer7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-07T07:43:11+00:00",
         "subtopics": [
           "International",
           "Results"
         ],
         "sources": [
           {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7635827/2026/10/06/israel-republic-of-ireland-spitting/",
-            "publishedAt": "2026-10-06T11:40:28+00:00",
-            "tier": 3
-          },
-          {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cm3wvqxjdxn5o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-06T09:42:17+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqn49204wer7o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-07T07:43:11+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 4.564,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
+        "isNew": true,
+        "score": 4.9,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
       },
       {
         "id": "0c580d191371",
@@ -183,7 +207,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.322,
+        "score": 4.226,
         "firstSeen": "2026-10-06T22:51:37.766412+00:00"
       },
       {
@@ -212,7 +236,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.271,
+        "score": 4.177,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -241,7 +265,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.284,
+        "score": 3.243,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -270,7 +294,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.952,
+        "score": 2.928,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00"
       }
     ],
@@ -312,25 +336,31 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 10.437,
+        "isNew": false,
+        "score": 10.372,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
         "id": "3b53967ea6ff",
         "category": "news",
         "lang": "de",
-        "title": "Drei Jahre nach Hamas-Angriff: Gedenken und Demos in Hamburg",
+        "title": "Drei Jahre nach dem Hamas-Angriff – Gedenken in Hamburg",
         "summary": "Drei Jahre nach dem Hamas-Massaker und kurz vor der Wahl fordern Demonstranten in Israel einen Untersuchungsausschuss zu möglichen Fehlern. Der Druck auf Benjamin Netanjah wächst.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/drei-jahre-nach-hamas-angriff-gedenken-und-demos-in-hamburg,gedenken-israel-104.html",
-        "publishedAt": "2026-10-07T12:31:18+00:00",
+        "url": "https://www.ndr.de/nachrichten/info/drei-jahre-nach-dem-hamas-angriff-gedenken-in-hamburg,ndrinfo-18104.html",
+        "publishedAt": "2026-10-07T13:57:01+00:00",
         "subtopics": [
           "Hamburg",
           "Elections"
         ],
         "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/info/drei-jahre-nach-dem-hamas-angriff-gedenken-in-hamburg,ndrinfo-18104.html",
+            "publishedAt": "2026-10-07T13:57:01+00:00",
+            "tier": 2
+          },
           {
             "name": "NDR",
             "url": "https://www.ndr.de/nachrichten/hamburg/drei-jahre-nach-hamas-angriff-gedenken-und-demos-in-hamburg,gedenken-israel-104.html",
@@ -347,9 +377,247 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 9.398,
+        "isNew": false,
+        "score": 9.391,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
+      },
+      {
+        "id": "c4d749c68a1b",
+        "category": "news",
+        "lang": "de",
+        "title": "Bundeskabinett bringt besseren Schutz vor digitaler Gewalt auf den Weg",
+        "summary": "Bundesjustizministerin Hubig will die Menschen besser vor digitaler Gewalt schützen - also etwa sexualisierten Deepfake-Videos oder heimlichen Sauna-Aufnahmen. Das Kabinett stimmte ihrem Gesetzentwurf zu, nun ist der Bundestag am Zug.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-digitalegewalt-gesetzgebung-100.html",
+        "publishedAt": "2026-10-07T12:55:24+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-digitalegewalt-gesetzgebung-100.html",
+            "publishedAt": "2026-10-07T12:55:24+00:00",
+            "tier": 2
+          },
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/bundesregierung-gesetz-gegen-digitale-gewalt-100.html",
+            "publishedAt": "2026-10-07T06:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 8.746,
+        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
+      },
+      {
+        "id": "cb1bd27eff5f",
+        "category": "news",
+        "lang": "de",
+        "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
+        "summary": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
+        "publishedAt": "2026-10-07T13:55:15+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
+            "publishedAt": "2026-10-07T13:55:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.99,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
+      },
+      {
+        "id": "20c48754903c",
+        "category": "news",
+        "lang": "de",
+        "title": "Sachsen-Anhalt: CDU-Fraktion droht möglicherweise Spaltung",
+        "summary": "Nach dem Wahldebakel Anfang September wird die CDU-Fraktion in Sachsen-Anhalts Landtag von internen Spannungen immer weiter zerrieben. Nun drohen erste Mitglieder damit, sich abzuspalten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/fraktion-droht-spaltung,cdu-landtag-mifri-100.html",
+        "publishedAt": "2026-10-07T13:15:50+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/fraktion-droht-spaltung,cdu-landtag-mifri-100.html",
+            "publishedAt": "2026-10-07T13:15:50+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.961,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
+      },
+      {
+        "id": "003edb7ba2e3",
+        "category": "news",
+        "lang": "de",
+        "title": "Thüringens Regierungschef Voigt stoppt Kampf um Doktortitel",
+        "summary": "Thüringens Ministerpräsident Voigt kämpft nicht weiter um seinen Doktortitel. Er begründete den Schritt mit einer veränderten politischen Lage, die seinen vollen Einsatz erfordere.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/thueringen-voigt-doktortitel-ende-rechtsstreit-afd-100.html",
+        "publishedAt": "2026-10-07T13:13:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/thueringen-voigt-doktortitel-ende-rechtsstreit-afd-100.html",
+            "publishedAt": "2026-10-07T13:13:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.959,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
+      },
+      {
+        "id": "73cc57e80735",
+        "category": "news",
+        "lang": "de",
+        "title": "\"Es wird immer schlimmer und schlimmer\"",
+        "summary": "Alexander Gertz ist seit 2023 als Sanitäter in der Ukraine und hat die Realität an der Front miterlebt. Wie hat sich der Krieg verändert?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-russland-drohnen-front-soldaten-100.html",
+        "publishedAt": "2026-10-07T13:12:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/ukraine-krieg-russland-drohnen-front-soldaten-100.html",
+            "publishedAt": "2026-10-07T13:12:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.958,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
+      },
+      {
+        "id": "8199f348ac96",
+        "category": "news",
+        "lang": "de",
+        "title": "Streit um Doktortitel: Voigt zieht Klage zurück",
+        "summary": "Thüringens Ministerpräsident Voigt gibt den juristischen Kampf um seinen Doktortitel auf. Er will nach eigenen Worten Klarheit für das Bundesland schaffen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/regional/thueringen/doktorarbeit-klage-rueckzug-news,ministerpraesident-voigt-100.html",
+        "publishedAt": "2026-10-07T13:04:47+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/thueringen/doktorarbeit-klage-rueckzug-news,ministerpraesident-voigt-100.html",
+            "publishedAt": "2026-10-07T13:04:47+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.953,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
+      },
+      {
+        "id": "04d4f12bb153",
+        "category": "news",
+        "lang": "de",
+        "title": "AfD-Erfolg in Sachsen-Anhalt: \"Schwerer Schlag\" für die Christdemokraten",
+        "summary": "Es ist unklar, wer alles bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt für den AfD-Kandidaten gestimmt hat. Etwa auch CDU-Abgeordnete?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-100.html",
+        "publishedAt": "2026-10-07T12:38:58+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-100.html",
+            "publishedAt": "2026-10-07T12:38:58+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.934,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
+      },
+      {
+        "id": "e5bce6df67f5",
+        "category": "news",
+        "lang": "de",
+        "title": "Drei Jahre nach Hamas-Angriff – wie geht Israel damit um?",
+        "summary": "Drei Jahre nach Hamas-Angriff – wie geht Israel damit um?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1662008.html",
+        "publishedAt": "2026-10-07T12:22:25+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1662008.html",
+            "publishedAt": "2026-10-07T12:22:25+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.922,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
       },
       {
         "id": "3c203b624c01",
@@ -376,8 +644,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.964,
+        "isNew": false,
+        "score": 7.896,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -405,8 +673,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.959,
+        "isNew": false,
+        "score": 7.891,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -434,8 +702,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.957,
+        "isNew": false,
+        "score": 7.889,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -463,8 +731,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.91,
+        "isNew": false,
+        "score": 7.843,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -492,8 +760,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.889,
+        "isNew": false,
+        "score": 7.822,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -521,101 +789,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.888,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "25564d8f0a3e",
-        "category": "news",
-        "lang": "de",
-        "title": "SPD-Bundesspitze fordert von der CDU Aufklärung zu Sachsen-Anhalt",
-        "summary": "Die Wahl des AfD-Politikers Rausch zum Landtagspräsidenten wirkt sich auf die Bundespolitik aus. Die SPD fordert vom Koalitionspartner CDU Aufklärung, die SPD-Fraktion protestierte in Berlin an einem symbolträchtigen Ort.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/spd-reaktion-koalition-sachsenanhalt-100.html",
-        "publishedAt": "2026-10-07T09:34:33+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/spd-reaktion-koalition-sachsenanhalt-100.html",
-            "publishedAt": "2026-10-07T09:34:33+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.869,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "2d54971b056d",
-        "category": "news",
-        "lang": "de",
-        "title": "Früherer BND-Präsident Hanning muss in Untersuchungshaft",
-        "summary": "Der ehemalige BND-Chef Hanning muss in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs habe den Haftbefehl in Vollzug gesetzt, teilte die Bundesanwaltschaft mit.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
-        "publishedAt": "2026-10-07T12:28:08+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
-            "publishedAt": "2026-10-07T12:28:08+00:00",
-            "tier": 2
-          },
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/spionageverdacht-ex-bnd-praesident-hanning-festgenommen,hamj-15292.html",
-            "publishedAt": "2026-10-06T17:47:45+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.795,
-        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
-      },
-      {
-        "id": "45c745df99d6",
-        "category": "news",
-        "lang": "de",
-        "title": "Warum das Nationale Luftreinhalteprogramm geprüft wird",
-        "summary": "Vor dem Bundesverwaltungsgericht in Leipzig geht es um die zentrale Frage, ob die Prognose für das Luftreinhalteprogramm teilweise fehlerhaft war. Wie die Ausgangslage ist.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/luftreinhalteprogramm-pruefstand-urteil-bundesverwaltungsgericht-100.html",
-        "publishedAt": "2026-10-07T07:15:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/luftreinhalteprogramm-pruefstand-urteil-bundesverwaltungsgericht-100.html",
-            "publishedAt": "2026-10-07T07:15:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.771,
+        "score": 7.821,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -643,8 +818,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.732,
+        "isNew": false,
+        "score": 7.669,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -672,8 +847,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.609,
+        "isNew": false,
+        "score": 7.549,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -701,29 +876,29 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.608,
+        "isNew": false,
+        "score": 7.548,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
-        "id": "4f4b9b6b3f27",
+        "id": "904887b51de8",
         "category": "news",
         "lang": "de",
-        "title": "Anna Politkowskaja: Die Journalistin, die zu mächtige Feinde hatte",
-        "summary": "Sie schrieb über Folter, Korruption und den Krieg in Tschetschenien und machte sich damit mächtige Feinde. Am 7.",
+        "title": "Neumühlen: Kaimauer-Promenade ist wieder freigegeben",
+        "summary": "2017 war ein Stück der Hamburger Elbpromenade in Neumühlen abgesackt. Jetzt ist die Sanierung der Kaimauer dort abgeschlossen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/politkowskaja-journalistin-gedenken-100.html",
-        "publishedAt": "2026-10-07T01:49:47+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/neumuehlen-kaimauer-promenade-ist-wieder-freigegeben,kaimauer-100.html",
+        "publishedAt": "2026-10-07T12:51:15+00:00",
         "subtopics": [
-          "Germany",
+          "Hamburg",
           "Conflict"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/politkowskaja-journalistin-gedenken-100.html",
-            "publishedAt": "2026-10-07T01:49:47+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/neumuehlen-kaimauer-promenade-ist-wieder-freigegeben,kaimauer-100.html",
+            "publishedAt": "2026-10-07T12:51:15+00:00",
             "tier": 2
           }
         ],
@@ -731,8 +906,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.557,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
+        "score": 7.543,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
       },
       {
         "id": "46ba23e8871d",
@@ -760,8 +935,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.486,
+        "isNew": false,
+        "score": 7.429,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -790,8 +965,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.482,
+        "isNew": false,
+        "score": 7.416,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -819,8 +994,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.4,
+        "isNew": false,
+        "score": 7.335,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -848,8 +1023,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.241,
+        "isNew": false,
+        "score": 7.18,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -877,8 +1052,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.202,
+        "isNew": false,
+        "score": 7.142,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -907,8 +1082,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.127,
+        "score": 7.077,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00"
+      },
+      {
+        "id": "df87607d901a",
+        "category": "news",
+        "lang": "de",
+        "title": "Früherer BND-Präsident Hanning muss in Untersuchungshaft",
+        "summary": "Der ehemalige BND-Chef Hanning muss in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs habe den Haftbefehl in Vollzug gesetzt, teilte die Bundesanwaltschaft mit.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
+        "publishedAt": "2026-10-07T13:46:15+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
+            "publishedAt": "2026-10-07T13:46:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.983,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
       },
       {
         "id": "0260d5015e07",
@@ -936,7 +1140,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.02,
+        "score": 6.974,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
       },
       {
@@ -964,8 +1168,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.978,
+        "isNew": false,
+        "score": 6.909,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -993,8 +1197,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.841,
+        "isNew": false,
+        "score": 6.78,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -1022,37 +1226,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.763,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "c4d749c68a1b",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundeskabinett bringt Gesetz zu Deepfakes auf den Weg",
-        "summary": "Justizministerin Hubig will stärker gegen bildbasierte sexualisierte Gewalt vorgehen. Ihr Gesetzentwurf gegen digitale Gewalt wurde am Mittwoch vom Bundeskabinett beschlossen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/bundesregierung-gesetz-gegen-digitale-gewalt-100.html",
-        "publishedAt": "2026-10-07T06:00:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/bundesregierung-gesetz-gegen-digitale-gewalt-100.html",
-            "publishedAt": "2026-10-07T06:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.72,
+        "isNew": false,
+        "score": 6.7,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -1080,9 +1255,37 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.655,
+        "isNew": false,
+        "score": 6.589,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
+      },
+      {
+        "id": "d1f3efccbf62",
+        "category": "news",
+        "lang": "de",
+        "title": "U3 in den Herbstferien in der Hamburger Innenstadt gesperrt",
+        "summary": "Auf dem besonders beliebten Abschnitt zwischen St. Pauli und Rathaus wird zehn Tage lang gearbeitet.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
+        "publishedAt": "2026-10-07T13:32:00+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
+            "publishedAt": "2026-10-07T13:32:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.573,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
       },
       {
         "id": "d3a3503018ad",
@@ -1109,212 +1312,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.634,
+        "isNew": false,
+        "score": 6.568,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
-        "id": "ad65680eee7e",
+        "id": "7142c08fb1a4",
         "category": "news",
         "lang": "en",
-        "title": "Germany news: Spy chief warns Russia conflict risk growing",
-        "summary": "Moscow is already waging a \"shadow war\" against Europe, the head of Germany's foreign intelligence service says. The Left Party is taking a case over remarks by the CDU's Katherina Reiche to a top court.",
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+        "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-05T12:33:00+00:00",
+        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-06T20:15:31+00:00",
         "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-05T12:33:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.468,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "5617bd62de84",
-        "category": "news",
-        "lang": "en",
-        "title": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
-        "summary": "For the first time since World War II, a far-right party has a house speaker in a German state parliament. And Germany's foreign minister has warned that the climate crisis could fuel extremism.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-06T06:21:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-06T06:21:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.113,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
-      {
-        "id": "b2006377783c",
-        "category": "news",
-        "lang": "en",
-        "title": "EU seeks ways to make expansion more palatable to members",
-        "summary": "The European Commission has put forward ideas it hopes will both ease the EU expansion process and allay concerns among existing members. Several countries, not least war-torn Ukraine, are among the candidates.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-06T18:02:00+00:00",
-        "subtopics": [
-          "EU",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-06T18:02:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.077,
-        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
-      },
-      {
-        "id": "3a9da4e75c44",
-        "category": "news",
-        "lang": "en",
-        "title": "France's conundrum: How to cut spending amid protests",
-        "summary": "Prime Minister Lecornu is pledging to improve schools at a time when the government seeks to save billions. France's dilemma can be seen across the EU: How to cut spending when citizens are demanding more from the state?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-06T16:49:00+00:00",
-        "subtopics": [
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-06T16:49:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.036,
-        "firstSeen": "2026-10-06T22:15:25.975374+00:00"
-      },
-      {
-        "id": "6275530a9beb",
-        "category": "news",
-        "lang": "en",
-        "title": "The Republican candidates walking a Trump tightrope",
-        "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-07T05:00:21+00:00",
-        "subtopics": [
+          "Iran",
           "US",
-          "Elections"
+          "Conflict"
         ],
         "sources": [
           {
             "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-07T05:00:21+00:00",
+            "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-06T20:15:31+00:00",
             "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.98,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "547b4cfa64a5",
-        "category": "news",
-        "lang": "en",
-        "title": "Video message by President von der Leyen to mark 25th Anniversary of IFOAM Organics Europe",
-        "summary": "European Commission Speech Brussels, 06 Oct 2026 President Drexler, Dear Dora, Ladies and gentlemen, Congratulations on your 25th anniversary! IFOAM Organics Europe and all its members have so much to be proud...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2089",
-        "publishedAt": "2026-10-06T15:07:09+00:00",
-        "subtopics": [
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2089",
-            "publishedAt": "2026-10-06T15:07:09+00:00",
-            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.98,
+        "score": 6.499,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
-      },
-      {
-        "id": "9211a12a5f37",
-        "category": "news",
-        "lang": "en",
-        "title": "Robust AI spending sets investors up for another bumper US earnings season",
-        "summary": "S&P 500 earnings are forecast to rise 27% against a backdrop of stock market highs and elevated longer-term borrowing costs",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-07T04:00:22+00:00",
-        "subtopics": [
-          "US",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-07T04:00:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.941,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       }
     ],
     "medical": [
@@ -1345,7 +1375,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.921,
+        "score": 10.904,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1378,7 +1408,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.62,
+        "score": 9.616,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1410,7 +1440,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.375,
+        "score": 9.37,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1442,7 +1472,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.189,
+        "score": 8.17,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "evidence": "trade_press",
         "matridermRelevant": true
@@ -1473,7 +1503,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.921,
+        "score": 7.904,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1505,7 +1535,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.216,
+        "score": 7.205,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1542,7 +1572,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.08,
+        "score": 7.069,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1574,8 +1604,40 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.08,
+        "score": 7.069,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "4e1e4ab585ee",
+        "category": "medical",
+        "lang": "en",
+        "title": "Randomized Controlled Trial to Investigate Clinical Outcomes and Associated Costs When PermeaDerm is Used as Temporary Dressing for Surgical Wounds",
+        "summary": "The goal of this study is to compare the cost and clinical outcomes for two temporary dressings (Allograft and PermeaDerm) used in patients that need a skin graft to heal their wound. The researchers will review cost and other treatment results including how…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT06750809",
+        "publishedAt": "2026-09-23T00:00:00+00:00",
+        "subtopics": [
+          "Wound care",
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06750809",
+            "publishedAt": "2026-09-23T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.228,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1606,7 +1668,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.232,
+        "score": 6.228,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1643,39 +1705,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.232,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "4e1e4ab585ee",
-        "category": "medical",
-        "lang": "en",
-        "title": "Randomized Controlled Trial to Investigate Clinical Outcomes and Associated Costs When PermeaDerm is Used as Temporary Dressing for Surgical Wounds",
-        "summary": "The goal of this study is to compare the cost and clinical outcomes for two temporary dressings (Allograft and PermeaDerm) used in patients that need a skin graft to heal their wound. The researchers will review cost and other treatment results including how…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT06750809",
-        "publishedAt": "2026-09-23T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Reconstructive surgery",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06750809",
-            "publishedAt": "2026-09-23T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.232,
+        "score": 6.228,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1706,7 +1736,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.178,
+        "score": 6.165,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1738,7 +1768,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.12,
+        "score": 6.116,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1769,7 +1799,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.961,
+        "score": 5.959,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1801,7 +1831,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.882,
+        "score": 5.861,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1833,7 +1863,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.174,
+        "score": 5.161,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1864,7 +1894,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.598,
+        "score": 4.579,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1893,8 +1923,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.052,
+        "isNew": false,
+        "score": 4.033,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1925,7 +1955,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.589,
+        "score": 3.584,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1956,7 +1986,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.175,
+        "score": 3.17,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1986,7 +2016,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.1,
+        "score": 3.095,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2017,7 +2047,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.087,
+        "score": 3.083,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2054,7 +2084,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.128,
+        "score": 1.125,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2088,7 +2118,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.776,
+        "score": 5.726,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "video",
         "video": {
@@ -2124,8 +2154,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.172,
+        "isNew": false,
+        "score": 5.111,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2153,8 +2183,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.998,
+        "isNew": false,
+        "score": 4.941,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2183,8 +2213,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.987,
+        "isNew": false,
+        "score": 4.93,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2213,8 +2243,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.954,
+        "isNew": false,
+        "score": 4.897,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2243,7 +2273,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.899,
+        "score": 4.843,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2272,7 +2302,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.866,
+        "score": 4.812,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2307,7 +2337,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.855,
+        "score": 4.801,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2336,7 +2366,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.686,
+        "score": 4.635,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2365,7 +2395,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.239,
+        "score": 4.199,
         "firstSeen": "2026-10-06T00:32:09.823013+00:00",
         "kind": "article"
       },
@@ -2394,7 +2424,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.993,
+        "score": 3.984,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2430,7 +2460,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.965,
+        "score": 3.956,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2466,7 +2496,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.854,
+        "score": 3.852,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2503,7 +2533,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.814,
+        "score": 3.802,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2539,7 +2569,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.785,
+        "score": 3.784,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2575,7 +2605,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.748,
+        "score": 3.746,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "video",
         "video": {
@@ -2611,7 +2641,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.729,
+        "score": 3.728,
         "firstSeen": "2026-09-30T11:51:30.624629+00:00",
         "kind": "video",
         "video": {
@@ -2647,7 +2677,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.71,
+        "score": 3.682,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2677,7 +2707,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.347,
+        "score": 3.327,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2707,7 +2737,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.327,
+        "score": 3.308,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2737,8 +2767,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.085,
+        "isNew": false,
+        "score": 3.083,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2767,7 +2797,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.073,
+        "score": 3.072,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00",
         "kind": "article"
       },
@@ -2796,7 +2826,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.072,
+        "score": 3.071,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2832,7 +2862,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.063,
+        "score": 3.062,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2868,7 +2898,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.877,
+        "score": 2.868,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2897,7 +2927,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.821,
+        "score": 2.814,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2928,7 +2958,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.775,
+        "score": 2.773,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -2957,7 +2987,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.659,
+        "score": 2.658,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2988,7 +3018,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.525,
+        "score": 2.524,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3019,7 +3049,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.493,
+        "score": 2.492,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3050,7 +3080,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.388,
+        "score": 2.387,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3080,7 +3110,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.385,
+        "score": 2.384,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3141,7 +3171,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.302,
+        "score": 2.301,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3254,13 +3284,13 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 22,
+      "items": 23,
       "error": null
     },
     {
       "id": "bbc-middleeast",
       "ok": true,
-      "items": 30,
+      "items": 31,
       "error": null
     },
     {
@@ -3278,7 +3308,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 13,
+      "items": 11,
       "error": null
     },
     {
@@ -3421,8 +3451,8 @@
     }
   ],
   "filteredOut": {
-    "football": 86,
-    "news": 145,
+    "football": 87,
+    "news": 141,
     "medical": 28,
     "growth": 53
   }
