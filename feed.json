@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T22:48:59.202436+00:00",
+  "generatedAt": "2026-10-08T23:37:00.951476+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,7 +33,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.08,
+        "score": 11.037,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -61,7 +61,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.498,
+        "score": 10.471,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -90,7 +90,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.187,
+        "score": 10.168,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -118,8 +118,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.87,
+        "isNew": false,
+        "score": 8.805,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -149,7 +149,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.923,
+        "score": 6.87,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -177,8 +177,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.795,
+        "isNew": false,
+        "score": 5.718,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -207,7 +207,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.569,
+        "score": 4.526,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -236,7 +236,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.566,
+        "score": 4.523,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -265,7 +265,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.183,
+        "score": 4.164,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -294,7 +294,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.083,
+        "score": 4.053,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -323,7 +323,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.074,
+        "score": 4.03,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -352,7 +352,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.039,
+        "score": 3.025,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       }
     ],
@@ -389,8 +389,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.311,
+        "score": 8.281,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "a44f09122402",
+        "category": "news",
+        "lang": "en",
+        "title": "Ex-German Chancellor Schröder attends Putin's birthday bash",
+        "summary": "Former Chancellor Gerhard Schröder still maintains a friendship with Russian leader Vladimir Putin. Tensions are high between Germany and Russia as the invasion of Ukraine continues.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-08T22:53:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-08T22:53:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.967,
+        "firstSeen": "2026-10-08T23:37:00.951476+00:00"
       },
       {
         "id": "fb5c707aa036",
@@ -451,8 +480,8 @@
             "publishedAt": "2026-10-03T04:11:01+00:00"
           }
         ],
-        "isNew": true,
-        "score": 7.998,
+        "isNew": false,
+        "score": 7.963,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -480,8 +509,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.966,
+        "isNew": false,
+        "score": 7.931,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -510,7 +539,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.878,
+        "score": 7.844,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -539,8 +568,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.839,
+        "isNew": false,
+        "score": 7.806,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -568,8 +597,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.751,
+        "isNew": false,
+        "score": 7.718,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -597,8 +626,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.735,
+        "isNew": false,
+        "score": 7.703,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -626,8 +655,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.732,
+        "isNew": false,
+        "score": 7.699,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -655,37 +684,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.723,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00"
-      },
-      {
-        "id": "25d1e828406e",
-        "category": "news",
-        "lang": "de",
-        "title": "Eritreische Truppen rücken offenbar in Äthiopien ein",
-        "summary": "Ende September war in der äthiopischen Tigray-Region ein alter Konflikt wieder aufgeflammt. Nun gibt es Berichte, wonach Truppen des benachbarten Eritrea dort einmarschiert seien.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/afrika/eritrea-aethiopien-tigray-100.html",
-        "publishedAt": "2026-10-08T15:12:46+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/afrika/eritrea-aethiopien-tigray-100.html",
-            "publishedAt": "2026-10-08T15:12:46+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.679,
+        "isNew": false,
+        "score": 7.691,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -713,8 +713,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.66,
+        "isNew": false,
+        "score": 7.629,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -743,7 +743,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.623,
+        "score": 7.592,
         "firstSeen": "2026-10-08T14:18:59.246410+00:00"
       },
       {
@@ -772,7 +772,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.623,
+        "score": 7.592,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -801,7 +801,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.591,
+        "score": 7.56,
         "firstSeen": "2026-10-08T14:18:59.246410+00:00"
       },
       {
@@ -830,7 +830,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.548,
+        "score": 7.518,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -859,7 +859,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.526,
+        "score": 7.496,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -888,7 +888,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.514,
+        "score": 7.485,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -917,7 +917,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.479,
+        "score": 7.45,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -947,7 +947,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.428,
+        "score": 7.399,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -975,9 +975,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.379,
+        "isNew": false,
+        "score": 7.346,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
+      },
+      {
+        "id": "b6bf82d97608",
+        "category": "news",
+        "lang": "de",
+        "title": "Sozialdemokraten: Mit dem \"Projekt 2045\" für den Klimaschutz",
+        "summary": "Hitze, ausgetrocknete Flüsse und zunehmende Risiken für Menschen, Natur und Wirtschaft: Die Folgen der Erderwärmung sind unübersehbar. Beim Streitthema Klima will ein neuer SPD-naher Verein nun vorangehen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/spd-klimapolitik-100.html",
+        "publishedAt": "2026-10-07T22:01:18+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/spd-klimapolitik-100.html",
+            "publishedAt": "2026-10-07T22:01:18+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.05,
+        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
         "id": "3332042999c6",
@@ -1005,8 +1034,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.083,
+        "isNew": false,
+        "score": 7.049,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -1035,7 +1064,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.073,
+        "score": 7.044,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -1064,8 +1093,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.005,
+        "isNew": false,
+        "score": 6.972,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -1093,8 +1122,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.97,
+        "isNew": false,
+        "score": 6.935,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -1123,7 +1152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.915,
+        "score": 6.892,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -1151,8 +1180,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.898,
+        "isNew": false,
+        "score": 6.863,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -1181,7 +1210,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.876,
+        "score": 6.854,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -1210,7 +1239,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.807,
+        "score": 6.776,
         "firstSeen": "2026-10-08T14:18:59.246410+00:00"
       },
       {
@@ -1239,7 +1268,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.68,
+        "score": 6.649,
         "firstSeen": "2026-10-08T14:18:59.246410+00:00"
       },
       {
@@ -1268,15 +1297,44 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.625,
+        "score": 6.594,
         "firstSeen": "2026-10-08T14:18:59.246410+00:00"
+      },
+      {
+        "id": "3a2b968e4e2c",
+        "category": "news",
+        "lang": "en",
+        "title": "Man injured after New York shooting involving DHS agents",
+        "summary": "The shooting happened in the afternoon in the Bronx, with details still emerging. The incident involved the US Department of Homeland Security, the parent agency of US Immigration and Customs Enforcement (ICE).",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-dhs-agents/a-79606159?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-08T23:25:00+00:00",
+        "subtopics": [
+          "US",
+          "Immigration"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-dhs-agents/a-79606159?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-08T23:25:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.291,
+        "firstSeen": "2026-10-08T23:37:00.951476+00:00"
       },
       {
         "id": "0cff5754b0f9",
         "category": "news",
         "lang": "en",
         "title": "US to publicly execute former soldier by firing squad",
-        "summary": "American military has not used this method of capital punishment since aftermath of second world war",
+        "summary": "American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
@@ -1296,8 +1354,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.285,
+        "isNew": false,
+        "score": 6.249,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -1325,8 +1383,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.203,
+        "isNew": false,
+        "score": 6.168,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -1354,65 +1412,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.167,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00"
-      },
-      {
-        "id": "43837c900376",
-        "category": "news",
-        "lang": "de",
-        "title": "A1 in Hamburg wird am Wochenende voll gesperrt",
-        "summary": "Wegen Bauarbeiten ist die A1 zwischen dem Autobahndreieck Norderelbe und dem Kreuz Hamburg-Ost von Freitagabend bis Montagmorgen dicht.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-uebers-wochenende-voll-gesperrt,aeins-160.html",
-        "publishedAt": "2026-10-08T11:09:34+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-uebers-wochenende-voll-gesperrt,aeins-160.html",
-            "publishedAt": "2026-10-08T11:09:34+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.122,
-        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
-      },
-      {
-        "id": "5b9f6fef6a98",
-        "category": "news",
-        "lang": "de",
-        "title": "Soziologin: Proteste \"Symbol einer verzweifelten Jugend\"",
-        "summary": "Soziologin Agnès van Zanten sieht in den Schülerprotesten in Frankreich ein Symptom tieferer Krisen. Grund für Gewalt sei auch die Polizeireaktion - und eine \"verzweifelte Jugend\".",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-schueler-gewalt-gruende-100.html",
-        "publishedAt": "2026-10-08T18:26:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/frankreich-proteste-schueler-gewalt-gruende-100.html",
-            "publishedAt": "2026-10-08T18:26:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.111,
+        "score": 6.133,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       }
     ],
@@ -1444,7 +1445,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.574,
+        "score": 10.567,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1476,7 +1477,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.27,
+        "score": 9.268,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1507,7 +1508,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.379,
+        "score": 8.368,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1545,7 +1546,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.379,
+        "score": 8.368,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1576,7 +1577,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.574,
+        "score": 7.567,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1608,7 +1609,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.98,
+        "score": 6.974,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1645,7 +1646,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.864,
+        "score": 6.86,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1677,7 +1678,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.864,
+        "score": 6.86,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1709,7 +1710,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.149,
+        "score": 6.147,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1741,7 +1742,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.149,
+        "score": 6.147,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1778,7 +1779,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.149,
+        "score": 6.147,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1810,7 +1811,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.463,
+        "score": 5.454,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1841,7 +1842,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.223,
+        "score": 4.215,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1872,7 +1873,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.815,
+        "score": 3.805,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1902,7 +1903,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.654,
+        "score": 3.645,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1933,7 +1934,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.481,
+        "score": 3.479,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1964,7 +1965,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.07,
+        "score": 3.068,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1994,7 +1995,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.006,
+        "score": 3.004,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2025,7 +2026,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.996,
+        "score": 2.994,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2062,7 +2063,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.061,
+        "score": 1.06,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2095,8 +2096,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.951,
+        "isNew": false,
+        "score": 5.92,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2131,8 +2132,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.424,
+        "isNew": false,
+        "score": 5.39,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "article"
       },
@@ -2162,7 +2163,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.36,
+        "score": 5.33,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -2191,7 +2192,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.242,
+        "score": 5.214,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -2220,7 +2221,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.217,
+        "score": 5.188,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -2251,7 +2252,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.907,
+        "score": 4.892,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "video",
         "video": {
@@ -2288,7 +2289,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.613,
+        "score": 4.588,
         "firstSeen": "2026-10-07T23:25:38.540282+00:00",
         "kind": "article"
       },
@@ -2319,7 +2320,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.541,
+        "score": 4.517,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -2350,7 +2351,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.366,
+        "score": 4.344,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -2380,7 +2381,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.105,
+        "score": 4.086,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2409,7 +2410,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.001,
+        "score": 3.983,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2439,7 +2440,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.994,
+        "score": 3.977,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2469,7 +2470,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.974,
+        "score": 3.957,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2498,7 +2499,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.941,
+        "score": 3.924,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2527,7 +2528,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.922,
+        "score": 3.905,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2562,7 +2563,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.915,
+        "score": 3.898,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2590,8 +2591,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.892,
+        "isNew": false,
+        "score": 3.891,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2628,7 +2629,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.874,
+        "score": 3.873,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -2664,7 +2665,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.821,
+        "score": 3.82,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2700,7 +2701,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.813,
+        "score": 3.798,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2729,7 +2730,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.755,
+        "score": 3.754,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2765,7 +2766,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.719,
+        "score": 3.718,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "video",
         "video": {
@@ -2802,7 +2803,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.609,
+        "score": 3.605,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2838,7 +2839,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.545,
+        "score": 3.533,
         "firstSeen": "2026-10-06T00:32:09.823013+00:00",
         "kind": "article"
       },
@@ -2867,7 +2868,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.227,
+        "score": 3.218,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2908,37 +2909,6 @@
         }
       },
       {
-        "id": "126aa063fc33",
-        "category": "growth",
-        "lang": "en",
-        "title": "Frontiers: A Roundtable Discussion on the I-Frame vs. S-Frame Debate",
-        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
-        "publishedAt": "2026-10-06T22:08:36+00:00",
-        "subtopics": [
-          "Productivity & systems",
-          "Communication",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
-            "publishedAt": "2026-10-06T22:08:36+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.051,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
-        "kind": "article"
-      },
-      {
         "id": "3ba89625595d",
         "category": "growth",
         "lang": "en",
@@ -2964,7 +2934,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.009,
+        "score": 3.003,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2994,7 +2964,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.997,
+        "score": 2.991,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -3024,7 +2994,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.787,
+        "score": 2.786,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3055,7 +3025,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.741,
+        "score": 2.74,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3084,7 +3054,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.63,
+        "score": 2.629,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3115,7 +3085,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.501,
+        "score": 2.5,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3146,37 +3116,69 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.47,
+        "score": 2.469,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
       {
-        "id": "a842fefb2bdb",
+        "id": "f71d07f2efd6",
         "category": "growth",
         "lang": "en",
-        "title": "What It’s Like to Be…a Mail Carrier",
-        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
+        "title": "What Was the Best Portfolio Over the Last 50 Years?",
+        "summary": "A few months ago, I analyzed U.S. stock returns over the last century .",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
-        "publishedAt": "2026-08-11T12:30:27+00:00",
+        "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+        "publishedAt": "2026-09-15T11:45:37+00:00",
         "subtopics": [
-          "Communication",
-          "Relationships"
+          "Productivity & systems",
+          "Personal finance",
+          "Persuasion & negotiation"
         ],
         "sources": [
           {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
-            "publishedAt": "2026-08-11T12:30:27+00:00",
-            "tier": 2
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+            "publishedAt": "2026-09-15T11:45:37+00:00",
+            "tier": 3
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.378,
+        "score": 2.369,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "8ba822b78432",
+        "category": "growth",
+        "lang": "en",
+        "title": "Living Poor to Die Rich",
+        "summary": "I recently joined a professional organization to discuss various topics in wealth management. On our first Zoom call there was a debate around the use of levered long/short strategies.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/living-poor-to-die-rich/",
+        "publishedAt": "2026-09-08T11:45:51+00:00",
+        "subtopics": [
+          "Leadership",
+          "Business case studies",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/living-poor-to-die-rich/",
+            "publishedAt": "2026-09-08T11:45:51+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.286,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3383,9 +3385,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "onefutureuseful",
