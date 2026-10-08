@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T23:25:38.540282+00:00",
+  "generatedAt": "2026-10-08T12:44:18.615278+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,34 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "de374c146bb3",
+        "category": "football",
+        "lang": "en",
+        "title": "Barcelona have their most exciting team in years. But you need to know about seny and rauxa",
+        "summary": "Hansi Flick's team have started the new season in scintillating fashion. Will that be enough to overcome fans' natural stoicism?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.nytimes.com/athletic/7652316/2026/10/08/barcelona-flick-yamal-la-liga-guardiola-messi/",
+        "publishedAt": "2026-10-08T04:20:58+00:00",
+        "subtopics": [
+          "Barcelona"
+        ],
+        "sources": [
+          {
+            "name": "The Athletic",
+            "url": "https://www.nytimes.com/athletic/7652316/2026/10/08/barcelona-flick-yamal-la-liga-guardiola-messi/",
+            "publishedAt": "2026-10-08T04:20:58+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 11.742,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
       {
         "id": "8b75c5f70d43",
         "category": "football",
@@ -33,7 +61,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.749,
+        "score": 10.917,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -62,94 +90,212 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.047,
+        "score": 10.474,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
-        "id": "28cde068a9a9",
+        "id": "43c8f4cbe611",
         "category": "football",
         "lang": "en",
-        "title": "From Barcelona to El Bulli: An interview with Ferran Adria, the Pep Guardiola of gastronomy",
-        "summary": "The world-famous chef known for his innovative cooking at El Bulli had a trial for Barcelona in his youth and football was his first passion",
+        "title": "James: England must keep looking forward in quest for World Cup place",
+        "summary": "Lauren James says England cannot do anything about the situation they find themselves in and just need to beat Greece in their play-off double-header in an effort to secure their place at next summer’s World Cup.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7649341/2026/10/05/from-barcelona-to-el-bulli-an-interview-with-ferran-adria-the-pep-guardiola-of-gastronomy/",
-        "publishedAt": "2026-10-05T04:20:51+00:00",
-        "subtopics": [
-          "Barcelona"
-        ],
-        "sources": [
-          {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7649341/2026/10/05/from-barcelona-to-el-bulli-an-interview-with-ferran-adria-the-pep-guardiola-of-gastronomy/",
-            "publishedAt": "2026-10-05T04:20:51+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 9.792,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "ca4900d6a8c5",
-        "category": "football",
-        "lang": "en",
-        "title": "Why do Barcelona players wear bandages on their hands?",
-        "summary": "Lamine Yamal and Raphinha are among the players to wear them. What's behind it all?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7652795/2026/10/05/barcelona-bandages-raphinha-yamal-real-madrid/",
-        "publishedAt": "2026-10-05T04:20:45+00:00",
-        "subtopics": [
-          "Barcelona"
-        ],
-        "sources": [
-          {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7652795/2026/10/05/barcelona-bandages-raphinha-yamal-real-madrid/",
-            "publishedAt": "2026-10-05T04:20:45+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 9.792,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      },
-      {
-        "id": "87901d7a0dc3",
-        "category": "football",
-        "lang": "en",
-        "title": "World Cup criticism still stings Tuchel despite Nations League positives",
-        "summary": "The Wembley crowd was in party mood and the fans sang Thomas Tuchel's name. Three straight wins without conceding, Harry Kane feted as England's greatest ever servant, a Nations League quarter-final all-but guaranteed.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/12040/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
-        "publishedAt": "2026-10-07T12:38:00+00:00",
+        "url": "https://www.skysports.com/football/news/12040/13595901/england-lauren-james-says-sarina-wiegmans-side-must-have-no-regrets-as-greece-world-cup-play-off-awaits",
+        "publishedAt": "2026-10-08T12:00:00+00:00",
         "subtopics": [
           "World Cup",
-          "International",
           "Results"
         ],
         "sources": [
           {
             "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/12040/13596119/england-thomas-tuchel-still-stinging-from-world-cup-criticism-despite-nations-league-positives",
-            "publishedAt": "2026-10-07T12:38:00+00:00",
+            "url": "https://www.skysports.com/football/news/12040/13595901/england-lauren-james-says-sarina-wiegmans-side-must-have-no-regrets-as-greece-world-cup-play-off-awaits",
+            "publishedAt": "2026-10-08T12:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.062,
-        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
+        "isNew": true,
+        "score": 7.924,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "5eefdad1de7d",
+        "category": "football",
+        "lang": "en",
+        "title": "Mikel Arteta exclusive interview: 'I have poison in my veins at Champions League defeat. It left a scar'",
+        "summary": "The Arsenal manager speaks to The Athletic about the pain of defeat and why the Premier League title is 'just the beginning'",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.nytimes.com/athletic/7668199/2026/10/08/mikel-arteta-arsenal-exclusive-interview/",
+        "publishedAt": "2026-10-08T10:00:12+00:00",
+        "subtopics": [
+          "Champions League",
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Athletic",
+            "url": "https://www.nytimes.com/athletic/7668199/2026/10/08/mikel-arteta-arsenal-exclusive-interview/",
+            "publishedAt": "2026-10-08T10:00:12+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.728,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "834dfabf7a41",
+        "category": "football",
+        "lang": "en",
+        "title": "England to host Netball World Cup in 2031",
+        "summary": "Manchester will stage the Netball World Cup in 2031 after England was awarded hosting rights for the fourth time.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/netball/news/12040/13596394/england-to-host-netball-world-cup-in-2031-as-tournament-heads-to-manchester",
+        "publishedAt": "2026-10-08T10:00:00+00:00",
+        "subtopics": [
+          "World Cup",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/netball/news/12040/13596394/england-to-host-netball-world-cup-in-2031-as-tournament-heads-to-manchester",
+            "publishedAt": "2026-10-08T10:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.228,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "2042816ced06",
+        "category": "football",
+        "lang": "en",
+        "title": "'Void of leaders' - The problems for bottom-side Spurs after winless start",
+        "summary": "When Aston Villa went 1-0 up in north London, it felt inevitable that Tottenham would head into the international break winless in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/12040/13596052/tottenham-sky-sports-special-podcast-tim-sherwood-and-michael-bridge-assess-spurs-problems-after-winless-start",
+        "publishedAt": "2026-10-08T11:05:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/12040/13596052/tottenham-sky-sports-special-podcast-tim-sherwood-and-michael-bridge-assess-spurs-problems-after-winless-start",
+            "publishedAt": "2026-10-08T11:05:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.332,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "cd52f7340831",
+        "category": "football",
+        "lang": "en",
+        "title": "How will Premier League managers handle barrage of questions about Manchester City charges?",
+        "summary": "Premier League managers will face questions for the first time on Manchester City's financial charges - here are some responses we might see",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.nytimes.com/athletic/7668323/2026/10/08/premier-league-managers-manchester-city-charges/",
+        "publishedAt": "2026-10-08T04:08:48+00:00",
+        "subtopics": [
+          "Premier League",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "The Athletic",
+            "url": "https://www.nytimes.com/athletic/7668323/2026/10/08/premier-league-managers-manchester-city-charges/",
+            "publishedAt": "2026-10-08T04:08:48+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.226,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "9cb8e0798c06",
+        "category": "football",
+        "lang": "en",
+        "title": "The Expected Premier League Table MD6: Arsenal's open-play boost, wayward Forest and can Brighton keep it up?",
+        "summary": "As the Premier League returns, The Athletic has a reminder of which sides have looked sharp this season, and which have not",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.nytimes.com/athletic/7668399/2026/10/08/expected-premier-league-table-md-6/",
+        "publishedAt": "2026-10-08T04:05:34+00:00",
+        "subtopics": [
+          "Premier League",
+          "Tables"
+        ],
+        "sources": [
+          {
+            "name": "The Athletic",
+            "url": "https://www.nytimes.com/athletic/7668399/2026/10/08/expected-premier-league-table-md-6/",
+            "publishedAt": "2026-10-08T04:05:34+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.222,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "85a7feb7308d",
+        "category": "football",
+        "lang": "en",
+        "title": "Tony Bloom on Hurzeler and Brighton's future: 'We have a realistic chance of finishing in the top five'",
+        "summary": "The Brighton owner and chairman also addresses his desire to win the UEFA Conference League and the eye-catching fee paid for Luka Vuskovic",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.nytimes.com/athletic/7625751/2026/10/08/tony-bloom-brighton-hurzeler-transfers-ambition-interview-exclusive/",
+        "publishedAt": "2026-10-08T04:13:57+00:00",
+        "subtopics": [
+          "Europa League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Athletic",
+            "url": "https://www.nytimes.com/athletic/7625751/2026/10/08/tony-bloom-brighton-hurzeler-transfers-ambition-interview-exclusive/",
+            "publishedAt": "2026-10-08T04:13:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.733,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
         "id": "e01d42454c79",
@@ -177,7 +323,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.44,
+        "score": 4.537,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -206,7 +352,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.038,
+        "score": 4.469,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
@@ -235,7 +381,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.715,
+        "score": 3.265,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       },
       {
@@ -264,40 +410,255 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.038,
+        "score": 2.839,
         "firstSeen": "2026-10-06T12:41:12.712955+00:00"
-      },
+      }
+    ],
+    "news": [
       {
-        "id": "e18e0f26a9e9",
-        "category": "football",
-        "lang": "en",
-        "title": "Portugal and the spectre of an absent Cristiano Ronaldo: 'It's like dropping a god'",
-        "summary": "Portugal's latest Nations League victory was all about the larger-than-life superstar who wasn't there. How long can this go on?",
+        "id": "720049838602",
+        "category": "news",
+        "lang": "de",
+        "title": "Linke, Grüne und SPD in Berlin beschließen Sondierungen",
+        "summary": "Nach der Abgeordnetenhauswahl in Berlin haben sich Linke, Grüne und SPD auf Sondierungsgespräche verständigt. Zum Umgang mit Antisemitismus, für den Teile der Linkspartei in der Kritik stehen, einigten sich die Parteien auf eine Erklärung.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7657993/2026/10/05/portugal-cristiano-ronaldo-nations-league/",
-        "publishedAt": "2026-10-05T06:02:37+00:00",
+        "url": "https://www.zdfheute.de/politik/deutschland/berlin-rot-gruen-rot-sondierungen-paket-gegen-antisemitismus-100.html",
+        "publishedAt": "2026-10-08T12:40:00+00:00",
         "subtopics": [
-          "International",
-          "Results"
+          "Germany",
+          "Elections"
         ],
         "sources": [
           {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7657993/2026/10/05/portugal-cristiano-ronaldo-nations-league/",
-            "publishedAt": "2026-10-05T06:02:37+00:00",
-            "tier": 3
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/berlin-rot-gruen-rot-sondierungen-paket-gegen-antisemitismus-100.html",
+            "publishedAt": "2026-10-08T12:40:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsgespraeche-100.html",
+            "publishedAt": "2026-10-08T12:22:14+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.797,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "08b9f0b7ccff",
+        "category": "news",
+        "lang": "de",
+        "title": "Mögliche CDU-Stimmen für AfD: Radtke fordert Parteiausschluss für Abweichler",
+        "summary": "Haben bei der Wahl des Landtagspräsidenten in Sachsen-Anhalt auch CDU-Abgeordnete für den AfD-Kandidaten Rausch gestimmt? Der Chef des CDU-Arbeitnehmerflügels verlangt in diesem Fall harte Konsequenzen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
+        "publishedAt": "2026-10-08T10:51:26+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktionen-wahl-sachsen-anhalt-100.html",
+            "publishedAt": "2026-10-08T10:51:26+00:00",
+            "tier": 2
+          },
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/cdu-afd-abstimmung-abgeordnete-parteiausschluss-radtke-100.html",
+            "publishedAt": "2026-10-08T09:08:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.717,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "0e40c287bf25",
+        "category": "news",
+        "lang": "de",
+        "title": "Italiens Parlament billigt umstrittene Wahlrechtsreform von Meloni",
+        "summary": "Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
+        "publishedAt": "2026-10-08T12:18:48+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/meloni-wahlrechtsreform-100.html",
+            "publishedAt": "2026-10-08T12:18:48+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.981,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "e24227e115cb",
+        "category": "news",
+        "lang": "de",
+        "title": "Statistisches Bundesamt: Krankheitskosten in Deutschland weiter gestiegen",
+        "summary": "Die direkten Kosten für Krankheiten und Gesundheitsprobleme sind in Deutschland im Jahr 2024 um mehr als 7,6 Prozent gestiegen. Laut Statistischem Bundesamt lagen sie damit erstmals über einer halben Billion Euro.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/krankheitskosten-destatis-100.html",
+        "publishedAt": "2026-10-08T11:50:37+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/krankheitskosten-destatis-100.html",
+            "publishedAt": "2026-10-08T11:50:37+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.96,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "79c7eff59e00",
+        "category": "news",
+        "lang": "de",
+        "title": "Aktuelles zum Krieg in der Ukraine",
+        "summary": "Seit Februar 2022 führt Russland einen Angriffskrieg gegen die Ukraine, die Kämpfe dauern an. Alle Entwicklungen und Ukraine-News im Liveticker.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+        "publishedAt": "2026-10-08T11:45:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html",
+            "publishedAt": "2026-10-08T11:45:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.81,
-        "firstSeen": "2026-10-05T13:29:24.679791+00:00"
-      }
-    ],
-    "news": [
+        "score": 7.956,
+        "firstSeen": "2026-09-27T12:38:25.975765+00:00"
+      },
+      {
+        "id": "c6b818a44610",
+        "category": "news",
+        "lang": "de",
+        "title": "Regierung hebt Wachstumsprognose für 2026 auf 1,3 Prozent an",
+        "summary": "Die Bundesregierung erwartet für das laufende Jahr ein Wachstum von 1,3 Prozent. Damit blickt sie deutlich optimistischer auf die wirtschaftliche Entwicklung als noch im Frühjahr, als sie von 0,5 Prozent ausgegangen war.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
+        "publishedAt": "2026-10-08T11:18:18+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wachstumsprognose-regierung-100.html",
+            "publishedAt": "2026-10-08T11:18:18+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.937,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "6ec21ddc309b",
+        "category": "news",
+        "lang": "de",
+        "title": "CDU-Stimmen für AfD-Kandidaten? \"Ich war's nicht!\"",
+        "summary": "Deutschland rätselt, wer die CDUler sind, die für den AfD-Politiker Tobias Rausch als Landtagspräsident gestimmt haben. Einige widersprechen nun vehement dem Vorwurf.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-cdu-afd-landtag-abstimmung-100.html",
+        "publishedAt": "2026-10-08T11:15:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/sachsen-anhalt-cdu-afd-landtag-abstimmung-100.html",
+            "publishedAt": "2026-10-08T11:15:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.934,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "5b0d4750a940",
+        "category": "news",
+        "lang": "de",
+        "title": "Bundesregierung hebt Wachstumsprognose an",
+        "summary": "\"Die deutsche Wirtschaft befindet sich auf Wachstumskurs\": Das Wirtschaftsministerium von Katherina Reiche erwartet mehr Wachstum und korrigiert seine Prognosen nach oben.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/wirtschaft-prognose-bundesregierung-wachstum-100.html",
+        "publishedAt": "2026-10-08T10:57:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/wirtschaft-prognose-bundesregierung-wachstum-100.html",
+            "publishedAt": "2026-10-08T10:57:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.921,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
       {
         "id": "3b53967ea6ff",
         "category": "news",
@@ -330,8 +691,271 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.39,
+        "score": 7.889,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
+      },
+      {
+        "id": "ba8a49772c99",
+        "category": "news",
+        "lang": "de",
+        "title": "Gesundheits-Check für Sibirische Tiger-Drillinge",
+        "summary": "Im Tierpark Ströhen sind am 20. August 2026 Amur-Tiger-Drillinge zur Welt gekommen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/tierpark-stroehen-sibirische-tiger-drillinge-100.html",
+        "publishedAt": "2026-10-08T10:00:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/tierpark-stroehen-sibirische-tiger-drillinge-100.html",
+            "publishedAt": "2026-10-08T10:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.88,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "87794a5bcd3c",
+        "category": "news",
+        "lang": "de",
+        "title": "Koalition für zügige Reformen und gegen Extremismus",
+        "summary": "Union und SPD haben ihren Koalitionsausschuss am Abend im Kanzleramt nach etwa vier Stunden beendet. Am Morgen danach beteuern sie, an den Reformen festhalten zu wollen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/koalition-koalitionsausschuss-cdu-csu-spd-reformen-100.html",
+        "publishedAt": "2026-10-08T09:53:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/koalition-koalitionsausschuss-cdu-csu-spd-reformen-100.html",
+            "publishedAt": "2026-10-08T09:53:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.875,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "2ac6926cc3c9",
+        "category": "news",
+        "lang": "de",
+        "title": "Sachsen-Anhalt: CDU-Fraktion droht möglicherweise Spaltung",
+        "summary": "Nach dem Wahldebakel Anfang September wird die CDU-Fraktion in Sachsen-Anhalts Landtag von internen Spannungen immer weiter zerrieben. Nun drohen erste Mitglieder damit, sich abzuspalten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/nach-wahl-fraktion-droht-spaltung,cdu-landtag-mifri-100.html",
+        "publishedAt": "2026-10-08T09:15:50+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/nach-wahl-fraktion-droht-spaltung,cdu-landtag-mifri-100.html",
+            "publishedAt": "2026-10-08T09:15:50+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.849,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "02dde02c3bf1",
+        "category": "news",
+        "lang": "de",
+        "title": "Midterms: Demokraten verklagen Trump-Regierung wegen TV-Spots",
+        "summary": "Vor den Midterms in den USA reichen die Demokraten gegen die Trump-Regierung Klage ein - anscheinend wurde mit Steuergeldern Wahlwerbung finanziert. Die umstrittenen TV-Spots stoßen auch bei Republikanern auf Kritik.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/amerika/trump-wahlwerbespots-100.html",
+        "publishedAt": "2026-10-08T08:35:14+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/amerika/trump-wahlwerbespots-100.html",
+            "publishedAt": "2026-10-08T08:35:14+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.82,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "fae78c4cdc69",
+        "category": "news",
+        "lang": "de",
+        "title": "Burnham bei Merz: Deutschland und Großbritannien stärken Cyberabwehr",
+        "summary": "Wegen zunehmenden hybriden Bedrohungen wollen Berlin und London stärker bei der Cyberabwehr kooperieren. Bei seinem Antrittsbesuch in Berlin wollen Premier Burnham und Kanzler Merz auch einen neuen Freundschaftsvertrag in Kraft setzen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/burnham-merz-besuch-100.html",
+        "publishedAt": "2026-10-08T06:27:32+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/burnham-merz-besuch-100.html",
+            "publishedAt": "2026-10-08T06:27:32+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.732,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "e481e9b755b4",
+        "category": "news",
+        "lang": "en",
+        "title": "Germany news: UK's Burnham, Merz to talk security in Berlin",
+        "summary": "UK Prime Minister Andy Burnham is visiting Berlin to launch a joint security partnership with Germany. President Steinmeier is on a state visit to France.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-08T05:50:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-08T05:50:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.707,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "7155f7fec917",
+        "category": "news",
+        "lang": "de",
+        "title": "Europäischer Rechnungshof warnt vor hohen Schulden",
+        "summary": "Der Rechnungshof hat vor den Folgen der zunehmenden Verschuldung der EU gewarnt, die bis 2027 auf bis zu eine Billion Euro steigen könnten. Die Prüfer entdeckten auch Unregelmäßigkeiten in Milliardenhöhe.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/eu-rechnungshof-schulden-100.html",
+        "publishedAt": "2026-10-08T03:45:40+00:00",
+        "subtopics": [
+          "EU",
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/eu-rechnungshof-schulden-100.html",
+            "publishedAt": "2026-10-08T03:45:40+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.625,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "a3a4f5feb441",
+        "category": "news",
+        "lang": "de",
+        "title": "Italien: Melonis Machtpoker um das Wahlrecht",
+        "summary": "Kann Italiens Ministerpräsidentin Meloni ihr umstrittenes neues Wahlrecht durchsetzen? Die Schlussabstimmung im Abgeordnetenhaus wird zur Zitterpartie.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/italien-wahlrechtsreform-100.html",
+        "publishedAt": "2026-10-08T02:41:09+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/italien-wahlrechtsreform-100.html",
+            "publishedAt": "2026-10-08T02:41:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.583,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "bdc9ffef7fbf",
+        "category": "news",
+        "lang": "de",
+        "title": "Betrug bei Coronahilfen: Buchhalterin verurteilt",
+        "summary": "Die 46-Jährige ist in Hamburg zu einer Freiheitsstrafe von mehr als drei Jahren verurteilt worden. Sie hatte falsche Angaben darüber gemacht, wie stark Unternehmen von der Pandemie betroffen waren.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/betrug-mit-coronahilfen-buchhalterin-in-hamburg-verurteilt,kurzehh-4538.html",
+        "publishedAt": "2026-10-08T09:50:44+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/betrug-mit-coronahilfen-buchhalterin-in-hamburg-verurteilt,kurzehh-4538.html",
+            "publishedAt": "2026-10-08T09:50:44+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.474,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
         "id": "b6bf82d97608",
@@ -359,15 +983,15 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.938,
+        "score": 7.41,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
         "id": "4170483fc2c2",
         "category": "news",
         "lang": "de",
-        "title": "Politisierung des Hamas-Überfalls 2023 vor den Wahlen in Israel",
-        "summary": "Politisierung des Hamas-Überfalls 2023 vor den Wahlen in Israel",
+        "title": "Erste Wahl seit Hamas-Angriff: So ist die politische Stimmung in Israel",
+        "summary": "Erste Wahl seit Hamas-Angriff: So ist die politische Stimmung in Israel",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/tagesthemen/video-1662386.html",
@@ -388,152 +1012,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.878,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
-      },
-      {
-        "id": "f87bcf0c3e2e",
-        "category": "news",
-        "lang": "de",
-        "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
-        "summary": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
-        "publishedAt": "2026-10-07T19:38:22+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
-            "publishedAt": "2026-10-07T19:38:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.836,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
-      },
-      {
-        "id": "20c48754903c",
-        "category": "news",
-        "lang": "de",
-        "title": "Sachsen-Anhalt: CDU-Fraktion droht möglicherweise Spaltung",
-        "summary": "Nach dem Wahldebakel Anfang September wird die CDU-Fraktion in Sachsen-Anhalts Landtag von internen Spannungen immer weiter zerrieben. Nun drohen erste Mitglieder damit, sich abzuspalten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/fraktion-droht-spaltung,cdu-landtag-mifri-100.html",
-        "publishedAt": "2026-10-07T18:57:39+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/fraktion-droht-spaltung,cdu-landtag-mifri-100.html",
-            "publishedAt": "2026-10-07T18:57:39+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.807,
-        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
-      },
-      {
-        "id": "011ad1333bf0",
-        "category": "news",
-        "lang": "de",
-        "title": "tagesschau 20:00 Uhr",
-        "summary": "Nationale Gedenkfeier in Israel am dritten Jahrestag des Angriffs der Hamas, Auch Gedenken an die Opfer des Hamas-Angriffs in Deutschland, Drohende Spaltung der CDU-Fraktion in Sachsen-Anhalt nach Wahl eines AfD-Kandidaten zum Landtagspräsidenten,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1662326.html",
-        "publishedAt": "2026-10-07T18:56:06+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1662326.html",
-            "publishedAt": "2026-10-07T18:56:06+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.806,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
-      },
-      {
-        "id": "00fc358b46a2",
-        "category": "news",
-        "lang": "de",
-        "title": "Neue Staatspräsidentin des Kosovos: Ein politischer Deal in letzter Minute",
-        "summary": "Der Kosovo hat eine Präsidentin gewählt und damit Neuwahlen abgewendet. Der Preis der Einigung war eine Gesetzesänderung: Straftaten im Kosovokrieg sollen weniger streng bestraft werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/kosovo-staatspraesidentin-wahl-100.html",
-        "publishedAt": "2026-10-07T18:45:48+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/kosovo-staatspraesidentin-wahl-100.html",
-            "publishedAt": "2026-10-07T18:45:48+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.799,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
-      },
-      {
-        "id": "44b830690c53",
-        "category": "news",
-        "lang": "de",
-        "title": "Wirtschaftsaufschwung trotz Krisen: Das sind die Gründe",
-        "summary": "Die Wirtschaft nimmt wieder an Fahrt auf: In diesem Jahr soll sie um über ein Prozent wachsen - doch Sondereffekte spielen eine entscheidende Rolle. Was die Konjunktur antreibt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/wirtschaft/wirtschaft-deutschland-konjunktur-wachstum-trotz-krieg-krise-ursachen-100.html",
-        "publishedAt": "2026-10-07T17:39:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/wirtschaft/wirtschaft-deutschland-konjunktur-wachstum-trotz-krieg-krise-ursachen-100.html",
-            "publishedAt": "2026-10-07T17:39:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.753,
+        "score": 7.361,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -562,65 +1041,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.712,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
-      },
-      {
-        "id": "76a5bbee585c",
-        "category": "news",
-        "lang": "en",
-        "title": "German politicians warn of antisemitism on October 7 anniversary",
-        "summary": "Leading German politicians including Chancellor Merz and President Steinmeier called for people to reject antisemitism.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/german-politicians-warn-of-antisemitism-on-october-7-anniversary/a-79583326?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-07T16:04:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/german-politicians-warn-of-antisemitism-on-october-7-anniversary/a-79583326?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-07T16:04:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.689,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
-      },
-      {
-        "id": "38087d8d28e0",
-        "category": "news",
-        "lang": "de",
-        "title": "Merz über Sachsen-Anhalt: \"Mit den Werten der CDU verträgt sich das nicht\"",
-        "summary": "Wurde der AfD-Landtagspräsident in Sachsen-Anhalt auch mit CDU-Stimmen gewählt? In der Partei ist die Unruhe groß.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html",
-        "publishedAt": "2026-10-07T15:19:43+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-reaktion-wahl-landtag-sachsen-anhalt-102.html",
-            "publishedAt": "2026-10-07T15:19:43+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.659,
+        "score": 7.225,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -649,7 +1070,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.658,
+        "score": 7.18,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -678,262 +1099,24 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.627,
+        "score": 7.155,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
-        "id": "7b373667dde6",
+        "id": "8310bec771b7",
         "category": "news",
         "lang": "de",
-        "title": "Wie Sachsen-Anhalt die Koalition in Berlin belastet",
-        "summary": "Der Zeitpunkt für einen Koalitionsausschuss könnte kein schlechterer sein: Die Stimmung ist im Keller, weil es viele Tiefpunkte gibt im Miteinander zwischen CDU, CSU und SPD.",
+        "title": "Hamburgs Sporttalente des Jahres ausgezeichnet",
+        "summary": "Für jeden Platzierten gab es einen Pokal und ein Preisgeld von bis zu 1.500 Euro, das an sportliche Zwecke gebunden ist.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/koalition-cdu-csu-spd-koalitionsausschuss-reformen-afd-brandmauer-100.html",
-        "publishedAt": "2026-10-07T14:12:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/koalition-cdu-csu-spd-koalitionsausschuss-reformen-afd-brandmauer-100.html",
-            "publishedAt": "2026-10-07T14:12:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.615,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
-      },
-      {
-        "id": "cb1bd27eff5f",
-        "category": "news",
-        "lang": "de",
-        "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
-        "summary": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
-        "publishedAt": "2026-10-07T13:55:15+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ki-sicherheit-cyberattaken-100.html",
-            "publishedAt": "2026-10-07T13:55:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.604,
-        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
-      },
-      {
-        "id": "003edb7ba2e3",
-        "category": "news",
-        "lang": "de",
-        "title": "Thüringens Regierungschef Voigt stoppt Kampf um Doktortitel",
-        "summary": "Thüringens Ministerpräsident Voigt kämpft nicht weiter um seinen Doktortitel. Er begründete den Schritt mit einer veränderten politischen Lage, die seinen vollen Einsatz erfordere.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/thueringen-voigt-doktortitel-ende-rechtsstreit-afd-100.html",
-        "publishedAt": "2026-10-07T13:13:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/thueringen-voigt-doktortitel-ende-rechtsstreit-afd-100.html",
-            "publishedAt": "2026-10-07T13:13:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.577,
-        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
-      },
-      {
-        "id": "8199f348ac96",
-        "category": "news",
-        "lang": "de",
-        "title": "Streit um Doktortitel: Voigt zieht Klage zurück",
-        "summary": "Thüringens Ministerpräsident Voigt gibt den juristischen Kampf um seinen Doktortitel auf. Er will nach eigenen Worten Klarheit für das Bundesland schaffen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/regional/thueringen/doktorarbeit-klage-rueckzug-news,ministerpraesident-voigt-100.html",
-        "publishedAt": "2026-10-07T13:04:47+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/thueringen/doktorarbeit-klage-rueckzug-news,ministerpraesident-voigt-100.html",
-            "publishedAt": "2026-10-07T13:04:47+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.572,
-        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
-      },
-      {
-        "id": "be5df29b2aaf",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundeskabinett bringt besseren Schutz vor digitaler Gewalt auf den Weg",
-        "summary": "Bundesjustizministerin Hubig will die Menschen besser vor digitaler Gewalt schützen - also etwa sexualisierten Deepfake-Videos oder heimlichen Sauna-Aufnahmen. Das Kabinett stimmte ihrem Gesetzentwurf zu, nun ist der Bundestag am Zug.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-digitalegewalt-gesetzgebung-100.html",
-        "publishedAt": "2026-10-07T12:55:24+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bundeskabinett-digitalegewalt-gesetzgebung-100.html",
-            "publishedAt": "2026-10-07T12:55:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.566,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
-      },
-      {
-        "id": "e5bce6df67f5",
-        "category": "news",
-        "lang": "de",
-        "title": "Drei Jahre nach Hamas-Angriff – wie geht Israel damit um?",
-        "summary": "Drei Jahre nach Hamas-Angriff – wie geht Israel damit um?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1662008.html",
-        "publishedAt": "2026-10-07T12:22:25+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1662008.html",
-            "publishedAt": "2026-10-07T12:22:25+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.545,
-        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
-      },
-      {
-        "id": "3c203b624c01",
-        "category": "news",
-        "lang": "en",
-        "title": "Germany: Ex-spy chief sent to pretrial detention on treason charges",
-        "summary": "August Hanning has been remanded into pretrial detention after his arrest. The case has prompted calls for transparency when spies leave the government.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-07T11:46:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-07T11:46:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.522,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "ec309385286d",
-        "category": "news",
-        "lang": "de",
-        "title": "Hamas-Massaker: Israelis fordern staatliche Untersuchung",
-        "summary": "Drei Jahre nach dem Hamas-Massaker und kurz vor der Wahl fordern Demonstranten in Israel einen Untersuchungsausschuss zu möglichen Fehlern. Der Druck auf Benjamin Netanjah wächst.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/israel-proteste-staatliche-untersuchung-hamas-massaker-100.html",
-        "publishedAt": "2026-10-07T10:01:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/israel-proteste-staatliche-untersuchung-hamas-massaker-100.html",
-            "publishedAt": "2026-10-07T10:01:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.457,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "100c651cf848",
-        "category": "news",
-        "lang": "de",
-        "title": "Hamburger Sporttalente des Jahres ausgezeichnet",
-        "summary": "In der Eliteschule des Sports sind Oskar Müller (Rudern) und Cassandra Jansch (Segeln) geehrt worden. Auch das Team Johan Müller/Hanno Gewinn (Segeln) wurde ausgezeichnet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/hamburger-sporttalente-ausgezeichnet-grote-will-nachwuchs-foerdern,kurzehh-4528.html",
-        "publishedAt": "2026-10-07T19:16:14+00:00",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/hamburgs-sporttalente-des-jahres-ausgezeichnet,hamj-15336.html",
+        "publishedAt": "2026-10-07T18:24:47+00:00",
         "subtopics": [
           "Hamburg",
           "Markets"
         ],
         "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/hamburger-sporttalente-ausgezeichnet-grote-will-nachwuchs-foerdern,kurzehh-4528.html",
-            "publishedAt": "2026-10-07T19:16:14+00:00",
-            "tier": 2
-          },
           {
             "name": "NDR",
             "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/hamburgs-sporttalente-des-jahres-ausgezeichnet,hamj-15336.html",
@@ -944,9 +1127,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.42,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
+        "isNew": true,
+        "score": 6.884,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
         "id": "904887b51de8",
@@ -974,95 +1157,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.326,
+        "score": 6.836,
         "firstSeen": "2026-10-07T14:08:36.377830+00:00"
-      },
-      {
-        "id": "f0d1962ad3c3",
-        "category": "news",
-        "lang": "de",
-        "title": "Wie ein Hamburger Unternehmen 300 Filme im Jahr untertitelt",
-        "summary": "Die Untertitelung von Filmen ist mehr als das reine Übersetzen. Für das Filmfest Hamburg hat eine Hamburger Firma viele Beiträge untertitelt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/kultur/film/festivals/englisch-am-schwersten-so-kommen-untertitel-unter-filme,untertitel-156428.html",
-        "publishedAt": "2026-10-07T14:59:31+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/kultur/film/festivals/englisch-am-schwersten-so-kommen-untertitel-unter-filme,untertitel-156428.html",
-            "publishedAt": "2026-10-07T14:59:31+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.246,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "0d311d1f3ff3",
-        "category": "news",
-        "lang": "de",
-        "title": "\"Wie soll ich hier wieder leben?\" - Rückkehr an den Tatort",
-        "summary": "Hamas-Terroristen töteten David Kazir beim Angriff auf Kfar Aza. Nun bringt seine Frau seinen Leichnam zurück - während Israel über die Verantwortung für das Versagen streitet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/israel-drei-jahre-hamas-angriff-7-oktober-100.html",
-        "publishedAt": "2026-10-07T03:11:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/israel-drei-jahre-hamas-angriff-7-oktober-100.html",
-            "publishedAt": "2026-10-07T03:11:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.22,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "7bf2cd68312b",
-        "category": "news",
-        "lang": "de",
-        "title": "Haaretz-Journalist: \"Wir dachten, wir hätten alles im Griff\"",
-        "summary": "Haaretz-Militäranalyst Amos Harel ist überzeugt: Der Hamas-Angriff am 7. Oktober hätte verhindert werden können.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/israel-nahost-hamas-angriff-jahrestag-100.html",
-        "publishedAt": "2026-10-07T03:10:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/israel-nahost-hamas-angriff-jahrestag-100.html",
-            "publishedAt": "2026-10-07T03:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.219,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
         "id": "07853cd9e75c",
@@ -1091,66 +1187,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.053,
+        "score": 6.612,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
       },
       {
-        "id": "d2895fe6dfbf",
+        "id": "43837c900376",
         "category": "news",
         "lang": "de",
-        "title": "So macht ein Hamburger Sportverein jüdisches Leben sichtbar",
-        "summary": "Seit dem Hamas-Angriff auf Israel hat sich das jüdische Leben in Deutschland verändert. Zwei Hamburger setzen sich für einen besseren Zusammenhalt ein.",
+        "title": "A1 in Hamburg wird am Wochenende voll gesperrt",
+        "summary": "Wegen Bauarbeiten ist die A1 zwischen dem Autobahndreieck Norderelbe und dem Kreuz Hamburg-Ost von Freitagabend bis Montagmorgen dicht.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/info/so-macht-ein-hamburger-sportverein-juedisches-leben-sichtbar,makkabi-hamburg-100.html",
-        "publishedAt": "2026-10-07T04:00:00+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-uebers-wochenende-voll-gesperrt,aeins-160.html",
+        "publishedAt": "2026-10-08T11:09:34+00:00",
         "subtopics": [
-          "Hamburg",
-          "Conflict"
+          "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/info/so-macht-ein-hamburger-sportverein-juedisches-leben-sichtbar,makkabi-hamburg-100.html",
-            "publishedAt": "2026-10-07T04:00:00+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-uebers-wochenende-voll-gesperrt,aeins-160.html",
+            "publishedAt": "2026-10-08T11:09:34+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.847,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "afb63b233316",
-        "category": "news",
-        "lang": "de",
-        "title": "U-Bahn-Netz in Hamburg: Die Ringlinie war der Anfang",
-        "summary": "Am 7. Oktober 1906 beginnen die Bauarbeiten für Hamburgs erste U-Bahnlinie, damals noch als Ringlinie.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/geschichte/chronologie/bau-der-u-bahn-ab-1906-so-kam-hamburgs-untergrund-in-fahrt,hochbahnhamburg101.html",
-        "publishedAt": "2026-10-07T03:00:00+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/geschichte/chronologie/bau-der-u-bahn-ab-1906-so-kam-hamburgs-untergrund-in-fahrt,hochbahnhamburg101.html",
-            "publishedAt": "2026-10-07T03:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.814,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
+        "isNew": true,
+        "score": 6.53,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
         "id": "83a1149b3830",
@@ -1178,8 +1244,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.809,
+        "score": 6.484,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00"
+      },
+      {
+        "id": "d1f970093bd6",
+        "category": "news",
+        "lang": "en",
+        "title": "'Come all the way' back to EU, French finance minister tells UK",
+        "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-08T04:02:26+00:00",
+        "subtopics": [
+          "EU",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-08T04:02:26+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.436,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
         "id": "54c8b2b40f28",
@@ -1207,124 +1302,153 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.78,
+        "score": 6.281,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
-        "id": "df87607d901a",
-        "category": "news",
-        "lang": "de",
-        "title": "Früherer BND-Präsident Hanning muss in Untersuchungshaft",
-        "summary": "Der ehemalige BND-Chef Hanning muss in Untersuchungshaft. Ein Ermittlungsrichter des Bundesgerichtshofs habe den Haftbefehl in Vollzug gesetzt, teilte die Bundesanwaltschaft mit.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
-        "publishedAt": "2026-10-07T13:46:15+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/hanning-bnd-haftbefehl-spionage-100.html",
-            "publishedAt": "2026-10-07T13:46:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.598,
-        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
-      },
-      {
-        "id": "3063f9098972",
-        "category": "news",
-        "lang": "de",
-        "title": "Sicherheitsstudie: Wenn die Drohne längst verschwunden ist",
-        "summary": "Deutschland liegt beim Schutz seiner Kritischen Infrastruktur mehr als zehn Jahre zurück, warnt eine Studie. Fachleute fordern bessere Absprachen zwischen Katastrophenschutz, Drohnen- und Cyberabwehr.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/sicherheit-drohnen-100.html",
-        "publishedAt": "2026-10-07T12:05:01+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/sicherheit-drohnen-100.html",
-            "publishedAt": "2026-10-07T12:05:01+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.534,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
-      },
-      {
-        "id": "b6b5dceb611e",
+        "id": "33dfc6cd33d9",
         "category": "news",
         "lang": "en",
-        "title": "EU enlargement: European Commission tables reforms to prepare bloc for new members",
-        "summary": "The European Commission is proposing earlier access to EU markets for candidate countries, new voting rules to reduce vetoes and extra safeguards for a bigger bloc. But is the reform fair — or even feasible?",
+        "title": "Commission fines Kingspan €40 million for providing incorrect and misleading information during merger investigation",
+        "summary": "European Commission Press release Brussels, 08 Oct 2026 The European Commission has fined Kingspan €40 million for providing incorrect and misleading information during the 2021 Commission review of Kingspan's planned acquisition of Trimo, under the EU…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-07T15:05:00+00:00",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2084",
+        "publishedAt": "2026-10-07T22:00:00+00:00",
         "subtopics": [
           "EU",
-          "Markets"
+          "Business"
         ],
         "sources": [
           {
-            "name": "DW",
-            "url": "https://www.dw.com/en/eu-enlargement-european-commission-tables-reforms-to-prepare-bloc-for-new-members/a-79582493?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-07T15:05:00+00:00",
-            "tier": 2
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2084",
+            "publishedAt": "2026-10-07T22:00:00+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.45,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00"
+        "isNew": true,
+        "score": 6.209,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
-        "id": "0f1a2795c288",
+        "id": "fe9051cb30c2",
         "category": "news",
         "lang": "en",
-        "title": "How much longer can the world absorb the Iran shock?",
-        "summary": "The disruption to oil supply, oil prices and the world economy has been surprisingly manageable so far",
+        "title": "The EU budget continues delivering for Europe in 2025",
+        "summary": "European Commission Press release Brussels, 08 Oct 2026 Today, the Court of Auditors (ECA) published its Annual Report, giving the EU's annual accounts a clean bill of health for the 19th consecutive year. The ECA confirmed that the collection of EU revenues…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-07T04:00:12+00:00",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2065",
+        "publishedAt": "2026-10-07T22:00:00+00:00",
         "subtopics": [
-          "Iran",
+          "EU",
           "Economy"
         ],
         "sources": [
           {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/37e12a42-d473-4b1b-8fc5-4ea5f06d3bfb?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-07T04:00:12+00:00",
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2065",
+            "publishedAt": "2026-10-07T22:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.209,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "1c8641a48d2d",
+        "category": "news",
+        "lang": "de",
+        "title": "Ihre Zwangsräumung löste Proteste aus: Spanische Rentnerin Maricarmen ist tot",
+        "summary": "Ihre Zwangsräumung löste Proteste aus: Spanische Rentnerin Maricarmen ist tot",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1662560.html",
+        "publishedAt": "2026-10-08T09:29:42+00:00",
+        "subtopics": [
+          "Germany",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1662560.html",
+            "publishedAt": "2026-10-08T09:29:42+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.447,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
+        "isNew": true,
+        "score": 6.159,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "15f7350fefb0",
+        "category": "news",
+        "lang": "de",
+        "title": "Christa Pike erleidet schwerste gesundheitliche Schäden nach Hinrichtungsversuchen",
+        "summary": "Christa Pike erleidet schwerste gesundheitliche Schäden nach Hinrichtungsversuchen",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1662558.html",
+        "publishedAt": "2026-10-08T09:26:14+00:00",
+        "subtopics": [
+          "Germany",
+          "Healthcare"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1662558.html",
+            "publishedAt": "2026-10-08T09:26:14+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.156,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "8304ca88603e",
+        "category": "news",
+        "lang": "en",
+        "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+        "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-08T05:06:09+00:00",
+        "subtopics": [
+          "US",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-08T05:06:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.978,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       }
     ],
     "medical": [
@@ -1355,41 +1479,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.805,
+        "score": 10.67,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": true
-      },
-      {
-        "id": "8854a63c39ab",
-        "category": "medical",
-        "lang": "en",
-        "title": "Tissue Quality of Integra vs. BTM Treated Burns",
-        "summary": "An observational analysis of Integra-treated burns and Novosorb Biodegradable Temporizing Matrix (BTM)-treated burns will be undertaken 12-36 months post final skin graft application by retrospectively analyzing the patient's electronic medical record, and…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT06760611",
-        "publishedAt": "2026-09-21T00:00:00+00:00",
-        "subtopics": [
-          "Competitors",
-          "Reconstructive surgery",
-          "Burns",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06760611",
-            "publishedAt": "2026-09-21T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 9.598,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
       },
@@ -1420,10 +1511,79 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.34,
+        "score": 9.299,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
+      },
+      {
+        "id": "7b3db2dd3abd",
+        "category": "medical",
+        "lang": "en",
+        "title": "Study Comparing Avance Nerve Graft and Autograft for Functional Recovery Following Mixed and Motor Peripheral Nerve Reconstruction",
+        "summary": "This is a multicenter, 1:1 randomized, prospective, comparative study in participants requiring reconstruction of a mixed or motor nerve in the upper extremity. This study will consist of a screening visit, an operative visit, and 9 post-operative follow-up…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07657182",
+        "publishedAt": "2026-10-08T00:00:00+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07657182",
+            "publishedAt": "2026-10-08T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.516,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "58fd70cf362b",
+        "category": "medical",
+        "lang": "en",
+        "title": "Safety and Clinical Performance of a Biological Matrix Used in Implant-based Breast Reconstruction",
+        "summary": "The general objective of the study is to confirm the medium/long-term safety and clinical performance of the CELLIS membrane used in abdominal wall reconstruction including, but not limited to, ventral hernia repair and stoma closure, and to identify…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT05031962",
+        "publishedAt": "2026-10-08T00:00:00+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Plastic surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT05031962",
+            "publishedAt": "2026-10-08T00:00:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT04580511",
+            "publishedAt": "2026-10-08T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.516,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
       },
       {
         "id": "cf1bba378d5c",
@@ -1452,7 +1612,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.063,
+        "score": 7.919,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "evidence": "trade_press",
         "matridermRelevant": true
@@ -1483,7 +1643,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.805,
+        "score": 7.67,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1515,7 +1675,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.137,
+        "score": 7.045,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1552,7 +1712,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.008,
+        "score": 6.924,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1584,7 +1744,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.008,
+        "score": 6.924,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1616,7 +1776,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.204,
+        "score": 6.172,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1648,7 +1808,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.204,
+        "score": 6.172,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1685,71 +1845,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.204,
+        "score": 6.172,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "7e0ce38df72d",
-        "category": "medical",
-        "lang": "en",
-        "title": "Absorbable Hemostatic Fluid Gelatin Trial",
-        "summary": "This is a multicenter, single-blind, randomized controlled, non-inferiority trial evaluating the safety and efficacy of an absorbable hemostatic fluid gelatin for surgical hemostasis. Subjects are patients undergoing elective/semi-elective surgeries in…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07830797",
-        "publishedAt": "2026-09-21T00:00:00+00:00",
-        "subtopics": [
-          "Surgical products",
-          "Orthopaedics",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07830797",
-            "publishedAt": "2026-09-21T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.098,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "f03d2cb30ed4",
-        "category": "medical",
-        "lang": "en",
-        "title": "Pain as Indication for Operative Treatment of Traumatic Rib Fractures",
-        "summary": "The purpose of this prospective randomized controlled study is to determine whether acute and chronic pain in patients who suffer multiple traumatic rib fractures is decreased after surgical management as compared to conservative management.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT02094807",
-        "publishedAt": "2026-09-17T00:00:00+00:00",
-        "subtopics": [
-          "Surgical products",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT02094807",
-            "publishedAt": "2026-09-17T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.947,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1780,7 +1877,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.742,
+        "score": 5.579,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1811,7 +1908,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.472,
+        "score": 4.327,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1842,7 +1939,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.137,
+        "score": 3.949,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1872,7 +1969,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.919,
+        "score": 3.764,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1903,7 +2000,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.553,
+        "score": 3.511,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1934,7 +2031,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.14,
+        "score": 3.099,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1964,7 +2061,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.068,
+        "score": 3.032,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1995,7 +2092,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.057,
+        "score": 3.021,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2032,7 +2129,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.106,
+        "score": 1.08,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2040,33 +2137,91 @@
     ],
     "growth": [
       {
-        "id": "ee58890d81f7",
+        "id": "a63ccea5b537",
         "category": "growth",
         "lang": "en",
-        "title": "Quoting Ben Affleck",
-        "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it.",
+        "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-        "publishedAt": "2026-10-07T23:14:58+00:00",
+        "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+        "publishedAt": "2026-10-08T12:10:00+00:00",
         "subtopics": [
           "AI & smart tools",
-          "Productivity & systems"
+          "Presentation & speaking"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-            "publishedAt": "2026-10-07T23:14:58+00:00",
-            "tier": 3
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+            "publishedAt": "2026-10-08T12:10:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 5.492,
-        "firstSeen": "2026-10-07T23:25:38.540282+00:00",
+        "score": 5.775,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "c7f4b559a8fb",
+        "category": "growth",
+        "lang": "en",
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "publishedAt": "2026-10-08T09:00:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+            "publishedAt": "2026-10-08T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.638,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "e09a47f5417a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Building a safer path to autonomous industrial AI",
+        "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+        "publishedAt": "2026-10-08T08:17:32+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+            "publishedAt": "2026-10-08T08:17:32+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.608,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
       {
@@ -2096,7 +2251,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.452,
+        "score": 5.119,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "video",
         "video": {
@@ -2106,6 +2261,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
           "channel": "TED"
         }
+      },
+      {
+        "id": "ee58890d81f7",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Ben Affleck",
+        "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+        "publishedAt": "2026-10-07T23:14:58+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+            "publishedAt": "2026-10-07T23:14:58+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.954,
+        "firstSeen": "2026-10-07T23:25:38.540282+00:00",
+        "kind": "article"
       },
       {
         "id": "a343c9786e70",
@@ -2134,7 +2319,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.391,
+        "score": 4.871,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -2165,7 +2350,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.142,
+        "score": 4.668,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -2195,7 +2380,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.774,
+        "score": 4.365,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2224,7 +2409,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.626,
+        "score": 4.244,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2254,7 +2439,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.616,
+        "score": 4.236,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2284,7 +2469,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.588,
+        "score": 4.213,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2313,7 +2498,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.541,
+        "score": 4.174,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2342,7 +2527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.513,
+        "score": 4.152,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2377,7 +2562,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.504,
+        "score": 4.144,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2406,38 +2591,46 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.36,
+        "score": 4.026,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
       {
-        "id": "cbee4f834379",
+        "id": "989396acd63d",
         "category": "growth",
         "lang": "en",
-        "title": "Quoting Felix Rieseberg",
-        "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your…",
+        "title": "Sometimes common ground starts with what both sides can’t afford to lose. #TEDTalks",
+        "summary": "What if the path to peace starts with self-interest? After four decades inside some of the world's most dangerous conflict zones, mediator Hiba Qasas has learned that most peacebuilding efforts get it wrong from the start.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-        "publishedAt": "2026-10-05T23:56:47+00:00",
+        "url": "https://www.youtube.com/shorts/gduYQKmz05M",
+        "publishedAt": "2026-10-07T21:30:06+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "Leadership",
+          "Relationships"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-            "publishedAt": "2026-10-05T23:56:47+00:00",
-            "tier": 3
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/gduYQKmz05M",
+            "publishedAt": "2026-10-07T21:30:06+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.98,
-        "firstSeen": "2026-10-06T00:32:09.823013+00:00",
-        "kind": "article"
+        "score": 3.884,
+        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
+        "kind": "video",
+        "video": {
+          "id": "gduYQKmz05M",
+          "thumbUrl": "https://i4.ytimg.com/vi/gduYQKmz05M/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=gduYQKmz05M",
+          "channel": "TED"
+        }
       },
       {
         "id": "ee76fcb97177",
@@ -2464,7 +2657,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.934,
+        "score": 3.874,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2500,7 +2693,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.91,
+        "score": 3.855,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "kind": "video",
         "video": {
@@ -2508,43 +2701,6 @@
           "thumbUrl": "https://i1.ytimg.com/vi/Hd8npxrnpuo/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=Hd8npxrnpuo",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "989396acd63d",
-        "category": "growth",
-        "lang": "en",
-        "title": "Sometimes common ground starts with what both sides can’t afford to lose. #TEDTalks",
-        "summary": "What if the path to peace starts with self-interest? After four decades inside some of the world's most dangerous conflict zones, mediator Hiba Qasas has learned that most peacebuilding efforts get it wrong from the start.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/gduYQKmz05M",
-        "publishedAt": "2026-10-07T21:30:06+00:00",
-        "subtopics": [
-          "Leadership",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/gduYQKmz05M",
-            "publishedAt": "2026-10-07T21:30:06+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.898,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
-        "kind": "video",
-        "video": {
-          "id": "gduYQKmz05M",
-          "thumbUrl": "https://i4.ytimg.com/vi/gduYQKmz05M/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=gduYQKmz05M",
           "channel": "TED"
         }
       },
@@ -2573,7 +2729,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.843,
+        "score": 3.83,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2609,7 +2765,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.776,
+        "score": 3.764,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2645,7 +2801,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.738,
+        "score": 3.727,
         "firstSeen": "2026-09-30T21:49:34.126591+00:00",
         "kind": "video",
         "video": {
@@ -2653,6 +2809,71 @@
           "thumbUrl": "https://i3.ytimg.com/vi/N8J-PIunXBM/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=N8J-PIunXBM",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "cbee4f834379",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Felix Rieseberg",
+        "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+        "publishedAt": "2026-10-05T23:56:47+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+            "publishedAt": "2026-10-05T23:56:47+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.714,
+        "firstSeen": "2026-10-06T00:32:09.823013+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "0972a572df6a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Would you try this reading challenge? #TEDTalks",
+        "summary": "Ann Morgan considered herself well read -- until she discovered the \"massive blindspot\" on her bookshelf. Amid a multitude of English and American authors, there were very few books from beyond the English-speaking world.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
+        "publishedAt": "2026-09-29T23:00:39+00:00",
+        "subtopics": [
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
+            "publishedAt": "2026-09-29T23:00:39+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.709,
+        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
+        "kind": "video",
+        "video": {
+          "id": "f6VgtBnARG0",
+          "thumbUrl": "https://i3.ytimg.com/vi/f6VgtBnARG0/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=f6VgtBnARG0",
           "channel": "TED"
         }
       },
@@ -2682,7 +2903,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.737,
+        "score": 3.659,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2691,42 +2912,6 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
           "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "0972a572df6a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Would you try this reading challenge? #TEDTalks",
-        "summary": "Ann Morgan considered herself well read -- until she discovered the \"massive blindspot\" on her bookshelf. Amid a multitude of English and American authors, there were very few books from beyond the English-speaking world.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
-        "publishedAt": "2026-09-29T23:00:39+00:00",
-        "subtopics": [
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/f6VgtBnARG0",
-            "publishedAt": "2026-09-29T23:00:39+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.72,
-        "firstSeen": "2026-09-30T11:51:30.624629+00:00",
-        "kind": "video",
-        "video": {
-          "id": "f6VgtBnARG0",
-          "thumbUrl": "https://i3.ytimg.com/vi/f6VgtBnARG0/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=f6VgtBnARG0",
-          "channel": "TED"
         }
       },
       {
@@ -2754,7 +2939,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.53,
+        "score": 3.345,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2784,7 +2969,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.22,
+        "score": 3.091,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -2814,9 +2999,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.204,
+        "score": 3.077,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
+      },
+      {
+        "id": "67d200a66bf8",
+        "category": "growth",
+        "lang": "en",
+        "title": "Paul Graham on what motivates founders",
+        "summary": "Paul Graham on what drives founders through the hard parts: “Being dutiful is not enough. The obstacles are too fearsome for mere dutifulness.” “You know what actually motivates founders day to day?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/Wxq7ZIEodJg",
+        "publishedAt": "2026-09-05T16:46:07+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/Wxq7ZIEodJg",
+            "publishedAt": "2026-09-05T16:46:07+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.062,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
+        "kind": "video",
+        "video": {
+          "id": "Wxq7ZIEodJg",
+          "thumbUrl": "https://i4.ytimg.com/vi/Wxq7ZIEodJg/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=Wxq7ZIEodJg",
+          "channel": "Y Combinator"
+        }
       },
       {
         "id": "126aa063fc33",
@@ -2845,73 +3066,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.074,
+        "score": 3.061,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "67d200a66bf8",
-        "category": "growth",
-        "lang": "en",
-        "title": "Paul Graham on what motivates founders",
-        "summary": "Paul Graham on what drives founders through the hard parts: “Being dutiful is not enough. The obstacles are too fearsome for mere dutifulness.” “You know what actually motivates founders day to day?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/Wxq7ZIEodJg",
-        "publishedAt": "2026-09-05T16:46:07+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/Wxq7ZIEodJg",
-            "publishedAt": "2026-09-05T16:46:07+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.067,
-        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
-        "kind": "video",
-        "video": {
-          "id": "Wxq7ZIEodJg",
-          "thumbUrl": "https://i4.ytimg.com/vi/Wxq7ZIEodJg/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=Wxq7ZIEodJg",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "e09aa4ef2a13",
-        "category": "growth",
-        "lang": "en",
-        "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-        "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-        "publishedAt": "2026-10-06T10:35:00+00:00",
-        "subtopics": [
-          "Productivity & systems"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-            "publishedAt": "2026-10-06T10:35:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.062,
-        "firstSeen": "2026-10-06T12:41:12.712955+00:00",
         "kind": "article"
       },
       {
@@ -2939,7 +3095,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.058,
+        "score": 3.053,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "video",
         "video": {
@@ -2949,6 +3105,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=knW0YgE-Wd8",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "f989cc6a3b5f",
+        "category": "growth",
+        "lang": "en",
+        "title": "Ryan Serhant: How to Get People to Say Yes",
+        "summary": "Ryan Serhant is a real estate broker, founder of SERHANT., and star of Bravo’s Million Dollar Listing New York and Netflix’s Owning Manhattan. Public Release: October 8.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
+        "publishedAt": "2026-10-08T09:55:00+00:00",
+        "subtopics": [
+          "Communication",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Farnam Street",
+            "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
+            "publishedAt": "2026-10-08T09:55:00+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 2.797,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
+        "kind": "article"
       },
       {
         "id": "25a4cc82249d",
@@ -2975,37 +3161,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.821,
+        "score": 2.763,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "89ed10d59c95",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Matthew Green",
-        "summary": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave instructions for…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-        "publishedAt": "2026-10-01T06:29:01+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
-            "publishedAt": "2026-10-01T06:29:01+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.774,
-        "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
       {
@@ -3035,7 +3192,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.764,
+        "score": 2.75,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3064,7 +3221,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.65,
+        "score": 2.638,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3095,70 +3252,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.517,
+        "score": 2.508,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "61ec1eae87c6",
-        "category": "growth",
-        "lang": "en",
-        "title": "Is Startup Equity a Bad Deal?",
-        "summary": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-        "publishedAt": "2026-09-22T11:45:57+00:00",
-        "subtopics": [
-          "Presentation & speaking",
-          "Leadership",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-            "publishedAt": "2026-09-22T11:45:57+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.485,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "f71d07f2efd6",
-        "category": "growth",
-        "lang": "en",
-        "title": "What Was the Best Portfolio Over the Last 50 Years?",
-        "summary": "A few months ago, I analyzed U.S. stock returns over the last century .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-        "publishedAt": "2026-09-15T11:45:37+00:00",
-        "subtopics": [
-          "Productivity & systems",
-          "Personal finance",
-          "Persuasion & negotiation"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-            "publishedAt": "2026-09-15T11:45:37+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.382,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
     ]
@@ -3239,13 +3334,13 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 22,
+      "items": 30,
       "error": null
     },
     {
       "id": "bbc-middleeast",
       "ok": true,
-      "items": 32,
+      "items": 34,
       "error": null
     },
     {
@@ -3263,7 +3358,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 10,
+      "items": 9,
       "error": null
     },
     {
@@ -3406,8 +3501,8 @@
     }
   ],
   "filteredOut": {
-    "football": 86,
-    "news": 139,
+    "football": 82,
+    "news": 145,
     "medical": 29,
     "growth": 49
   }
