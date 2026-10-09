@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:30:39.295715+00:00",
+  "generatedAt": "2026-10-09T14:03:47.576436+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,7 +33,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.482,
+        "score": 10.431,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -61,7 +61,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.121,
+        "score": 10.088,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -90,8 +90,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.927,
+        "score": 9.904,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00"
+      },
+      {
+        "id": "0484f01ace1f",
+        "category": "football",
+        "lang": "en",
+        "title": "Edwards signs with Argentina as defence coach until after 2027 World Cup",
+        "summary": "Coveted defence coach Shaun Edwards has signed a contract with Argentina until after the 2027 Rugby World Cup in Australia, ending any possibility of him linking up with Steve Borthwick's England.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/rugby-union/news/12040/13596902/shaun-edwards-coveted-defence-coach-signs-contract-with-argentina-until-after-2027-rugby-world-cup",
+        "publishedAt": "2026-10-09T14:24:00+00:00",
+        "subtopics": [
+          "World Cup",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/rugby-union/news/12040/13596902/shaun-edwards-coveted-defence-coach-signs-contract-with-argentina-until-after-2027-rugby-world-cup",
+            "publishedAt": "2026-10-09T14:24:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.0,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "transfer": "OFFICIAL"
       },
       {
         "id": "414527d3f398",
@@ -118,8 +148,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.304,
+        "isNew": false,
+        "score": 6.157,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -149,7 +179,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.195,
+        "score": 6.132,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -177,8 +207,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.03,
+        "isNew": false,
+        "score": 5.898,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -207,7 +237,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.737,
+        "score": 4.646,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -236,7 +266,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.975,
+        "score": 3.924,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -265,7 +295,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.973,
+        "score": 3.922,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -294,7 +324,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.478,
+        "score": 3.427,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -323,11 +353,46 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.835,
+        "score": 2.818,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00"
       }
     ],
     "news": [
+      {
+        "id": "b6586353d5e2",
+        "category": "news",
+        "lang": "de",
+        "title": "BMW zieht Dienstwagen-Angebot für AfD-Politiker Rausch zurück",
+        "summary": "BMW zieht nach der Wahl von Tobias Rausch zum Landtagspräsidenten von Sachsen-Anhalt ein Leasingangebot für dessen Dienstwagen zurück. Zuerst berichtete die Zeit.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/tobias-rausch-dienstwagen,bmw-zieht-leasingvertrag-zurueck-100.html",
+        "publishedAt": "2026-10-09T13:43:35+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/tobias-rausch-dienstwagen,bmw-zieht-leasingvertrag-zurueck-100.html",
+            "publishedAt": "2026-10-09T13:43:35+00:00",
+            "tier": 2
+          },
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/bmw-dienstwagen-landtag-afd-ablehnung-100.html",
+            "publishedAt": "2026-10-09T11:36:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.785,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00"
+      },
       {
         "id": "355aa197efca",
         "category": "news",
@@ -337,7 +402,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html",
-        "publishedAt": "2026-10-09T12:19:02+00:00",
+        "publishedAt": "2026-10-09T13:06:22+00:00",
         "subtopics": [
           "Germany",
           "Conflict"
@@ -346,15 +411,15 @@
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html",
-            "publishedAt": "2026-10-09T12:19:02+00:00",
+            "publishedAt": "2026-10-09T13:06:22+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.991,
+        "isNew": false,
+        "score": 7.958,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -383,8 +448,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.93,
+        "isNew": false,
+        "score": 7.863,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -412,8 +477,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.923,
+        "isNew": false,
+        "score": 7.856,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -441,8 +506,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.92,
+        "isNew": false,
+        "score": 7.853,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -470,8 +535,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.867,
+        "isNew": false,
+        "score": 7.802,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -499,8 +564,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.805,
+        "isNew": false,
+        "score": 7.741,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -528,8 +593,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.799,
+        "isNew": false,
+        "score": 7.735,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -557,8 +622,37 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.764,
+        "isNew": false,
+        "score": 7.701,
+        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
+      },
+      {
+        "id": "bb12720f29ff",
+        "category": "news",
+        "lang": "de",
+        "title": "Um Schulausbau zu bezahlen: Hamburg will Schulgrundstücke verkaufen",
+        "summary": "Hamburgs Finanzsenator Andreas Dressel (SPD) will dadurch 194 Millionen Euro bis zum Jahr 2030 einnehmen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/um-schulausbau-zu-bezahlen-hamburg-will-schulgrundstuecke-verkaufen,schulgrundstuecke-100.html",
+        "publishedAt": "2026-10-09T13:07:10+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/um-schulausbau-zu-bezahlen-hamburg-will-schulgrundstuecke-verkaufen,schulgrundstuecke-100.html",
+            "publishedAt": "2026-10-09T13:07:10+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.558,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -586,96 +680,61 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.49,
+        "isNew": false,
+        "score": 7.434,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
-        "id": "a44f09122402",
+        "id": "03dfdcdafd5e",
         "category": "news",
         "lang": "en",
-        "title": "Ex-German Chancellor Schröder attends Putin's birthday bash",
-        "summary": "Former Chancellor Gerhard Schröder still maintains a friendship with Russian leader Vladimir Putin. Tensions are high between Germany and Russia as the invasion of Ukraine continues.",
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-08T22:53:00+00:00",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-09T13:50:25+00:00",
         "subtopics": [
-          "Germany",
+          "Iran",
           "Government"
         ],
         "sources": [
           {
-            "name": "DW",
-            "url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-08T22:53:00+00:00",
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-09T13:50:25+00:00",
             "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.449,
-        "firstSeen": "2026-10-08T23:37:00.951476+00:00"
-      },
-      {
-        "id": "bb12720f29ff",
-        "category": "news",
-        "lang": "de",
-        "title": "Um Schulausbau zu bezahlen: Hamburg will Schulgrundstücke verkaufen",
-        "summary": "Hamburgs Finanzsenator Andreas Dressel (SPD) will dadurch 194 Millionen Euro bis zum Jahr 2030 einnehmen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/um-schulausbau-zu-bezahlen-hamburg-will-schulgrundstuecke-verkaufen,schulgrundstuecke-100.html",
-        "publishedAt": "2026-10-09T04:00:59+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
+          },
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/um-schulausbau-zu-bezahlen-hamburg-will-schulgrundstuecke-verkaufen,schulgrundstuecke-100.html",
-            "publishedAt": "2026-10-09T04:00:59+00:00",
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-09T13:50:25+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-08T03:32:35+00:00",
             "tier": 2
           }
         ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.244,
+        "developing": true,
+        "latestUpdate": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "earlier": [
+          {
+            "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+            "source": "BBC News",
+            "publishedAt": "2026-10-09T13:50:25+00:00"
+          },
+          {
+            "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+            "source": "BBC News",
+            "publishedAt": "2026-10-08T03:32:35+00:00"
+          }
+        ],
+        "isNew": false,
+        "score": 7.19,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
-      },
-      {
-        "id": "764575b260b7",
-        "category": "news",
-        "lang": "de",
-        "title": "Wie Lionel Messi in Argentinien zum Volkshelden wurde",
-        "summary": "Mit seinem 126. Tor im 208.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/sport/fussball-messi-argentinien-nationalmannschaft-abschied-100.html",
-        "publishedAt": "2026-10-08T16:19:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/sport/fussball-messi-argentinien-nationalmannschaft-abschied-100.html",
-            "publishedAt": "2026-10-08T16:19:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.221,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
         "id": "0cff5754b0f9",
@@ -726,60 +785,8 @@
           }
         ],
         "isNew": false,
-        "score": 7.096,
+        "score": 7.027,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
-      },
-      {
-        "id": "03dfdcdafd5e",
-        "category": "news",
-        "lang": "en",
-        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-        "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-09T10:07:04+00:00",
-        "subtopics": [
-          "Iran",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-09T10:07:04+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-09T10:07:04+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-08T03:32:35+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-        "earlier": [
-          {
-            "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-            "source": "BBC News",
-            "publishedAt": "2026-10-09T10:07:04+00:00"
-          },
-          {
-            "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-            "source": "BBC News",
-            "publishedAt": "2026-10-08T03:32:35+00:00"
-          }
-        ],
-        "isNew": true,
-        "score": 7.095,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
         "id": "ba8a49772c99",
@@ -807,37 +814,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.022,
+        "score": 6.976,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
-        "id": "db5b642ed22e",
+        "id": "fe8134877ff7",
         "category": "news",
         "lang": "de",
-        "title": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
-        "summary": "Unterhändler aus der Ukraine und den USA treffen sich zu Gesprächen über den Krieg. Die vergangenen Tage in der Ukraine waren geprägt von massiven russischen Angriffen mit vielen Toten.",
+        "title": "PRÜF-Demo in Hamburg: Verkehrschaos und Streit um Schulexkursion",
+        "summary": "Wegen der A1-Sperrung und einer Demo in der Innenstadt wird es am Samstag auf Hamburgs Straßen voll. Derweil sorgt eine Schulexkursion für Ärger.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
-        "publishedAt": "2026-10-09T07:57:06+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/verkehrschaos-und-streit-um-pruef-demo-in-hamburg,demo-782.html",
+        "publishedAt": "2026-10-09T12:56:24+00:00",
         "subtopics": [
-          "US",
-          "Germany",
-          "Conflict"
+          "Hamburg",
+          "Protests"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html",
-            "publishedAt": "2026-10-09T07:57:06+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/verkehrschaos-und-streit-um-pruef-demo-in-hamburg,demo-782.html",
+            "publishedAt": "2026-10-09T12:56:24+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.003,
+        "isNew": false,
+        "score": 6.85,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -866,7 +872,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.866,
+        "score": 6.815,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -894,29 +900,28 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.828,
+        "isNew": false,
+        "score": 6.763,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
-        "id": "fe8134877ff7",
+        "id": "316875e55980",
         "category": "news",
         "lang": "de",
-        "title": "PRÜF-Demo in Hamburg: Verkehrschaos und Streit um Schulexkursion",
-        "summary": "Wegen der A1-Sperrung und einer Demo in der Innenstadt wird es am Samstag auf Hamburgs Straßen voll. Derweil sorgt eine Schulexkursion für Ärger.",
+        "title": "Nach Unfall mit sechs Autos: A7 in Hamburg gesperrt",
+        "summary": "Fünf Autos und ein Lkw waren zwischen Schnelsen-Nord und Dreieck Nordwest zusammengestoßen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/verkehrschaos-und-streit-um-pruef-demo-in-hamburg,demo-782.html",
-        "publishedAt": "2026-10-09T10:12:30+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/nach-unfall-mit-sechs-autos-a7-in-hamburg-gesperrt,kurzehh-4552.html",
+        "publishedAt": "2026-10-09T13:46:40+00:00",
         "subtopics": [
-          "Hamburg",
-          "Protests"
+          "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/verkehrschaos-und-streit-um-pruef-demo-in-hamburg,demo-782.html",
-            "publishedAt": "2026-10-09T10:12:30+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/nach-unfall-mit-sechs-autos-a7-in-hamburg-gesperrt,kurzehh-4552.html",
+            "publishedAt": "2026-10-09T13:46:40+00:00",
             "tier": 2
           }
         ],
@@ -924,36 +929,35 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 6.799,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
+        "score": 6.587,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00"
       },
       {
-        "id": "d2041ed6c2a6",
+        "id": "74cd96a234b4",
         "category": "news",
         "lang": "de",
-        "title": "Startchancengesetz: Bildungschancen für Kinder sollen verbessert werden",
-        "summary": "Spätestens mit vier Jahren sollen alle Kinder auf ihren Entwicklungsstand geprüft werden: Der Bundestag berät heute über einen Gesetzentwurf des Bildungsministeriums. Ziel ist es, Kinder schon früh besser zu fördern.",
+        "title": "Großeinsatz wegen Gasaustritt in Farmsen",
+        "summary": "Wegen eines Gaslecks wurden Straßen gesperrt und ein Haus geräumt. Am Nachmittag gelang es Arbeitern, das Loch abzudichten.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/startchancengesetz-im-bundestag-100.html",
-        "publishedAt": "2026-10-09T04:38:21+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/grosseinsatz-wegen-gasaustritt-in-farmsen,kurzehh-4548.html",
+        "publishedAt": "2026-10-09T13:41:29+00:00",
         "subtopics": [
-          "Germany",
-          "Law & Policy"
+          "Hamburg"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/startchancengesetz-im-bundestag-100.html",
-            "publishedAt": "2026-10-09T04:38:21+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/grosseinsatz-wegen-gasaustritt-in-farmsen,kurzehh-4548.html",
+            "publishedAt": "2026-10-09T13:41:29+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.668,
+        "isNew": false,
+        "score": 6.583,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -982,9 +986,37 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.633,
+        "isNew": false,
+        "score": 6.578,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
+      },
+      {
+        "id": "43837c900376",
+        "category": "news",
+        "lang": "de",
+        "title": "A1 in Hamburg wird am Wochenende voll gesperrt",
+        "summary": "Wegen Bauarbeiten ist die A1 zwischen dem Autobahndreieck Norderelbe und dem Kreuz Hamburg-Ost ab heute Abend dicht. Es werden Staus erwartet.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-uebers-wochenende-voll-gesperrt,aeins-160.html",
+        "publishedAt": "2026-10-09T13:18:18+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-uebers-wochenende-voll-gesperrt,aeins-160.html",
+            "publishedAt": "2026-10-09T13:18:18+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.566,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
         "id": "cbed4b659953",
@@ -1034,36 +1066,8 @@
             "publishedAt": "2026-10-08T22:00:00+00:00"
           }
         ],
-        "isNew": true,
-        "score": 6.623,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
-      },
-      {
-        "id": "74cd96a234b4",
-        "category": "news",
-        "lang": "de",
-        "title": "Großeinsatz wegen Gasaustritt in Farmsen",
-        "summary": "Bauarbeiter hatten am Freitagvormittag Gasgeruch in einer Baugrube bemerkt. Die Feuerwehr räumte ein Haus und sperrte die umliegenden Straßen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/grosseinsatz-wegen-gasaustritt-in-farmsen,kurzehh-4548.html",
-        "publishedAt": "2026-10-09T11:43:48+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/grosseinsatz-wegen-gasaustritt-in-farmsen,kurzehh-4548.html",
-            "publishedAt": "2026-10-09T11:43:48+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.565,
+        "isNew": false,
+        "score": 6.558,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -1092,7 +1096,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.562,
+        "score": 6.526,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -1122,7 +1126,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.551,
+        "score": 6.498,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -1151,37 +1155,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.53,
+        "score": 6.496,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
-      },
-      {
-        "id": "458d990fe110",
-        "category": "news",
-        "lang": "de",
-        "title": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
-        "summary": "Nach anhaltenden Schulprotesten will Frankreich kurzfristig mehr als 3.000 Vertretungslehrer organisieren. Eine Software solle dabei die Schulen anzeigen, die sich in einer problematischen Situation befänden, so Bildungsminister Geffray.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
-        "publishedAt": "2026-10-08T22:08:21+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/frankreich-verspricht-dreitausend-vertretungslehrer-100.html",
-            "publishedAt": "2026-10-08T22:08:21+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.422,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
         "id": "fa5845c9b246",
@@ -1209,7 +1184,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.363,
+        "score": 6.309,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -1238,7 +1213,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.326,
+        "score": 6.278,
         "firstSeen": "2026-10-08T14:18:59.246410+00:00"
       },
       {
@@ -1266,8 +1241,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.063,
+        "isNew": false,
+        "score": 6.0,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -1296,7 +1271,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.998,
+        "score": 5.937,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -1324,38 +1299,44 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.959,
+        "isNew": false,
+        "score": 5.898,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
-        "id": "7a124e4aea78",
+        "id": "226bfaac103c",
         "category": "news",
-        "lang": "de",
-        "title": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
-        "summary": "Der Tod einer 87-Jährigen nach der Zwangsräumung ihrer Wohnung befeuert in Spanien den Protest gegen die Wohnungsnot. Ein Streik und Neuwahlen sind schon angekündigt.",
+        "lang": "en",
+        "title": "Press remarks by Commissioner Šefčovič at the second meeting of the EU-China Trade and Investment Consultations",
+        "summary": "European Commission Statement Beijing, 09 Oct 2026 On 8-9 October 2026, Wang Wentao, Minister of Commerce of China, and Maroš Šefčovič, Commissioner for Trade and Economic Security, Interinstitutional Relations and Transparency, of the European Commission,…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
-        "publishedAt": "2026-10-09T03:20:12+00:00",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2124",
+        "publishedAt": "2026-10-09T09:33:37+00:00",
         "subtopics": [
-          "Germany",
-          "Protests"
+          "EU",
+          "Government"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/spanien-wohnungsnot-proteste-100.html",
-            "publishedAt": "2026-10-09T03:20:12+00:00",
-            "tier": 2
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2124",
+            "publishedAt": "2026-10-09T09:33:37+00:00",
+            "tier": 1
+          },
+          {
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2122",
+            "publishedAt": "2026-10-09T09:05:57+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 5.917,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
+        "score": 5.806,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00"
       },
       {
         "id": "fddea207f860",
@@ -1382,28 +1363,29 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.783,
+        "isNew": false,
+        "score": 5.726,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
-        "id": "43837c900376",
+        "id": "d1f970093bd6",
         "category": "news",
-        "lang": "de",
-        "title": "A1 in Hamburg wird am Wochenende voll gesperrt",
-        "summary": "Wegen Bauarbeiten ist die A1 zwischen dem Autobahndreieck Norderelbe und dem Kreuz Hamburg-Ost von Freitagabend bis Montagmorgen dicht.",
+        "lang": "en",
+        "title": "'Come all the way' back to EU, French finance minister tells UK",
+        "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-uebers-wochenende-voll-gesperrt,aeins-160.html",
-        "publishedAt": "2026-10-08T11:09:34+00:00",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-08T04:02:26+00:00",
         "subtopics": [
-          "Hamburg"
+          "EU",
+          "Government"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-uebers-wochenende-voll-gesperrt,aeins-160.html",
-            "publishedAt": "2026-10-08T11:09:34+00:00",
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-08T04:02:26+00:00",
             "tier": 2
           }
         ],
@@ -1411,8 +1393,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.657,
+        "score": 5.608,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+      },
+      {
+        "id": "be76734c8760",
+        "category": "news",
+        "lang": "en",
+        "title": "Saudi coalition vows 'firm' response after airport attack kills 3",
+        "summary": "Saudi Arabia and its allied forces in Yemen vowed a \"firm response\" to Houthi attacks that target civilians. The kingdom's authorities said three Saudi nationals were killed in Thursday's attack on Riyadh airport.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-09T14:01:00+00:00",
+        "subtopics": [
+          "World",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/saudi-coalition-vows-firm-response-after-airport-attack-kills-3/a-79615437?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-09T14:01:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.598,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00"
+      },
+      {
+        "id": "9d2671c0ed98",
+        "category": "news",
+        "lang": "en",
+        "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+        "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-09T13:31:07+00:00",
+        "subtopics": [
+          "World",
+          "Immigration"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-09T13:31:07+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.576,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00"
       }
     ],
     "medical": [
@@ -1443,7 +1483,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.451,
+        "score": 10.438,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1475,10 +1515,134 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.233,
+        "score": 9.228,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
+      },
+      {
+        "id": "8b132f3af372",
+        "category": "medical",
+        "lang": "en",
+        "title": "Pressure ulcer prevention in mechanically ventilated patients in intensive care units: a quality improvement project.",
+        "summary": "J Wound Care (2026 Sep). Cheatham A",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847304/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42847304/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "f11b3e3d61f5",
+        "category": "medical",
+        "lang": "en",
+        "title": "Pressure injuries in an intensive care unit exclusively dedicated to treating patients with COVID-19: a prospective cohort study.",
+        "summary": "J Wound Care (2026 Sep). Zanin EM, Oliveira ACP, Portinho CP",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847302/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42847302/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "a150866a52e2",
+        "category": "medical",
+        "lang": "en",
+        "title": "Rare aetiologies of leg ulcers: a prospective analysis.",
+        "summary": "J Wound Care (2026 Oct 2). Piechota D, Millberg M, Barańska-Rybak W",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842707/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42842707/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "41043b17e3fd",
+        "category": "medical",
+        "lang": "en",
+        "title": "Evaluating the efficacy and safety of Neothelium FT placental allograft in the management of hard-to-heal open wounds: a prospective case series.",
+        "summary": "J Wound Care (2026 Oct 2). Lantis J, Ferguson A, Kapp D",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842701/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42842701/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
       },
       {
         "id": "58fd70cf362b",
@@ -1513,7 +1677,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.203,
+        "score": 8.184,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1544,7 +1708,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.203,
+        "score": 8.184,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1575,7 +1739,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.451,
+        "score": 7.438,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1607,7 +1771,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.896,
+        "score": 6.886,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1644,7 +1808,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.788,
+        "score": 6.779,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1676,8 +1840,523 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.788,
+        "score": 6.779,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "53ac9f997020",
+        "category": "medical",
+        "lang": "en",
+        "title": "A mechanically reinforced double-network hydrogel with sustained SaB release and synergistic photothermal therapy for enhanced wound healing.",
+        "summary": "J Mater Chem B (2026 Oct 9). Xu H, Hu M, Feng Y",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42851024/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care",
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42851024/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "ee2f6e97a2ba",
+        "category": "medical",
+        "lang": "en",
+        "title": "A dual-crosslinked silk fibroin hydrogel with aldehyde-functionalized glycyrrhizic acid as a structural-pharmacological crosslinker for diabetic wound healing.",
+        "summary": "Biomater Adv (2026 Sep 29). Ouyang Y, Xing J, Dai M",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42849374/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care",
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42849374/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "5780aa8b8038",
+        "category": "medical",
+        "lang": "en",
+        "title": "A Recyclable Coconut-Shell-Carbon-Based Photocatalyst for Robust Antimicrobial Activity and Enhanced Wound Repair.",
+        "summary": "Small (2026 Oct 8). Li YL, Yang LJ, Zhong ZH",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42848489/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42848489/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "ec2c2f2ce548",
+        "category": "medical",
+        "lang": "en",
+        "title": "Successful treatment of hard-to-heal leg ulcers with an adjustable, inelastic compression system.",
+        "summary": "J Wound Care (2026 Sep). Bail DH, Göbel N",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847303/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42847303/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "162cc490aafe",
+        "category": "medical",
+        "lang": "en",
+        "title": "Platelet-rich plasma for managing diabetic foot ulcers and preparation procedure reporting: a narrative review.",
+        "summary": "J Wound Care (2026 Sep). Copenhaver WK, John RS, Rome V",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847301/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42847301/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "f47781bd9e64",
+        "category": "medical",
+        "lang": "en",
+        "title": "Comparative analysis of tissue levels of MMP-2 and MMP-9 with blood level of VEGF in chronic wounds.",
+        "summary": "J Wound Care (2026 Sep). Tiwary SK, Bilunia R, Mishra SP",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847300/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42847300/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "39d3f5dbe01c",
+        "category": "medical",
+        "lang": "en",
+        "title": "The effects of polidocanol endovenous microfoam 1% on wound healing of hard-to-heal venous leg ulcers.",
+        "summary": "J Wound Care (2026 Sep). Cheng H, Wong G, Breitbart G",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847299/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42847299/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "c81dffb87f8a",
+        "category": "medical",
+        "lang": "en",
+        "title": "Consensus guidelines on optimal sizing, administration and documentation of cellular, acellular and matrix-like products (CAMPs).",
+        "summary": "J Wound Care (2026 Oct). Cole W, Carpenter S, Chaffin A",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42847263/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42847263/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "233f95d2cd44",
+        "category": "medical",
+        "lang": "en",
+        "title": "Gas therapeutics for wound healing: Therapeutic potential of oxygen and nitric oxide.",
+        "summary": "Adv Drug Deliv Rev (2026 Oct 7). Jayaprakash V, Biswas L, Menon RR",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42843565/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42843565/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "615564f8e736",
+        "category": "medical",
+        "lang": "en",
+        "title": "Astragaloside IV-loaded exosomes embedded in a GelMA hydrogel enhance angiogenesis and macrophage polarization to accelerate diabetic wound healing.",
+        "summary": "Phytomedicine (2026 Sep 30). Huang S, Meng Z, Wang Y",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42843050/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care",
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42843050/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "be9150daea60",
+        "category": "medical",
+        "lang": "en",
+        "title": "A Self-Powered Thermogalvanic Hydrogel Dressing for In Situ Wound Monitoring and Enhanced Healing.",
+        "summary": "ACS Sens (2026 Oct 7). Wang C, Wei R, Lu C",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842869/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care",
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42842869/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "dfdd1969d2d7",
+        "category": "medical",
+        "lang": "en",
+        "title": "Biomechanical influence of cavity fillers on periwound soft tissue strains in sacral pressure injuries.",
+        "summary": "J Wound Care (2026 Oct 2). Staub-Milants C, Chagnon G, Briot N",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842709/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42842709/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "7610ca931319",
+        "category": "medical",
+        "lang": "en",
+        "title": "Review and analysis of healing durability in lower extremity wounds treated with intermittent cyclically pressurised topical wound oxygen.",
+        "summary": "J Wound Care (2026 Oct 2). Steinberg J, Weir D, Pierides M",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842708/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42842708/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "14c8583e164c",
+        "category": "medical",
+        "lang": "en",
+        "title": "Angiosome-directed revascularisation and the woundosome paradigm in chronic limb-threatening ischaemia: a narrative review.",
+        "summary": "J Wound Care (2026 Oct 2). Cole W, Kirby J, Sauk S",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842706/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42842706/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "0f783d971143",
+        "category": "medical",
+        "lang": "en",
+        "title": "Biomimetic approaches in wound healing and skin regeneration: a narrative review.",
+        "summary": "J Wound Care (2026 Oct 2). Rippon MG, Rogers AA, Ousey K",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842705/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42842705/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "fa9b1465ff3c",
+        "category": "medical",
+        "lang": "en",
+        "title": "Intermittent pneumatic thigh compression for the treatment of lower limb wounds (IPCOTT): a randomised control trial.",
+        "summary": "J Wound Care (2026 Oct 2). Bosanquet DC, Davies JH, Ivins N",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842704/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42842704/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "8cf8b92bf6eb",
+        "category": "medical",
+        "lang": "en",
+        "title": "Native collagen matrix plus PHMB antimicrobial in hard-to-heal diabetic foot ulcers: results from the PREPARE randomised controlled trial.",
+        "summary": "J Wound Care (2026 Oct 2). Garcia LT, Banks J, Rodriguez M",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842703/",
+        "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+        "subtopics": [
+          "Wound care",
+          "Dermal matrices"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42842703/",
+            "publishedAt": "2026-10-09T14:03:47.576436+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1708,7 +2387,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.12,
+        "score": 6.116,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1745,7 +2424,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.12,
+        "score": 6.116,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1777,7 +2456,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.12,
+        "score": 6.116,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1809,7 +2488,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.315,
+        "score": 5.298,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1840,7 +2519,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.09,
+        "score": 4.076,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1871,162 +2550,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.643,
+        "score": 3.625,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "a7af6e35e80e",
-        "category": "medical",
-        "lang": "en",
-        "title": "Nova Biomedical® Announces Global Medical Device Correction for StatStrip® Glucose Hospital Meter",
-        "summary": "WALTHAM, Mass., October 5, 2026 – Nova Biomedical initiated a global Medical Device Correction on July 24, 2026, for the StatStrip® Glucose Hospital Meter System due to a software issue that may cause a glucose result to be associated with the wrong patient.…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
-        "publishedAt": "2026-10-06T04:00:00+00:00",
-        "subtopics": [
-          "Industry"
-        ],
-        "sources": [
-          {
-            "name": "FDA MedWatch",
-            "url": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nova-biomedicalr-announces-global-medical-device-correction-statstripr-glucose-hospital-meter",
-            "publishedAt": "2026-10-06T04:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.512,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
-        "evidence": "regulator",
-        "matridermRelevant": false
-      },
-      {
-        "id": "f8fa5a4b941c",
-        "category": "medical",
-        "lang": "en",
-        "title": "Angiographic Catheter Recall: Boston Scientific Removes Imager II Angiographic Catheters",
-        "summary": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
-        "publishedAt": "2026-09-25T04:00:00+00:00",
-        "subtopics": [
-          "Cardiovascular",
-          "Safety"
-        ],
-        "sources": [
-          {
-            "name": "FDA MedWatch",
-            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
-            "publishedAt": "2026-09-25T04:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.443,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "regulator",
-        "matridermRelevant": false
-      },
-      {
-        "id": "6e51bb3dcbd3",
-        "category": "medical",
-        "lang": "en",
-        "title": "Assessment of Two Soft Tissue Augmentation Using Acellular Dermis Around Dental Implants",
-        "summary": "This study aims to compare soft tissue grafting with acellular dermis at Phase I or Phase II dental implant surgery.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07512245",
-        "publishedAt": "2026-09-25T00:00:00+00:00",
-        "subtopics": [
-          "Orthopaedics",
-          "Dental"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07512245",
-            "publishedAt": "2026-09-25T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.033,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "d09d0815f008",
-        "category": "medical",
-        "lang": "en",
-        "title": "X-BS Ortho Bone Graft Study",
-        "summary": "Randomised investigation of the osteoconductive performance and safety of CE-marked FDBS bone graft (GraftR3®), with contextual reference to CE-marked IBS (MBCP® Putty), in the filling of orthopaedic bone defects.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT06326827",
-        "publishedAt": "2026-09-24T00:00:00+00:00",
-        "subtopics": [
-          "Orthopaedics"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06326827",
-            "publishedAt": "2026-09-24T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.973,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "9d601953fee0",
-        "category": "medical",
-        "lang": "en",
-        "title": "Federal Court Enters Consent Decree Against Gold Star Distribution, Inc. Following Persistent Insanitary Warehouse Conditions",
-        "summary": "A U.S. Food and Drug Administration investigation resulted in a federal court order, dated Sept.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent",
-        "publishedAt": "2026-09-23T19:50:17+00:00",
-        "subtopics": [
-          "Industry",
-          "Regulatory"
-        ],
-        "sources": [
-          {
-            "name": "FDA",
-            "url": "http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent",
-            "publishedAt": "2026-09-23T19:50:17+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.963,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "regulator",
         "matridermRelevant": false
       }
     ],
@@ -2055,8 +2581,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.785,
+        "isNew": false,
+        "score": 5.717,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -2084,9 +2610,40 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.647,
+        "isNew": false,
+        "score": 5.582,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "19c45cc3b756",
+        "category": "growth",
+        "lang": "en",
+        "title": "A new feature for my blog, built using my voice",
+        "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+        "publishedAt": "2026-10-09T12:54:06+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+            "publishedAt": "2026-10-09T12:54:06+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.449,
+        "firstSeen": "2026-10-09T14:03:47.576436+00:00",
         "kind": "article"
       },
       {
@@ -2116,7 +2673,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.462,
+        "score": 5.413,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2152,8 +2709,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.296,
+        "isNew": false,
+        "score": 5.239,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -2187,8 +2744,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.012,
+        "isNew": false,
+        "score": 4.955,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -2218,7 +2775,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.888,
+        "score": 4.841,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -2247,7 +2804,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.885,
+        "score": 4.831,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "article"
       },
@@ -2276,7 +2833,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.792,
+        "score": 4.747,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -2305,7 +2862,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.771,
+        "score": 4.726,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -2336,7 +2893,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.666,
+        "score": 4.642,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "video",
         "video": {
@@ -2373,7 +2930,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.223,
+        "score": 4.184,
         "firstSeen": "2026-10-07T23:25:38.540282+00:00",
         "kind": "article"
       },
@@ -2404,7 +2961,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.165,
+        "score": 4.127,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -2435,7 +2992,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.022,
+        "score": 3.987,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -2464,7 +3021,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.878,
+        "score": 3.876,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2501,7 +3058,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.86,
+        "score": 3.859,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -2509,6 +3066,42 @@
           "thumbUrl": "https://i4.ytimg.com/vi/gduYQKmz05M/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=gduYQKmz05M",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "7961cc30350d",
+        "category": "growth",
+        "lang": "en",
+        "title": "How to Use Tech to Outsmart Dictators | Leopoldo López | TED",
+        "summary": "In seven years as a political prisoner in Venezuela, activist Leopoldo López kept asking one question: Who holds the keys to freedom? Now the leader of an alliance of dissidents and exiles from more than 60 countries, he makes the case that open-source,…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
+        "publishedAt": "2026-10-05T15:00:04+00:00",
+        "subtopics": [
+          "Leadership"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
+            "publishedAt": "2026-10-05T15:00:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.806,
+        "firstSeen": "2026-10-05T15:28:52.068309+00:00",
+        "kind": "video",
+        "video": {
+          "id": "RCNO3k4QL5M",
+          "thumbUrl": "https://i3.ytimg.com/vi/RCNO3k4QL5M/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
           "channel": "TED"
         }
       },
@@ -2538,45 +3131,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.809,
+        "score": 3.779,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
-      },
-      {
-        "id": "7961cc30350d",
-        "category": "growth",
-        "lang": "en",
-        "title": "How to Use Tech to Outsmart Dictators | Leopoldo López | TED",
-        "summary": "In seven years as a political prisoner in Venezuela, activist Leopoldo López kept asking one question: Who holds the keys to freedom? Now the leader of an alliance of dissidents and exiles from more than 60 countries, he makes the case that open-source,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
-        "publishedAt": "2026-10-05T15:00:04+00:00",
-        "subtopics": [
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
-            "publishedAt": "2026-10-05T15:00:04+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.808,
-        "firstSeen": "2026-10-05T15:28:52.068309+00:00",
-        "kind": "video",
-        "video": {
-          "id": "RCNO3k4QL5M",
-          "thumbUrl": "https://i3.ytimg.com/vi/RCNO3k4QL5M/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
-          "channel": "TED"
-        }
       },
       {
         "id": "e0d113feca38",
@@ -2603,7 +3160,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.743,
+        "score": 3.742,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2611,6 +3168,42 @@
           "thumbUrl": "https://i3.ytimg.com/vi/r63spwe1LCI/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=r63spwe1LCI",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "e51238a5b3f5",
+        "category": "growth",
+        "lang": "en",
+        "title": "Banning social media may not be the fix you think it is #TEDTalks",
+        "summary": "For years, the warning has been: smartphones are destroying a generation. But developmental psychologist Candice Odgers says that decades of data on teens tells a different story — violence, alcohol use and pregnancy are at historic lows, and research shows…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/N8J-PIunXBM",
+        "publishedAt": "2026-09-30T20:30:09+00:00",
+        "subtopics": [
+          "Psychology"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/N8J-PIunXBM",
+            "publishedAt": "2026-09-30T20:30:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.706,
+        "firstSeen": "2026-09-30T21:49:34.126591+00:00",
+        "kind": "video",
+        "video": {
+          "id": "N8J-PIunXBM",
+          "thumbUrl": "https://i3.ytimg.com/vi/N8J-PIunXBM/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=N8J-PIunXBM",
           "channel": "TED"
         }
       },
@@ -2639,7 +3232,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.724,
+        "score": 3.696,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2669,45 +3262,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.719,
+        "score": 3.691,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
-      },
-      {
-        "id": "e51238a5b3f5",
-        "category": "growth",
-        "lang": "en",
-        "title": "Banning social media may not be the fix you think it is #TEDTalks",
-        "summary": "For years, the warning has been: smartphones are destroying a generation. But developmental psychologist Candice Odgers says that decades of data on teens tells a different story — violence, alcohol use and pregnancy are at historic lows, and research shows…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/N8J-PIunXBM",
-        "publishedAt": "2026-09-30T20:30:09+00:00",
-        "subtopics": [
-          "Psychology"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/N8J-PIunXBM",
-            "publishedAt": "2026-09-30T20:30:09+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.707,
-        "firstSeen": "2026-09-30T21:49:34.126591+00:00",
-        "kind": "video",
-        "video": {
-          "id": "N8J-PIunXBM",
-          "thumbUrl": "https://i3.ytimg.com/vi/N8J-PIunXBM/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=N8J-PIunXBM",
-          "channel": "TED"
-        }
       },
       {
         "id": "38f8cbc73341",
@@ -2735,7 +3292,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.702,
+        "score": 3.675,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2764,7 +3321,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.675,
+        "score": 3.649,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2793,7 +3350,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.66,
+        "score": 3.633,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2828,7 +3385,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.654,
+        "score": 3.628,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -2857,46 +3414,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.571,
+        "score": 3.547,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
-      },
-      {
-        "id": "e37457e9ac00",
-        "category": "growth",
-        "lang": "en",
-        "title": "What If We Stopped Using GPUs? | YC Paper Club",
-        "summary": "This week’s Paper Club is all about alternative compute. Modern AI has been shaped by a tight coupling between transformers, backpropagation, and GPUs.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-        "publishedAt": "2026-10-02T14:00:19+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-            "publishedAt": "2026-10-02T14:00:19+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.552,
-        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
-        "kind": "video",
-        "video": {
-          "id": "xc2FTBGRSJo",
-          "thumbUrl": "https://i1.ytimg.com/vi/xc2FTBGRSJo/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "cbee4f834379",
@@ -2923,7 +3443,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.352,
+        "score": 3.333,
         "firstSeen": "2026-10-06T00:32:09.823013+00:00",
         "kind": "article"
       },
@@ -2952,7 +3472,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.093,
+        "score": 3.079,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -2981,7 +3501,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.052,
+        "score": 3.051,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -3018,7 +3538,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.915,
+        "score": 2.905,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -3048,7 +3568,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.905,
+        "score": 2.896,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -3078,7 +3598,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.773,
+        "score": 2.771,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3109,7 +3629,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.727,
+        "score": 2.726,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3138,7 +3658,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.618,
+        "score": 2.617,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       }
@@ -3220,7 +3740,7 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 35,
+      "items": 34,
       "error": null
     },
     {
@@ -3273,9 +3793,9 @@
     },
     {
       "id": "pubmed-woundcare",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 25,
+      "error": null
     },
     {
       "id": "pubmed-dermal",
@@ -3387,9 +3907,9 @@
     }
   ],
   "filteredOut": {
-    "football": 84,
-    "news": 158,
-    "medical": 29,
+    "football": 83,
+    "news": 156,
+    "medical": 33,
     "growth": 48
   }
 }
