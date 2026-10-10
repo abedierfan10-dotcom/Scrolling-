@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:59:37.389718+00:00",
+  "generatedAt": "2026-10-10T11:50:15.612455+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,35 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "ea17ee0d3663",
+        "category": "football",
+        "lang": "en",
+        "title": "Raphinha's brilliant Barcelona start interrupted by injury concerns",
+        "summary": "Raphinha will miss Barcelona's next two fixtures after returning from international break with an injury.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz65plq04nqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-10T08:27:28+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ckz65plq04nqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-10T08:27:28+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 13.168,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
       {
         "id": "de374c146bb3",
         "category": "football",
@@ -33,7 +62,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.182,
+        "score": 9.937,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -61,37 +90,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.931,
+        "score": 9.776,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
-        "id": "2c382167af08",
+        "id": "67b976d09bde",
         "category": "football",
         "lang": "en",
-        "title": "Barcelona squad rankings: Lamine Yamal, Raphinha and Pau Cubarsi top our list",
-        "summary": "La Liga's defending champions have started the new season in sensational fashion. Who has impressed the most?",
+        "title": "Wales hope pattern continues in Albania return",
+        "summary": "After an unconvincing win in Albania, Wales hope a return home will rejuvenate their Women's World Cup bid.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.nytimes.com/athletic/7652063/2026/10/07/barcelona-raphinha-yamal-flick-la-liga-rankings/",
-        "publishedAt": "2026-10-07T04:20:54+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8r4y6x4p2lzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-10T09:57:38+00:00",
         "subtopics": [
-          "Barcelona",
-          "La Liga"
+          "World Cup",
+          "Transfers"
         ],
         "sources": [
           {
-            "name": "The Athletic",
-            "url": "https://www.nytimes.com/athletic/7652063/2026/10/07/barcelona-raphinha-yamal-flick-la-liga-rankings/",
-            "publishedAt": "2026-10-07T04:20:54+00:00",
-            "tier": 3
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8r4y6x4p2lzo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-10T09:57:38+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 9.797,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00"
+        "isNew": true,
+        "score": 7.811,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00",
+        "transfer": "RUMOUR"
       },
       {
         "id": "ebad03adf858",
@@ -119,8 +149,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.839,
+        "score": 6.818,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
+      },
+      {
+        "id": "60266ed7b2b9",
+        "category": "football",
+        "lang": "en",
+        "title": "Scotland and Wales win in World Cup play-offs",
+        "summary": "",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+        "publishedAt": "2026-10-09T21:20:00+00:00",
+        "subtopics": [
+          "World Cup",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/live-blog/12040/12507208/football-latest-news-gossip",
+            "publishedAt": "2026-10-09T21:20:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.813,
+        "firstSeen": "2026-10-03T21:56:38.097107+00:00"
       },
       {
         "id": "a85f86bb2a17",
@@ -148,37 +207,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.824,
+        "score": 6.808,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
       },
       {
-        "id": "fdf08f5258c0",
+        "id": "c87ed7a90c8c",
         "category": "football",
         "lang": "en",
-        "title": "England take control of World Cup play-off with win in Greece",
-        "summary": "England are in control of their World Cup play-off with Greece after winning the first leg 3-1 in Crete.",
+        "title": "Wales must improve in World Cup bid - Wilkinson",
+        "summary": "Rhian Wilkinson accepts Wales must raise their standards after they scrape to a 1-0 victory in their Women's World Cup play-off semi-final in Albania.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/greece-women-vs-england-women/report/559077",
-        "publishedAt": "2026-10-09T19:30:00+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1z0g17x8o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-09T19:34:54+00:00",
         "subtopics": [
           "World Cup",
-          "Results"
+          "Transfers"
         ],
         "sources": [
           {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/greece-women-vs-england-women/report/559077",
-            "publishedAt": "2026-10-09T19:30:00+00:00",
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1z0g17x8o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-09T19:34:54+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.657,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
+        "isNew": true,
+        "score": 6.706,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00",
+        "transfer": "RUMOUR"
       },
       {
         "id": "5eefdad1de7d",
@@ -207,7 +267,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.83,
+        "score": 5.532,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -236,7 +296,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.448,
+        "score": 4.747,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -265,7 +325,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.258,
+        "score": 4.626,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -294,7 +354,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.207,
+        "score": 3.773,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00"
       },
       {
@@ -323,7 +383,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.678,
+        "score": 3.434,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -352,7 +412,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.676,
+        "score": 3.433,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
@@ -381,7 +441,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.18,
+        "score": 2.935,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       }
     ],
@@ -410,12 +470,6 @@
           },
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663584.html",
-            "publishedAt": "2026-10-09T18:10:55+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
             "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
             "publishedAt": "2026-10-09T17:47:36+00:00",
             "tier": 2
@@ -425,43 +479,300 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.594,
+        "score": 8.108,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
       },
       {
-        "id": "b6586353d5e2",
+        "id": "5e735c99e6e7",
         "category": "news",
         "lang": "de",
-        "title": "BMW zieht Dienstwagen-Angebot zurück: Rausch ist \"empört\"",
-        "summary": "Der Autohersteller BMW hat nach der Wahl des AfD-Politikers Rausch zum Landtagspräsidenten von Sachsen-Anhalt ein Leasingangebot für dessen Dienstwagen zurückgezogen. Rausch reagierte mit Kritik.",
+        "title": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
+        "summary": "In Indien sind Tausende, meist jugendliche Anhänger der \"Kakerlaken\"-Bewegung festgenommen worden. Im ganzen Land gab es Proteste gegen die Wahlkommission.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/politik/deutschland/bmw-dienstwagen-landtag-afd-ablehnung-100.html",
-        "publishedAt": "2026-10-09T14:35:00+00:00",
+        "url": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+        "publishedAt": "2026-10-10T11:08:42+00:00",
         "subtopics": [
           "Germany",
           "Elections"
         ],
         "sources": [
           {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/deutschland/bmw-dienstwagen-landtag-afd-ablehnung-100.html",
-            "publishedAt": "2026-10-09T14:35:00+00:00",
-            "tier": 2
-          },
-          {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/tobias-rausch-dienstwagen,bmw-zieht-leasingvertrag-zurueck-100.html",
-            "publishedAt": "2026-10-09T14:23:25+00:00",
+            "url": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
+            "publishedAt": "2026-10-10T11:08:42+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 8.447,
-        "firstSeen": "2026-10-09T14:03:47.576436+00:00"
+        "isNew": true,
+        "score": 7.969,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "a74606a0e736",
+        "category": "news",
+        "lang": "de",
+        "title": "Trotz Waffenruhe gehen Angriffe in Gaza weiter",
+        "summary": "Trotz Waffenruhe gehen Angriffe in Gaza weiter",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1663796.html",
+        "publishedAt": "2026-10-10T10:14:31+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1663796.html",
+            "publishedAt": "2026-10-10T10:14:31+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.93,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "df568a88cf25",
+        "category": "news",
+        "lang": "de",
+        "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
+        "summary": "Dass es gerade schwierig ist, da ist sich die CDU einig. Vor allem die Wahlniederlagen im September schmerzen noch immer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
+        "publishedAt": "2026-10-10T09:04:58+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
+            "publishedAt": "2026-10-10T09:04:58+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.88,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "a9f82d13d2c9",
+        "category": "news",
+        "lang": "de",
+        "title": "Klaus Bresser war mein Vorbild als Journalist",
+        "summary": "Zwölf Jahre lang war Klaus Bresser ZDF-Chefredakteur. Seine Arbeit prägt das ZDF bis heute.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/in-eigener-sache/peter-frey-nachruf-klaus-bresser-zdf-chefredakteur-100.html",
+        "publishedAt": "2026-10-10T08:44:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/in-eigener-sache/peter-frey-nachruf-klaus-bresser-zdf-chefredakteur-100.html",
+            "publishedAt": "2026-10-10T08:44:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.865,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "d731d7ccb2ba",
+        "category": "news",
+        "lang": "de",
+        "title": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
+        "summary": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
+        "publishedAt": "2026-10-10T07:37:37+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
+            "publishedAt": "2026-10-10T07:37:37+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.818,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "c78162759be0",
+        "category": "news",
+        "lang": "de",
+        "title": "Trump: Russland wird Diesel an USA und Weltmarkt liefern",
+        "summary": "US-Präsident Donald Trump setzt im Kampf gegen die hohen Treibstoffpreise vor den Midterms auf eine überraschende Kooperation mit Moskau und lockert bestehende Sanktionen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/ausland/trump-putin-diesel-usa-russland-100.html",
+        "publishedAt": "2026-10-10T06:31:00+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/ausland/trump-putin-diesel-usa-russland-100.html",
+            "publishedAt": "2026-10-10T06:31:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.772,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "4267e3b9ecc1",
+        "category": "news",
+        "lang": "de",
+        "title": "Nobelpreis für Pillay: Trump nennt Wahl \"schändlich\"",
+        "summary": "Trump empfindet den Friedensnobelpreis für Navi Pillay als \"blamabel\" und kritisiert die Wahl des Nobelkomitees. Am liebsten hätte er ihn selbst bekommen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/panorama/trump-kritik-vergabe-friedensnobelpreis-pillay-100.html",
+        "publishedAt": "2026-10-10T06:12:00+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/panorama/trump-kritik-vergabe-friedensnobelpreis-pillay-100.html",
+            "publishedAt": "2026-10-10T06:12:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.759,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "9c164cdb9e30",
+        "category": "news",
+        "lang": "de",
+        "title": "\"Wacht auf\": CDU-Sozialflügel warnt vor Zerfall der Koalition",
+        "summary": "Den Spekulationen um eine Minderheitsregierung der Union schiebt Dennis Radtke, Chef des CDU-Sozialflügels, einen Riegel vor. Die politische Mitte begebe sich ins Fegefeuer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/politik/deutschland/cda-chef-radtke-warnung-zerbrechen-koalition-100.html",
+        "publishedAt": "2026-10-10T06:04:36+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/cda-chef-radtke-warnung-zerbrechen-koalition-100.html",
+            "publishedAt": "2026-10-10T06:04:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.754,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "9f7a88b5c340",
+        "category": "news",
+        "lang": "de",
+        "title": "Wahlkampf per Fahrrad: Können Serbiens Studenten Vucic besiegen?",
+        "summary": "Vor zwei Jahren begannen die Studentenproteste gegen Serbiens Regierung unter Vucic - und für Neuwahlen. Jetzt, da es Ende des Monats tatsächlich Wahlen geben wird, haben die Studierenden eine echte Chance.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
+        "publishedAt": "2026-10-10T05:44:11+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-studenten-100.html",
+            "publishedAt": "2026-10-10T05:44:11+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.74,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "a665b4eb611b",
+        "category": "news",
+        "lang": "de",
+        "title": "Rund 355.700 Euro für ein kaum genutztes Klo",
+        "summary": "Ein öffentliches Toilettenhäuschen im hessischen Niederhadamar hat rund 355.700 Euro gekostet. Allerdings wird es eigentlich kaum gebraucht, sagen die Anwohnenden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/video/panorama-toilette-steuergeld-100.html",
+        "publishedAt": "2026-10-10T05:30:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/video/panorama-toilette-steuergeld-100.html",
+            "publishedAt": "2026-10-10T05:30:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.73,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
         "id": "aae35895a8d8",
@@ -489,7 +800,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.89,
+        "score": 7.387,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
       },
       {
@@ -518,112 +829,48 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.86,
+        "score": 7.362,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
       },
       {
-        "id": "2b0bae1e1147",
+        "id": "87449da9af55",
         "category": "news",
         "lang": "de",
-        "title": "Mecklenburg-Vorpommern: SPD, Linke und Grüne wollen über Koalition verhandeln",
-        "summary": "SPD, Linke und Grüne haben ihre Sondierungsgespräche in Mecklenburg-Vorpommern erfolgreich beendet. Die Verhandlungsführer der drei Parteien empfahlen ihren Gremien die Aufnahme von Koalitionsverhandlungen.",
+        "title": "Delegationsreise: Tschentscher besucht Vietnam und China",
+        "summary": "Hamburgs Erster Bürgermeister wird begleitet von einer 30-köpfigen Delegation aus Wirtschaft und Wissenschaft.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/spd-linke-und-gruene-wollen-koalitionverhandlungen-in-mv-aufnehmen,mvwahl-492.html",
-        "publishedAt": "2026-10-09T18:28:47+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/delegationsreise-tschentscher-besucht-vietnam-und-china,delegationsreise-108.html",
+        "publishedAt": "2026-10-10T06:04:16+00:00",
         "subtopics": [
-          "Germany",
-          "Government"
+          "Hamburg",
+          "Economy"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/landtagswahl/spd-linke-und-gruene-wollen-koalitionverhandlungen-in-mv-aufnehmen,mvwahl-492.html",
-            "publishedAt": "2026-10-09T18:28:47+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/delegationsreise-tschentscher-besucht-vietnam-und-china,delegationsreise-108.html",
+            "publishedAt": "2026-10-10T06:04:16+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.805,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
+        "isNew": true,
+        "score": 7.353,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
-        "id": "58d9968c7157",
+        "id": "9bf6002f0b35",
         "category": "news",
         "lang": "de",
-        "title": "tagesschau",
-        "summary": "Friedensnobelpreis geht an die südafrikanische Menschenrechtlerin Navanethem Pillay, Neue US-Sanktionen gegen Internationalen Strafgerichtshof, In Halle erinnern die Menschen mit einer Schweigeminute an die Opfer des antisemitischen Anschlags vor sieben…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81406.html",
-        "publishedAt": "2026-10-09T18:18:49+00:00",
-        "subtopics": [
-          "Germany",
-          "Iran",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/ts-81406.html",
-            "publishedAt": "2026-10-09T18:18:49+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663614.html",
-            "publishedAt": "2026-10-09T18:17:35+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau/ts-81408.html",
-            "publishedAt": "2026-10-09T15:17:50+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_mit_gebaerdensprache/tsg-12304.html",
-            "publishedAt": "2026-10-03T04:12:25+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "tagesschau",
-        "earlier": [
-          {
-            "title": "tagesschau 20:00 Uhr",
-            "source": "Tagesschau",
-            "publishedAt": "2026-10-09T18:17:35+00:00"
-          },
-          {
-            "title": "tagesschau",
-            "source": "Tagesschau",
-            "publishedAt": "2026-10-09T15:17:50+00:00"
-          },
-          {
-            "title": "tagesschau mit Gebärdensprache",
-            "source": "Tagesschau",
-            "publishedAt": "2026-10-03T04:12:25+00:00"
-          }
-        ],
-        "isNew": false,
-        "score": 7.798,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "07ba9e5dfb8c",
-        "category": "news",
-        "lang": "de",
-        "title": "Aktuelle Stunde im Bundestag zur Wahl von AfD-Politikern ins Landtagspräsidium von Sachsen-Anhalt",
+        "title": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
         "summary": "Die Linksfraktion hatte im Bundestag eine Aktuelle Stunde beantragt. Um den Umgang mit der AfD in Sachsen-Anhalt sollte es gehen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663592.html",
-        "publishedAt": "2026-10-09T18:12:05+00:00",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-sachsen-anhalt-100.html",
+        "publishedAt": "2026-10-09T16:59:58+00:00",
         "subtopics": [
           "Germany",
           "Elections"
@@ -631,13 +878,7 @@
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1663592.html",
-            "publishedAt": "2026-10-09T18:12:05+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-sachsen-anhalt-100.html",
             "publishedAt": "2026-10-09T16:59:58+00:00",
             "tier": 2
           }
@@ -645,213 +886,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.794,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
+        "isNew": true,
+        "score": 7.267,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
-        "id": "5c9611d180ae",
+        "id": "5b14d4b55acd",
         "category": "news",
         "lang": "de",
-        "title": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
-        "summary": "Familienministerin Prien hat im Bundestag ihr geplantes Gesetz für mehr Qualität in Kitas verteidigt. Gezielte frühkindliche Bildung führe zu mehr Chancengerechtigkeit.",
+        "title": "Sorge vor Künstlicher Intelligenz: Das kann die EU tun",
+        "summary": "Die Sorge um Künstliche Intelligenz, ihre Risiken und die zunehmenden Zwischenfälle steigt. Welche Handlungsmöglichkeiten hat die EU?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
-        "publishedAt": "2026-10-09T17:50:26+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
-            "publishedAt": "2026-10-09T17:50:26+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.779,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "731395cb88d4",
-        "category": "news",
-        "lang": "de",
-        "title": "Mit Böllern und Glasflaschen gegen den Sparkurs",
-        "summary": "Bisher liefen Proteste gegen das Sparprogramm der belgischen Regierung friedlich. In Brüssel eskalierte jetzt die Lage - ähnlich wie bei den Schülerprotesten in Frankreich.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/ausland/proteste-belgien-sparprogramm-gewalt-100.html",
-        "publishedAt": "2026-10-09T17:50:00+00:00",
+        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/ki-eu-sorge-moeglichkeiten-kontrolle-100.html",
+        "publishedAt": "2026-10-10T10:41:00+00:00",
         "subtopics": [
           "EU",
           "Germany",
-          "Government"
+          "Tech & AI"
         ],
         "sources": [
           {
             "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/ausland/proteste-belgien-sparprogramm-gewalt-100.html",
-            "publishedAt": "2026-10-09T17:50:00+00:00",
+            "url": "https://www.zdfheute.de/wirtschaft/unternehmen/ki-eu-sorge-moeglichkeiten-kontrolle-100.html",
+            "publishedAt": "2026-10-10T10:41:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.778,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "355aa197efca",
-        "category": "news",
-        "lang": "de",
-        "title": "Große Empörung über Putin-Besuch von Altkanzler Schröder",
-        "summary": "Vor wenigen Tagen war Altkanzler Schröder zu Gast beim russischen Präsidenten Putin. Anlass war der Geburtstag des Kremlchefs.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html",
-        "publishedAt": "2026-10-09T13:06:22+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html",
-            "publishedAt": "2026-10-09T13:06:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.59,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
-      },
-      {
-        "id": "8701fd078734",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundestag versteckt Wohngeld-Kürzung tief in der Nacht",
-        "summary": "Eine Milliarde Euro will der Bund beim Wohngeld sparen. Die schwarz-roten Kürzungspläne berät der Bundestag spät in der Nacht - woran es Kritik von der Opposition hagelt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/politik/wohngeld-bundestag-merz-hubig-kuerzung-100.html",
-        "publishedAt": "2026-10-09T10:46:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/politik/wohngeld-bundestag-merz-hubig-kuerzung-100.html",
-            "publishedAt": "2026-10-09T10:46:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.501,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
-      },
-      {
-        "id": "1dc106aa5bd3",
-        "category": "news",
-        "lang": "de",
-        "title": "Elon Musk schickt Telekom-Aktien auf Talfahrt",
-        "summary": "Mit Starlink will SpaceX künftig Mobilfunk direkt aus dem All anbieten. An der Börse sorgt das für Unruhe: Telekom-Aktien stürzen ab.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.zdfheute.de/wirtschaft/unternehmen/musk-mobilfunk-spacex-telekom-100.html",
-        "publishedAt": "2026-10-09T10:41:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/wirtschaft/unternehmen/musk-mobilfunk-spacex-telekom-100.html",
-            "publishedAt": "2026-10-09T10:41:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.498,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
-      },
-      {
-        "id": "3b74cb49ab29",
-        "category": "news",
-        "lang": "de",
-        "title": "Breite Skepsis gegenüber möglicher rot-grün-roter Koalition in Berlin",
-        "summary": "Noch steht die rot-grün-rote Regierung in Berlin nicht, die Sondierungsgespräche haben gerade begonnen. Doch vor allem die Antisemitismusvorwürfe gegen die Linke bringen dem möglichen Bündnis schon vor einem Zustandekommen scharfe Kritik ein.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/landtagswahlen/berlin/berlin-sondierungsgespraeche-reaktionen-100.html",
-        "publishedAt": "2026-10-09T09:28:19+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/landtagswahlen/berlin/berlin-sondierungsgespraeche-reaktionen-100.html",
-            "publishedAt": "2026-10-09T09:28:19+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.453,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
-      },
-      {
-        "id": "bb12720f29ff",
-        "category": "news",
-        "lang": "de",
-        "title": "Um Schulausbau zu bezahlen: Hamburg will Schulgrundstücke verkaufen",
-        "summary": "Hamburgs Finanzsenator Andreas Dressel (SPD) will dadurch 194 Millionen Euro bis zum Jahr 2030 einnehmen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/um-schulausbau-zu-bezahlen-hamburg-will-schulgrundstuecke-verkaufen,schulgrundstuecke-100.html",
-        "publishedAt": "2026-10-09T18:35:24+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/um-schulausbau-zu-bezahlen-hamburg-will-schulgrundstuecke-verkaufen,schulgrundstuecke-100.html",
-            "publishedAt": "2026-10-09T18:35:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.41,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
+        "isNew": true,
+        "score": 6.949,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
         "id": "b0deb483fefe",
@@ -879,7 +946,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.407,
+        "score": 6.919,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
       },
       {
@@ -908,89 +975,77 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.313,
+        "score": 6.841,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
       },
       {
-        "id": "153c1243fb5e",
+        "id": "5712b0756fe2",
         "category": "news",
-        "lang": "en",
-        "title": "JD Vance says he will not watch Pentagon’s livestreamed execution",
-        "summary": "Split reveals an emerging schism in the Republican Party over a plan to broadcast the killing of the Fort Hood shooter",
+        "lang": "de",
+        "title": "Anthropic-KI schickt erfundenen Hinweis an die Polizei",
+        "summary": "Ausgebrochene Software sorgt für Alarm: KI-Agenten von Anthropic und OpenAI reichen Fake-Mordinformationen bei der Polizei ein und hacken fremde IT-Systeme.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-09T22:18:10+00:00",
+        "url": "https://www.zdfheute.de/wirtschaft/anthropic-ki-falscher-hinweis-us-polizei-100.html",
+        "publishedAt": "2026-10-10T05:23:00+00:00",
         "subtopics": [
-          "US",
-          "Conflict"
+          "Germany",
+          "Tech & AI"
         ],
         "sources": [
           {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-09T22:18:10+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-09T21:50:47+00:00",
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/wirtschaft/anthropic-ki-falscher-hinweis-us-polizei-100.html",
+            "publishedAt": "2026-10-10T05:23:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.069,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
+        "isNew": true,
+        "score": 6.725,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
-        "id": "b60d87886726",
+        "id": "50d065118115",
         "category": "news",
         "lang": "en",
-        "title": "Trump agrees deal with Putin for Russia to release diesel",
-        "summary": "Russia will supply diesel to global markets in a bid to lower prices, US President Donald Trump has said. The move reverses years of pressure on the Russian economy following the invasion of Ukraine.",
+        "title": "EU joint budget proposal slashed in race to find end-year agreement",
+        "summary": "Proposal would still be a 30 per cent increase on the bloc’s current spending",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-09T22:06:22+00:00",
+        "url": "https://www.ft.com/content/a96adda5-89fb-4f8b-96c4-96c171489a40?syn-25a6b1a6=1",
+        "publishedAt": "2026-10-10T09:28:05+00:00",
         "subtopics": [
-          "US",
-          "Elections"
+          "EU",
+          "Economy"
         ],
         "sources": [
           {
             "name": "Financial Times",
-            "url": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-09T22:06:22+00:00",
-            "tier": 2
-          },
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-09T19:29:00+00:00",
+            "url": "https://www.ft.com/content/a96adda5-89fb-4f8b-96c4-96c171489a40?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-10T09:28:05+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.061,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
+        "isNew": true,
+        "score": 6.696,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
-        "id": "18ed7138579a",
+        "id": "644650b49801",
         "category": "news",
         "lang": "en",
-        "title": "EU to explore windfall tax on energy companies",
-        "summary": "Commissioner to consider levies as oil and gas businesses reap big profits from fallout of US-Israeli war on Iran",
+        "title": "Trump names new press secretary to succeed Karoline Leavitt",
+        "summary": "Trump has appointed Katie Zacharia to take over the White House press secretary role vacated by Karoline Leavitt. She assumes the role with Trump struggling with low approval ratings driven by the US war with Iran.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-09T16:05:12+00:00",
+        "url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-09T23:12:00+00:00",
         "subtopics": [
           "Iran",
           "US",
@@ -998,9 +1053,38 @@
         ],
         "sources": [
           {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/ffb13044-216b-4b31-885c-cda9c78cbfdb?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-09T16:05:12+00:00",
+            "name": "DW",
+            "url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-09T23:12:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.686,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "fe8134877ff7",
+        "category": "news",
+        "lang": "de",
+        "title": "PRÜF-Demo in Hamburg: Verkehrschaos und Streit um Schulexkursion",
+        "summary": "Wegen der A1-Sperrung und einer Demo in der Innenstadt wird es heute auf Hamburgs Straßen voll. Derweil sorgt eine Schulexkursion für Ärger.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/verkehrschaos-und-streit-um-pruef-demo-in-hamburg,demo-782.html",
+        "publishedAt": "2026-10-10T04:56:54+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/verkehrschaos-und-streit-um-pruef-demo-in-hamburg,demo-782.html",
+            "publishedAt": "2026-10-10T04:56:54+00:00",
             "tier": 2
           }
         ],
@@ -1008,8 +1092,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.907,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
+        "score": 6.608,
+        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
+      },
+      {
+        "id": "6dc9d5d5fb52",
+        "category": "news",
+        "lang": "en",
+        "title": "Airlines sound the alarm as bleak winter looms",
+        "summary": "The industry is reeling from the energy shock unleashed by the Iran war",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992?syn-25a6b1a6=1",
+        "publishedAt": "2026-10-09T20:00:01+00:00",
+        "subtopics": [
+          "Iran",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Financial Times",
+            "url": "https://www.ft.com/content/847e6d14-08e4-4477-8722-40bd7162b992?syn-25a6b1a6=1",
+            "publishedAt": "2026-10-09T20:00:01+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.57,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "ba8a49772c99",
+        "category": "news",
+        "lang": "de",
+        "title": "Gesundheits-Check für Sibirische Tiger-Drillinge",
+        "summary": "Im Tierpark Ströhen sind am 20. August 2026 Amur-Tiger-Drillinge zur Welt gekommen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/tierpark-stroehen-sibirische-tiger-drillinge-100.html",
+        "publishedAt": "2026-10-08T10:00:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/tierpark-stroehen-sibirische-tiger-drillinge-100.html",
+            "publishedAt": "2026-10-08T10:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.429,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       },
       {
         "id": "03dfdcdafd5e",
@@ -1060,37 +1202,66 @@
           }
         ],
         "isNew": false,
-        "score": 6.818,
+        "score": 6.363,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
-        "id": "ba8a49772c99",
+        "id": "3366c43e4095",
         "category": "news",
-        "lang": "de",
-        "title": "Gesundheits-Check für Sibirische Tiger-Drillinge",
-        "summary": "Im Tierpark Ströhen sind am 20. August 2026 Amur-Tiger-Drillinge zur Welt gekommen.",
+        "lang": "en",
+        "title": "US midterms: Women candidates could make history",
+        "summary": "The US is holding Congress and state governors elections. At all levels of US politics, women are underrepresented — but they may win some historic victories in the midterms on November 3.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/tierpark-stroehen-sibirische-tiger-drillinge-100.html",
-        "publishedAt": "2026-10-08T10:00:00+00:00",
+        "url": "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-10T11:11:00+00:00",
         "subtopics": [
-          "Germany",
-          "Conflict"
+          "US",
+          "Elections"
         ],
         "sources": [
           {
-            "name": "ZDFheute",
-            "url": "https://www.zdfheute.de/video/zdf-mittagsmagazin/tierpark-stroehen-sibirische-tiger-drillinge-100.html",
-            "publishedAt": "2026-10-08T10:00:00+00:00",
+            "name": "DW",
+            "url": "https://www.dw.com/en/us-midterms-women-candidates-could-make-history/a-79625179?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-10T11:11:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.73,
-        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
+        "isNew": true,
+        "score": 6.271,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "e874b5db8415",
+        "category": "news",
+        "lang": "en",
+        "title": "Taiwan to boost military spending to 'deter war' with China",
+        "summary": "President Lai Ching-te ⁠said in a National Day speech that his country is boosting defense spending to 'deter war' with China. It comes after US President Donald Trump asked Taiwan to pay for US protection.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
+        "publishedAt": "2026-10-10T09:38:00+00:00",
+        "subtopics": [
+          "US",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "DW",
+            "url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
+            "publishedAt": "2026-10-10T09:38:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.203,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
         "id": "051a0e53b924",
@@ -1118,94 +1289,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.648,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "6f01e4435d20",
-        "category": "news",
-        "lang": "de",
-        "title": "A1 in Hamburg übers Wochenende voll gesperrt",
-        "summary": "Wegen Bauarbeiten ist die A1 zwischen dem Autobahndreieck Norderelbe und dem Kreuz Hamburg-Ost bis Montagmorgen dicht. Es werden Staus erwartet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-uebers-wochenende-voll-gesperrt,aeins-160.html",
-        "publishedAt": "2026-10-09T21:20:55+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-uebers-wochenende-voll-gesperrt,aeins-160.html",
-            "publishedAt": "2026-10-09T21:20:55+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.527,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "fe8134877ff7",
-        "category": "news",
-        "lang": "de",
-        "title": "PRÜF-Demo in Hamburg: Verkehrschaos und Streit um Schulexkursion",
-        "summary": "Wegen der A1-Sperrung und einer Demo in der Innenstadt wird es am Samstag auf Hamburgs Straßen voll. Derweil sorgt eine Schulexkursion für Ärger.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/verkehrschaos-und-streit-um-pruef-demo-in-hamburg,demo-782.html",
-        "publishedAt": "2026-10-09T12:56:24+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/verkehrschaos-und-streit-um-pruef-demo-in-hamburg,demo-782.html",
-            "publishedAt": "2026-10-09T12:56:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.483,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
-      },
-      {
-        "id": "ced8a732a3db",
-        "category": "news",
-        "lang": "en",
-        "title": "Statement on the International Criminal Court following announcement of US sanctions",
-        "summary": "European Commission Statement Brussels, 09 Oct 2026 The European Union has been a constant supporter of the International Criminal Court (ICC). It is deeply regrettable that the United States has announced intent...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2127",
-        "publishedAt": "2026-10-09T12:14:20+00:00",
-        "subtopics": [
-          "EU",
-          "US",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2127",
-            "publishedAt": "2026-10-09T12:14:20+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.356,
+        "score": 6.187,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
       },
       {
@@ -1234,7 +1318,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.336,
+        "score": 6.104,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
@@ -1263,120 +1347,27 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.309,
+        "score": 6.082,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00"
       },
       {
-        "id": "eca558b7ae65",
-        "category": "news",
-        "lang": "en",
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-        "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-09T21:54:28+00:00",
-        "subtopics": [
-          "US",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-09T21:54:28+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-09T21:54:28+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-09T21:54:28+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.252,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "cbed4b659953",
-        "category": "news",
-        "lang": "en",
-        "title": "Opening remarks by Executive Vice-President Séjourné at the press point on the second group of strategic projects under the Critical Raw Materials Act",
-        "summary": "European Commission Questions and answers Brussels, 09 Oct 2026 What is a strategic project? Strategic projects are projects that make a significant contribution to the EU's security of supply of strategic raw materials by...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2121",
-        "publishedAt": "2026-10-09T08:25:02+00:00",
-        "subtopics": [
-          "EU",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2121",
-            "publishedAt": "2026-10-09T08:25:02+00:00",
-            "tier": 1
-          },
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2115",
-            "publishedAt": "2026-10-08T22:00:00+00:00",
-            "tier": 1
-          },
-          {
-            "name": "European Commission",
-            "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2114",
-            "publishedAt": "2026-10-08T22:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "Opening remarks by Executive Vice-President Séjourné at the press point on the second group of strategic projects under the Critical Raw Materials Act",
-        "earlier": [
-          {
-            "title": "Factsheet - Critical Raw Materials Strategic Projects",
-            "source": "European Commission",
-            "publishedAt": "2026-10-08T22:00:00+00:00"
-          },
-          {
-            "title": "Questions and answers on the Critical Raw Materials strategic projects",
-            "source": "European Commission",
-            "publishedAt": "2026-10-08T22:00:00+00:00"
-          }
-        ],
-        "isNew": false,
-        "score": 6.215,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
-      },
-      {
-        "id": "74cd96a234b4",
+        "id": "6f01e4435d20",
         "category": "news",
         "lang": "de",
-        "title": "Großeinsatz wegen Gasaustritt in Farmsen",
-        "summary": "Wegen eines Gaslecks wurden Straßen gesperrt und ein Haus geräumt. Am Nachmittag gelang es Arbeitern, das Loch abzudichten.",
+        "title": "A1 in Hamburg übers Wochenende voll gesperrt",
+        "summary": "Wegen Bauarbeiten ist die A1 zwischen dem Autobahndreieck Norderelbe und dem Kreuz Hamburg-Ost bis Montagmorgen dicht. Es werden Staus erwartet.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/grosseinsatz-wegen-gasaustritt-in-farmsen,kurzehh-4548.html",
-        "publishedAt": "2026-10-09T13:41:29+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-uebers-wochenende-voll-gesperrt,aeins-160.html",
+        "publishedAt": "2026-10-09T21:20:55+00:00",
         "subtopics": [
           "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/grosseinsatz-wegen-gasaustritt-in-farmsen,kurzehh-4548.html",
-            "publishedAt": "2026-10-09T13:41:29+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-uebers-wochenende-voll-gesperrt,aeins-160.html",
+            "publishedAt": "2026-10-09T21:20:55+00:00",
             "tier": 2
           }
         ],
@@ -1384,153 +1375,138 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.212,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
-      },
-      {
-        "id": "d45ae7bc1b4b",
-        "category": "news",
-        "lang": "en",
-        "title": "The hazy OpenAI growth metric driving Wall Street",
-        "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-09T20:57:10+00:00",
-        "subtopics": [
-          "US",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-09T20:57:10+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.21,
+        "score": 6.018,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
       },
       {
-        "id": "1adff567e927",
+        "id": "eca558b7ae65",
         "category": "news",
         "lang": "en",
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-09T18:40:10+00:00",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-10T04:38:20+00:00",
         "subtopics": [
+          "US",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-10T04:38:20+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-10T04:38:20+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-10T04:38:20+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.995,
+        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
+      },
+      {
+        "id": "2cbadfbe570a",
+        "category": "news",
+        "lang": "en",
+        "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+        "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-10T04:07:11+00:00",
+        "subtopics": [
+          "US",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "BBC News",
+            "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-10T04:07:11+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.974,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "bb659cd800c9",
+        "category": "news",
+        "lang": "de",
+        "title": "Anthropic-KI stellt Visaanträge bei US-Außenministerium",
+        "summary": "Erneut hat das US-Techunternehmen Anthropic gemeldet, dass eines seiner KI-Modelle eigenmächtig gehandelt hat. Die KI erstellte eigenständig Visaanträge und gab der Polizei einen falschen Tipp.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
+        "publishedAt": "2026-10-10T05:48:52+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/technologie/anthropic-ki-104.html",
+            "publishedAt": "2026-10-10T05:48:52+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.943,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
+      },
+      {
+        "id": "ced8a732a3db",
+        "category": "news",
+        "lang": "en",
+        "title": "Statement on the International Criminal Court following announcement of US sanctions",
+        "summary": "European Commission Statement Brussels, 09 Oct 2026 The European Union has been a constant supporter of the International Criminal Court (ICC). It is deeply regrettable that the United States has announced intent...",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2127",
+        "publishedAt": "2026-10-09T12:14:20+00:00",
+        "subtopics": [
+          "EU",
           "US",
           "Conflict"
         ],
         "sources": [
           {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-09T18:40:10+00:00",
-            "tier": 2
+            "name": "European Commission",
+            "url": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2127",
+            "publishedAt": "2026-10-09T12:14:20+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.113,
+        "score": 5.912,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "4dc2b4cb8f94",
-        "category": "news",
-        "lang": "en",
-        "title": "US immigration officials defend ICE agents who shot man in same car as child",
-        "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-09T17:36:09+00:00",
-        "subtopics": [
-          "US",
-          "Immigration"
-        ],
-        "sources": [
-          {
-            "name": "BBC News",
-            "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-09T17:36:09+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.069,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "4f0622cd0dd6",
-        "category": "news",
-        "lang": "en",
-        "title": "Trump launches committee to investigate Fed governor Lisa Cook",
-        "summary": "Move comes after Supreme Court in June rebuffed president’s attempt to sack central banker",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
-        "publishedAt": "2026-10-09T17:26:05+00:00",
-        "subtopics": [
-          "US",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Financial Times",
-            "url": "https://www.ft.com/content/d0c81cd2-f944-46b9-a859-abc3f0bd3516?syn-25a6b1a6=1",
-            "publishedAt": "2026-10-09T17:26:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.062,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "16c375fadb18",
-        "category": "news",
-        "lang": "en",
-        "title": "Germany news: UK's Burnham visits Berlin for talks with Merz",
-        "summary": "UK Prime Minister Andy Burnham is visiting Berlin to launch a new bilateral treaty and hold talks with Chancellor Friedrich Merz. President Steinmeier is on a state visit to France.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
-        "publishedAt": "2026-10-08T13:23:00+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "DW",
-            "url": "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
-            "publishedAt": "2026-10-08T13:23:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.019,
-        "firstSeen": "2026-10-08T14:18:59.246410+00:00"
       }
     ],
     "medical": [
@@ -1561,7 +1537,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.363,
+        "score": 10.26,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1593,7 +1569,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.206,
+        "score": 9.174,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1631,7 +1607,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.076,
+        "score": 7.93,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1662,8 +1638,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.076,
+        "score": 7.93,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "bca4fcc89231",
+        "category": "medical",
+        "lang": "en",
+        "title": "Efficacy of Early Postoperative ON101 Application for Lower-extremity Fracture Incisions: a Prospective Evaluator-blinded Controlled Study of Scar Quality and Digital-clinical Concordance",
+        "summary": "Background: Postoperative scars after lower-extremity fracture fixation endure high tension, where excessive scarring can restrict periarticular mobility. While the 2002 International Clinical Recommendations on Scar Management emphasize early prevention,…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07854470",
+        "publishedAt": "2026-10-05T00:00:00+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07854470",
+            "publishedAt": "2026-10-05T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.26,
+        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1694,40 +1701,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.371,
+        "score": 7.193,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "bca4fcc89231",
-        "category": "medical",
-        "lang": "en",
-        "title": "Efficacy of Early Postoperative ON101 Application for Lower-extremity Fracture Incisions: a Prospective Evaluator-blinded Controlled Study of Scar Quality and Digital-clinical Concordance",
-        "summary": "Background: Postoperative scars after lower-extremity fracture fixation endure high tension, where excessive scarring can restrict periarticular mobility. While the 2002 International Clinical Recommendations on Scar Management emphasize early prevention,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07854470",
-        "publishedAt": "2026-10-05T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07854470",
-            "publishedAt": "2026-10-05T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.363,
-        "firstSeen": "2026-10-02T21:46:30.354537+00:00",
-        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1757,7 +1733,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.835,
+        "score": 6.765,
         "firstSeen": "2026-10-01T22:17:28.809174+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -1794,7 +1770,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.733,
+        "score": 6.669,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1826,7 +1802,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.733,
+        "score": 6.669,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1858,7 +1834,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.098,
+        "score": 6.074,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1895,7 +1871,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.098,
+        "score": 6.074,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1927,7 +1903,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.098,
+        "score": 6.074,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1958,7 +1934,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.09,
+        "score": 5.911,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1988,8 +1964,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.13,
+        "score": 4.962,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
+        "evidence": "regulator",
+        "matridermRelevant": false
+      },
+      {
+        "id": "f8fa5a4b941c",
+        "category": "medical",
+        "lang": "en",
+        "title": "Angiographic Catheter Recall: Boston Scientific Removes Imager II Angiographic Catheters",
+        "summary": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
+        "publishedAt": "2026-09-25T04:00:00+00:00",
+        "subtopics": [
+          "Cardiovascular",
+          "Safety"
+        ],
+        "sources": [
+          {
+            "name": "FDA MedWatch",
+            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
+            "publishedAt": "2026-09-25T04:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.384,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
       },
@@ -2019,40 +2026,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.52,
+        "score": 3.376,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "f8fa5a4b941c",
-        "category": "medical",
-        "lang": "en",
-        "title": "Angiographic Catheter Recall: Boston Scientific Removes Imager II Angiographic Catheters",
-        "summary": "Boston Scientific Imager II Angiographic Catheters removed due to a manufacturing issue leading to tip detachment; could result in procedural delays, embolism",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
-        "publishedAt": "2026-09-25T04:00:00+00:00",
-        "subtopics": [
-          "Cardiovascular",
-          "Safety"
-        ],
-        "sources": [
-          {
-            "name": "FDA MedWatch",
-            "url": "http://www.fda.gov/medical-devices/medical-device-recalls-and-early-alerts/angiographic-catheter-recall-boston-scientific-removes-imager-ii-angiographic-catheters",
-            "publishedAt": "2026-09-25T04:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.416,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "regulator",
         "matridermRelevant": false
       },
       {
@@ -2080,7 +2056,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.41,
+        "score": 3.292,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2111,7 +2087,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.006,
+        "score": 2.974,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2141,7 +2117,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.949,
+        "score": 2.921,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2172,7 +2148,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.94,
+        "score": 2.913,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "regulator",
         "matridermRelevant": false
@@ -2206,7 +2182,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.427,
+        "score": 5.935,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "kind": "video",
         "video": {
@@ -2216,6 +2192,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=f2csKPY5ddc",
           "channel": "TED"
         }
+      },
+      {
+        "id": "d78bb69c4925",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting The New York Times",
+        "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+        "publishedAt": "2026-10-10T02:04:12+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+            "publishedAt": "2026-10-10T02:04:12+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.094,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00",
+        "kind": "article"
       },
       {
         "id": "2289ab5792a4",
@@ -2242,9 +2247,47 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.354,
+        "score": 4.909,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
+      },
+      {
+        "id": "4e563229c704",
+        "category": "growth",
+        "lang": "en",
+        "title": "How Jeetu Patel Runs Cisco Like the World’s Largest Startup",
+        "summary": "Cisco is building AI infrastructure, from networking GPU clusters to securing agents, with its hyperscaler AI business reaching $9.3 billion in orders in two years. Cisco President and Chief Product Officer Jeetu Patel joins Y Combinator Managing Partner…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
+        "publishedAt": "2026-10-08T14:30:33+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
+            "publishedAt": "2026-10-08T14:30:33+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.828,
+        "firstSeen": "2026-10-08T22:48:59.202436+00:00",
+        "kind": "video",
+        "video": {
+          "id": "ofxAtQhV-xA",
+          "thumbUrl": "https://i4.ytimg.com/vi/ofxAtQhV-xA/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
+          "channel": "Y Combinator"
+        }
       },
       {
         "id": "ffb664430fda",
@@ -2271,7 +2314,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.236,
+        "score": 4.812,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -2307,47 +2350,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.165,
+        "score": 4.702,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
-      },
-      {
-        "id": "4e563229c704",
-        "category": "growth",
-        "lang": "en",
-        "title": "How Jeetu Patel Runs Cisco Like the World’s Largest Startup",
-        "summary": "Cisco is building AI infrastructure, from networking GPU clusters to securing agents, with its hyperscaler AI business reaching $9.3 billion in orders in two years. Cisco President and Chief Product Officer Jeetu Patel joins Y Combinator Managing Partner…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
-        "publishedAt": "2026-10-08T14:30:33+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
-            "publishedAt": "2026-10-08T14:30:33+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.15,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00",
-        "kind": "video",
-        "video": {
-          "id": "ofxAtQhV-xA",
-          "thumbUrl": "https://i4.ytimg.com/vi/ofxAtQhV-xA/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "19c45cc3b756",
@@ -2376,7 +2381,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.082,
+        "score": 4.633,
         "firstSeen": "2026-10-09T14:03:47.576436+00:00",
         "kind": "article"
       },
@@ -2406,8 +2411,76 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.935,
+        "score": 4.564,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "6326c3a406d0",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why the Future is Human … Plus AI | Esther Perel and Sal Khan",
+        "summary": "As AI reshapes work, school and love, what part of being human can't a machine take over? In a wide-ranging conversation, psychotherapist Esther Perel and TED's vision steward Sal Khan provide their unique takes on the answer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
+        "publishedAt": "2026-10-06T15:00:08+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication",
+          "Psychology"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
+            "publishedAt": "2026-10-06T15:00:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.354,
+        "firstSeen": "2026-10-06T22:15:25.975374+00:00",
+        "kind": "video",
+        "video": {
+          "id": "oyRxhiAC9u8",
+          "thumbUrl": "https://i4.ytimg.com/vi/oyRxhiAC9u8/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "a63ccea5b537",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+        "publishedAt": "2026-10-08T12:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+            "publishedAt": "2026-10-08T12:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.276,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
       {
@@ -2441,106 +2514,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.649,
+        "score": 4.275,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
-      },
-      {
-        "id": "a63ccea5b537",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-        "publishedAt": "2026-10-08T12:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-            "publishedAt": "2026-10-08T12:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.587,
-        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "429b12e0917d",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Carson Gross",
-        "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-        "publishedAt": "2026-10-08T21:05:44+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-            "publishedAt": "2026-10-08T21:05:44+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.541,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "6326c3a406d0",
-        "category": "growth",
-        "lang": "en",
-        "title": "Why the Future is Human … Plus AI | Esther Perel and Sal Khan",
-        "summary": "As AI reshapes work, school and love, what part of being human can't a machine take over? In a wide-ranging conversation, psychotherapist Esther Perel and TED's vision steward Sal Khan provide their unique takes on the answer.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
-        "publishedAt": "2026-10-06T15:00:08+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Psychology"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
-            "publishedAt": "2026-10-06T15:00:08+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.512,
-        "firstSeen": "2026-10-06T22:15:25.975374+00:00",
-        "kind": "video",
-        "video": {
-          "id": "oyRxhiAC9u8",
-          "thumbUrl": "https://i4.ytimg.com/vi/oyRxhiAC9u8/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=oyRxhiAC9u8",
-          "channel": "TED"
-        }
       },
       {
         "id": "c7f4b559a8fb",
@@ -2567,7 +2543,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.504,
+        "score": 4.208,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -2596,29 +2572,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.487,
+        "score": 4.193,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
       {
-        "id": "ee58890d81f7",
+        "id": "429b12e0917d",
         "category": "growth",
         "lang": "en",
-        "title": "Quoting Ben Affleck",
-        "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it.",
+        "title": "Quoting Carson Gross",
+        "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-        "publishedAt": "2026-10-07T23:14:58+00:00",
+        "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+        "publishedAt": "2026-10-08T21:05:44+00:00",
         "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems"
+          "AI & smart tools"
         ],
         "sources": [
           {
             "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-            "publishedAt": "2026-10-07T23:14:58+00:00",
+            "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+            "publishedAt": "2026-10-08T21:05:44+00:00",
             "tier": 3
           }
         ],
@@ -2626,39 +2601,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.974,
-        "firstSeen": "2026-10-07T23:25:38.540282+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a343c9786e70",
-        "category": "growth",
-        "lang": "en",
-        "title": "Claude Haiku 5.5",
-        "summary": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-        "publishedAt": "2026-10-07T20:56:21+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship",
-          "Personal finance"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-            "publishedAt": "2026-10-07T20:56:21+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.924,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
+        "score": 4.186,
+        "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "article"
       },
       {
@@ -2686,7 +2630,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.867,
+        "score": 3.854,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2723,7 +2667,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.85,
+        "score": 3.837,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -2733,37 +2677,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=gduYQKmz05M",
           "channel": "TED"
         }
-      },
-      {
-        "id": "7b37193e1f4b",
-        "category": "growth",
-        "lang": "en",
-        "title": "Anti-Patterns in Software Blogging",
-        "summary": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-        "publishedAt": "2026-10-07T14:53:51+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-            "publishedAt": "2026-10-07T14:53:51+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.802,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
-        "kind": "article"
       },
       {
         "id": "7961cc30350d",
@@ -2790,7 +2703,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.798,
+        "score": 3.786,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2826,7 +2739,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.734,
+        "score": 3.723,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2836,6 +2749,98 @@
           "watchUrl": "https://www.youtube.com/watch?v=r63spwe1LCI",
           "channel": "TED"
         }
+      },
+      {
+        "id": "ee58890d81f7",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Ben Affleck",
+        "summary": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+        "publishedAt": "2026-10-07T23:14:58+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
+            "publishedAt": "2026-10-07T23:14:58+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.718,
+        "firstSeen": "2026-10-07T23:25:38.540282+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a343c9786e70",
+        "category": "growth",
+        "lang": "en",
+        "title": "Claude Haiku 5.5",
+        "summary": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+        "publishedAt": "2026-10-07T20:56:21+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Entrepreneurship",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+            "publishedAt": "2026-10-07T20:56:21+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.677,
+        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "7b37193e1f4b",
+        "category": "growth",
+        "lang": "en",
+        "title": "Anti-Patterns in Software Blogging",
+        "summary": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+        "publishedAt": "2026-10-07T14:53:51+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication",
+          "Leadership"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
+            "publishedAt": "2026-10-07T14:53:51+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.575,
+        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
+        "kind": "article"
       },
       {
         "id": "194d4d9280be",
@@ -2863,7 +2868,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.62,
+        "score": 3.425,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2892,7 +2897,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.547,
+        "score": 3.365,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2922,7 +2927,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.543,
+        "score": 3.361,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2952,7 +2957,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.529,
+        "score": 3.35,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2981,7 +2986,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.506,
+        "score": 3.331,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3010,7 +3015,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.492,
+        "score": 3.319,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3045,7 +3050,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.487,
+        "score": 3.316,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3074,7 +3079,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.416,
+        "score": 3.257,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3103,7 +3108,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.229,
+        "score": 3.102,
         "firstSeen": "2026-10-06T00:32:09.823013+00:00",
         "kind": "article"
       },
@@ -3132,7 +3137,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.047,
+        "score": 3.042,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -3170,7 +3175,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.027,
+        "score": 3.015,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3199,7 +3204,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.007,
+        "score": 2.919,
         "firstSeen": "2026-10-05T23:40:28.355143+00:00",
         "kind": "article"
       },
@@ -3229,37 +3234,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.855,
-        "firstSeen": "2026-10-04T11:43:40.220855+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "c25e6552df82",
-        "category": "growth",
-        "lang": "en",
-        "title": "September sponsors-only newsletter",
-        "summary": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
-        "publishedAt": "2026-10-03T22:00:31+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
-            "publishedAt": "2026-10-03T22:00:31+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.847,
+        "score": 2.793,
         "firstSeen": "2026-10-04T11:43:40.220855+00:00",
         "kind": "article"
       },
@@ -3288,8 +3263,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 2.8,
+        "isNew": false,
+        "score": 2.787,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       }
@@ -3371,7 +3346,7 @@
     {
       "id": "bbc-world",
       "ok": true,
-      "items": 32,
+      "items": 30,
       "error": null
     },
     {
@@ -3395,7 +3370,7 @@
     {
       "id": "ft",
       "ok": true,
-      "items": 12,
+      "items": 11,
       "error": null
     },
     {
@@ -3538,9 +3513,9 @@
     }
   ],
   "filteredOut": {
-    "football": 78,
-    "news": 152,
+    "football": 70,
+    "news": 149,
     "medical": 29,
-    "growth": 45
+    "growth": 44
   }
 }
