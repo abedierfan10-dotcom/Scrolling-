@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:18:53.626638+00:00",
+  "generatedAt": "2026-10-12T16:23:54.814615+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -32,39 +32,126 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.952,
+        "isNew": false,
+        "score": 11.78,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
-        "id": "49d2331d2707",
+        "id": "17874838468d",
         "category": "football",
         "lang": "en",
-        "title": "Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal",
-        "summary": "Yan Diomandé earned Real Madrid a tight 1-0 victory over Villarreal to keep them six points behind La Liga leaders Barcelona, even though winger Vinícius Júnior was sent off for hair pulling. Vinícius, on as a substitute, scored but his goal was disallowed…",
+        "title": "McCabe and O'Sullivan to feature in Cork - Ward",
+        "summary": "Republic of Ireland manager Carla Ward confirms that Katie McCabe and Denise O'Sullivan will feature in the second leg of their Women's World Cup play-off against Kazakhstan, despite the Irish holding an 8-0 advantage from the first leg.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/10/real-madrids-vinicius-junior-sent-off-for-hair-pulling-in-victory-over-villarreal",
-        "publishedAt": "2026-10-10T21:38:11+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l3p3ve8g9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-12T16:01:17+00:00",
         "subtopics": [
-          "Barcelona",
-          "La Liga",
+          "World Cup",
           "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/10/real-madrids-vinicius-junior-sent-off-for-hair-pulling-in-victory-over-villarreal",
-            "publishedAt": "2026-10-10T21:38:11+00:00",
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx1l3p3ve8g9o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-12T16:01:17+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 11.731,
-        "firstSeen": "2026-10-11T12:02:01.731809+00:00"
+        "isNew": true,
+        "score": 7.961,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00"
+      },
+      {
+        "id": "08fb5b4c5b56",
+        "category": "football",
+        "lang": "en",
+        "title": "Wales wary but eye record run in World Cup bid",
+        "summary": "Rhian Wilkinson warns favourites Wales not to underestimate Albania in the second leg of their World Cup play-off semi-final.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d5980jz3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-12T15:31:33+00:00",
+        "subtopics": [
+          "World Cup",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d5980jz3o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-12T15:31:33+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.91,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00",
+        "transfer": "RUMOUR"
+      },
+      {
+        "id": "f555fbc506e2",
+        "category": "football",
+        "lang": "en",
+        "title": "Hincapié and Zubimendi out after warm-down injuries but Arsenal get Saliba boost",
+        "summary": "Defender and midfielder hurt after win against Leeds Saliba resumes training on his own after back injury Mikel Arteta has admitted frustration after Piero Hincapié and Martín Zubimendi sustained ankle injuries during the warm-down after Arsenal’s win…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/12/piero-hincapie-martin-zubimendi-injuries-warm-down-arsenal-mikel-arteta-william-saliba",
+        "publishedAt": "2026-10-12T15:01:34+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/12/piero-hincapie-martin-zubimendi-injuries-warm-down-arsenal-mikel-arteta-william-saliba",
+            "publishedAt": "2026-10-12T15:01:34+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.86,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00"
+      },
+      {
+        "id": "22370ca809ff",
+        "category": "football",
+        "lang": "en",
+        "title": "Six questions facing England as they target next year’s Women’s World Cup",
+        "summary": "Starting positions at centre-back and No 10 are up for grabs, while Sarina Wiegman’s future continues to be in the air England have two jobs to do on Tuesday. The first, avoiding an almighty upset and progressing past Greece on aggregate in their Women’s…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/12/england-next-summer-womens-world-cup",
+        "publishedAt": "2026-10-12T14:33:15+00:00",
+        "subtopics": [
+          "World Cup",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/12/england-next-summer-womens-world-cup",
+            "publishedAt": "2026-10-12T14:33:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.814,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00"
       },
       {
         "id": "8bf85d065bbf",
@@ -91,9 +178,67 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.757,
+        "isNew": false,
+        "score": 7.565,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
+      },
+      {
+        "id": "483fc30bf494",
+        "category": "football",
+        "lang": "en",
+        "title": "Alcohol allowed at seats for Scotland's World Cup play-off",
+        "summary": "Spectators will be able to consume alcohol at their seats when Scotland host the Czech Republic in the second leg of their Women's World Cup play-off in Paisley on Tuesday.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-12T15:01:24+00:00",
+        "subtopics": [
+          "World Cup",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-12T15:01:24+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.36,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00"
+      },
+      {
+        "id": "dae5961f9986",
+        "category": "football",
+        "lang": "en",
+        "title": "Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter",
+        "summary": "What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where every touch is accompanied by cries of “cheat”, any favourable…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield",
+        "publishedAt": "2026-10-11T20:02:08+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield",
+            "publishedAt": "2026-10-11T20:02:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.479,
+        "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
         "id": "b9753e185532",
@@ -121,7 +266,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.534,
+        "score": 6.426,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -150,7 +295,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.466,
+        "score": 6.364,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -179,37 +324,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.012,
+        "score": 5.941,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
-      },
-      {
-        "id": "7fabd5e0b071",
-        "category": "football",
-        "lang": "en",
-        "title": "Police officer injured as 10 arrests made at tense Liverpool v Manchester City match",
-        "summary": "Police officer taken to hospital with serious facial injury Five people arrested on suspicion of tragedy chanting A police officer sustained a serious facial injury while making an arrest after the Liverpool v Manchester City match at Anfield on Sunday,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/12/police-officer-injured-as-10-arrests-made-at-tense-liverpool-v-manchester-city-match",
-        "publishedAt": "2026-10-12T13:54:45+00:00",
-        "subtopics": [
-          "Premier League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/12/police-officer-injured-as-10-arrests-made-at-tense-liverpool-v-manchester-city-match",
-            "publishedAt": "2026-10-12T13:54:45+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.958,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
         "id": "1b820b31c3ac",
@@ -236,8 +352,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.622,
+        "isNew": false,
+        "score": 5.439,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -265,8 +381,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.295,
+        "isNew": false,
+        "score": 5.17,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -294,8 +410,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.286,
+        "isNew": false,
+        "score": 5.162,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -323,39 +439,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.263,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      },
-      {
-        "id": "2aaa2c75a7c0",
-        "category": "football",
-        "lang": "en",
-        "title": "European football: Freiburg move top of Bundesliga while Isco keeps Betis flying high",
-        "summary": "Goto seals late 2-1 win over Schalke for 10-man Freiburg Lazio join Inter at top of Serie A as Roma held at Como Ten-man Freiburg scored an 85th-minute winner ⁠through Keisuke Goto to snatch a 2-1 home victory over ⁠ Schalke 04 ⁠on ​Sunday and move top of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-        "publishedAt": "2026-10-11T21:15:26+00:00",
-        "subtopics": [
-          "Bundesliga",
-          "Serie A",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-            "publishedAt": "2026-10-11T21:15:26+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 5.159,
-        "firstSeen": "2026-10-11T21:25:37.196199+00:00"
+        "score": 5.071,
+        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
         "id": "db5e43ac7092",
@@ -383,7 +469,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.091,
+        "score": 4.98,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -412,7 +498,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.071,
+        "score": 4.962,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -441,7 +527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.015,
+        "score": 4.909,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -470,7 +556,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.858,
+        "score": 4.763,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -498,37 +584,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.846,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      },
-      {
-        "id": "0d11bc04c087",
-        "category": "football",
-        "lang": "en",
-        "title": "‘So, so grateful’: Nathan Cleary confirms reason behind Mary Fowler’s Matildas absence",
-        "summary": "Fowler pulled out of Australia squad for ‘personal reasons’ Attacker is now back in Australia with injured NRL star post-surgery Injured rugby league player Nathan Cleary has expressed deep appreciation to Matildas forward Mary Fowler, his partner who flew…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/12/nathan-cleary-mary-fowler-matildas-absence-sport",
-        "publishedAt": "2026-10-11T23:38:20+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/12/nathan-cleary-mary-fowler-matildas-absence-sport",
-            "publishedAt": "2026-10-11T23:38:20+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 4.302,
+        "isNew": false,
+        "score": 4.752,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -557,7 +614,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.266,
+        "score": 4.213,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -586,7 +643,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.181,
+        "score": 4.133,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       }
     ],
@@ -616,9 +673,44 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.286,
+        "isNew": false,
+        "score": 8.204,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
+      },
+      {
+        "id": "747407d3321e",
+        "category": "news",
+        "lang": "de",
+        "title": "CDU nach Klausur: Näher an die Menschen",
+        "summary": "Die CDU will nach Wahlniederlagen mit alltagsnahen Maßnahmen wie günstigerem Strom, weniger Bürokratie und Fokus auf Wachstum Vertrauen zurückgewinnen. Außerdem setzt sie auf mehr Austausch mit der Basis.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-strategie-merz-100.html",
+        "publishedAt": "2026-10-12T15:40:21+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-strategie-merz-100.html",
+            "publishedAt": "2026-10-12T15:40:21+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-strategie-merz-100.html",
+            "publishedAt": "2026-10-12T15:40:21+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.968,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00"
       },
       {
         "id": "b586331d94d0",
@@ -651,15 +743,15 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.971,
+        "isNew": false,
+        "score": 7.88,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
         "id": "b6f809031c18",
         "category": "news",
         "lang": "de",
-        "title": "CDU will Stromsteuer absenken",
+        "title": "CDU will Stromsteuer für alle absenken",
         "summary": "Das CDU-Präsidium hat sich nach zuletzt schwachen Wahlergebnissen zur Klausur getroffen. \"Wir müssen uns aus einem Tief herausarbeiten,\" sagte Kanzler Merz danach.",
         "needsSummary": true,
         "readMore": null,
@@ -680,8 +772,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.95,
+        "isNew": false,
+        "score": 7.86,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -715,8 +807,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.911,
+        "isNew": false,
+        "score": 7.822,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -745,8 +837,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.883,
+        "isNew": false,
+        "score": 7.795,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -781,8 +873,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.87,
+        "isNew": false,
+        "score": 7.783,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -811,8 +903,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.861,
+        "isNew": false,
+        "score": 7.773,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -840,8 +932,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.809,
+        "isNew": false,
+        "score": 7.724,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -869,8 +961,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.743,
+        "isNew": false,
+        "score": 7.659,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -905,8 +997,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.726,
+        "score": 7.643,
         "firstSeen": "2026-10-10T21:05:58.317689+00:00"
+      },
+      {
+        "id": "13176f31f8ae",
+        "category": "news",
+        "lang": "de",
+        "title": "Leonie Konczalla bei der Ironman-WM: Schon der Start war ein Sieg",
+        "summary": "Die Triathletin musste krankheitsbedingt mehrere Monate mit dem Training aussetzen. Doch die gab ihren Traum von der Teilnahme am Rennen auf Hawai nicht auf - und wurde belohnt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/sport/mehr_sport/leonie-konczalla-bei-der-ironman-wm-schon-der-start-war-ein-sieg,ironman-172.html",
+        "publishedAt": "2026-10-12T15:12:47+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/sport/mehr_sport/leonie-konczalla-bei-der-ironman-wm-schon-der-start-war-ein-sieg,ironman-172.html",
+            "publishedAt": "2026-10-12T15:12:47+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.548,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00"
+      },
+      {
+        "id": "a86c58a819e8",
+        "category": "news",
+        "lang": "de",
+        "title": "Miet-Schock für Studierende: WG-Zimmer werden zum Luxus",
+        "summary": "Wer BAföG bekommt, erhält fürs Wohnen 380 Euro. Ab kommendem Jahr sollen es 440 ein.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/700-euro-fuer-wg-zimmer-teurer-semesterstart-fuer-studierende,hamj-15438.html",
+        "publishedAt": "2026-10-12T14:36:35+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/700-euro-fuer-wg-zimmer-teurer-semesterstart-fuer-studierende,hamj-15438.html",
+            "publishedAt": "2026-10-12T14:36:35+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.521,
+        "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
         "id": "ade999956977",
@@ -933,8 +1083,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.555,
+        "isNew": false,
+        "score": 7.465,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -962,38 +1112,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.536,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      },
-      {
-        "id": "a86c58a819e8",
-        "category": "news",
-        "lang": "de",
-        "title": "700 Euro für WG-Zimmer: Teurer Semesterstart für Studierende",
-        "summary": "Wer BAföG bekommt, erhält fürs Wohnen 380 Euro. Ab kommendem Jahr sollen es 440 ein.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/700-euro-fuer-wg-zimmer-teurer-semesterstart-fuer-studierende,hamj-15438.html",
-        "publishedAt": "2026-10-12T11:44:54+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/700-euro-fuer-wg-zimmer-teurer-semesterstart-fuer-studierende,hamj-15438.html",
-            "publishedAt": "2026-10-12T11:44:54+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.488,
-        "firstSeen": "2026-10-11T21:25:37.196199+00:00"
+        "score": 7.447,
+        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
         "id": "bce94c8471a5",
@@ -1027,7 +1148,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.204,
+        "score": 7.137,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -1056,8 +1177,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.102,
+        "score": 7.038,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
+      },
+      {
+        "id": "edf2c6aa390c",
+        "category": "news",
+        "lang": "de",
+        "title": "Interview mit Politologin Römmele: \"Bas hat einiges aushalten müssen\"",
+        "summary": "Der Unmut der Union habe sich oft gegen Arbeitsministerin Bas gerichtet, sagt Politikwissenschaftlerin Römmele im Interview. Politikern werde allgemein viel zugemutet.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-interview-roemmele-100.html",
+        "publishedAt": "2026-10-12T16:04:04+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-interview-roemmele-100.html",
+            "publishedAt": "2026-10-12T16:04:04+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-interview-roemmele-100.html",
+            "publishedAt": "2026-10-12T16:04:04+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.985,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00"
       },
       {
         "id": "ad4f3f1742a3",
@@ -1085,7 +1241,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.865,
+        "score": 6.808,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -1114,7 +1270,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.826,
+        "score": 6.758,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -1143,7 +1299,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.81,
+        "score": 6.742,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -1178,7 +1334,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.796,
+        "score": 6.741,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -1213,7 +1369,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.734,
+        "score": 6.681,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -1248,7 +1404,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.727,
+        "score": 6.674,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -1282,8 +1438,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.575,
+        "isNew": false,
+        "score": 6.497,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1318,7 +1474,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.496,
+        "score": 6.451,
         "firstSeen": "2026-10-10T21:05:58.317689+00:00"
       },
       {
@@ -1353,7 +1509,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.443,
+        "score": 6.399,
         "firstSeen": "2026-10-10T13:13:18.349301+00:00"
       },
       {
@@ -1383,7 +1539,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.42,
+        "score": 6.377,
         "firstSeen": "2026-10-10T13:13:18.349301+00:00"
       },
       {
@@ -1418,7 +1574,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.359,
+        "score": 6.317,
         "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
@@ -1453,7 +1609,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.083,
+        "score": 6.05,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
       },
       {
@@ -1488,7 +1644,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.069,
+        "score": 6.037,
         "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
@@ -1523,7 +1679,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.009,
+        "score": 5.978,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -1552,7 +1708,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.935,
+        "score": 5.907,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       },
       {
@@ -1580,7 +1736,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.849,
+        "score": 5.78,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -1608,101 +1764,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.838,
+        "score": 5.77,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
-      },
-      {
-        "id": "bbf704b39788",
-        "category": "news",
-        "lang": "de",
-        "title": "Berlin-Wahl: Linke, Grüne und SPD kündigen Sondierungsgespräche an",
-        "summary": "Nach der Abgeordnetenhauswahl in Berlin haben sich Linke, Grüne und SPD auf Sondierungsgespräche verständigt. Zum Umgang mit Antisemitismus, für den Teile der Linkspartei in der Kritik stehen, einigten sich die Parteien auf eine Erklärung.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsgespraeche-100.html",
-        "publishedAt": "2026-10-08T14:44:21+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsgespraeche-100.html",
-            "publishedAt": "2026-10-08T14:44:21+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsgespraeche-100.html",
-            "publishedAt": "2026-10-08T14:44:21+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.724,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00"
-      },
-      {
-        "id": "c04915446434",
-        "category": "news",
-        "lang": "de",
-        "title": "Marktbericht: Samsung setzt mit Rekordgewinn neue Maßstäbe",
-        "summary": "Fast 72 Milliarden Euro in einem Quartal - noch nie hat ein Tech-Unternehmen so viel verdient wie jetzt Samsung. Für den südkoreanischen Konzern war es der vierte Rekordgewinn in Folge, angetrieben vom Chip-Geschäft",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-samsung-100.html",
-        "publishedAt": "2026-10-08T12:02:09+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-samsung-100.html",
-            "publishedAt": "2026-10-08T12:02:09+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.695,
-        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
-      },
-      {
-        "id": "e24227e115cb",
-        "category": "news",
-        "lang": "de",
-        "title": "Statistisches Bundesamt: Krankheitskosten in Deutschland weiter gestiegen",
-        "summary": "Die direkten Kosten für Krankheiten und Gesundheitsprobleme sind in Deutschland im Jahr 2024 um mehr als 7,6 Prozent gestiegen. Laut Statistischem Bundesamt lagen sie damit erstmals über einer halben Billion Euro.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/krankheitskosten-destatis-100.html",
-        "publishedAt": "2026-10-08T11:50:37+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/krankheitskosten-destatis-100.html",
-            "publishedAt": "2026-10-08T11:50:37+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.693,
-        "firstSeen": "2026-10-08T12:44:18.615278+00:00"
       }
     ],
     "medical": [
@@ -1733,7 +1796,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.914,
+        "score": 9.902,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1765,7 +1828,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.069,
+        "score": 9.065,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1803,7 +1866,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.436,
+        "score": 7.418,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1834,7 +1897,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.436,
+        "score": 7.418,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1865,7 +1928,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.914,
+        "score": 6.902,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1897,7 +1960,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.597,
+        "score": 6.575,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1934,7 +1997,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.454,
+        "score": 6.447,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1966,7 +2029,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.454,
+        "score": 6.447,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1998,7 +2061,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.991,
+        "score": 5.988,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2035,7 +2098,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.991,
+        "score": 5.988,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2067,7 +2130,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.991,
+        "score": 5.988,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2098,8 +2161,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.311,
+        "score": 5.289,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
+        "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "a823bf423133",
+        "category": "medical",
+        "lang": "en",
+        "title": "Philips updates instructions for ultrasound system linked to 4 deaths",
+        "summary": "A software issue can delay use of the Lumify diagnostic ultrasound system in environments without access to Wi-Fi or cellular signal.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/philips-updates-instructions-for-ultrasound-system-linked-to-4-deaths/832692/",
+        "publishedAt": "2026-10-12T13:56:00+00:00",
+        "subtopics": [
+          "Diagnostics & imaging"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/philips-updates-instructions-for-ultrasound-system-linked-to-4-deaths/832692/",
+            "publishedAt": "2026-10-12T13:56:00+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.164,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -2129,7 +2222,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.894,
+        "score": 2.877,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2160,7 +2253,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.869,
+        "score": 2.865,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2190,7 +2283,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.828,
+        "score": 2.824,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2224,7 +2317,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.702,
+        "score": 4.668,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "kind": "video",
         "video": {
@@ -2260,7 +2353,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.195,
+        "score": 4.144,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
@@ -2291,7 +2384,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.021,
+        "score": 3.999,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2329,7 +2422,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.956,
+        "score": 3.945,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "video",
         "video": {
@@ -2365,7 +2458,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.879,
+        "score": 3.877,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -2401,7 +2494,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.806,
+        "score": 3.804,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2409,6 +2502,43 @@
           "thumbUrl": "https://i1.ytimg.com/vi/8WWrNbHvd44/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=8WWrNbHvd44",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "989396acd63d",
+        "category": "growth",
+        "lang": "en",
+        "title": "Sometimes common ground starts with what both sides can’t afford to lose. #TEDTalks",
+        "summary": "What if the path to peace starts with self-interest? After four decades inside some of the world's most dangerous conflict zones, mediator Hiba Qasas has learned that most peacebuilding efforts get it wrong from the start.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/gduYQKmz05M",
+        "publishedAt": "2026-10-07T21:30:06+00:00",
+        "subtopics": [
+          "Leadership",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/gduYQKmz05M",
+            "publishedAt": "2026-10-07T21:30:06+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.788,
+        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
+        "kind": "video",
+        "video": {
+          "id": "gduYQKmz05M",
+          "thumbUrl": "https://i4.ytimg.com/vi/gduYQKmz05M/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=gduYQKmz05M",
           "channel": "TED"
         }
       },
@@ -2437,73 +2567,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.795,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "989396acd63d",
-        "category": "growth",
-        "lang": "en",
-        "title": "Sometimes common ground starts with what both sides can’t afford to lose. #TEDTalks",
-        "summary": "What if the path to peace starts with self-interest? After four decades inside some of the world's most dangerous conflict zones, mediator Hiba Qasas has learned that most peacebuilding efforts get it wrong from the start.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/gduYQKmz05M",
-        "publishedAt": "2026-10-07T21:30:06+00:00",
-        "subtopics": [
-          "Leadership",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/gduYQKmz05M",
-            "publishedAt": "2026-10-07T21:30:06+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.79,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
-        "kind": "video",
-        "video": {
-          "id": "gduYQKmz05M",
-          "thumbUrl": "https://i4.ytimg.com/vi/gduYQKmz05M/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=gduYQKmz05M",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "ffb664430fda",
-        "category": "growth",
-        "lang": "en",
-        "title": "We’re putting too much faith in AI’s ability to say no",
-        "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-        "publishedAt": "2026-10-09T09:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-            "publishedAt": "2026-10-09T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.749,
+        "score": 3.765,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -2532,7 +2596,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.742,
+        "score": 3.74,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2542,6 +2606,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
           "channel": "TED"
         }
+      },
+      {
+        "id": "ffb664430fda",
+        "category": "growth",
+        "lang": "en",
+        "title": "We’re putting too much faith in AI’s ability to say no",
+        "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+        "publishedAt": "2026-10-09T09:00:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+            "publishedAt": "2026-10-09T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.72,
+        "firstSeen": "2026-10-09T12:30:39.295715+00:00",
+        "kind": "article"
       },
       {
         "id": "d78bb69c4925",
@@ -2568,7 +2661,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.724,
+        "score": 3.687,
         "firstSeen": "2026-10-10T11:50:15.612455+00:00",
         "kind": "article"
       },
@@ -2597,7 +2690,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.682,
+        "score": 3.681,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2634,7 +2727,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.632,
+        "score": 3.607,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -2670,7 +2763,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.539,
+        "score": 3.507,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -2701,7 +2794,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.506,
+        "score": 3.475,
         "firstSeen": "2026-10-09T14:03:47.576436+00:00",
         "kind": "article"
       },
@@ -2731,7 +2824,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.496,
+        "score": 3.475,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -2766,7 +2859,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.338,
+        "score": 3.312,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -2795,7 +2888,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.295,
+        "score": 3.271,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "article"
       },
@@ -2825,7 +2918,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.075,
+        "score": 3.057,
         "firstSeen": "2026-10-07T23:25:38.540282+00:00",
         "kind": "article"
       },
@@ -2856,7 +2949,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.055,
+        "score": 3.038,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -2885,7 +2978,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.023,
+        "score": 3.022,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "kind": "video",
         "video": {
@@ -2923,7 +3016,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.007,
+        "score": 2.992,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -2953,7 +3046,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.937,
+        "score": 2.923,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -2982,7 +3075,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.908,
+        "score": 2.896,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3012,7 +3105,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.906,
+        "score": 2.894,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3042,7 +3135,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.901,
+        "score": 2.889,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3071,7 +3164,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.892,
+        "score": 2.88,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3100,7 +3193,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.887,
+        "score": 2.875,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3135,7 +3228,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.885,
+        "score": 2.873,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3164,7 +3257,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.857,
+        "score": 2.846,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3193,7 +3286,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.784,
+        "score": 2.776,
         "firstSeen": "2026-10-06T00:32:09.823013+00:00",
         "kind": "article"
       },
@@ -3223,7 +3316,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.736,
+        "score": 2.734,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3253,7 +3346,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.701,
+        "score": 2.699,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3284,7 +3377,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.66,
+        "score": 2.658,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3313,7 +3406,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.56,
+        "score": 2.558,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       }
@@ -3496,9 +3589,9 @@
     }
   ],
   "filteredOut": {
-    "football": 66,
-    "news": 60,
-    "medical": 12,
+    "football": 60,
+    "news": 61,
+    "medical": 11,
     "growth": 47
   }
 }
