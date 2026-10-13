@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T13:28:14.953984+00:00",
+  "generatedAt": "2026-10-13T14:44:34.259264+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,8 +33,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.694,
+        "isNew": false,
+        "score": 7.577,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -62,8 +62,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.604,
+        "isNew": false,
+        "score": 7.491,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -98,7 +98,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.553,
+        "score": 7.477,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00"
       },
       {
@@ -127,8 +127,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.5,
+        "isNew": false,
+        "score": 7.392,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -156,8 +156,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.361,
+        "isNew": false,
+        "score": 7.259,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "transfer": "RUMOUR"
       },
@@ -187,8 +187,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.897,
+        "isNew": false,
+        "score": 6.793,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -218,7 +218,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.686,
+        "score": 6.613,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00"
       },
       {
@@ -247,37 +247,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.433,
+        "score": 6.371,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00"
-      },
-      {
-        "id": "029681e894aa",
-        "category": "football",
-        "lang": "en",
-        "title": "Why Brighton are the best team in the Premier League right now",
-        "summary": "Jaouen Hadjam needed only 309 seconds of his Premier League debut to score Brighton’s second goal in their 2-0 win over Sunderland on Saturday. In doing so, he became the tenth Brighton player to score in the Premier League already this season.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13598114/fabian-hurzelers-brighton-are-the-best-team-in-the-premier-league-right-now-a-collective-effort-with-10-different-scorers",
-        "publishedAt": "2026-10-13T12:30:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13598114/fabian-hurzelers-brighton-are-the-best-team-in-the-premier-league-right-now-a-collective-effort-with-10-different-scorers",
-            "publishedAt": "2026-10-13T12:30:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.401,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
         "id": "08fb5b4c5b56",
@@ -305,7 +276,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.4,
+        "score": 6.34,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00",
         "transfer": "RUMOUR"
       },
@@ -335,7 +306,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.376,
+        "score": 6.317,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00"
       },
       {
@@ -364,8 +335,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.354,
+        "score": 6.295,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00"
+      },
+      {
+        "id": "029681e894aa",
+        "category": "football",
+        "lang": "en",
+        "title": "Why Brighton are the best team in the Premier League right now",
+        "summary": "Jaouen Hadjam needed only 309 seconds of his Premier League debut to score Brighton’s second goal in their 2-0 win over Sunderland on Saturday. In doing so, he became the tenth Brighton player to score in the Premier League already this season.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13598114/fabian-hurzelers-brighton-are-the-best-team-in-the-premier-league-right-now-a-collective-effort-with-10-different-scorers",
+        "publishedAt": "2026-10-13T12:30:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13598114/fabian-hurzelers-brighton-are-the-best-team-in-the-premier-league-right-now-a-collective-effort-with-10-different-scorers",
+            "publishedAt": "2026-10-13T12:30:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.275,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
         "id": "8bf85d065bbf",
@@ -393,7 +393,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.234,
+        "score": 6.181,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -422,7 +422,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.712,
+        "score": 5.681,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -451,7 +451,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.686,
+        "score": 5.657,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -480,7 +480,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.656,
+        "score": 5.628,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -509,7 +509,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.264,
+        "score": 5.188,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00"
       },
       {
@@ -537,8 +537,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.697,
+        "isNew": false,
+        "score": 4.645,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "transfer": "OFFICIAL"
       },
@@ -568,7 +568,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.303,
+        "score": 4.269,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -597,7 +597,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.299,
+        "score": 4.265,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -626,7 +626,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.178,
+        "score": 4.149,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -655,7 +655,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.173,
+        "score": 4.123,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -684,11 +684,46 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.737,
+        "score": 3.683,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       }
     ],
     "news": [
+      {
+        "id": "ddfb34abd3b2",
+        "category": "news",
+        "lang": "de",
+        "title": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
+        "summary": "Abgesperrte Regale, Unsicherheit über Standorte - nun zumindest Insolvenzgeld für Beschäftigte. Wie geht es vor dem wichtigen Weihnachtsgeschäft für die Kaufhauskette Galeria weiter?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
+        "publishedAt": "2026-10-13T14:33:25+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
+            "publishedAt": "2026-10-13T14:33:25+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
+            "publishedAt": "2026-10-13T14:33:25+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.992,
+        "firstSeen": "2026-10-13T14:44:34.259264+00:00"
+      },
       {
         "id": "2157e669c5eb",
         "category": "news",
@@ -714,8 +749,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.91,
+        "isNew": false,
+        "score": 7.855,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -749,8 +784,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.878,
+        "isNew": false,
+        "score": 7.824,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -774,19 +809,13 @@
             "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
             "publishedAt": "2026-10-13T09:33:13+00:00",
             "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html",
-            "publishedAt": "2026-10-13T09:33:13+00:00",
-            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.83,
+        "isNew": false,
+        "score": 7.777,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -821,7 +850,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.757,
+        "score": 7.706,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00"
       },
       {
@@ -849,8 +878,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.596,
+        "isNew": false,
+        "score": 7.54,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -878,8 +907,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.586,
+        "isNew": false,
+        "score": 7.538,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -913,8 +942,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.516,
+        "isNew": false,
+        "score": 7.468,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -942,8 +971,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.387,
+        "isNew": false,
+        "score": 7.335,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -978,7 +1007,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.169,
+        "score": 7.128,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00"
       },
       {
@@ -1006,8 +1035,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.139,
+        "isNew": false,
+        "score": 7.099,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -1042,7 +1071,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.105,
+        "score": 7.065,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1071,7 +1100,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.09,
+        "score": 7.051,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1106,7 +1135,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.062,
+        "score": 7.024,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1136,7 +1165,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.042,
+        "score": 7.004,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1166,7 +1195,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.027,
+        "score": 6.989,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1195,37 +1224,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.99,
+        "score": 6.953,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      },
-      {
-        "id": "2aa462cec7b8",
-        "category": "news",
-        "lang": "de",
-        "title": "Missbrauchsbeauftragte Claus: \"Risiken im digitalen Raum explodieren\"",
-        "summary": "Die Gefahr für Kinder und Jugendliche, sexualisierte Gewalt zu erleben, sei so hoch wie nie zuvor, warnt die Missbrauchsbeauftragte Claus. Das Netz gilt als \"zentraler Tatort\" - nun noch verstärkt durch Künstliche Intelligenz.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html",
-        "publishedAt": "2026-10-13T12:22:05+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html",
-            "publishedAt": "2026-10-13T12:22:05+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.951,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
         "id": "7ceaa254c387",
@@ -1253,8 +1253,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.943,
+        "score": 6.907,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
+      },
+      {
+        "id": "2aa462cec7b8",
+        "category": "news",
+        "lang": "de",
+        "title": "Missbrauchsbeauftragte Claus: \"Risiken im digitalen Raum explodieren\"",
+        "summary": "Die Gefahr für Kinder und Jugendliche, sexualisierte Gewalt zu erleben, sei so hoch wie nie zuvor, warnt die Missbrauchsbeauftragte Claus. Das Netz gilt als \"zentraler Tatort\" - nun noch verstärkt durch Künstliche Intelligenz.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html",
+        "publishedAt": "2026-10-13T12:22:05+00:00",
+        "subtopics": [
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html",
+            "publishedAt": "2026-10-13T12:22:05+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.896,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+      },
+      {
+        "id": "89ceb40df7e4",
+        "category": "news",
+        "lang": "de",
+        "title": "Reform der Erbschaftsteuer: Hamburg für bundesweite Regelung",
+        "summary": "Soll die Erbschaftsteuer reformiert werden oder nicht? Das ist zurzeit Thema beim Bundesverfassungsgericht.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/reform-der-erbschaftsteuer-hamburg-fuer-bundesweite-regelung,steuer-176.html",
+        "publishedAt": "2026-10-13T14:16:17+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/reform-der-erbschaftsteuer-hamburg-fuer-bundesweite-regelung,steuer-176.html",
+            "publishedAt": "2026-10-13T14:16:17+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.579,
+        "firstSeen": "2026-10-13T14:44:34.259264+00:00"
       },
       {
         "id": "bce94c8471a5",
@@ -1288,7 +1346,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.562,
+        "score": 6.533,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -1317,7 +1375,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.489,
+        "score": 6.461,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
@@ -1346,7 +1404,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.321,
+        "score": 6.296,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -1381,7 +1439,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.272,
+        "score": 6.249,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -1416,7 +1474,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.228,
+        "score": 6.205,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -1451,7 +1509,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.224,
+        "score": 6.201,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       },
       {
@@ -1486,7 +1544,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.182,
+        "score": 6.141,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00"
       },
       {
@@ -1513,8 +1571,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.167,
+        "isNew": false,
+        "score": 6.119,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -1549,7 +1607,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.06,
+        "score": 6.04,
         "firstSeen": "2026-10-10T21:05:58.317689+00:00"
       },
       {
@@ -1584,7 +1642,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.022,
+        "score": 6.003,
         "firstSeen": "2026-10-10T13:13:18.349301+00:00"
       },
       {
@@ -1614,7 +1672,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.006,
+        "score": 5.988,
         "firstSeen": "2026-10-10T13:13:18.349301+00:00"
       },
       {
@@ -1649,7 +1707,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.963,
+        "score": 5.945,
         "firstSeen": "2026-10-10T11:50:15.612455+00:00"
       },
       {
@@ -1677,8 +1735,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.855,
+        "isNew": false,
+        "score": 5.799,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -1713,7 +1771,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.825,
+        "score": 5.791,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1748,78 +1806,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.767,
+        "score": 5.753,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00"
-      },
-      {
-        "id": "9bf6002f0b35",
-        "category": "news",
-        "lang": "de",
-        "title": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
-        "summary": "Die Linksfraktion hatte im Bundestag eine Aktuelle Stunde beantragt. Um den Umgang mit der AfD in Sachsen-Anhalt sollte es gehen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-sachsen-anhalt-100.html",
-        "publishedAt": "2026-10-09T16:59:58+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-sachsen-anhalt-100.html",
-            "publishedAt": "2026-10-09T16:59:58+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-sachsen-anhalt-100.html",
-            "publishedAt": "2026-10-09T16:59:58+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.758,
-        "firstSeen": "2026-10-10T11:50:15.612455+00:00"
-      },
-      {
-        "id": "355aa197efca",
-        "category": "news",
-        "lang": "de",
-        "title": "Große Empörung über Putin-Besuch von Altkanzler Schröder",
-        "summary": "Vor wenigen Tagen war Altkanzler Schröder zu Gast beim russischen Präsidenten Putin. Anlass war der Geburtstag des Kremlchefs.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html",
-        "publishedAt": "2026-10-09T13:06:22+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html",
-            "publishedAt": "2026-10-09T13:06:22+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-besuch-schroeder-putin-100.html",
-            "publishedAt": "2026-10-09T13:06:22+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.715,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00"
       }
     ],
     "medical": [
@@ -1849,8 +1837,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.506,
+        "isNew": false,
+        "score": 11.488,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1880,8 +1868,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 10.506,
+        "isNew": false,
+        "score": 10.488,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1913,7 +1901,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.783,
+        "score": 9.776,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1945,7 +1933,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.029,
+        "score": 9.027,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1975,8 +1963,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.506,
+        "isNew": false,
+        "score": 8.488,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2006,8 +1994,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.506,
+        "isNew": false,
+        "score": 8.488,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2045,7 +2033,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.247,
+        "score": 7.238,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2076,7 +2064,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.247,
+        "score": 7.238,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2107,7 +2095,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.783,
+        "score": 6.776,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2139,7 +2127,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.372,
+        "score": 6.368,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2176,7 +2164,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.372,
+        "score": 6.368,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2208,7 +2196,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.369,
+        "score": 6.358,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2239,7 +2227,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.201,
+        "score": 5.184,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2270,7 +2258,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.082,
+        "score": 5.07,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2300,7 +2288,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.869,
+        "score": 3.853,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2331,7 +2319,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.829,
+        "score": 2.827,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2361,40 +2349,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.792,
+        "score": 2.79,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "66fe1c408621",
-        "category": "medical",
-        "lang": "en",
-        "title": "UK backs continuous oversight of AI medical devices",
-        "summary": "The Medicines and Healthcare Products Regulatory Agency adopted 44 recommendations, including a call for AI-enabled devices to be monitored throughout their working life.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/uk-backs-continuous-oversight-of-ai-medical-devices/832413/",
-        "publishedAt": "2026-10-07T19:08:15+00:00",
-        "subtopics": [
-          "AI & digital health",
-          "Industry"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/uk-backs-continuous-oversight-of-ai-medical-devices/832413/",
-            "publishedAt": "2026-10-07T19:08:15+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.71,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
-        "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
@@ -2424,8 +2381,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.735,
+        "isNew": false,
+        "score": 5.68,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -2454,9 +2411,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.607,
+        "isNew": false,
+        "score": 5.554,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "858ce7e14d91",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Geoffrey Huntley",
+        "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+        "publishedAt": "2026-10-13T13:32:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+            "publishedAt": "2026-10-13T13:32:00+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.446,
+        "firstSeen": "2026-10-13T14:44:34.259264+00:00",
         "kind": "article"
       },
       {
@@ -2485,8 +2471,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.425,
+        "isNew": false,
+        "score": 5.37,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -2517,7 +2503,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.754,
+        "score": 4.712,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -2546,7 +2532,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.677,
+        "score": 4.636,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
@@ -2577,7 +2563,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.381,
+        "score": 4.366,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "kind": "video",
         "video": {
@@ -2613,7 +2599,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.856,
+        "score": 3.855,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -2651,7 +2637,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.852,
+        "score": 3.847,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "video",
         "video": {
@@ -2689,7 +2675,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.811,
+        "score": 3.801,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2725,7 +2711,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.785,
+        "score": 3.784,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2762,7 +2748,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.769,
+        "score": 3.768,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -2798,7 +2784,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.722,
+        "score": 3.721,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2834,7 +2820,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.701,
+        "score": 3.679,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
@@ -2863,7 +2849,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.505,
+        "score": 3.492,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -2892,7 +2878,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.473,
+        "score": 3.46,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -2921,7 +2907,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.367,
+        "score": 3.351,
         "firstSeen": "2026-10-10T11:50:15.612455+00:00",
         "kind": "article"
       },
@@ -2951,7 +2937,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.236,
+        "score": 3.222,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -2982,7 +2968,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.213,
+        "score": 3.2,
         "firstSeen": "2026-10-09T14:03:47.576436+00:00",
         "kind": "article"
       },
@@ -3011,8 +2997,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.096,
+        "isNew": false,
+        "score": 3.095,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -3047,7 +3033,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.093,
+        "score": 3.082,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -3076,7 +3062,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.063,
+        "score": 3.053,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "article"
       },
@@ -3142,7 +3128,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.907,
+        "score": 2.899,
         "firstSeen": "2026-10-07T23:25:38.540282+00:00",
         "kind": "article"
       },
@@ -3173,7 +3159,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.893,
+        "score": 2.886,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -3204,7 +3190,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.86,
+        "score": 2.853,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
@@ -3234,7 +3220,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.809,
+        "score": 2.804,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3263,7 +3249,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.789,
+        "score": 2.784,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3293,7 +3279,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.788,
+        "score": 2.783,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3323,7 +3309,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.784,
+        "score": 2.779,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3352,7 +3338,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.778,
+        "score": 2.772,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3381,7 +3367,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.774,
+        "score": 2.769,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3416,7 +3402,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.773,
+        "score": 2.768,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3445,7 +3431,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.753,
+        "score": 2.748,
         "firstSeen": "2026-10-06T22:15:25.975374+00:00",
         "kind": "article"
       },
@@ -3475,39 +3461,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.714,
+        "score": 2.713,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "f989cc6a3b5f",
-        "category": "growth",
-        "lang": "en",
-        "title": "Ryan Serhant: How to Get People to Say Yes",
-        "summary": "Ryan Serhant is a real estate broker, founder of SERHANT., and star of Bravo’s Million Dollar Listing New York and Netflix’s Owning Manhattan. He explains how to sell without making people feel sold to: build a connection, help first, and earn the right to…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
-        "publishedAt": "2026-10-08T09:55:00+00:00",
-        "subtopics": [
-          "Communication",
-          "Entrepreneurship",
-          "Psychology"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
-            "publishedAt": "2026-10-08T09:55:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.68,
-        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       }
     ]
@@ -3546,7 +3501,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 24,
+      "items": 26,
       "error": null
     },
     {
@@ -3649,7 +3604,7 @@
       "id": "behavioral-scientist",
       "ok": false,
       "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
     },
     {
       "id": "onefutureuseful",
@@ -3689,9 +3644,9 @@
     }
   ],
   "filteredOut": {
-    "football": 58,
+    "football": 57,
     "news": 64,
-    "medical": 10,
-    "growth": 46
+    "medical": 11,
+    "growth": 45
   }
 }
