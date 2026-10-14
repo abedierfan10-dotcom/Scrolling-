@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T12:36:04.535099+00:00",
+  "generatedAt": "2026-10-14T21:15:05.130457+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -9,33 +9,34 @@
   "tabs": {
     "football": [
       {
-        "id": "e1098a4af2c1",
+        "id": "a2aeedf494a5",
         "category": "football",
         "lang": "en",
-        "title": "Kane leads Bayern comeback in draw against Viking as Gordon nets for Barca",
-        "summary": "",
+        "title": "Gordon scores as 'brilliant Barcelona' thrash Galatasaray",
+        "summary": "Anthony Gordon scores his first Champions League goal for Barcelona as the Spanish side come from behind to thrash Galatasaray 4-1 in Istanbul, and make it two wins from two in this season's Champions League.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-        "publishedAt": "2026-10-13T23:25:00+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9gk5lve2enjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:00:43+00:00",
         "subtopics": [
           "Barcelona",
+          "Champions League",
           "Results"
         ],
         "sources": [
           {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-            "publishedAt": "2026-10-13T23:25:00+00:00",
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c9gk5lve2enjo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:43+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 12.898,
-        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
+        "isNew": true,
+        "score": 13.975,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "8e1f4f62d708",
@@ -64,36 +65,109 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.815,
+        "score": 12.344,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00"
       },
       {
-        "id": "6bb1ef2ef789",
+        "id": "c067eb83df52",
         "category": "football",
         "lang": "en",
-        "title": "Barcelona vs Arsenal moved 24 hours later due to strike in Spain",
-        "summary": "",
+        "title": "Vinicius Jr to miss Barcelona game because of ban",
+        "summary": "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-        "publishedAt": "2026-10-12T23:40:00+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T18:14:53+00:00",
         "subtopics": [
-          "Barcelona"
+          "Barcelona",
+          "La Liga"
         ],
         "sources": [
           {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-            "publishedAt": "2026-10-12T23:40:00+00:00",
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T18:14:53+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 10.332,
-        "firstSeen": "2026-10-14T11:06:05.228643+00:00"
+        "isNew": true,
+        "score": 12.203,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "a68dce4e6dcb",
+        "category": "football",
+        "lang": "en",
+        "title": "Mourino scores stunner as Villarreal come from behind to beat Napoli",
+        "summary": "A brilliant strike from Santiago Mourino helped Villarreal come from behind to beat Napoli 3-1, to secure their first Champions League win in eight matches.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6z0v7n9vj8eo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:00:58+00:00",
+        "subtopics": [
+          "La Liga",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6z0v7n9vj8eo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:58+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6wyr7v30wx9o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:55+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 9.976,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "89d5d5749343",
+        "category": "football",
+        "lang": "en",
+        "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
+        "summary": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:00:28+00:00",
+        "subtopics": [
+          "Champions League",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:28+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/linz-ask-vs-liverpool/report/577627",
+            "publishedAt": "2026-10-14T19:30:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.775,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
+        "transfer": "RUMOUR"
       },
       {
         "id": "7931550ae5ff",
@@ -121,29 +195,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.748,
+        "score": 8.295,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
-        "id": "7d88d5e90303",
+        "id": "d504bb915736",
         "category": "football",
         "lang": "en",
-        "title": "Sunderland hope to enjoy warmth in Portugal after 53 years away",
-        "summary": "Black Cats can reboot season against Torreense in Europa League in break from tough start to the Premier League There is a pleasing symmetry about Sunderland’s Europa League trip to Portugal to face Torreense on Thursday night. The club’s last competitive…",
+        "title": "Aston Villa hit Fenerbahce for six in big win at Villa Park",
+        "summary": "Aston Villa dismantled Fenerbahce with Nicolas Jackson and Ross Barkley scoring two each in a 6-0 Champions League win at Villa Park.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
-        "publishedAt": "2026-10-14T11:00:00+00:00",
+        "url": "https://www.skysports.com/football/aston-villa-vs-fenerbahce/report/577624",
+        "publishedAt": "2026-10-14T21:50:00+00:00",
         "subtopics": [
-          "Premier League",
-          "Europa League",
+          "Champions League",
           "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
-            "publishedAt": "2026-10-14T11:00:00+00:00",
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/aston-villa-vs-fenerbahce/report/577624",
+            "publishedAt": "2026-10-14T21:50:00+00:00",
             "tier": 2
           }
         ],
@@ -151,8 +224,391 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.838,
-        "firstSeen": "2026-10-14T12:36:04.535099+00:00"
+        "score": 8.0,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "7cb55f299d7d",
+        "category": "football",
+        "lang": "en",
+        "title": "Suarez scores again as Sporting beat Lens",
+        "summary": "Luis Suarez scores for an eighth consecutive match as he helps Sporting beat Lens 2-0 in France, as the Portuguese side make it two wins from two in this season's Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwj3dk4l4vv3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:01:09+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cwj3dk4l4vv3o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:01:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.976,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "7eeab62de24b",
+        "category": "football",
+        "lang": "en",
+        "title": "Gruda scores only goal as RB Leipzig edge past PSV",
+        "summary": "Brajan Gruda's brilliant strike earns RB Leipzig a 1-0 win against PSV Eindhoven to get their first win in the league phase of this season's Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm93zl7r0r42o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:01:05+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm93zl7r0r42o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:01:05+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.976,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "71a8ed4f289b",
+        "category": "football",
+        "lang": "en",
+        "title": "Sabah beat Slavia Prague to secure historic Champions League win",
+        "summary": "Azerbaijan champions Sabah FK make history in Baku as they beat Slavia Prague 2-0 to secure their first Champions League win in the club's history.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6lyr7l0xqyqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:01:02+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6lyr7l0xqyqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:01:02+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.976,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "4541e72b2993",
+        "category": "football",
+        "lang": "en",
+        "title": "Tresoldi hat-trick fires Club Brugge to victory over Inter in seven-goal thriller",
+        "summary": "Club Brugge's Nicolo Tresoldi scores a hat-trick as the Belgian side edge Inter Milan 4-3, extending Inter's Champions League losing run to four matches for the first time in their history.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqly0gnk4xkgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:00:52+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cqly0gnk4xkgo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:52+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.975,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "efb7050a9795",
+        "category": "football",
+        "lang": "en",
+        "title": "Viking snatch draw against Bayern Munich in six-goal thriller",
+        "summary": "Norwegian champions Viking score a 90th minute equaliser to snatch a 3-3 draw against six-time European champions Bayern Munich in the Champions League, securing one of the biggest results in the club's history.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cw1m408z3yj5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:00:40+00:00",
+        "subtopics": [
+          "Champions League",
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cw1m408z3yj5o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:40+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.975,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "e6d98874b0f6",
+        "category": "football",
+        "lang": "en",
+        "title": "Substitutes steal the show as Arsenal score three against Lille",
+        "summary": "Substitute Bukayo Saka scores one and sets up another to help Arsenal beat Lille 3-0 at the Emirates, as the Premier League champions made it two wins from two in the Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:00:36+00:00",
+        "subtopics": [
+          "Champions League",
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.975,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "afa5197b3e60",
+        "category": "football",
+        "lang": "en",
+        "title": "Yoro sent off as Man Utd stumble to defeat against Atletico Madrid",
+        "summary": "Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the opening minute before ending the game with ten men after Leny Yoro was sent off.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:00:34+00:00",
+        "subtopics": [
+          "La Liga",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:34+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.975,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "1297d881f45c",
+        "category": "football",
+        "lang": "en",
+        "title": "Barcola shines as Liverpool score six to beat LASK",
+        "summary": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:00:24+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:24+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.975,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "e1ccbedfa5bd",
+        "category": "football",
+        "lang": "en",
+        "title": "On night of mayhem for Liverpool, Barcola arrives in style",
+        "summary": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK. The French forward's Champions League hat-trick was the perfect answer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T20:46:35+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T20:46:35+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.951,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "3f01eb657762",
+        "category": "football",
+        "lang": "en",
+        "title": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout of Lask",
+        "summary": "Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant display in Austria saw Bradley Barcola ignite his Liverpool account with the first hat-trick of his professional career and Andoni Iraola’s team…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
+        "publishedAt": "2026-10-14T18:51:39+00:00",
+        "subtopics": [
+          "Champions League",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
+            "publishedAt": "2026-10-14T18:51:39+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.761,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
+        "transfer": "RUMOUR"
+      },
+      {
+        "id": "3bca182834da",
+        "category": "football",
+        "lang": "en",
+        "title": "Manchester City v Paris Saint-Germain: Champions League – live",
+        "summary": "Champions League news from the 8pm BST kick-off Live scoreboard | Today’s Football Daily | Email Scott 2 min: Cherki is caught dozing by Dembélé, who sends Doué scampering down a cul-de-sac on the left. Cherki will be pleased Khusanov was on point there.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
+        "publishedAt": "2026-10-14T21:01:11+00:00",
+        "subtopics": [
+          "Champions League",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
+            "publishedAt": "2026-10-14T21:01:11+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.476,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "2500b5e05fb1",
+        "category": "football",
+        "lang": "en",
+        "title": "Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?",
+        "summary": "Director of football is tarnished by recruitment record and Amorim stint but has received glowing review from above Lisandro Martínez is not naive. At 28, he has experienced plenty in football and knows the causes of success and failure.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/14/jason-wilcox-manchester-united-director-of-football-recruitment-ratcliffe",
+        "publishedAt": "2026-10-14T15:42:11+00:00",
+        "subtopics": [
+          "La Liga",
+          "World Cup",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/14/jason-wilcox-manchester-united-director-of-football-recruitment-ratcliffe",
+            "publishedAt": "2026-10-14T15:42:11+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.474,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "6ecc0a7e93a4",
+        "category": "football",
+        "lang": "en",
+        "title": "Wilcox the target again in another damaging Man Utd fallout",
+        "summary": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T15:30:03+00:00",
+        "subtopics": [
+          "La Liga",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T15:30:03+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.457,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "21c7d2b5edc1",
@@ -180,126 +636,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.82,
+        "score": 7.089,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
-      },
-      {
-        "id": "e4958b62636c",
-        "category": "football",
-        "lang": "en",
-        "title": "Manchester United teammates widely share Martínez view that Wilcox is failing",
-        "summary": "Defender voiced criticism after defeat at Atlético Martínez out of contract next summer and plans to leave Lisandro Martínez’s view that Jason Wilcox is failing as Manchester United’s director of football reflects the dressing room’s general frustration at…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/14/lisandro-martinez-jason-wilcox-manchester-united-dressing-room",
-        "publishedAt": "2026-10-14T09:53:19+00:00",
-        "subtopics": [
-          "La Liga",
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/14/lisandro-martinez-jason-wilcox-manchester-united-dressing-room",
-            "publishedAt": "2026-10-14T09:53:19+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.73,
-        "firstSeen": "2026-10-14T11:06:05.228643+00:00"
-      },
-      {
-        "id": "49dd2f62ee1c",
-        "category": "football",
-        "lang": "en",
-        "title": "Martinez calls out Man Utd hierarchy",
-        "summary": "Manchester United's Lisandro Martinez launched an extraordinary attack on the club’s hierarchy after their 2-0 Champions League loss at Atletico Madrid.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13598950/man-utd-defender-lisandro-martinez-extraordinarily-calls-out-clubs-hierarchy-after-atletico-madrid-loss-in-champions-league",
-        "publishedAt": "2026-10-13T22:30:00+00:00",
-        "subtopics": [
-          "La Liga",
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13598950/man-utd-defender-lisandro-martinez-extraordinarily-calls-out-clubs-hierarchy-after-atletico-madrid-loss-in-champions-league",
-            "publishedAt": "2026-10-13T22:30:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.839,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
-      },
-      {
-        "id": "7887cbd49d08",
-        "category": "football",
-        "lang": "en",
-        "title": "Saka shines as Arsenal cruise to Champions League win over Lille",
-        "summary": "Arsenal scored three goals in seven second-half minutes to beat Lille 3-0 and continue their winning start in the Champions League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/arsenal-vs-lille/report/577615",
-        "publishedAt": "2026-10-13T21:45:00+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/arsenal-vs-lille/report/577615",
-            "publishedAt": "2026-10-13T21:45:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.791,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
-      },
-      {
-        "id": "119d9147eea6",
-        "category": "football",
-        "lang": "en",
-        "title": "Russo, James both score twice as England beat Greece in World Cup play-off",
-        "summary": "Alessia Russo and Lauren James reiterated their importance to England as both scored twice in a 5-0 win against Greece in the second leg of their World Cup play-off first-round tie, winning 8-1 on aggregate.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/england-women-vs-greece-women/report/559088",
-        "publishedAt": "2026-10-13T21:35:00+00:00",
-        "subtopics": [
-          "World Cup",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/england-women-vs-greece-women/report/559088",
-            "publishedAt": "2026-10-13T21:35:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.781,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
         "id": "974ce54005ca",
@@ -327,7 +665,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.719,
+        "score": 6.273,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
@@ -355,10 +693,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.537,
+        "isNew": false,
+        "score": 6.139,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "transfer": "RUMOUR"
+      },
+      {
+        "id": "7d88d5e90303",
+        "category": "football",
+        "lang": "en",
+        "title": "Sunderland hope to enjoy warmth in Portugal after 53 years away",
+        "summary": "Black Cats can reboot season against Torreense in Europa League in a break from tough start to domestic campaign There is a pleasing symmetry about Sunderland’s Europa League trip to Portugal to face Torreense on Thursday night. The club’s last competitive…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
+        "publishedAt": "2026-10-14T11:00:00+00:00",
+        "subtopics": [
+          "Europa League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
+            "publishedAt": "2026-10-14T11:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.102,
+        "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
         "id": "9fccfb366d18",
@@ -386,37 +753,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.207,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
-      },
-      {
-        "id": "0affabb8ff8f",
-        "category": "football",
-        "lang": "en",
-        "title": "How much did Man City's rule breaking cost your team?",
-        "summary": "The potential impact of Manchester City's rule breaking runs deep, including missed Champions League qualification, relegation and Premier League prize money.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-13T08:12:53+00:00",
-        "subtopics": [
-          "Champions League",
-          "Premier League",
-          "UCL status"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-13T08:12:53+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.12,
+        "score": 5.893,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -445,8 +782,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.642,
+        "score": 5.475,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00"
+      },
+      {
+        "id": "8bf85d065bbf",
+        "category": "football",
+        "lang": "en",
+        "title": "Blessin in disguise? Gladbach must scale mountain after derby defeat by Köln",
+        "summary": "Saïd El Mala’s winner illustrated the task faced by new Die Fohlen manager in reviving an injury-hit team A three-week break was exactly what Borussia Mönchengladbach needed after a chastening start to the Bundesliga campaign and perhaps what their new…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/12/bundesliga-borussia-monchengladbach-koln-alexander-blessin-said-el-mala",
+        "publishedAt": "2026-10-12T11:53:02+00:00",
+        "subtopics": [
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/12/bundesliga-borussia-monchengladbach-koln-alexander-blessin-said-el-mala",
+            "publishedAt": "2026-10-12T11:53:02+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.409,
+        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
         "id": "7703adb6573e",
@@ -475,211 +841,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.574,
+        "score": 5.295,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
-      },
-      {
-        "id": "8bf85d065bbf",
-        "category": "football",
-        "lang": "en",
-        "title": "Blessin in disguise? Gladbach must scale mountain after derby defeat by Köln",
-        "summary": "Saïd El Mala’s winner illustrated the task faced by new Die Fohlen manager in reviving an injury-hit team A three-week break was exactly what Borussia Mönchengladbach needed after a chastening start to the Bundesliga campaign and perhaps what their new…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/12/bundesliga-borussia-monchengladbach-koln-alexander-blessin-said-el-mala",
-        "publishedAt": "2026-10-12T11:53:02+00:00",
-        "subtopics": [
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/12/bundesliga-borussia-monchengladbach-koln-alexander-blessin-said-el-mala",
-            "publishedAt": "2026-10-12T11:53:02+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.553,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      },
-      {
-        "id": "dae5961f9986",
-        "category": "football",
-        "lang": "en",
-        "title": "Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter",
-        "summary": "What had been billed as a day of reckoning for the Premier League champions turned into a Sunday afternoon stroll Anfield welcomed Manchester City to their new reality, a sullied place where every touch is accompanied by cries of “cheat”, any favourable…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield",
-        "publishedAt": "2026-10-11T20:02:08+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield",
-            "publishedAt": "2026-10-11T20:02:08+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.319,
-        "firstSeen": "2026-10-11T21:25:37.196199+00:00"
-      },
-      {
-        "id": "b9753e185532",
-        "category": "football",
-        "lang": "en",
-        "title": "Doku delights as Manchester City cruise past 10-man Liverpool",
-        "summary": "In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-11T18:59:19+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-11T18:59:19+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.307,
-        "firstSeen": "2026-10-11T21:25:37.196199+00:00"
-      },
-      {
-        "id": "e72c12eeada4",
-        "category": "football",
-        "lang": "en",
-        "title": "Coventry thrash Newcastle to claim first home win of season",
-        "summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-12T21:35:07+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-12T21:35:07+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.274,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
-      },
-      {
-        "id": "4aada1faeb98",
-        "category": "football",
-        "lang": "en",
-        "title": "'Call it a day with VAR' - Rooney on Palace's controversial goal",
-        "summary": "Speaking on Match of the Day, Wayne Rooney says VAR made the wrong decision in awarding Crystal Palace their second goal, which saw the home side take the lead as they went on to beat Nottingham Forest 3-1 in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cqlyendmk7wyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-11T23:31:42+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cqlyendmk7wyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-11T23:31:42+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.86,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      },
-      {
-        "id": "210591d05fc4",
-        "category": "football",
-        "lang": "en",
-        "title": "'It's a bad situation' - Why Man City win creates uncertainty",
-        "summary": "Speaking on Match of the Day, Toby Alderweireld and Wayne Rooney discuss why Manchester City's 3-0 victory against Liverpool leaves the Premier League in limbo as the club awaits a potential punishment, which could include a points deduction, after they were…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-11T23:23:03+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-11T23:23:03+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.858,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      },
-      {
-        "id": "f90dd895cf77",
-        "category": "football",
-        "lang": "en",
-        "title": "'We deal with the noise' - Maresca 'proud' after Man City win",
-        "summary": "Manchester City manager Enzo Maresca says his squad 'dealt with the noise' after they beat Liverpool 3-0 at Anfield in their first match since being found guilty of breaching Premier League financial rules.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-11T18:38:31+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-11T18:38:31+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.804,
-        "firstSeen": "2026-10-11T21:25:37.196199+00:00"
       },
       {
         "id": "92524206872f",
@@ -707,11 +870,239 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.054,
+        "score": 2.91,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       }
     ],
     "news": [
+      {
+        "id": "68a2a545a3f9",
+        "category": "news",
+        "lang": "de",
+        "title": "Wirtschaft vor acht vom 14.10.2026",
+        "summary": "Wirtschaft vor acht vom 14.10.2026",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1666304.html",
+        "publishedAt": "2026-10-14T18:34:44+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1666304.html",
+            "publishedAt": "2026-10-14T18:34:44+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665882.html",
+            "publishedAt": "2026-10-14T07:53:58+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.883,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "973e2f0468ba",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: DAX bleibt im Seitwärtstrend",
+        "summary": "DAX-Anleger haben sich heute zurückgehalten, der Index pendelt weiter um die Marke von 25.000 Punkten. Auch neue US-Inflationsdaten ändern daran nichts.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+        "publishedAt": "2026-10-14T16:24:05+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+            "publishedAt": "2026-10-14T16:24:05+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
+            "publishedAt": "2026-10-14T16:24:05+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.791,
+        "firstSeen": "2026-10-14T11:06:05.228643+00:00"
+      },
+      {
+        "id": "ef7df44247a7",
+        "category": "news",
+        "lang": "de",
+        "title": "Kanzler setzt auf gute Regierungsarbeit gegen Extremismus",
+        "summary": "In seiner Regierungserklärung betont der Kanzler, dass Deutschland unter Druck stehe wie \"vielleicht noch nie\". Unzufriedenheit führe zu Extremismus.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
+        "publishedAt": "2026-10-14T15:33:29+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
+            "publishedAt": "2026-10-14T15:33:29+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
+            "publishedAt": "2026-10-14T15:33:29+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.756,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "7eeb43f4999e",
+        "category": "news",
+        "lang": "de",
+        "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
+        "summary": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
+        "publishedAt": "2026-10-14T14:31:12+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html",
+            "publishedAt": "2026-10-14T14:31:12+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.714,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "8c0a5a2b73e3",
+        "category": "news",
+        "lang": "de",
+        "title": "Künstliche Intelligenz: Was bedeutet die neue KI-Welt für Unternehmen?",
+        "summary": "Kostendruck durch teure Energie, hohe Arbeitskosten und geopolitische Krisen - die Stimmung von Unternehmen in Deutschland ist getrübt. Welchen Einfluss haben in dieser Zeit die Veränderungen durch Künstliche Intelligenz?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html",
+        "publishedAt": "2026-10-14T14:04:50+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/digitales/kuenstliche-intelligenz-unternehmen-deutschland-100.html",
+            "publishedAt": "2026-10-14T14:04:50+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.696,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "7036f2caa2e1",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
+        "summary": "Ob Samsung, Apple oder Nvidia: Alle großen Chiphersteller sind Kunden bei ASML. Dessen Maschinen zur Produktion von Halbleitern machen den KI-Boom erst möglich - und die Aktie zur wertvollsten in Europa.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
+        "publishedAt": "2026-10-14T13:14:36+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
+            "publishedAt": "2026-10-14T13:14:36+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.663,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "4bdd170158ce",
+        "category": "news",
+        "lang": "de",
+        "title": "Portugal erlaubt Einstieg der Lufthansa bei staatlicher Airline TAP",
+        "summary": "Die portugiesische Regierung treibt die Teilprivatisierung der Fluggesellschaft TAP voran. Im Kampf um 44,9 Prozent der Anteile setzte sich die Lufthansa gegen Air France-KLM durch.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html",
+        "publishedAt": "2026-10-14T12:53:13+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html",
+            "publishedAt": "2026-10-14T12:53:13+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html",
+            "publishedAt": "2026-10-14T12:53:13+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.649,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
       {
         "id": "a4e1062f574e",
         "category": "news",
@@ -743,8 +1134,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.966,
+        "isNew": false,
+        "score": 7.608,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
@@ -780,7 +1171,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.922,
+        "score": 7.569,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -821,7 +1212,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.909,
+        "score": 7.558,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -850,89 +1241,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.865,
+        "score": 7.519,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
-      },
-      {
-        "id": "973e2f0468ba",
-        "category": "news",
-        "lang": "de",
-        "title": "Marktbericht: DAX startet höher",
-        "summary": "Der DAX ist mit leichten Aufschlägen in den Tag gestartet. Die Hoffnungen liegen weiter auf der anlaufenden Berichtssaison.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-        "publishedAt": "2026-10-14T08:46:15+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-            "publishedAt": "2026-10-14T08:46:15+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-            "publishedAt": "2026-10-14T08:46:15+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.834,
-        "firstSeen": "2026-10-14T11:06:05.228643+00:00"
-      },
-      {
-        "id": "d501864d2ead",
-        "category": "news",
-        "lang": "de",
-        "title": "Update Wirtschaft vom 14.10.2026",
-        "summary": "Wirtschaft vor acht vom 13.10.2026",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665882.html",
-        "publishedAt": "2026-10-14T07:53:58+00:00",
-        "subtopics": [
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1665882.html",
-            "publishedAt": "2026-10-14T07:53:58+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1665754.html",
-            "publishedAt": "2026-10-13T19:49:10+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.797,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
         "id": "07327ef7ef46",
         "category": "news",
         "lang": "de",
         "title": "Hakenkreuze und antisemitische Hassparolen an Schule in Othmarschen",
-        "summary": "Nur wenige Tage zuvor war das Gymnasium in das Netzwerk \"Schule ohne Rassismus - Schule mit Courage\" aufgenommen worden.",
+        "summary": "Mehrere Wände wurden mit NS-Parolen und Hakenkreuzen beschmiert. Die Schule hat Anzeige erstattet und reagiert mit Gegenmaßnahmen.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.ndr.de/nachrichten/hamburg/hakenkreuze-und-antisemitische-hassparolen-an-schule-in-othmarschen,kurzehh-4602.html",
-        "publishedAt": "2026-10-14T07:00:00+00:00",
+        "publishedAt": "2026-10-14T19:12:25+00:00",
         "subtopics": [
           "Hamburg",
           "Conflict"
@@ -941,7 +1262,13 @@
           {
             "name": "NDR",
             "url": "https://www.ndr.de/nachrichten/hamburg/hakenkreuze-und-antisemitische-hassparolen-an-schule-in-othmarschen,kurzehh-4602.html",
-            "publishedAt": "2026-10-14T07:00:00+00:00",
+            "publishedAt": "2026-10-14T19:12:25+00:00",
+            "tier": 1
+          },
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/antisemitische-schmierereien-an-schule-in-othmarschen,hamj-15544.html",
+            "publishedAt": "2026-10-14T17:51:16+00:00",
             "tier": 1
           }
         ],
@@ -949,66 +1276,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.36,
+        "score": 7.51,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
-        "id": "ec85a2fe2d63",
+        "id": "db6c5caeedb1",
         "category": "news",
         "lang": "de",
-        "title": "Vietnam: Tschentscher wirbt für Direktflüge nach Hamburg",
-        "summary": "Die Wirtschaft in Vietnam boomt und Hamburg will davon profitieren. Bürgermeister Tschentscher machte sich während seiner Asien-Reise für direkte Flugverbindungen stark.",
+        "title": "Wieder Einbruchsversuch mit dem Auto bei Hamburger Juwelier",
+        "summary": "Diesmal war ein Geschäft in Harburg Ziel von Einbrechern. Sie scheiterten allerdings.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/vietnam-tschentscher-wirbt-fuer-direktfluege-nach-hamburg,delegationsreise-112.html",
-        "publishedAt": "2026-10-14T06:08:44+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/wieder-einbruchsversuch-mit-dem-auto-bei-hamburger-juwelier,kurzehh-4608.html",
+        "publishedAt": "2026-10-14T14:07:16+00:00",
         "subtopics": [
           "Hamburg",
-          "Economy"
+          "Conflict"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/vietnam-tschentscher-wirbt-fuer-direktfluege-nach-hamburg,delegationsreise-112.html",
-            "publishedAt": "2026-10-14T06:08:44+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/wieder-einbruchsversuch-mit-dem-auto-bei-hamburger-juwelier,kurzehh-4608.html",
+            "publishedAt": "2026-10-14T14:07:16+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.325,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
-      },
-      {
-        "id": "db9bbf057268",
-        "category": "news",
-        "lang": "de",
-        "title": "Schleswig-Holstein will S-Bahn zwischen Elmshorn und Pinneberg",
-        "summary": "Mit der S-Bahn sei der Bau eines dritten und vierten Gleises wirtschaftlich. Kosten für das Projekt: rund eine Milliarde Euro.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/landesregierung-will-s-bahn-zwischen-elmshorn-und-pinneberg,sbahn-210.html",
-        "publishedAt": "2026-10-14T05:50:54+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/landesregierung-will-s-bahn-zwischen-elmshorn-und-pinneberg,sbahn-210.html",
-            "publishedAt": "2026-10-14T05:50:54+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.313,
-        "firstSeen": "2026-10-14T11:06:05.228643+00:00"
+        "isNew": true,
+        "score": 7.298,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "b1571139794a",
@@ -1036,8 +1334,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.225,
+        "score": 6.956,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
+      },
+      {
+        "id": "533d93f66d15",
+        "category": "news",
+        "lang": "de",
+        "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+        "summary": "Gute Nachrichten für gesetzlich Versicherte: Der GKV-Schätzerkreis hat über den Zusatzbeitrag für das kommende Jahr beraten - mit dem Ergebnis, dass dieser stabil bleiben kann. Der Gesundheitsminister wertet die Entwicklung positiv.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
+        "publishedAt": "2026-10-14T20:01:02+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
+            "publishedAt": "2026-10-14T20:01:02+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
+            "publishedAt": "2026-10-14T20:01:02+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.945,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "2f66c35c06eb",
@@ -1071,7 +1404,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.18,
+        "score": 6.917,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
@@ -1106,7 +1439,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.161,
+        "score": 6.9,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00"
       },
       {
@@ -1135,7 +1468,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.063,
+        "score": 6.813,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -1170,7 +1503,71 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.04,
+        "score": 6.793,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+      },
+      {
+        "id": "4b89040836a6",
+        "category": "news",
+        "lang": "de",
+        "title": "Pflegekommission eingesetzt: Was Experten jetzt klären sollen",
+        "summary": "Die Bundesregierung hat sich auf die Einsetzung der Pflegestrukturkommission geeinigt. Sie soll Lösungen für eine große Reform finden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
+        "publishedAt": "2026-10-14T12:55:39+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
+            "publishedAt": "2026-10-14T12:55:39+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
+            "publishedAt": "2026-10-14T12:55:39+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.65,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "f4d422da474e",
+        "category": "news",
+        "lang": "de",
+        "title": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
+        "summary": "Fast doppelt so stark wie bislang erwartet: Der Internationale Währungsfonds hebt die Wirtschaftsprognose für Deutschland auf 1,3 Prozent an. Für die Weltwirtschaft gibt es eine kleine Änderung.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
+        "publishedAt": "2026-10-13T03:30:15+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
+            "publishedAt": "2026-10-13T03:30:15+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.612,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -1198,9 +1595,44 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.95,
+        "isNew": false,
+        "score": 6.594,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00"
+      },
+      {
+        "id": "682ff229bed3",
+        "category": "news",
+        "lang": "de",
+        "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
+        "summary": "Ist der Rücktritt von Bärbel Bas eine Chance für einen Neuanfang in der Koalition? Kanzler Merz verspricht sich einiges vom neuen Arbeitsminister Schweitzer - doch sicher ist nichts im politischen Berlin.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
+        "publishedAt": "2026-10-13T01:38:12+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
+            "publishedAt": "2026-10-13T01:38:12+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
+            "publishedAt": "2026-10-13T01:38:12+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.568,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
         "id": "c63f57958089",
@@ -1240,72 +1672,65 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.875,
+        "score": 6.528,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
-        "id": "f4d422da474e",
+        "id": "cdaed0dac299",
         "category": "news",
         "lang": "de",
-        "title": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
-        "summary": "Fast doppelt so stark wie bislang erwartet: Der Internationale Währungsfonds hebt die Wirtschaftsprognose für Deutschland auf 1,3 Prozent an. Für die Weltwirtschaft gibt es eine kleine Änderung.",
+        "title": "Deutschlands erster Cruyff Court in Hamburg-Wilhelmsburg eröffnet",
+        "summary": "Der barrierefreie Kunstrasenplatz ist am Mittwoch am Helmut-Schmidt-Gymnasium in Betrieb gegangen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
-        "publishedAt": "2026-10-13T03:30:15+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
+        "publishedAt": "2026-10-14T18:58:18+00:00",
         "subtopics": [
-          "Germany",
-          "Economy"
+          "Hamburg",
+          "Law & Policy"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html",
-            "publishedAt": "2026-10-13T03:30:15+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
+            "publishedAt": "2026-10-14T18:58:18+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.833,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+        "isNew": true,
+        "score": 6.5,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
-        "id": "682ff229bed3",
+        "id": "5af2fa739610",
         "category": "news",
         "lang": "de",
-        "title": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
-        "summary": "Ist der Rücktritt von Bärbel Bas eine Chance für einen Neuanfang in der Koalition? Kanzler Merz verspricht sich einiges vom neuen Arbeitsminister Schweitzer - doch sicher ist nichts im politischen Berlin.",
+        "title": "Max-Brauer-Allee in Hamburg: Sperrung verlängert sich erneut",
+        "summary": "Grund sind weitere Asphaltierungsarbeiten nach dem Einhub der Sternbrücke. Die Verkehrsachse soll nun erst im November wieder frei sein.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
-        "publishedAt": "2026-10-13T01:38:12+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/max-brauer-allee-in-hamburg-sperrung-verlaengert-sich-erneut,kurzehh-4610.html",
+        "publishedAt": "2026-10-14T18:47:14+00:00",
         "subtopics": [
-          "Germany",
-          "Government"
+          "Hamburg"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
-            "publishedAt": "2026-10-13T01:38:12+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
-            "publishedAt": "2026-10-13T01:38:12+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/max-brauer-allee-in-hamburg-sperrung-verlaengert-sich-erneut,kurzehh-4610.html",
+            "publishedAt": "2026-10-14T18:47:14+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.783,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+        "isNew": true,
+        "score": 6.492,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "747407d3321e",
@@ -1339,7 +1764,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.537,
+        "score": 6.352,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00"
       },
       {
@@ -1368,7 +1793,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.516,
+        "score": 6.333,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -1403,7 +1828,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.492,
+        "score": 6.312,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1432,7 +1857,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.481,
+        "score": 6.303,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1467,7 +1892,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.462,
+        "score": 6.285,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1497,7 +1922,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.448,
+        "score": 6.273,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1527,7 +1952,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.437,
+        "score": 6.263,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1556,7 +1981,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.411,
+        "score": 6.24,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
@@ -1585,258 +2010,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.378,
+        "score": 6.211,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      },
-      {
-        "id": "b1cba7a0813f",
-        "category": "news",
-        "lang": "de",
-        "title": "Cyberattacken auf Hunderte französische Supermärkte",
-        "summary": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\".",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
-        "publishedAt": "2026-10-13T18:37:01+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/frankreich-cyberattacken-supermaerkte-100.html",
-            "publishedAt": "2026-10-13T18:37:01+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.296,
-        "firstSeen": "2026-10-14T11:06:05.228643+00:00"
-      },
-      {
-        "id": "0bb0a461720e",
-        "category": "news",
-        "lang": "de",
-        "title": "Immer mehr Suizide in Deutschland - Experten fordern Prävention",
-        "summary": "In Deutschland steigt die Zahl der Suizide weiter. Experten fordern mehr Prävention und niedrigschwellige Hilfe.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/suizide-deutschland-100.html",
-        "publishedAt": "2026-10-13T16:37:50+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/suizide-deutschland-100.html",
-            "publishedAt": "2026-10-13T16:37:50+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.229,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
-      },
-      {
-        "id": "bce94c8471a5",
-        "category": "news",
-        "lang": "de",
-        "title": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
-        "summary": "Reformstau, schwindende Zustimmung in der Bevölkerung, desaströse Wahlergebnisse - die schwarz-rote Koalition steht unter Druck. Jetzt muss sie unter Beweis stellen, dass sie noch handlungsfähig ist.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
-        "publishedAt": "2026-10-11T17:36:32+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
-            "publishedAt": "2026-10-11T17:36:32+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
-            "publishedAt": "2026-10-11T17:36:32+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.107,
-        "firstSeen": "2026-10-11T21:25:37.196199+00:00"
-      },
-      {
-        "id": "2aa462cec7b8",
-        "category": "news",
-        "lang": "de",
-        "title": "Missbrauchsbeauftragte Claus: \"Risiken im digitalen Raum explodieren\"",
-        "summary": "Die Gefahr für Kinder und Jugendliche, sexualisierte Gewalt zu erleben, sei so hoch wie nie zuvor, warnt die Missbrauchsbeauftragte Claus. Das Netz gilt als \"zentraler Tatort\" - nun noch verstärkt durch Künstliche Intelligenz.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html",
-        "publishedAt": "2026-10-13T12:22:05+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html",
-            "publishedAt": "2026-10-13T12:22:05+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.092,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
-      },
-      {
-        "id": "cab2ed330a6d",
-        "category": "news",
-        "lang": "de",
-        "title": "Warnsystem gegen Deepfakes: Tom Cruise in der Teams-Schalte",
-        "summary": "Videokonferenzen sind in Unternehmen längst Alltag. Doch in Zeiten von KI und Deepfakes geraten sie zunehmend in den Fokus von Cyberkriminellen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/digitales/fake-videokonferenzen-100.html",
-        "publishedAt": "2026-10-11T14:24:52+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/digitales/fake-videokonferenzen-100.html",
-            "publishedAt": "2026-10-11T14:24:52+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.056,
-        "firstSeen": "2026-10-11T21:25:37.196199+00:00"
-      },
-      {
-        "id": "ad4f3f1742a3",
-        "category": "news",
-        "lang": "de",
-        "title": "Schutzstatus in Deutschland: Asylklagen dauern wieder länger",
-        "summary": "In den vergangenen Jahren war die Dauer von Asylklagen zurückgegangen. Inzwischen müssen Schutzsuchende wieder länger auf die Klärung ihres Status warten - die Zeit ist dabei jedoch stark vom Bundesland abhängig.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html",
-        "publishedAt": "2026-10-11T06:21:19+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html",
-            "publishedAt": "2026-10-11T06:21:19+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.936,
-        "firstSeen": "2026-10-11T12:02:01.731809+00:00"
-      },
-      {
-        "id": "70bc33e6327d",
-        "category": "news",
-        "lang": "de",
-        "title": "Seehofer sieht \"Glaubwürdigkeitsverlust\" bei Merz",
-        "summary": "Vor der CDU-Klausur hat der ehemalige CSU-Chef Seehofer massive Kritik an Kanzler Merz geübt. Gebrochene Wahlversprechen hätten seiner Glaubwürdigkeit geschadet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html",
-        "publishedAt": "2026-10-11T03:50:03+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html",
-            "publishedAt": "2026-10-11T03:50:03+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/seehofer-merz-klausur-100.html",
-            "publishedAt": "2026-10-11T03:50:03+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.902,
-        "firstSeen": "2026-10-11T12:02:01.731809+00:00"
-      },
-      {
-        "id": "8bd32fffe006",
-        "category": "news",
-        "lang": "de",
-        "title": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
-        "summary": "In der CDU ist die Stimmung nach den miserablen Ergebnissen bei den jüngsten Landtagswahlen und sinkenden Umfragewerten schlecht. Heute und morgen kommt das Parteipräsidium zusammen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
-        "publishedAt": "2026-10-11T01:27:57+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
-            "publishedAt": "2026-10-11T01:27:57+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
-            "publishedAt": "2026-10-11T01:27:57+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.871,
-        "firstSeen": "2026-10-11T12:02:01.731809+00:00"
       }
     ],
     "medical": [
@@ -1867,7 +2042,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.202,
+        "score": 11.097,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1898,7 +2073,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.202,
+        "score": 10.097,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1930,7 +2105,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.665,
+        "score": 9.625,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1962,7 +2137,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.994,
+        "score": 8.981,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1993,8 +2168,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.518,
+        "isNew": false,
+        "score": 8.4,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2025,7 +2200,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.202,
+        "score": 8.097,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2056,7 +2231,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.202,
+        "score": 8.097,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2087,7 +2262,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.08,
+        "score": 7.022,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2125,7 +2300,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.08,
+        "score": 7.022,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2156,7 +2331,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.665,
+        "score": 6.625,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2188,7 +2363,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.3,
+        "score": 6.274,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2225,40 +2400,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.3,
+        "score": 6.274,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
-        "id": "3190fa4c3ab4",
+        "id": "fa207075c75d",
         "category": "medical",
         "lang": "en",
-        "title": "MMI raises $125M to scale up in robotic microsurgery",
-        "summary": "The Symani surgical robot maker said the financing will help broaden adoption of the system in the U.S. and global markets and support a clinical trial for Alzheimer’s disease.",
+        "title": "Siemens Healthineers to stop selling general ultrasound systems",
+        "summary": "In a strategy shift, the company will invest in its procedural ultrasound business, supporting cardiovascular surgeries",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.medtechdive.com/news/mmi-raises-125m-to-scale-up-in-robotic-microsurgery/832607/",
-        "publishedAt": "2026-10-09T14:06:16+00:00",
+        "url": "https://www.medtechdive.com/news/siemens-healthineers-to-stop-selling-general-ultrasound-systems/832976/",
+        "publishedAt": "2026-10-14T14:53:19+00:00",
         "subtopics": [
-          "Reconstructive surgery",
-          "Surgical products",
-          "Clinical study"
+          "Cardiovascular",
+          "Diagnostics & imaging"
         ],
         "sources": [
           {
             "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/mmi-raises-125m-to-scale-up-in-robotic-microsurgery/832607/",
-            "publishedAt": "2026-10-09T14:06:16+00:00",
+            "url": "https://www.medtechdive.com/news/siemens-healthineers-to-stop-selling-general-ultrasound-systems/832976/",
+            "publishedAt": "2026-10-14T14:53:19+00:00",
             "tier": 5
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.167,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00",
+        "isNew": true,
+        "score": 5.407,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -2288,7 +2462,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.216,
+        "score": 5.102,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2319,7 +2493,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.908,
+        "score": 4.807,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2350,7 +2524,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.878,
+        "score": 4.807,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2380,7 +2554,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.58,
+        "score": 3.48,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2411,7 +2585,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.794,
+        "score": 2.781,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2443,7 +2617,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.572,
+        "score": 5.297,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2453,6 +2627,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=cp7mBZJkaCs",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "065912555937",
+        "category": "growth",
+        "lang": "en",
+        "title": "AI is mass decompiling games. That's both awesome and scary.",
+        "summary": "AI is mass decompiling games. That's both awesome and scary.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+        "publishedAt": "2026-10-14T16:26:53+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+            "publishedAt": "2026-10-14T16:26:53+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.293,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
+        "kind": "article"
       },
       {
         "id": "49aae9e462bc",
@@ -2479,7 +2682,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.95,
+        "score": 4.654,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -2509,7 +2712,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.931,
+        "score": 4.638,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00",
         "kind": "article"
       },
@@ -2539,7 +2742,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.88,
+        "score": 4.629,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -2569,7 +2772,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.789,
+        "score": 4.549,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -2598,7 +2801,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.628,
+        "score": 4.371,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00",
         "kind": "article"
       },
@@ -2629,9 +2832,47 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.573,
+        "score": 4.323,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
+      },
+      {
+        "id": "738c0b49f43e",
+        "category": "growth",
+        "lang": "en",
+        "title": "These are the inherent human skills that machines can’t replace #TEDTalks",
+        "summary": "As AI reshapes work, school and love, what part of being human can't a machine take over? In a wide-ranging conversation, psychotherapist Esther Perel and TED's vision steward Sal Khan provide their unique takes on the answer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/f2csKPY5ddc",
+        "publishedAt": "2026-10-09T19:00:20+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication",
+          "Psychology"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/f2csKPY5ddc",
+            "publishedAt": "2026-10-09T19:00:20+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.086,
+        "firstSeen": "2026-10-09T22:11:21.131495+00:00",
+        "kind": "video",
+        "video": {
+          "id": "f2csKPY5ddc",
+          "thumbUrl": "https://i3.ytimg.com/vi/f2csKPY5ddc/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=f2csKPY5ddc",
+          "channel": "TED"
+        }
       },
       {
         "id": "efadf9441346",
@@ -2664,7 +2905,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.284,
+        "score": 4.068,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
@@ -2693,47 +2934,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.24,
+        "score": 4.029,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
-      },
-      {
-        "id": "738c0b49f43e",
-        "category": "growth",
-        "lang": "en",
-        "title": "These are the inherent human skills that machines can’t replace #TEDTalks",
-        "summary": "As AI reshapes work, school and love, what part of being human can't a machine take over? In a wide-ranging conversation, psychotherapist Esther Perel and TED's vision steward Sal Khan provide their unique takes on the answer.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/f2csKPY5ddc",
-        "publishedAt": "2026-10-09T19:00:20+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Psychology"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/f2csKPY5ddc",
-            "publishedAt": "2026-10-09T19:00:20+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.153,
-        "firstSeen": "2026-10-09T22:11:21.131495+00:00",
-        "kind": "video",
-        "video": {
-          "id": "f2csKPY5ddc",
-          "thumbUrl": "https://i3.ytimg.com/vi/f2csKPY5ddc/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=f2csKPY5ddc",
-          "channel": "TED"
-        }
       },
       {
         "id": "a31dac6d0b53",
@@ -2762,7 +2965,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.098,
+        "score": 3.905,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -2791,7 +2994,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.067,
+        "score": 3.878,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "kind": "article"
       },
@@ -2821,7 +3024,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.878,
+        "score": 3.869,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2857,7 +3060,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.833,
+        "score": 3.825,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -2893,7 +3096,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.764,
+        "score": 3.756,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2930,7 +3133,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.749,
+        "score": 3.741,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -2966,7 +3169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.703,
+        "score": 3.696,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -3004,7 +3207,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.662,
+        "score": 3.618,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -3040,7 +3243,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.351,
+        "score": 3.249,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
@@ -3069,7 +3272,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.3,
+        "score": 3.239,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -3098,37 +3301,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.277,
+        "score": 3.219,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "d78bb69c4925",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting The New York Times",
-        "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-        "publishedAt": "2026-10-10T02:04:12+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-            "publishedAt": "2026-10-10T02:04:12+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.115,
-        "firstSeen": "2026-10-10T11:50:15.612455+00:00",
         "kind": "article"
       },
       {
@@ -3157,8 +3331,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.073,
+        "score": 3.064,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "d78bb69c4925",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting The New York Times",
+        "summary": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+        "publishedAt": "2026-10-10T02:04:12+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+            "publishedAt": "2026-10-10T02:04:12+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.04,
+        "firstSeen": "2026-10-10T11:50:15.612455+00:00",
         "kind": "article"
       },
       {
@@ -3187,7 +3390,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.022,
+        "score": 2.959,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -3218,7 +3421,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.005,
+        "score": 2.944,
         "firstSeen": "2026-10-09T14:03:47.576436+00:00",
         "kind": "article"
       },
@@ -3253,7 +3456,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.921,
+        "score": 2.87,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -3282,7 +3485,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.899,
+        "score": 2.851,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "article"
       },
@@ -3312,70 +3515,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.789,
+        "score": 2.754,
         "firstSeen": "2026-10-07T23:25:38.540282+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a343c9786e70",
-        "category": "growth",
-        "lang": "en",
-        "title": "Claude Haiku 5.5",
-        "summary": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-        "publishedAt": "2026-10-07T20:56:21+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship",
-          "Personal finance"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-            "publishedAt": "2026-10-07T20:56:21+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.779,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "7b37193e1f4b",
-        "category": "growth",
-        "lang": "en",
-        "title": "Anti-Patterns in Software Blogging",
-        "summary": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive formality.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-        "publishedAt": "2026-10-07T14:53:51+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/",
-            "publishedAt": "2026-10-07T14:53:51+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.755,
-        "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "article"
       },
       {
@@ -3404,7 +3545,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.693,
+        "score": 2.685,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3435,7 +3576,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.659,
+        "score": 2.652,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3466,7 +3607,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.62,
+        "score": 2.613,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3495,7 +3636,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.525,
+        "score": 2.519,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3526,7 +3667,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.415,
+        "score": 2.41,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "61ec1eae87c6",
+        "category": "growth",
+        "lang": "en",
+        "title": "Is Startup Equity a Bad Deal?",
+        "summary": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+        "publishedAt": "2026-09-22T11:45:57+00:00",
+        "subtopics": [
+          "Presentation & speaking",
+          "Leadership",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+            "publishedAt": "2026-09-22T11:45:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.383,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       }
@@ -3566,7 +3738,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 33,
+      "items": 36,
       "error": null
     },
     {
@@ -3709,9 +3881,9 @@
     }
   ],
   "filteredOut": {
-    "football": 59,
-    "news": 62,
+    "football": 54,
+    "news": 60,
     "medical": 10,
-    "growth": 48
+    "growth": 50
   }
 }
