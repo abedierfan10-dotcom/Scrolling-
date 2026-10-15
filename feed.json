@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:47:47.148967+00:00",
+  "generatedAt": "2026-10-15T12:23:28.936416+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,8 +33,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.77,
+        "isNew": false,
+        "score": 13.621,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "transfer": "RUMOUR"
       },
@@ -65,38 +65,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.859,
+        "score": 12.759,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "8e1f4f62d708",
-        "category": "football",
-        "lang": "en",
-        "title": "Champions League roundup: Tresoldi treble stuns Inter in Club Brugge win",
-        "summary": "Inter 3-4 Club Brugge; Galatasaray 1-4 Barcelona Olise sent off as Bayern held 3-3 at Viking Stavanger Club Brugge and their young forward Nicolò Tresoldi shocked Inter 4-3 at San Siro in the Champions League’s result of the night. Tresoldi, a 22-year-old…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/13/champions-league-lens-sporting-inter-barcelona-bayern-napoli",
-        "publishedAt": "2026-10-13T22:07:38+00:00",
-        "subtopics": [
-          "Barcelona",
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/13/champions-league-lens-sporting-inter-barcelona-bayern-napoli",
-            "publishedAt": "2026-10-13T22:07:38+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 11.84,
-        "firstSeen": "2026-10-13T23:10:38.643116+00:00"
       },
       {
         "id": "c067eb83df52",
@@ -124,73 +94,49 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.507,
+        "score": 11.399,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
-        "id": "7931550ae5ff",
+        "id": "6f03085551b5",
         "category": "football",
         "lang": "en",
-        "title": "Timber’s touch of class and supersub Saka secure Arsenal win against Lille",
-        "summary": "Twelve wins in a row and counting. On a night when Arsenal remembered Ken Friar – the club’s life president who was instrumental in their move from Highbury to the Emirates in 2006 – it was fitting that Mikel Arteta’s side should rack up yet another…",
+        "title": "Southgate ‘hardly watches’ football and does not envisage Premier League return",
+        "summary": "Former England manager last went to game in May 2025 He says he got only brief enjoyment from wins by the end Gareth Southgate has all but ruled out a return to Premier League management and revealed he “didn’t even enjoy the wins” for more than a couple of…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/13/arsenal-lille-champions-league-match-report",
-        "publishedAt": "2026-10-13T21:02:51+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/15/gareth-southgate-premier-league-return-manager-hardly-watches-football",
+        "publishedAt": "2026-10-15T10:25:13+00:00",
         "subtopics": [
-          "Champions League",
+          "Premier League",
           "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/13/arsenal-lille-champions-league-match-report",
-            "publishedAt": "2026-10-13T21:02:51+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/15/gareth-southgate-premier-league-return-manager-hardly-watches-football",
+            "publishedAt": "2026-10-15T10:25:13+00:00",
             "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.809,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
-      },
-      {
-        "id": "e1098a4af2c1",
-        "category": "football",
-        "lang": "en",
-        "title": "Real Madrid produce incredible late comeback to beat Roma",
-        "summary": "Real Madrid complete their latest dramatic Champions League comeback by scoring three goals in the final seven minutes to earn manager Jose Mourinho a win on his return to Roma.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-        "publishedAt": "2026-10-14T23:01:00+00:00",
-        "subtopics": [
-          "La Liga",
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
+          },
           {
             "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-            "publishedAt": "2026-10-14T23:01:00+00:00",
+            "url": "https://www.skysports.com/football/live-blog/11095/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
+            "publishedAt": "2026-10-15T08:30:00+00:00",
             "tier": 2
           },
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:31:34+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-15T05:39:10+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.793,
-        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
+        "isNew": true,
+        "score": 7.902,
+        "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
         "id": "cae610d355e5",
@@ -217,45 +163,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.722,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
-        "transfer": "RUMOUR"
-      },
-      {
-        "id": "89d5d5749343",
-        "category": "football",
-        "lang": "en",
-        "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
-        "summary": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:00:28+00:00",
-        "subtopics": [
-          "Champions League",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:00:28+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/linz-ask-vs-liverpool/report/577627",
-            "publishedAt": "2026-10-14T19:30:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.659,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
+        "score": 7.576,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "transfer": "RUMOUR"
       },
       {
@@ -283,8 +193,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.454,
+        "isNew": false,
+        "score": 7.321,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -313,8 +223,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.008,
+        "isNew": false,
+        "score": 6.9,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -342,8 +252,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.975,
+        "isNew": false,
+        "score": 6.869,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -372,7 +282,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.915,
+        "score": 6.811,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
       },
       {
@@ -401,37 +311,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.913,
+        "score": 6.81,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
-      },
-      {
-        "id": "d504bb915736",
-        "category": "football",
-        "lang": "en",
-        "title": "Aston Villa hit Fenerbahce for six in big win at Villa Park",
-        "summary": "Aston Villa dismantled Fenerbahce with Nicolas Jackson and Ross Barkley scoring two each in a 6-0 Champions League win at Villa Park.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/aston-villa-vs-fenerbahce/report/577624",
-        "publishedAt": "2026-10-14T21:50:00+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/aston-villa-vs-fenerbahce/report/577624",
-            "publishedAt": "2026-10-14T21:50:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.913,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "0955c68d7d5c",
@@ -460,7 +341,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.905,
+        "score": 6.803,
+        "firstSeen": "2026-10-14T22:00:13.093482+00:00"
+      },
+      {
+        "id": "689f0b504038",
+        "category": "football",
+        "lang": "en",
+        "title": "Real Madrid stun Roma after dramatic late comeback",
+        "summary": "Real Madrid complete their latest dramatic Champions League comeback by scoring three goals in the final seven minutes to earn manager Jose Mourinho a win on his return to Roma.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:31:34+00:00",
+        "subtopics": [
+          "La Liga",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:31:34+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.79,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
       },
       {
@@ -490,7 +401,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.889,
+        "score": 6.787,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
       },
       {
@@ -519,7 +430,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.879,
+        "score": 6.778,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
       },
       {
@@ -547,8 +458,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.861,
+        "isNew": false,
+        "score": 6.761,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -576,8 +487,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.859,
+        "isNew": false,
+        "score": 6.759,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -606,7 +517,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.859,
+        "score": 6.759,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -636,7 +547,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.859,
+        "score": 6.759,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -666,7 +577,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.859,
+        "score": 6.759,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -696,8 +607,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.859,
+        "score": 6.759,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "89d5d5749343",
+        "category": "football",
+        "lang": "en",
+        "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
+        "summary": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T21:00:28+00:00",
+        "subtopics": [
+          "Champions League",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T21:00:28+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.758,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
+        "transfer": "RUMOUR"
       },
       {
         "id": "1297d881f45c",
@@ -725,7 +666,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.859,
+        "score": 6.758,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -754,7 +695,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.844,
+        "score": 6.744,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -783,7 +724,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.725,
+        "score": 6.632,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "transfer": "RUMOUR"
       },
@@ -814,7 +755,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.546,
+        "score": 6.463,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -844,7 +785,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.535,
+        "score": 6.452,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -873,37 +814,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.558,
+        "score": 5.528,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
-      },
-      {
-        "id": "7d88d5e90303",
-        "category": "football",
-        "lang": "en",
-        "title": "Sunderland hope to enjoy warmth in Portugal after 53 years away",
-        "summary": "Black Cats can reboot season against Torreense in Europa League in a break from tough start to domestic campaign There is a pleasing symmetry about Sunderland’s Europa League trip to Portugal to face Torreense on Thursday night. The club’s last competitive…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
-        "publishedAt": "2026-10-14T11:00:00+00:00",
-        "subtopics": [
-          "Europa League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
-            "publishedAt": "2026-10-14T11:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.313,
-        "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
         "id": "6cd836c8f310",
@@ -931,28 +843,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.297,
+        "score": 5.281,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00"
       },
       {
-        "id": "8bf85d065bbf",
+        "id": "7d88d5e90303",
         "category": "football",
         "lang": "en",
-        "title": "Blessin in disguise? Gladbach must scale mountain after derby defeat by Köln",
-        "summary": "Saïd El Mala’s winner illustrated the task faced by new Die Fohlen manager in reviving an injury-hit team A three-week break was exactly what Borussia Mönchengladbach needed after a chastening start to the Bundesliga campaign and perhaps what their new…",
+        "title": "Sunderland hope to enjoy warmth in Portugal after 53 years away",
+        "summary": "Black Cats can reboot season against Torreense in Europa League in a break from tough start to domestic campaign There is a pleasing symmetry about Sunderland’s Europa League trip to Portugal to face Torreense on Thursday night. The club’s last competitive…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/12/bundesliga-borussia-monchengladbach-koln-alexander-blessin-said-el-mala",
-        "publishedAt": "2026-10-12T11:53:02+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
+        "publishedAt": "2026-10-14T11:00:00+00:00",
         "subtopics": [
-          "Bundesliga",
+          "Europa League",
           "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/12/bundesliga-borussia-monchengladbach-koln-alexander-blessin-said-el-mala",
-            "publishedAt": "2026-10-12T11:53:02+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
+            "publishedAt": "2026-10-14T11:00:00+00:00",
             "tier": 2
           }
         ],
@@ -960,8 +872,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.256,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
+        "score": 5.242,
+        "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
         "id": "7703adb6573e",
@@ -990,7 +902,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.997,
+        "score": 4.97,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -1018,41 +930,83 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.677,
+        "isNew": false,
+        "score": 4.532,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
+      }
+    ],
+    "news": [
       {
-        "id": "92524206872f",
-        "category": "football",
-        "lang": "en",
-        "title": "Daniel Maldini finds his feet at Cagliari after years in family’s Serie A shadow",
-        "summary": "Son of Paolo and grandson of Cesare struggled to establish himself at Milan but Fabio Pisacane is beginning to unlock his potential in Sardinia The abundance could not last for ever. Serie A’s first goalless draw of this season arrived in its 54th match,…",
+        "id": "bafaac39441b",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
+        "summary": "Der DAX startet schwach in den Handel. Die hohe US-Inflation schürt die Sorge vor weiteren Zinserhöhungen und setzt Chipwerte weltweit unter Druck.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/12/daniel-maldini-cagliari-fabio-pisacane-serie-a",
-        "publishedAt": "2026-10-12T11:56:59+00:00",
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+        "publishedAt": "2026-10-15T11:47:18+00:00",
         "subtopics": [
-          "Serie A",
-          "Results"
+          "US",
+          "Germany",
+          "Economy"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/12/daniel-maldini-cagliari-fabio-pisacane-serie-a",
-            "publishedAt": "2026-10-12T11:56:59+00:00",
-            "tier": 2
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+            "publishedAt": "2026-10-15T11:47:18+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+            "publishedAt": "2026-10-15T11:47:18+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.756,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      }
-    ],
-    "news": [
+        "score": 7.973,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+      },
+      {
+        "id": "c42499fb9ca4",
+        "category": "news",
+        "lang": "de",
+        "title": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen",
+        "summary": "Im Bundestag wird heute über das \"Reservestärkungsgesetz\" beraten. Es soll dabei helfen, die Zahl der Reservistinnen und Reservisten zu erhöhen - auf 200.000 bis 2033.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
+        "publishedAt": "2026-10-15T11:03:31+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
+            "publishedAt": "2026-10-15T11:03:31+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
+            "publishedAt": "2026-10-15T11:03:31+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.941,
+        "firstSeen": "2026-10-15T12:23:28.936416+00:00"
+      },
       {
         "id": "68a2a545a3f9",
         "category": "news",
@@ -1085,44 +1039,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.913,
+        "score": 7.845,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "bafaac39441b",
-        "category": "news",
-        "lang": "de",
-        "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
-        "summary": "Der DAX startet schwach in den Handel. Die hohe US-Inflation schürt die Sorge vor weiteren Zinserhöhungen und setzt Chipwerte weltweit unter Druck.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-        "publishedAt": "2026-10-15T08:32:44+00:00",
-        "subtopics": [
-          "US",
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-            "publishedAt": "2026-10-15T08:32:44+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-            "publishedAt": "2026-10-15T08:32:44+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.901,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "f131eb5f93a2",
@@ -1149,8 +1067,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.843,
+        "isNew": false,
+        "score": 7.776,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1178,8 +1096,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.537,
+        "isNew": false,
+        "score": 7.469,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1214,7 +1132,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.253,
+        "score": 7.2,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1243,7 +1161,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.219,
+        "score": 7.167,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1272,7 +1190,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.204,
+        "score": 7.152,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1301,7 +1219,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.177,
+        "score": 7.126,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1336,7 +1254,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.165,
+        "score": 7.115,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1371,7 +1289,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.132,
+        "score": 7.082,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
@@ -1407,7 +1325,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.1,
+        "score": 7.051,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1448,7 +1366,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.091,
+        "score": 7.042,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1477,8 +1395,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.059,
+        "score": 7.011,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
+      },
+      {
+        "id": "31aef48b00f7",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: TSMC gibt sich keine Blöße",
+        "summary": "Neue US-Zinssorgen drücken vor allem die Kurse der hochbewerteten Tech-Aktien, allen voran der Chiphersteller. Die Fakten sprechen aber eine andere Sprache - wie heute die Zahlen von TSMC zeigen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
+        "publishedAt": "2026-10-15T11:56:37+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/tsmc-chipaktien-mb-mittag-100.html",
+            "publishedAt": "2026-10-15T11:56:37+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.98,
+        "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
         "id": "355a2ab8f4a7",
@@ -1511,38 +1459,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.901,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "db6c5caeedb1",
-        "category": "news",
-        "lang": "de",
-        "title": "Wieder Einbruchsversuch mit dem Auto bei Hamburger Juwelier",
-        "summary": "Diesmal war ein Geschäft in Harburg Ziel von Einbrechern. Sie scheiterten allerdings.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/wieder-einbruchsversuch-mit-dem-auto-bei-hamburger-juwelier,kurzehh-4608.html",
-        "publishedAt": "2026-10-14T14:07:16+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/wieder-einbruchsversuch-mit-dem-auto-bei-hamburger-juwelier,kurzehh-4608.html",
-            "publishedAt": "2026-10-14T14:07:16+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.805,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+        "score": 6.833,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "f22f0e71f965",
@@ -1575,8 +1494,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.672,
+        "isNew": false,
+        "score": 6.609,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+      },
+      {
+        "id": "da0f188997d8",
+        "category": "news",
+        "lang": "de",
+        "title": "Nach Anschlagsplänen: Mutmaßliche Spione des Iran in Hamburg verurteilt",
+        "summary": "Zwei Männer haben nach Überzeugung des Gerichts antisemitische Anschläge in Deutschland vorbereitet - unter anderem auf Volker Beck und Josef Schuster.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/mutmassliche-spione-des-iran-in-hamburg-vor-gericht-urteile-erwartet,terrorprozess-102.html",
+        "publishedAt": "2026-10-15T11:37:40+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Iran",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/mutmassliche-spione-des-iran-in-hamburg-vor-gericht-urteile-erwartet,terrorprozess-102.html",
+            "publishedAt": "2026-10-15T11:37:40+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.566,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1605,38 +1554,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.599,
+        "score": 6.562,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
-      },
-      {
-        "id": "da0f188997d8",
-        "category": "news",
-        "lang": "de",
-        "title": "Nach Anschlagsplänen: Mutmaßliche Spione des Iran in Hamburg verurteilt",
-        "summary": "Zwei Männer haben nach Überzeugung des Gerichts antisemitische Anschläge in Deutschland vorbereitet - unter anderem auf Volker Beck und Josef Schuster.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/mutmassliche-spione-des-iran-in-hamburg-vor-gericht-urteile-erwartet,terrorprozess-102.html",
-        "publishedAt": "2026-10-15T10:30:01+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Iran",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/mutmassliche-spione-des-iran-in-hamburg-vor-gericht-urteile-erwartet,terrorprozess-102.html",
-            "publishedAt": "2026-10-15T10:30:01+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.587,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "2f66c35c06eb",
@@ -1670,7 +1589,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.567,
+        "score": 6.53,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
@@ -1699,65 +1618,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.553,
+        "score": 6.517,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00"
-      },
-      {
-        "id": "cdaed0dac299",
-        "category": "news",
-        "lang": "de",
-        "title": "Deutschlands erster Cruyff Court in Hamburg-Wilhelmsburg eröffnet",
-        "summary": "Der barrierefreie Kunstrasenplatz ist am Mittwoch am Helmut-Schmidt-Gymnasium in Betrieb gegangen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
-        "publishedAt": "2026-10-15T08:44:14+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
-            "publishedAt": "2026-10-15T08:44:14+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.509,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "93b9b3e6cc3b",
-        "category": "news",
-        "lang": "de",
-        "title": "Frau von U-Bahn überrollt - U2 zwischenzeitig gesperrt",
-        "summary": "Eine Frau wurde an der Station Messehallen von einer einfahrenden U-Bahn schwer verletzt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/frau-von-u-bahn-ueberrollt-u2-zwischenzeitig-gesperrt,kurzehh-4614.html",
-        "publishedAt": "2026-10-15T08:29:06+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/frau-von-u-bahn-ueberrollt-u2-zwischenzeitig-gesperrt,kurzehh-4614.html",
-            "publishedAt": "2026-10-15T08:29:06+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.499,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "2157e669c5eb",
@@ -1785,8 +1647,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.482,
+        "score": 6.448,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+      },
+      {
+        "id": "cdaed0dac299",
+        "category": "news",
+        "lang": "de",
+        "title": "Deutschlands erster Cruyff Court in Hamburg-Wilhelmsburg eröffnet",
+        "summary": "Der barrierefreie Kunstrasenplatz ist am Mittwoch am Helmut-Schmidt-Gymnasium in Betrieb gegangen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
+        "publishedAt": "2026-10-15T08:44:14+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
+            "publishedAt": "2026-10-15T08:44:14+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.441,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "2c0b5a1283a1",
@@ -1820,8 +1711,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.466,
+        "score": 6.432,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+      },
+      {
+        "id": "93b9b3e6cc3b",
+        "category": "news",
+        "lang": "de",
+        "title": "Frau von U-Bahn überrollt - U2 zwischenzeitig gesperrt",
+        "summary": "Eine Frau wurde an der Station Messehallen von einer einfahrenden U-Bahn schwer verletzt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/frau-von-u-bahn-ueberrollt-u2-zwischenzeitig-gesperrt,kurzehh-4614.html",
+        "publishedAt": "2026-10-15T08:29:06+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/frau-von-u-bahn-ueberrollt-u2-zwischenzeitig-gesperrt,kurzehh-4614.html",
+            "publishedAt": "2026-10-15T08:29:06+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.431,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "5af2fa739610",
@@ -1848,7 +1767,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.446,
+        "score": 6.379,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1883,7 +1802,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.408,
+        "score": 6.351,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1911,37 +1830,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.317,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "291f0dc12052",
-        "category": "news",
-        "lang": "de",
-        "title": "Journalisten-Ausbildung verändert sich: \"KI kriecht überall rein\"",
-        "summary": "Social Media, Künstliche Intelligenz und politischer Druck beschäftigen die Journalistinnen und Journalisten. Die Ausbildung muss daran angepasst werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/info/journalisten-ausbildung-veraendert-sich-ki-kriecht-ueberall-rein,journalistenausbildung-100.html",
-        "publishedAt": "2026-10-15T04:00:00+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/info/journalisten-ausbildung-veraendert-sich-ki-kriecht-ueberall-rein,journalistenausbildung-100.html",
-            "publishedAt": "2026-10-15T04:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.311,
+        "isNew": false,
+        "score": 6.253,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1976,8 +1866,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.281,
+        "score": 6.251,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+      },
+      {
+        "id": "291f0dc12052",
+        "category": "news",
+        "lang": "de",
+        "title": "Journalisten-Ausbildung verändert sich: \"KI kriecht überall rein\"",
+        "summary": "Social Media, Künstliche Intelligenz und politischer Druck beschäftigen die Journalistinnen und Journalisten. Die Ausbildung muss daran angepasst werden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/info/journalisten-ausbildung-veraendert-sich-ki-kriecht-ueberall-rein,journalistenausbildung-100.html",
+        "publishedAt": "2026-10-15T04:00:00+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/info/journalisten-ausbildung-veraendert-sich-ki-kriecht-ueberall-rein,journalistenausbildung-100.html",
+            "publishedAt": "2026-10-15T04:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.248,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "4492d1e50f47",
@@ -2004,8 +1923,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.255,
+        "isNew": false,
+        "score": 6.186,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -2040,37 +1959,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.167,
+        "score": 6.116,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "792c2ade7b0a",
-        "category": "news",
-        "lang": "de",
-        "title": "Wärmepumpen dominieren den Heizungsmarkt - \"Öl ist praktisch tot\"",
-        "summary": "Seit Jahren sind Wärmepumpen ein Reizthema in der Politik. Trotz ständig wechselnder gesetzlicher Vorgaben boomt das Geschäft mit den klimafreundlicheren Heizungen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/energie/waermepumpen-bilanz-heizen-100.html",
-        "publishedAt": "2026-10-14T11:28:13+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/energie/waermepumpen-bilanz-heizen-100.html",
-            "publishedAt": "2026-10-14T11:28:13+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.12,
-        "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
         "id": "747407d3321e",
@@ -2104,8 +1994,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.105,
+        "score": 6.079,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00"
+      },
+      {
+        "id": "792c2ade7b0a",
+        "category": "news",
+        "lang": "de",
+        "title": "Wärmepumpen dominieren den Heizungsmarkt - \"Öl ist praktisch tot\"",
+        "summary": "Seit Jahren sind Wärmepumpen ein Reizthema in der Politik. Trotz ständig wechselnder gesetzlicher Vorgaben boomt das Geschäft mit den klimafreundlicheren Heizungen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/energie/waermepumpen-bilanz-heizen-100.html",
+        "publishedAt": "2026-10-14T11:28:13+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/energie/waermepumpen-bilanz-heizen-100.html",
+            "publishedAt": "2026-10-14T11:28:13+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.07,
+        "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
         "id": "b586331d94d0",
@@ -2139,52 +2058,42 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.072,
+        "score": 6.047,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
-      },
+      }
+    ],
+    "medical": [
       {
-        "id": "c63f57958089",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundesregierung einigt sich bei Zuckersteuer auf Zwei-Stufen-Modell",
-        "summary": "Nach der Einigung von Union und SPD zur Zuckersteuer hat das Bundeskabinett den entsprechenden Gesetzesentwurf auf den Weg gebracht. Ab dem 1.",
+        "id": "ca362836d0a4",
+        "category": "medical",
+        "lang": "en",
+        "title": "Biceps Tendon- Superior Capsule Reconstruction and Acellular Dermal Matrix Augmentation for Large to Massive Incompletely Repairable Rotator Cuff Tears",
+        "summary": "Large-to-Massive rotator cuff tears of the shoulder with poor tendon and muscle quality often cannot be fully repaired back to its footprint, and they have a high risk of re-tear. This study evaluates a combined technique for these tears.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-        "publishedAt": "2026-10-14T09:44:37+00:00",
+        "url": "https://clinicaltrials.gov/study/NCT07875556",
+        "publishedAt": "2026-10-15T00:00:00+00:00",
         "subtopics": [
-          "Germany",
-          "Law & Policy"
+          "Reconstructive surgery",
+          "Dermal matrices"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-            "publishedAt": "2026-10-14T09:44:37+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-            "publishedAt": "2026-10-14T09:44:37+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-bundesregierung-einigung-100.html",
-            "publishedAt": "2026-10-14T09:44:37+00:00",
-            "tier": 1
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07875556",
+            "publishedAt": "2026-10-15T00:00:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.066,
-        "firstSeen": "2026-10-14T11:06:05.228643+00:00"
-      }
-    ],
-    "medical": [
+        "isNew": true,
+        "score": 11.521,
+        "firstSeen": "2026-10-15T12:23:28.936416+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": true
+      },
       {
         "id": "3ec762fb18cf",
         "category": "medical",
@@ -2212,7 +2121,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.941,
+        "score": 10.923,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2243,7 +2152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.941,
+        "score": 9.923,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2275,40 +2184,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.565,
+        "score": 9.558,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": true
-      },
-      {
-        "id": "1bfc6574f0c5",
-        "category": "medical",
-        "lang": "en",
-        "title": "Study of GalaFLEX LITE™ Scaffold in Treatment of Capsular Contracture After Breast Implant Augmentation",
-        "summary": "Prospective, randomized, controlled study to assess the safety and effectiveness of GalaFLEX LITE™ Scaffold in revision surgery for reduction of capsular contracture recurrence and/or malposition in implant-based breast augmentation patients versus patients…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT05945329",
-        "publishedAt": "2026-09-25T00:00:00+00:00",
-        "subtopics": [
-          "Dermal matrices",
-          "Biomaterials",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT05945329",
-            "publishedAt": "2026-09-25T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 8.963,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
       },
@@ -2339,39 +2216,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.224,
+        "score": 8.205,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "a6d7f775a9a8",
-        "category": "medical",
-        "lang": "en",
-        "title": "Nebulized Human Amniotic Fluid in Patients With Interstitial Lung Disease",
-        "summary": "This is a Phase I, pilot clinical trial designed to evaluate the safety and exploratory efficacy of nebulized diluted amniotic fluid, Matrix (HAF-Matrix) in adults with interstitial lung disease (ILD). ILDs are progressive fibrotic disorders characterized by…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07372989",
-        "publishedAt": "2026-10-13T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07372989",
-            "publishedAt": "2026-10-13T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.941,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -2401,8 +2247,77 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.941,
+        "score": 7.923,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "a6d7f775a9a8",
+        "category": "medical",
+        "lang": "en",
+        "title": "Nebulized Human Amniotic Fluid in Patients With Interstitial Lung Disease",
+        "summary": "This is a Phase I, pilot clinical trial designed to evaluate the safety and exploratory efficacy of nebulized diluted amniotic fluid, Matrix (HAF-Matrix) in adults with interstitial lung disease (ILD). ILDs are progressive fibrotic disorders characterized by…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07372989",
+        "publishedAt": "2026-10-13T00:00:00+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07372989",
+            "publishedAt": "2026-10-13T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.923,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "58fd70cf362b",
+        "category": "medical",
+        "lang": "en",
+        "title": "Safety and Clinical Performance of a Biological Matrix Used in Implant-based Breast Reconstruction",
+        "summary": "The general objective of the study is to confirm the medium/long-term safety and clinical performance of the CELLIS membrane used in abdominal wall reconstruction including, but not limited to, ventral hernia repair and stoma closure, and to identify…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT05031962",
+        "publishedAt": "2026-10-08T00:00:00+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Plastic surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT05031962",
+            "publishedAt": "2026-10-08T00:00:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT04580511",
+            "publishedAt": "2026-10-08T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.926,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -2432,45 +2347,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.936,
-        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "58fd70cf362b",
-        "category": "medical",
-        "lang": "en",
-        "title": "Safety and Clinical Performance of a Biological Matrix Used in Abdominal Wall Reconstruction",
-        "summary": "The general objective of the study is to confirm the medium/long-term safety and clinical performance of the CELLIS membrane used in abdominal wall reconstruction including, but not limited to, ventral hernia repair and stoma closure, and to identify…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT04580511",
-        "publishedAt": "2026-10-08T00:00:00+00:00",
-        "subtopics": [
-          "Reconstructive surgery",
-          "Plastic surgery",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT04580511",
-            "publishedAt": "2026-10-08T00:00:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT05031962",
-            "publishedAt": "2026-10-08T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.936,
+        "score": 6.926,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2501,7 +2378,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.565,
+        "score": 6.558,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2533,7 +2410,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.237,
+        "score": 6.233,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2570,7 +2447,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.237,
+        "score": 6.233,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2601,7 +2478,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.218,
+        "score": 5.196,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2632,7 +2509,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.933,
+        "score": 4.914,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2663,7 +2540,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.703,
+        "score": 4.691,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2694,7 +2571,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.657,
+        "score": 4.64,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2724,7 +2601,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.332,
+        "score": 3.315,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2755,7 +2632,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.763,
+        "score": 2.761,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2786,8 +2663,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.957,
+        "isNew": false,
+        "score": 4.9,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
@@ -2816,7 +2693,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.933,
+        "score": 4.895,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2852,7 +2729,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.783,
+        "score": 4.73,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
@@ -2882,7 +2759,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.295,
+        "score": 4.26,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -2911,7 +2788,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.261,
+        "score": 4.22,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -2941,7 +2818,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.248,
+        "score": 4.207,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00",
         "kind": "article"
       },
@@ -2971,7 +2848,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.23,
+        "score": 4.196,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -3000,7 +2877,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.03,
+        "score": 3.994,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00",
         "kind": "article"
       },
@@ -3031,7 +2908,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.998,
+        "score": 3.988,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "kind": "video",
         "video": {
@@ -3069,7 +2946,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.99,
+        "score": 3.955,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -3099,7 +2976,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.856,
+        "score": 3.854,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -3135,7 +3012,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.812,
+        "score": 3.811,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -3177,37 +3054,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.782,
+        "score": 3.752,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "d81a3a0e0e0d",
-        "category": "growth",
-        "lang": "en",
-        "title": "llm-meta-ai 0.2",
-        "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-        "publishedAt": "2026-10-12T23:58:46+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-            "publishedAt": "2026-10-12T23:58:46+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.75,
-        "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
       {
@@ -3235,7 +3083,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.745,
+        "score": 3.743,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -3272,7 +3120,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.73,
+        "score": 3.728,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -3282,6 +3130,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=gduYQKmz05M",
           "channel": "TED"
         }
+      },
+      {
+        "id": "d81a3a0e0e0d",
+        "category": "growth",
+        "lang": "en",
+        "title": "llm-meta-ai 0.2",
+        "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+        "publishedAt": "2026-10-12T23:58:46+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+            "publishedAt": "2026-10-12T23:58:46+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.721,
+        "firstSeen": "2026-10-13T23:10:38.643116+00:00",
+        "kind": "article"
       },
       {
         "id": "7961cc30350d",
@@ -3308,7 +3185,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.685,
+        "score": 3.684,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -3346,7 +3223,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.648,
+        "score": 3.621,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -3375,7 +3252,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.626,
+        "score": 3.6,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "kind": "article"
       },
@@ -3406,7 +3283,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.56,
+        "score": 3.554,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -3416,35 +3293,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "24d721d47322",
-        "category": "growth",
-        "lang": "en",
-        "title": "Python 3.15.0 added to actions/python-versions",
-        "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-        "publishedAt": "2026-10-10T23:58:04+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-            "publishedAt": "2026-10-10T23:58:04+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.112,
-        "firstSeen": "2026-10-11T12:02:01.731809+00:00",
-        "kind": "article"
       },
       {
         "id": "126aa063fc33",
@@ -3479,8 +3327,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.099,
+        "score": 3.098,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "24d721d47322",
+        "category": "growth",
+        "lang": "en",
+        "title": "Python 3.15.0 added to actions/python-versions",
+        "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+        "publishedAt": "2026-10-10T23:58:04+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+            "publishedAt": "2026-10-10T23:58:04+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.098,
+        "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
       {
@@ -3507,8 +3384,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.098,
+        "isNew": false,
+        "score": 3.096,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
@@ -3538,7 +3415,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.051,
+        "score": 3.049,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -3567,7 +3444,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.942,
+        "score": 2.931,
         "firstSeen": "2026-10-10T11:50:15.612455+00:00",
         "kind": "article"
       },
@@ -3597,7 +3474,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.875,
+        "score": 2.866,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -3628,7 +3505,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.863,
+        "score": 2.855,
         "firstSeen": "2026-10-09T14:03:47.576436+00:00",
         "kind": "article"
       },
@@ -3663,7 +3540,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.802,
+        "score": 2.795,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
@@ -3692,7 +3569,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.787,
+        "score": 2.78,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "article"
       },
@@ -3722,7 +3599,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.673,
+        "score": 2.671,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3753,7 +3630,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.64,
+        "score": 2.639,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3784,7 +3661,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.602,
+        "score": 2.6,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3813,7 +3690,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.509,
+        "score": 2.508,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3844,7 +3721,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.402,
+        "score": 2.401,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3875,7 +3752,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.376,
+        "score": 2.375,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       }
@@ -4058,8 +3935,8 @@
     }
   ],
   "filteredOut": {
-    "football": 50,
-    "news": 51,
+    "football": 52,
+    "news": 52,
     "medical": 10,
     "growth": 51
   }
