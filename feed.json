@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:53:35.502089+00:00",
+  "generatedAt": "2026-10-15T21:54:26.748160+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,8 +34,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.347,
+        "isNew": false,
+        "score": 13.266,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -64,7 +64,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.951,
+        "score": 12.883,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "transfer": "RUMOUR"
       },
@@ -95,8 +95,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.309,
+        "score": 12.264,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "992133a731e1",
+        "category": "football",
+        "lang": "en",
+        "title": "Evanilson shocks Sturm Graz to spark Bournemouth’s first home win in Europe",
+        "summary": "An impossible dream realised in the Vitality staging European football, and the Europa League is becoming an oasis for Bournemouth. No wins yet in the Premier League but in beating Sturm Graz to follow victory at Real Sociedad should ease the domestic…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
+        "publishedAt": "2026-10-15T21:09:41+00:00",
+        "subtopics": [
+          "La Liga",
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
+            "publishedAt": "2026-10-15T21:09:41+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.923,
+        "firstSeen": "2026-10-15T21:54:26.748160+00:00"
       },
       {
         "id": "3028ff74731f",
@@ -123,50 +153,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.327,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
-      },
-      {
-        "id": "6f03085551b5",
-        "category": "football",
-        "lang": "en",
-        "title": "Southgate ‘hardly watches’ football and does not envisage Premier League return",
-        "summary": "Former England manager last went to game in May 2025 He says he got only brief enjoyment from wins by the end Gareth Southgate has all but ruled out a return to Premier League management and revealed he “didn’t even enjoy the wins” for more than a couple of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/15/gareth-southgate-premier-league-return-manager-hardly-watches-football",
-        "publishedAt": "2026-10-15T10:25:13+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/15/gareth-southgate-premier-league-return-manager-hardly-watches-football",
-            "publishedAt": "2026-10-15T10:25:13+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
-            "publishedAt": "2026-10-15T08:30:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-15T05:39:10+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.185,
-        "firstSeen": "2026-10-15T12:23:28.936416+00:00"
+        "score": 7.246,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "acc3c72b8620",
@@ -193,39 +182,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.943,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
-      },
-      {
-        "id": "cae610d355e5",
-        "category": "football",
-        "lang": "en",
-        "title": "'Top two - why not?' - Why Sangare turned down top clubs for Brentford",
-        "summary": "Mamadou Sangare could have been playing Champions League football this week. After all, the signs point to him being an elite-level player.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13599149/mamadou-sangare-interview-brentford-midfielder-reveals-why-he-turned-down-top-clubs-in-europe-for-the-bees",
-        "publishedAt": "2026-10-15T08:00:00+00:00",
-        "subtopics": [
-          "Champions League",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13599149/mamadou-sangare-interview-brentford-midfielder-reveals-why-he-turned-down-top-clubs-in-europe-for-the-bees",
-            "publishedAt": "2026-10-15T08:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.917,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
-        "transfer": "RUMOUR"
+        "score": 6.859,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "6358b9a21e5c",
@@ -253,7 +212,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.728,
+        "score": 6.668,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -283,28 +242,34 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.414,
+        "score": 6.365,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
-        "id": "e34077f62e30",
+        "id": "6f03085551b5",
         "category": "football",
         "lang": "en",
-        "title": "Jackson steps up again as Aston Villa revival continues",
-        "summary": "Nicolas Jackson continues his fine goalscoring form as Aston Villa record an impressive Champions League win.",
+        "title": "Southgate ‘hardly watches’ football and does not envisage Premier League return",
+        "summary": "Former England manager last went to game in May 2025 He says he got only brief enjoyment from wins by the end Gareth Southgate has all but ruled out a return to Premier League management and revealed he “didn’t even enjoy the wins” for more than a couple of…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T22:45:22+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/15/gareth-southgate-premier-league-return-manager-hardly-watches-football",
+        "publishedAt": "2026-10-15T10:25:13+00:00",
         "subtopics": [
-          "Champions League",
+          "Premier League",
           "Results"
         ],
         "sources": [
           {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/15/gareth-southgate-premier-league-return-manager-hardly-watches-football",
+            "publishedAt": "2026-10-15T10:25:13+00:00",
+            "tier": 2
+          },
+          {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T22:45:22+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-15T05:39:10+00:00",
             "tier": 2
           }
         ],
@@ -312,8 +277,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.391,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+        "score": 6.313,
+        "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
         "id": "e3381bdcd5a1",
@@ -341,7 +306,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.348,
+        "score": 6.302,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
       },
       {
@@ -371,7 +336,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.342,
+        "score": 6.296,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
       },
       {
@@ -401,7 +366,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.333,
+        "score": 6.287,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
       },
       {
@@ -431,7 +396,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.331,
+        "score": 6.284,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
       },
       {
@@ -460,7 +425,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.324,
+        "score": 6.278,
         "firstSeen": "2026-10-14T22:00:13.093482+00:00"
       },
       {
@@ -489,7 +454,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.311,
+        "score": 6.265,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -518,7 +483,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.309,
+        "score": 6.264,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -547,7 +512,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.309,
+        "score": 6.264,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -577,7 +542,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.309,
+        "score": 6.264,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -607,7 +572,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.309,
+        "score": 6.264,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -637,7 +602,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.309,
+        "score": 6.264,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -666,7 +631,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.309,
+        "score": 6.264,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "transfer": "RUMOUR"
       },
@@ -696,7 +661,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.309,
+        "score": 6.264,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -725,7 +690,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.299,
+        "score": 6.254,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -754,7 +719,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.215,
+        "score": 6.173,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "transfer": "RUMOUR"
       },
@@ -785,7 +750,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.089,
+        "score": 6.051,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "6ecc0a7e93a4",
+        "category": "football",
+        "lang": "en",
+        "title": "Wilcox the target again in another damaging Man Utd fallout",
+        "summary": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-14T15:30:03+00:00",
+        "subtopics": [
+          "La Liga",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-14T15:30:03+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.044,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -813,9 +808,96 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.853,
+        "isNew": false,
+        "score": 5.754,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
+      },
+      {
+        "id": "3156660d4671",
+        "category": "football",
+        "lang": "en",
+        "title": "Bournemouth beat Sturm Graz in first ever home European game",
+        "summary": "Bournemouth's history-making season continued on Thursday as they played - and won - their first-ever home European match, beating Sturm Graz 3-0 in the Europa League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/bournemouth-vs-sturm-graz/report/577761",
+        "publishedAt": "2026-10-15T22:05:00+00:00",
+        "subtopics": [
+          "Europa League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/bournemouth-vs-sturm-graz/report/577761",
+            "publishedAt": "2026-10-15T22:05:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.5,
+        "firstSeen": "2026-10-15T21:54:26.748160+00:00"
+      },
+      {
+        "id": "a9ab5d487a0d",
+        "category": "football",
+        "lang": "en",
+        "title": "Celtic beaten again in Europa League as Benfica prove too good",
+        "summary": "Celtic showed second-half fight but were ultimately outclassed away to Benfica as they were beaten 4-1 in the Europa League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/benfica-vs-celtic/report/577760",
+        "publishedAt": "2026-10-15T21:45:00+00:00",
+        "subtopics": [
+          "Europa League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/benfica-vs-celtic/report/577760",
+            "publishedAt": "2026-10-15T21:45:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.484,
+        "firstSeen": "2026-10-15T21:54:26.748160+00:00"
+      },
+      {
+        "id": "7fca59f0fb63",
+        "category": "football",
+        "lang": "en",
+        "title": "Rutter scores twice as Brighton win big and go top in Conference League",
+        "summary": "Georginio Rutter scored twice and set up one as Brighton thrashed Kauno Zalgris 4-0 to get their Conference League campaign off to a winning start.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-kauno-zalgiris/report/577887",
+        "publishedAt": "2026-10-15T21:45:00+00:00",
+        "subtopics": [
+          "Europa League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-kauno-zalgiris/report/577887",
+            "publishedAt": "2026-10-15T21:45:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.484,
+        "firstSeen": "2026-10-15T21:54:26.748160+00:00"
       },
       {
         "id": "b9eb62b6a31d",
@@ -842,8 +924,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.358,
+        "isNew": false,
+        "score": 5.259,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -871,29 +953,29 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.358,
+        "isNew": false,
+        "score": 5.259,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
-        "id": "0b5b101209e9",
+        "id": "e1098a4af2c1",
         "category": "football",
         "lang": "en",
-        "title": "The Portuguese second-tier team hosting Sunderland in Europe",
-        "summary": "Portuguese second-tier side Torreense host Sunderland in the Europa League in what will be their first ever European home match.",
+        "title": "Kolo Muani and Woltemade send Juve top of EL as Hearts draw in Conference League",
+        "summary": "",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-15T07:30:41+00:00",
+        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+        "publishedAt": "2026-10-14T23:01:00+00:00",
         "subtopics": [
           "Europa League",
-          "Upcoming"
+          "Results"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-15T07:30:41+00:00",
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+            "publishedAt": "2026-10-14T23:01:00+00:00",
             "tier": 2
           }
         ],
@@ -901,8 +983,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.885,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+        "score": 3.855,
+        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
       }
     ],
     "news": [
@@ -937,8 +1019,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.91,
+        "isNew": false,
+        "score": 7.866,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -973,7 +1055,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.812,
+        "score": 7.77,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1008,7 +1090,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.592,
+        "score": 7.553,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -1036,8 +1118,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.511,
+        "isNew": false,
+        "score": 7.468,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1066,7 +1148,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.446,
+        "score": 7.41,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1095,7 +1177,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.128,
+        "score": 7.09,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1130,7 +1212,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.939,
+        "score": 6.91,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1159,7 +1241,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.909,
+        "score": 6.88,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1188,7 +1270,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.897,
+        "score": 6.868,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1217,7 +1299,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.873,
+        "score": 6.845,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1252,7 +1334,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.863,
+        "score": 6.835,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1287,7 +1369,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.835,
+        "score": 6.807,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
@@ -1323,7 +1405,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.807,
+        "score": 6.78,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1364,7 +1446,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.799,
+        "score": 6.772,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1393,7 +1475,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.772,
+        "score": 6.745,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1421,8 +1503,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.707,
+        "isNew": false,
+        "score": 6.667,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1452,7 +1534,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.626,
+        "score": 6.587,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -1487,7 +1569,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.496,
+        "score": 6.459,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1515,8 +1597,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.474,
+        "isNew": false,
+        "score": 6.431,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1544,8 +1626,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.464,
+        "isNew": false,
+        "score": 6.421,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1574,7 +1656,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.376,
+        "score": 6.355,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
@@ -1609,7 +1691,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.348,
+        "score": 6.328,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
@@ -1638,7 +1720,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.336,
+        "score": 6.316,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00"
       },
       {
@@ -1665,8 +1747,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.321,
+        "isNew": false,
+        "score": 6.28,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1701,7 +1783,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.299,
+        "score": 6.264,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1730,7 +1812,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.276,
+        "score": 6.256,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
@@ -1765,37 +1847,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.261,
+        "score": 6.243,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
-      },
-      {
-        "id": "cdaed0dac299",
-        "category": "news",
-        "lang": "de",
-        "title": "Deutschlands erster Cruyff Court in Hamburg-Wilhelmsburg eröffnet",
-        "summary": "Der barrierefreie Kunstrasenplatz ist am Mittwoch am Helmut-Schmidt-Gymnasium in Betrieb gegangen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
-        "publishedAt": "2026-10-15T08:44:14+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
-            "publishedAt": "2026-10-15T08:44:14+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.104,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "682ff229bed3",
@@ -1829,8 +1882,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.103,
+        "score": 6.086,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+      },
+      {
+        "id": "cdaed0dac299",
+        "category": "news",
+        "lang": "de",
+        "title": "Deutschlands erster Cruyff Court in Hamburg-Wilhelmsburg eröffnet",
+        "summary": "Der barrierefreie Kunstrasenplatz ist am Mittwoch am Helmut-Schmidt-Gymnasium in Betrieb gegangen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
+        "publishedAt": "2026-10-15T08:44:14+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
+            "publishedAt": "2026-10-15T08:44:14+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.066,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "93b9b3e6cc3b",
@@ -1857,7 +1939,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.094,
+        "score": 6.057,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1892,7 +1974,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.072,
+        "score": 6.041,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1927,37 +2009,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.951,
+        "score": 5.937,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00"
-      },
-      {
-        "id": "b6509bc05e11",
-        "category": "news",
-        "lang": "de",
-        "title": "Mehr Hacker-Schutz für Hochschulen: Bürgerschaft stimmt zu",
-        "summary": "Hamburgs Hochschulen sind offenbar ein attraktives Ziel für Cyber-Kriminelle. Jetzt sollen Millionen in die Sicherheit fließen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/mehr-hacker-schutz-fuer-hochschulen-buergerschaft-stimmt-zu,cybersicherheit-126.html",
-        "publishedAt": "2026-10-15T04:08:23+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/mehr-hacker-schutz-fuer-hochschulen-buergerschaft-stimmt-zu,cybersicherheit-126.html",
-            "publishedAt": "2026-10-15T04:08:23+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.938,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "b586331d94d0",
@@ -1991,8 +2044,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.923,
+        "score": 5.909,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
+      },
+      {
+        "id": "b6509bc05e11",
+        "category": "news",
+        "lang": "de",
+        "title": "Mehr Hacker-Schutz für Hochschulen: Bürgerschaft stimmt zu",
+        "summary": "Hamburgs Hochschulen sind offenbar ein attraktives Ziel für Cyber-Kriminelle. Jetzt sollen Millionen in die Sicherheit fließen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/mehr-hacker-schutz-fuer-hochschulen-buergerschaft-stimmt-zu,cybersicherheit-126.html",
+        "publishedAt": "2026-10-15T04:08:23+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/mehr-hacker-schutz-fuer-hochschulen-buergerschaft-stimmt-zu,cybersicherheit-126.html",
+            "publishedAt": "2026-10-15T04:08:23+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.903,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "b6f809031c18",
@@ -2020,7 +2102,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.916,
+        "score": 5.902,
         "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       }
     ],
@@ -2051,7 +2133,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.405,
+        "score": 11.391,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2083,7 +2165,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.832,
+        "score": 10.821,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2114,7 +2196,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.832,
+        "score": 9.821,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2146,7 +2228,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.522,
+        "score": 9.518,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2178,7 +2260,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.101,
+        "score": 8.089,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2209,7 +2291,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.832,
+        "score": 7.821,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2240,7 +2322,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.832,
+        "score": 7.821,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2278,7 +2360,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.875,
+        "score": 6.87,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2309,7 +2391,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.875,
+        "score": 6.87,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2340,7 +2422,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.522,
+        "score": 6.518,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2372,7 +2454,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.211,
+        "score": 6.208,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2409,7 +2491,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.211,
+        "score": 6.208,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2439,8 +2521,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.414,
+        "isNew": false,
+        "score": 5.399,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2471,7 +2553,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.085,
+        "score": 5.072,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2502,7 +2584,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.814,
+        "score": 4.803,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2533,7 +2615,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.551,
+        "score": 4.541,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2563,7 +2645,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.228,
+        "score": 3.218,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2594,7 +2676,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.75,
+        "score": 2.749,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2626,8 +2708,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.451,
+        "isNew": false,
+        "score": 5.407,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -2656,8 +2738,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.17,
+        "isNew": false,
+        "score": 5.13,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -2686,7 +2768,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.705,
+        "score": 4.684,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2722,7 +2804,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.614,
+        "score": 4.583,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
@@ -2751,7 +2833,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.465,
+        "score": 4.435,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
@@ -2781,7 +2863,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.087,
+        "score": 4.067,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -2811,7 +2893,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.03,
+        "score": 4.012,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -2840,7 +2922,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.015,
+        "score": 3.993,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -2870,7 +2952,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.004,
+        "score": 3.981,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00",
         "kind": "article"
       },
@@ -2901,7 +2983,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.942,
+        "score": 3.937,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "kind": "video",
         "video": {
@@ -2938,7 +3020,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.846,
+        "score": 3.845,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2946,6 +3028,42 @@
           "thumbUrl": "https://i1.ytimg.com/vi/PpEUTpzWt2M/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=PpEUTpzWt2M",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "ed019a905ba6",
+        "category": "growth",
+        "lang": "en",
+        "title": "How to Start Any Conversation the Right Way | Chris Fenning | TED",
+        "summary": "What's your point? Communication expert Chris Fenning reveals how the first 60 seconds can make or break a workplace conversation — and shares a three-step framework to help you get it right.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=CKAyfGItpgg",
+        "publishedAt": "2026-10-11T18:00:21+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=CKAyfGItpgg",
+            "publishedAt": "2026-10-11T18:00:21+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.802,
+        "firstSeen": "2026-10-11T21:25:37.196199+00:00",
+        "kind": "video",
+        "video": {
+          "id": "CKAyfGItpgg",
+          "thumbUrl": "https://i4.ytimg.com/vi/CKAyfGItpgg/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=CKAyfGItpgg",
           "channel": "TED"
         }
       },
@@ -2974,45 +3092,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.816,
+        "score": 3.797,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00",
         "kind": "article"
-      },
-      {
-        "id": "ed019a905ba6",
-        "category": "growth",
-        "lang": "en",
-        "title": "How to Start Any Conversation the Right Way | Chris Fenning | TED",
-        "summary": "What's your point? Communication expert Chris Fenning reveals how the first 60 seconds can make or break a workplace conversation — and shares a three-step framework to help you get it right.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=CKAyfGItpgg",
-        "publishedAt": "2026-10-11T18:00:21+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=CKAyfGItpgg",
-            "publishedAt": "2026-10-11T18:00:21+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.803,
-        "firstSeen": "2026-10-11T21:25:37.196199+00:00",
-        "kind": "video",
-        "video": {
-          "id": "CKAyfGItpgg",
-          "thumbUrl": "https://i4.ytimg.com/vi/CKAyfGItpgg/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=CKAyfGItpgg",
-          "channel": "TED"
-        }
       },
       {
         "id": "dadc4d2723fb",
@@ -3041,7 +3123,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.782,
+        "score": 3.763,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -3070,7 +3152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.736,
+        "score": 3.735,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -3107,7 +3189,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.721,
+        "score": 3.72,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -3143,7 +3225,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.677,
+        "score": 3.676,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -3185,7 +3267,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.603,
+        "score": 3.587,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
@@ -3214,7 +3296,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.576,
+        "score": 3.56,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -3245,7 +3327,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.488,
+        "score": 3.473,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -3274,7 +3356,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.469,
+        "score": 3.455,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "kind": "article"
       },
@@ -3311,7 +3393,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.089,
+        "score": 3.088,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3340,7 +3422,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.088,
+        "score": 3.087,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
@@ -3370,7 +3452,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.041,
+        "score": 3.04,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -3399,7 +3481,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.027,
+        "score": 3.019,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
@@ -3428,7 +3510,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.88,
+        "score": 2.874,
         "firstSeen": "2026-10-10T11:50:15.612455+00:00",
         "kind": "article"
       },
@@ -3458,7 +3540,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.823,
+        "score": 2.818,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -3489,7 +3571,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.812,
+        "score": 2.808,
         "firstSeen": "2026-10-09T14:03:47.576436+00:00",
         "kind": "article"
       },
@@ -3524,37 +3606,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.76,
+        "score": 2.756,
         "firstSeen": "2026-10-09T12:30:39.295715+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "429b12e0917d",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Carson Gross",
-        "summary": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers and how to control…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-        "publishedAt": "2026-10-08T21:05:44+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/8/carson-gross/",
-            "publishedAt": "2026-10-08T21:05:44+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.747,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "article"
       },
       {
@@ -3583,7 +3636,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.664,
+        "score": 2.663,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3614,7 +3667,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.632,
+        "score": 2.631,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3645,7 +3698,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.594,
+        "score": 2.593,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3705,7 +3758,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.396,
+        "score": 2.395,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "61ec1eae87c6",
+        "category": "growth",
+        "lang": "en",
+        "title": "Is Startup Equity a Bad Deal?",
+        "summary": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+        "publishedAt": "2026-09-22T11:45:57+00:00",
+        "subtopics": [
+          "Presentation & speaking",
+          "Leadership",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+            "publishedAt": "2026-09-22T11:45:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.37,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       }
@@ -3888,9 +3972,9 @@
     }
   ],
   "filteredOut": {
-    "football": 51,
+    "football": 49,
     "news": 56,
     "medical": 10,
-    "growth": 50
+    "growth": 51
   }
 }
