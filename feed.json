@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:54:26.748160+00:00",
+  "generatedAt": "2026-10-16T10:36:30.354891+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,36 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "713711953c24",
+        "category": "football",
+        "lang": "en",
+        "title": "Euro Leagues",
+        "summary": "Are Barcelona and PSG the teams to beat in the Champions League?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sounds/play/p0pgz2sp?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-15T21:31:00+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sounds/play/p0pgz2sp?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-15T21:31:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 12.904,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
+      },
       {
         "id": "0acd75fab71d",
         "category": "football",
@@ -35,7 +65,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.266,
+        "score": 12.458,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -64,50 +94,49 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.883,
+        "score": 12.212,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "transfer": "RUMOUR"
       },
       {
-        "id": "a2aeedf494a5",
+        "id": "ecbabb1550a5",
         "category": "football",
         "lang": "en",
-        "title": "Gordon scores as 'brilliant Barcelona' thrash Galatasaray",
-        "summary": "Anthony Gordon scores his first Champions League goal for Barcelona as the Spanish side come from behind to thrash Galatasaray 4-1 in Istanbul, and make it two wins from two in this season's Champions League.",
+        "title": "The England keeper set to face his dad at a World Cup",
+        "summary": "Colin Gordon will be coaching Argentina at the World Cup, while son Chris will be playing for England.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c9gk5lve2enjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:00:43+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw98z1v08vg4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-16T09:14:05+00:00",
         "subtopics": [
-          "Barcelona",
-          "Champions League",
-          "Results"
+          "World Cup",
+          "Upcoming"
         ],
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c9gk5lve2enjo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:00:43+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cw98z1v08vg4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-16T09:14:05+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 12.264,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+        "isNew": true,
+        "score": 7.36,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
         "id": "992133a731e1",
         "category": "football",
         "lang": "en",
-        "title": "Evanilson shocks Sturm Graz to spark Bournemouth’s first home win in Europe",
-        "summary": "An impossible dream realised in the Vitality staging European football, and the Europa League is becoming an oasis for Bournemouth. No wins yet in the Premier League but in beating Sturm Graz to follow victory at Real Sociedad should ease the domestic…",
+        "title": "Evanilson, Rayan and Rodríguez goals seal Bournemouth’s historic home win in Europe",
+        "summary": "An impossible dream realised: the Vitality Stadium staging European football, where the Europa League is becoming an oasis for Bournemouth. No wins yet in the Premier League, but beating Sturm Graz following up winning away at Real Sociedad should calm the…",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
-        "publishedAt": "2026-10-15T21:09:41+00:00",
+        "publishedAt": "2026-10-15T21:46:41+00:00",
         "subtopics": [
           "La Liga",
           "Premier League",
@@ -117,7 +146,36 @@
           {
             "name": "The Guardian",
             "url": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
-            "publishedAt": "2026-10-15T21:09:41+00:00",
+            "publishedAt": "2026-10-15T21:46:41+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.922,
+        "firstSeen": "2026-10-15T21:54:26.748160+00:00"
+      },
+      {
+        "id": "ef212537243a",
+        "category": "football",
+        "lang": "en",
+        "title": "'Not about me' - Arbeloa dismisses future questions",
+        "summary": "Fulham head coach Alvaro Arbeloa says the focus should not be on him as his side searches for a first Premier League win this season against Hull City this weekend.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c615jw414vypo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-16T10:24:57+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c615jw414vypo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-16T10:24:57+00:00",
             "tier": 2
           }
         ],
@@ -125,8 +183,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.923,
-        "firstSeen": "2026-10-15T21:54:26.748160+00:00"
+        "score": 6.48,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
         "id": "3028ff74731f",
@@ -154,28 +212,57 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.246,
+        "score": 6.445,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
-        "id": "acc3c72b8620",
+        "id": "641c0073d65a",
         "category": "football",
         "lang": "en",
-        "title": "Alex Scott quits Disney+ role as Women’s Champions League presenter",
-        "summary": "Scott walking away to focus on other projects Disney+ was criticised after opening round this season Alex Scott, the former Football Focus host, has left her role as a presenter of the Women’s Champions League coverage on Disney+. It is understood it was…",
+        "title": "Do Premier League teams really need to run more to win matches?",
+        "summary": "Pundits regularly criticise teams for not running enough but is there a link between distance covered and results? By Opta Analyst It was like clockwork.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/15/alex-scott-quits-disney-womens-champions-league-presenter",
-        "publishedAt": "2026-10-15T14:58:55+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-teams-run-more-win-matches-distance-opta",
+        "publishedAt": "2026-10-16T07:30:27+00:00",
         "subtopics": [
-          "Champions League",
-          "Upcoming"
+          "Premier League",
+          "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/15/alex-scott-quits-disney-womens-champions-league-presenter",
-            "publishedAt": "2026-10-15T14:58:55+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-teams-run-more-win-matches-distance-opta",
+            "publishedAt": "2026-10-16T07:30:27+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.194,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
+      },
+      {
+        "id": "cae610d355e5",
+        "category": "football",
+        "lang": "en",
+        "title": "'Top two - why not?' - Why Sangare turned down top clubs for Brentford",
+        "summary": "Mamadou Sangare could have been playing Champions League football this week. After all, the signs point to him being an elite-level player.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13599149/mamadou-sangare-interview-brentford-midfielder-reveals-why-he-turned-down-top-clubs-in-europe-for-the-bees",
+        "publishedAt": "2026-10-15T08:00:00+00:00",
+        "subtopics": [
+          "Champions League",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13599149/mamadou-sangare-interview-brentford-midfielder-reveals-why-he-turned-down-top-clubs-in-europe-for-the-bees",
+            "publishedAt": "2026-10-15T08:00:00+00:00",
             "tier": 2
           }
         ],
@@ -183,8 +270,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.859,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
+        "score": 6.191,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
+        "transfer": "RUMOUR"
       },
       {
         "id": "6358b9a21e5c",
@@ -212,8 +300,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.668,
+        "score": 6.073,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+      },
+      {
+        "id": "acc3c72b8620",
+        "category": "football",
+        "lang": "en",
+        "title": "Alex Scott quits Disney+ role as Women’s Champions League presenter",
+        "summary": "Scott walking away to focus on other projects Disney+ was criticised after opening round this season Alex Scott, the former Football Focus host, has left her role as a presenter of the Women’s Champions League coverage on Disney+. It is understood it was…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/15/alex-scott-quits-disney-womens-champions-league-presenter",
+        "publishedAt": "2026-10-15T14:58:55+00:00",
+        "subtopics": [
+          "Champions League",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/15/alex-scott-quits-disney-womens-champions-league-presenter",
+            "publishedAt": "2026-10-15T14:58:55+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.018,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "07c19358a1b1",
@@ -242,8 +359,68 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.365,
+        "score": 5.878,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+      },
+      {
+        "id": "3f01eb657762",
+        "category": "football",
+        "lang": "en",
+        "title": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout of Lask",
+        "summary": "Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant display in Austria saw Bradley Barcola ignite his Liverpool account with the first hat-trick of his professional career and Andoni Iraola’s team…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
+        "publishedAt": "2026-10-14T18:51:39+00:00",
+        "subtopics": [
+          "Champions League",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
+            "publishedAt": "2026-10-14T18:51:39+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.755,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
+        "transfer": "RUMOUR"
+      },
+      {
+        "id": "2500b5e05fb1",
+        "category": "football",
+        "lang": "en",
+        "title": "Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?",
+        "summary": "Director of football is tarnished by recruitment record and Amorim stint but has received glowing review from above Lisandro Martínez is not naive. At 28, he has experienced plenty in football and knows the causes of success and failure.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/14/jason-wilcox-manchester-united-director-of-football-recruitment-ratcliffe",
+        "publishedAt": "2026-10-14T15:42:11+00:00",
+        "subtopics": [
+          "La Liga",
+          "World Cup",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/14/jason-wilcox-manchester-united-director-of-football-recruitment-ratcliffe",
+            "publishedAt": "2026-10-14T15:42:11+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.676,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "6f03085551b5",
@@ -277,502 +454,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.313,
+        "score": 5.595,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
-        "id": "e3381bdcd5a1",
+        "id": "974ce54005ca",
         "category": "football",
         "lang": "en",
-        "title": "Isco snatches late Betis win as they edge past Porto",
-        "summary": "Isco scores an 84th minute penalty to help Real Betis snatch a late 3-2 win against Porto, giving them back to back wins at the start of this season's Champions League.",
+        "title": "Watch: Scotland beat Czechs to set up Sweden play-off",
+        "summary": "Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2 on Paisley and progress 5-2 on aggregate to a Women's World Cup play-off final against Sweden.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:51:42+00:00",
+        "url": "https://www.bbc.co.uk/sport/videos/cmx235v7gqwro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-13T20:34:16+00:00",
         "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:51:42+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.302,
-        "firstSeen": "2026-10-14T22:00:13.093482+00:00"
-      },
-      {
-        "id": "0955c68d7d5c",
-        "category": "football",
-        "lang": "en",
-        "title": "Champions League: Mourinho’s Real Madrid stage wild comeback on Roma return",
-        "summary": "Mourinho’s side score three late goals from 3-1 deficit Dortmund latest team beaten in Norway by Bodø/Glimt José Mourinho enjoyed a Roma reunion to remember as Real Madrid completed an astonishing comeback by scoring three late goals to claim a 4-3 away win…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/14/champions-league-mourinhos-real-madrid-stage-crazy-comeback-on-roma-return",
-        "publishedAt": "2026-10-14T21:43:26+00:00",
-        "subtopics": [
-          "La Liga",
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/14/champions-league-mourinhos-real-madrid-stage-crazy-comeback-on-roma-return",
-            "publishedAt": "2026-10-14T21:43:26+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.296,
-        "firstSeen": "2026-10-14T22:00:13.093482+00:00"
-      },
-      {
-        "id": "689f0b504038",
-        "category": "football",
-        "lang": "en",
-        "title": "Real Madrid stun Roma after dramatic late comeback",
-        "summary": "Real Madrid complete their latest dramatic Champions League comeback by scoring three goals in the final seven minutes to earn manager Jose Mourinho a win on his return to Roma.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:31:34+00:00",
-        "subtopics": [
-          "La Liga",
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:31:34+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.287,
-        "firstSeen": "2026-10-14T22:00:13.093482+00:00"
-      },
-      {
-        "id": "19833316aff2",
-        "category": "football",
-        "lang": "en",
-        "title": "Bodo/Glimt impress in win over Dortmund",
-        "summary": "Bodo/Glimt bounce back from their thrashing at Bayern with a fine 1-0 win in the Champions League over Borussia Dortmund.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cqly0nd6xnp1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:28:39+00:00",
-        "subtopics": [
-          "Champions League",
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cqly0nd6xnp1o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:28:39+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.284,
-        "firstSeen": "2026-10-14T22:00:13.093482+00:00"
-      },
-      {
-        "id": "14011f1fe7cf",
-        "category": "football",
-        "lang": "en",
-        "title": "Man City show fight but fall short of fightback against slick PSG",
-        "summary": "Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:19:45+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:19:45+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.278,
-        "firstSeen": "2026-10-14T22:00:13.093482+00:00"
-      },
-      {
-        "id": "9610837f9e95",
-        "category": "football",
-        "lang": "en",
-        "title": "Jackson and Barkley doubles sink feeble Fenerbahce in record Aston Villa win",
-        "summary": "It may be a bit early for the pantomime season but the Holte End enjoyed acclaiming their heroes and villains as Aston Villa won at home for the first time this season with their biggest victory in European competition. Every touch for Mason Greenwood,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report",
-        "publishedAt": "2026-10-14T21:02:51+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report",
-            "publishedAt": "2026-10-14T21:02:51+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.265,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "cbc101a7843c",
-        "category": "football",
-        "lang": "en",
-        "title": "Feyenoord come from behind to beat Como",
-        "summary": "Feyenoord come from a goal to beat Como 3-2 in Rotterdam to secure their first win of the league phase in this season's Champions League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6wyr7v30wx9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:00:55+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c6wyr7v30wx9o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:00:55+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.264,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "4541e72b2993",
-        "category": "football",
-        "lang": "en",
-        "title": "Tresoldi hat-trick fires Club Brugge to victory over Inter in seven-goal thriller",
-        "summary": "Club Brugge's Nicolo Tresoldi scores a hat-trick as the Belgian side edge Inter Milan 4-3, extending Inter's Champions League losing run to four matches for the first time in their history.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cqly0gnk4xkgo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:00:52+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cqly0gnk4xkgo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:00:52+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.264,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "efb7050a9795",
-        "category": "football",
-        "lang": "en",
-        "title": "Viking snatch draw against Bayern Munich in six-goal thriller",
-        "summary": "Norwegian champions Viking score a 90th minute equaliser to snatch a 3-3 draw against six-time European champions Bayern Munich in the Champions League, securing one of the biggest results in the club's history.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw1m408z3yj5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:00:40+00:00",
-        "subtopics": [
-          "Champions League",
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cw1m408z3yj5o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:00:40+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.264,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "e6d98874b0f6",
-        "category": "football",
-        "lang": "en",
-        "title": "Substitutes steal the show as Arsenal score three against Lille",
-        "summary": "Substitute Bukayo Saka scores one and sets up another to help Arsenal beat Lille 3-0 at the Emirates, as the Premier League champions made it two wins from two in the Champions League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:00:36+00:00",
-        "subtopics": [
-          "Champions League",
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:00:36+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.264,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "afa5197b3e60",
-        "category": "football",
-        "lang": "en",
-        "title": "Yoro sent off as Man Utd stumble to defeat against Atletico Madrid",
-        "summary": "Manchester United's winless run stretches to five matches, as they're beaten 2-0 by Atletico Madrid in the Champions League, in a match which saw them concede in the opening minute before ending the game with ten men after Leny Yoro was sent off.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:00:34+00:00",
-        "subtopics": [
-          "La Liga",
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c6pq0rg10xp1o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:00:34+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.264,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "89d5d5749343",
-        "category": "football",
-        "lang": "en",
-        "title": "Brilliant Barcola scores first hat-trick to get lift-off at Liverpool",
-        "summary": "Liverpool's summer signing Bradley Barcola scores his first senior hat-trick, and his first goals for Liverpool, as he helps his side beat LASK 6-3 in Austria to make it two wins from two in this season's Champions League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:00:28+00:00",
-        "subtopics": [
-          "Champions League",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cmx237q7nl21o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:00:28+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.264,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
-        "transfer": "RUMOUR"
-      },
-      {
-        "id": "1297d881f45c",
-        "category": "football",
-        "lang": "en",
-        "title": "Barcola shines as Liverpool score six to beat LASK",
-        "summary": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T21:00:24+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T21:00:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.264,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "e1ccbedfa5bd",
-        "category": "football",
-        "lang": "en",
-        "title": "On night of mayhem for Liverpool, Barcola arrives in style",
-        "summary": "Bradley Barcola's form was the subject of pre-match questions before Liverpool faced LASK - but the France forward's Champions League hat-trick was the perfect answer.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T20:46:35+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c39wzg59x1yxo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T20:46:35+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.254,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "3f01eb657762",
-        "category": "football",
-        "lang": "en",
-        "title": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout of Lask",
-        "summary": "Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity. A rampant display in Austria saw Bradley Barcola ignite his Liverpool account with the first hat-trick of his professional career and Andoni Iraola’s team…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
-        "publishedAt": "2026-10-14T18:51:39+00:00",
-        "subtopics": [
-          "Champions League",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
-            "publishedAt": "2026-10-14T18:51:39+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.173,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
-        "transfer": "RUMOUR"
-      },
-      {
-        "id": "2500b5e05fb1",
-        "category": "football",
-        "lang": "en",
-        "title": "Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?",
-        "summary": "Director of football is tarnished by recruitment record and Amorim stint but has received glowing review from above Lisandro Martínez is not naive. At 28, he has experienced plenty in football and knows the causes of success and failure.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/14/jason-wilcox-manchester-united-director-of-football-recruitment-ratcliffe",
-        "publishedAt": "2026-10-14T15:42:11+00:00",
-        "subtopics": [
-          "La Liga",
           "World Cup",
           "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/14/jason-wilcox-manchester-united-director-of-football-recruitment-ratcliffe",
-            "publishedAt": "2026-10-14T15:42:11+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.051,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "6ecc0a7e93a4",
-        "category": "football",
-        "lang": "en",
-        "title": "Wilcox the target again in another damaging Man Utd fallout",
-        "summary": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T15:30:03+00:00",
-        "subtopics": [
-          "La Liga",
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T15:30:03+00:00",
+            "url": "https://www.bbc.co.uk/sport/videos/cmx235v7gqwro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-13T20:34:16+00:00",
             "tier": 2
           }
         ],
@@ -780,8 +483,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.044,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+        "score": 5.348,
+        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
         "id": "2deb100dd3d3",
@@ -809,43 +512,14 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.754,
+        "score": 4.772,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
-      },
-      {
-        "id": "3156660d4671",
-        "category": "football",
-        "lang": "en",
-        "title": "Bournemouth beat Sturm Graz in first ever home European game",
-        "summary": "Bournemouth's history-making season continued on Thursday as they played - and won - their first-ever home European match, beating Sturm Graz 3-0 in the Europa League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/bournemouth-vs-sturm-graz/report/577761",
-        "publishedAt": "2026-10-15T22:05:00+00:00",
-        "subtopics": [
-          "Europa League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/bournemouth-vs-sturm-graz/report/577761",
-            "publishedAt": "2026-10-15T22:05:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.5,
-        "firstSeen": "2026-10-15T21:54:26.748160+00:00"
       },
       {
         "id": "a9ab5d487a0d",
         "category": "football",
         "lang": "en",
-        "title": "Celtic beaten again in Europa League as Benfica prove too good",
+        "title": "O'Neill 'delighted' with second half despite heavy Celtic loss at Benfica",
         "summary": "Celtic showed second-half fight but were ultimately outclassed away to Benfica as they were beaten 4-1 in the Europa League.",
         "needsSummary": true,
         "readMore": null,
@@ -866,8 +540,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.484,
+        "isNew": false,
+        "score": 4.42,
         "firstSeen": "2026-10-15T21:54:26.748160+00:00"
       },
       {
@@ -895,8 +569,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.484,
+        "isNew": false,
+        "score": 4.42,
         "firstSeen": "2026-10-15T21:54:26.748160+00:00"
       },
       {
@@ -925,28 +599,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.259,
+        "score": 4.275,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
-        "id": "386d6f635e1e",
+        "id": "029681e894aa",
         "category": "football",
         "lang": "en",
-        "title": "Sage suffers defeat to former side as Palace lose in Lyon",
-        "summary": "Pierre Sage lost to his former side as Crystal Palace fell to a 3-2 defeat to Lyon in the Europa League",
+        "title": "Why Brighton are the best team in the Premier League right now",
+        "summary": "Jaouen Hadjam needed only 309 seconds of his Premier League debut to score Brighton’s second goal in their 2-0 win over Sunderland on Saturday. In doing so, he became the tenth Brighton player to score in the Premier League already this season.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/lyon-vs-crystal-palace/report/577769",
-        "publishedAt": "2026-10-15T19:30:00+00:00",
+        "url": "https://www.skysports.com/football/news/11095/13598114/fabian-hurzelers-brighton-are-the-best-team-in-the-premier-league-right-now-a-collective-effort-with-10-different-scorers",
+        "publishedAt": "2026-10-13T12:30:00+00:00",
         "subtopics": [
-          "Europa League",
+          "Premier League",
           "Results"
         ],
         "sources": [
           {
             "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/lyon-vs-crystal-palace/report/577769",
-            "publishedAt": "2026-10-15T19:30:00+00:00",
+            "url": "https://www.skysports.com/football/news/11095/13598114/fabian-hurzelers-brighton-are-the-best-team-in-the-premier-league-right-now-a-collective-effort-with-10-different-scorers",
+            "publishedAt": "2026-10-13T12:30:00+00:00",
             "tier": 2
           }
         ],
@@ -954,50 +628,21 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.259,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
-      },
-      {
-        "id": "e1098a4af2c1",
-        "category": "football",
-        "lang": "en",
-        "title": "Kolo Muani and Woltemade send Juve top of EL as Hearts draw in Conference League",
-        "summary": "",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-        "publishedAt": "2026-10-14T23:01:00+00:00",
-        "subtopics": [
-          "Europa League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-            "publishedAt": "2026-10-14T23:01:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.855,
-        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
+        "score": 3.763,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       }
     ],
     "news": [
       {
-        "id": "95cbf00f6c24",
+        "id": "5418aa037615",
         "category": "news",
         "lang": "de",
-        "title": "Wirtschaft vor acht vom 15.10.2026",
-        "summary": "Wirtschaft vor acht vom 15.10.2026",
+        "title": "Wohnimmobilien: Deutlich mehr Baugenehmigungen",
+        "summary": "Lichtblick für den deutschen Wohnungsbau: Der Aufwärtstrend des ersten Halbjahres setzt sich auch im August fort. Doch höhere Energiepreise und Zinsen belasten viele Bauherren.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1666988.html",
-        "publishedAt": "2026-10-15T18:50:50+00:00",
+        "url": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html",
+        "publishedAt": "2026-10-16T09:29:27+00:00",
         "subtopics": [
           "Germany",
           "Economy"
@@ -1005,49 +650,79 @@
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1666988.html",
-            "publishedAt": "2026-10-15T18:50:50+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1666530.html",
-            "publishedAt": "2026-10-15T08:49:36+00:00",
+            "url": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html",
+            "publishedAt": "2026-10-16T09:29:27+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.866,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
+        "isNew": true,
+        "score": 7.951,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
-        "id": "bafaac39441b",
+        "id": "4717bb45cb99",
         "category": "news",
         "lang": "de",
-        "title": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
-        "summary": "Der DAX pendelt weiter um die Marke von 25.000 Punkten. Der weltweite Ausverkauf von Tech-Aktien hat den deutschen Leitindex nicht so stark getroffen - denn große Technologiewerte sind kaum vertreten.",
+        "title": "Marktbericht: DAX startet mit Gewinnen",
+        "summary": "Die Erholung im weltweiten Technologiesektor gibt auch dem deutschen Aktienmarkt Rückenwind. US-Notenbankchef Kevin Warsh sieht in künstlicher Intelligenz enormes Potenzial für Länder bei Produktivität und Wachstum.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-        "publishedAt": "2026-10-15T16:32:51+00:00",
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+        "publishedAt": "2026-10-16T08:12:55+00:00",
         "subtopics": [
           "Germany",
+          "US",
           "Markets"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-            "publishedAt": "2026-10-15T16:32:51+00:00",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+            "publishedAt": "2026-10-16T08:12:55+00:00",
             "tier": 1
           },
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-            "publishedAt": "2026-10-15T16:32:51+00:00",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html",
+            "publishedAt": "2026-10-16T08:12:55+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.895,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
+      },
+      {
+        "id": "95cbf00f6c24",
+        "category": "news",
+        "lang": "de",
+        "title": "Update Wirtschaft vom 16.10.2026",
+        "summary": "Wirtschaft vor acht vom 15.10.2026",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1667144.html",
+        "publishedAt": "2026-10-16T07:50:22+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1667144.html",
+            "publishedAt": "2026-10-16T07:50:22+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1666988.html",
+            "publishedAt": "2026-10-15T18:50:50+00:00",
             "tier": 1
           }
         ],
@@ -1055,8 +730,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.77,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+        "score": 7.879,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
+      },
+      {
+        "id": "65b01843865f",
+        "category": "news",
+        "lang": "de",
+        "title": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
+        "summary": "Die EU solle nicht so viel Geld ausgeben, findet Bundeskanzler Merz. Einige Länder sehen das genauso.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html",
+        "publishedAt": "2026-10-15T18:05:32+00:00",
+        "subtopics": [
+          "Germany",
+          "EU",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html",
+            "publishedAt": "2026-10-15T18:05:32+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.346,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
         "id": "c42499fb9ca4",
@@ -1090,37 +795,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.553,
+        "score": 7.113,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
-      },
-      {
-        "id": "a5f1c44e8787",
-        "category": "news",
-        "lang": "de",
-        "title": "Hamburgs Hallenbäder werden bald mit KI überwacht",
-        "summary": "Der Testbetrieb im Bergedorfer Billebad war offenbar erfolgreich: Bald soll Künstliche Intelligenz in allen Bäderland-Hallenbädern für mehr Sicherheit sorgen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/hamburgs-hallenbaeder-werden-bald-mit-ki-ueberwacht,hallenbad-118.html",
-        "publishedAt": "2026-10-15T18:52:30+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/hamburgs-hallenbaeder-werden-bald-mit-ki-ueberwacht,hallenbad-118.html",
-            "publishedAt": "2026-10-15T18:52:30+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.468,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "f131eb5f93a2",
@@ -1148,8 +824,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.41,
+        "score": 6.995,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+      },
+      {
+        "id": "a5f1c44e8787",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburgs Hallenbäder werden bald mit KI überwacht",
+        "summary": "Der Testbetrieb im Bergedorfer Billebad war offenbar erfolgreich: Bald soll Künstliche Intelligenz in allen Bäderland-Hallenbädern für mehr Sicherheit sorgen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/hamburgs-hallenbaeder-werden-bald-mit-ki-ueberwacht,hallenbad-118.html",
+        "publishedAt": "2026-10-15T18:52:30+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/hamburgs-hallenbaeder-werden-bald-mit-ki-ueberwacht,hallenbad-118.html",
+            "publishedAt": "2026-10-15T18:52:30+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.974,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "6c74a033563b",
@@ -1177,7 +882,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.09,
+        "score": 6.661,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1212,7 +917,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.91,
+        "score": 6.581,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1241,7 +946,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.88,
+        "score": 6.557,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1270,7 +975,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.868,
+        "score": 6.547,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1299,7 +1004,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.845,
+        "score": 6.527,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1334,7 +1039,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.835,
+        "score": 6.519,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1369,7 +1074,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.807,
+        "score": 6.496,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
@@ -1405,7 +1110,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.78,
+        "score": 6.473,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1446,7 +1151,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.772,
+        "score": 6.467,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1475,8 +1180,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.745,
+        "score": 6.445,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
+      },
+      {
+        "id": "ec4d7fceb26d",
+        "category": "news",
+        "lang": "de",
+        "title": "Mehrere US-Bundesstaaten verklagen KI-Firma OpenAI",
+        "summary": "Wie sicher ist der Umgang mit KI-Chatbots wie ChatGPT? Acht Bundesstaaten in den USA sehen erhebliche Risiken und haben deshalb Klagen gegen den Entwickler OpenAI eingereicht.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
+        "publishedAt": "2026-10-15T19:20:05+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/ausland/amerika/klage-openai-100.html",
+            "publishedAt": "2026-10-15T19:20:05+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.39,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
         "id": "6bc4860153c0",
@@ -1504,7 +1239,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.667,
+        "score": 6.208,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1534,130 +1269,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.587,
+        "score": 6.141,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
-      },
-      {
-        "id": "355a2ab8f4a7",
-        "category": "news",
-        "lang": "de",
-        "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
-        "summary": "Wer wirklich dringend medizinische Hilfe braucht, soll schneller drankommen. Leichtere Fälle sollen gar nicht erst in der Notaufnahme landen - der Bundestag hat die Reform der Notfallmedizin beschlossen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
-        "publishedAt": "2026-10-15T08:32:37+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
-            "publishedAt": "2026-10-15T08:32:37+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
-            "publishedAt": "2026-10-15T08:32:37+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.459,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "30a87607216f",
-        "category": "news",
-        "lang": "de",
-        "title": "Nach Anschlagsplänen: Spione des Irans in Hamburg verurteilt",
-        "summary": "Zwei Männer haben nach Überzeugung des Gerichts antisemitische Anschläge in Deutschland vorbereitet - unter anderem auf Volker Beck und Josef Schuster.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/nach-anschlagsplaenen-spione-des-irans-in-hamburg-verurteilt,terrorprozess-102.html",
-        "publishedAt": "2026-10-15T18:00:00+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/nach-anschlagsplaenen-spione-des-irans-in-hamburg-verurteilt,terrorprozess-102.html",
-            "publishedAt": "2026-10-15T18:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.431,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
-      },
-      {
-        "id": "4f0301190b75",
-        "category": "news",
-        "lang": "de",
-        "title": "Bäderland stellt neue KI-Überwachung vor",
-        "summary": "In allen Hallenbädern des Betreibers soll ab 2027 Künstliche Intelligenz zum Einsatz kommen, um Gefahrensituationen zu erkennen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/baederland-stellt-neue-ki-ueberwachung-vor,hamj-15574.html",
-        "publishedAt": "2026-10-15T17:47:00+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/baederland-stellt-neue-ki-ueberwachung-vor,hamj-15574.html",
-            "publishedAt": "2026-10-15T17:47:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.421,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
-      },
-      {
-        "id": "b1571139794a",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundesverfassungsgericht zur Erbschaftsteuer: Wie gerecht ist sie?",
-        "summary": "Wer in Deutschland erbt, muss Steuern zahlen. Außer man erbt ein Unternehmen, dann gibt es Ausnahmen - und oft fallen keine Steuern an.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
-        "publishedAt": "2026-10-13T16:30:57+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/erbschaftssteuer-bundesverfassungsgericht-100.html",
-            "publishedAt": "2026-10-13T16:30:57+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.355,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
         "id": "2f66c35c06eb",
@@ -1691,7 +1304,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.328,
+        "score": 6.1,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
@@ -1720,71 +1333,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.316,
+        "score": 6.09,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00"
-      },
-      {
-        "id": "44411968fa1f",
-        "category": "news",
-        "lang": "de",
-        "title": "Köhlbrandbrücke in Hamburg am Wochenende wieder gesperrt",
-        "summary": "Am Wochenende wird die Köhlbrandbrücke erneut wegen Reparatur- und Wartungsarbeiten voll gesperrt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
-        "publishedAt": "2026-10-15T14:20:22+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
-            "publishedAt": "2026-10-15T14:20:22+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.28,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
-      },
-      {
-        "id": "f22f0e71f965",
-        "category": "news",
-        "lang": "de",
-        "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
-        "summary": "Notaufnahmen und Rettungsdienste sind seit Jahren überlastet. Nun will der Bundestag endlich eine Reform auf den Weg bringen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
-        "publishedAt": "2026-10-15T03:00:17+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
-            "publishedAt": "2026-10-15T03:00:17+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
-            "publishedAt": "2026-10-15T03:00:17+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.264,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "2157e669c5eb",
@@ -1812,8 +1362,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.256,
+        "score": 6.04,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+      },
+      {
+        "id": "355a2ab8f4a7",
+        "category": "news",
+        "lang": "de",
+        "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
+        "summary": "Wer wirklich dringend medizinische Hilfe braucht, soll schneller drankommen. Leichtere Fälle sollen gar nicht erst in der Notaufnahme landen - der Bundestag hat die Reform der Notfallmedizin beschlossen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
+        "publishedAt": "2026-10-15T08:32:37+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
+            "publishedAt": "2026-10-15T08:32:37+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html",
+            "publishedAt": "2026-10-15T08:32:37+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.036,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
         "id": "2c0b5a1283a1",
@@ -1847,8 +1432,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.243,
+        "score": 6.029,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+      },
+      {
+        "id": "30a87607216f",
+        "category": "news",
+        "lang": "de",
+        "title": "Nach Anschlagsplänen: Spione des Irans in Hamburg verurteilt",
+        "summary": "Zwei Männer haben nach Überzeugung des Gerichts antisemitische Anschläge in Deutschland vorbereitet - unter anderem auf Volker Beck und Josef Schuster.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/nach-anschlagsplaenen-spione-des-irans-in-hamburg-verurteilt,terrorprozess-102.html",
+        "publishedAt": "2026-10-15T18:00:00+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/nach-anschlagsplaenen-spione-des-irans-in-hamburg-verurteilt,terrorprozess-102.html",
+            "publishedAt": "2026-10-15T18:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.943,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
+      },
+      {
+        "id": "4f0301190b75",
+        "category": "news",
+        "lang": "de",
+        "title": "Bäderland stellt neue KI-Überwachung vor",
+        "summary": "In allen Hallenbädern des Betreibers soll ab 2027 Künstliche Intelligenz zum Einsatz kommen, um Gefahrensituationen zu erkennen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/baederland-stellt-neue-ki-ueberwachung-vor,hamj-15574.html",
+        "publishedAt": "2026-10-15T17:47:00+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/baederland-stellt-neue-ki-ueberwachung-vor,hamj-15574.html",
+            "publishedAt": "2026-10-15T17:47:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.936,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "682ff229bed3",
@@ -1882,28 +1525,34 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.086,
+        "score": 5.899,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
-        "id": "cdaed0dac299",
+        "id": "f22f0e71f965",
         "category": "news",
         "lang": "de",
-        "title": "Deutschlands erster Cruyff Court in Hamburg-Wilhelmsburg eröffnet",
-        "summary": "Der barrierefreie Kunstrasenplatz ist am Mittwoch am Helmut-Schmidt-Gymnasium in Betrieb gegangen.",
+        "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
+        "summary": "Notaufnahmen und Rettungsdienste sind seit Jahren überlastet. Nun will der Bundestag endlich eine Reform auf den Weg bringen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
-        "publishedAt": "2026-10-15T08:44:14+00:00",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
+        "publishedAt": "2026-10-15T03:00:17+00:00",
         "subtopics": [
-          "Hamburg",
+          "Germany",
           "Law & Policy"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/deutschlands-erster-cruyff-court-in-hamburg-wilhelmsburg-eroeffnet,kurzehh-4612.html",
-            "publishedAt": "2026-10-15T08:44:14+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
+            "publishedAt": "2026-10-15T03:00:17+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
+            "publishedAt": "2026-10-15T03:00:17+00:00",
             "tier": 1
           }
         ],
@@ -1911,27 +1560,27 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.066,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+        "score": 5.874,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
-        "id": "93b9b3e6cc3b",
+        "id": "44411968fa1f",
         "category": "news",
         "lang": "de",
-        "title": "Frau von U-Bahn überrollt - U2 zwischenzeitig gesperrt",
-        "summary": "Eine Frau wurde an der Station Messehallen von einer einfahrenden U-Bahn schwer verletzt.",
+        "title": "Köhlbrandbrücke in Hamburg am Wochenende wieder gesperrt",
+        "summary": "Am Wochenende wird die Köhlbrandbrücke erneut wegen Reparatur- und Wartungsarbeiten voll gesperrt.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/frau-von-u-bahn-ueberrollt-u2-zwischenzeitig-gesperrt,kurzehh-4614.html",
-        "publishedAt": "2026-10-15T08:29:06+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
+        "publishedAt": "2026-10-15T14:20:22+00:00",
         "subtopics": [
           "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/frau-von-u-bahn-ueberrollt-u2-zwischenzeitig-gesperrt,kurzehh-4614.html",
-            "publishedAt": "2026-10-15T08:29:06+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
+            "publishedAt": "2026-10-15T14:20:22+00:00",
             "tier": 1
           }
         ],
@@ -1939,8 +1588,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.057,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+        "score": 5.819,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
+      },
+      {
+        "id": "747407d3321e",
+        "category": "news",
+        "lang": "de",
+        "title": "CDU nach Klausur: Näher an die Menschen",
+        "summary": "Die CDU will nach Wahlniederlagen mit alltagsnahen Maßnahmen wie günstigerem Strom, weniger Bürokratie und Fokus auf Wachstum Vertrauen zurückgewinnen. Außerdem setzt sie auf mehr Austausch mit der Basis.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-strategie-merz-100.html",
+        "publishedAt": "2026-10-12T15:40:21+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-strategie-merz-100.html",
+            "publishedAt": "2026-10-12T15:40:21+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.775,
+        "firstSeen": "2026-10-12T16:23:54.814615+00:00"
+      },
+      {
+        "id": "b6f809031c18",
+        "category": "news",
+        "lang": "de",
+        "title": "CDU will Stromsteuer für alle absenken",
+        "summary": "Das CDU-Präsidium hat sich nach zuletzt schwachen Wahlergebnissen zur Klausur getroffen. \"Wir müssen uns aus einem Tief herausarbeiten,\" sagte Kanzler Merz danach.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/cdu-klausur-merz-hoppermann-100.html",
+        "publishedAt": "2026-10-12T13:11:07+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/cdu-klausur-merz-hoppermann-100.html",
+            "publishedAt": "2026-10-12T13:11:07+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.747,
+        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       },
       {
         "id": "533d93f66d15",
@@ -1974,34 +1681,34 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.041,
+        "score": 5.689,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
-        "id": "747407d3321e",
+        "id": "4b89040836a6",
         "category": "news",
         "lang": "de",
-        "title": "CDU nach Klausur: Näher an die Menschen",
-        "summary": "Die CDU will nach Wahlniederlagen mit alltagsnahen Maßnahmen wie günstigerem Strom, weniger Bürokratie und Fokus auf Wachstum Vertrauen zurückgewinnen. Außerdem setzt sie auf mehr Austausch mit der Basis.",
+        "title": "Pflegekommission eingesetzt: Was Experten jetzt klären sollen",
+        "summary": "Die Bundesregierung hat sich auf die Einsetzung der Pflegestrukturkommission geeinigt. Sie soll Lösungen für eine große Reform finden.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-strategie-merz-100.html",
-        "publishedAt": "2026-10-12T15:40:21+00:00",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
+        "publishedAt": "2026-10-14T12:55:39+00:00",
         "subtopics": [
           "Germany",
-          "Elections"
+          "Law & Policy"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-strategie-merz-100.html",
-            "publishedAt": "2026-10-12T15:40:21+00:00",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
+            "publishedAt": "2026-10-14T12:55:39+00:00",
             "tier": 1
           },
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-strategie-merz-100.html",
-            "publishedAt": "2026-10-12T15:40:21+00:00",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
+            "publishedAt": "2026-10-14T12:55:39+00:00",
             "tier": 1
           }
         ],
@@ -2009,43 +1716,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.937,
-        "firstSeen": "2026-10-12T16:23:54.814615+00:00"
-      },
-      {
-        "id": "b586331d94d0",
-        "category": "news",
-        "lang": "de",
-        "title": "Landwirtschaftsminister protestieren bei Merz gegen Zuckersteuer",
-        "summary": "Im Streit über die Zuckersteuer wächst der Widerstand innerhalb der Union. Neun Landesminister haben sich in einem Brief an Kanzler Merz gegen die Abgabe ausgesprochen - und warnen vor den Folgen der geplanten Abgabe.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-cdu-landesminister-protestbrief-100.html",
-        "publishedAt": "2026-10-12T13:39:31+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-cdu-landesminister-protestbrief-100.html",
-            "publishedAt": "2026-10-12T13:39:31+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-cdu-landesminister-protestbrief-100.html",
-            "publishedAt": "2026-10-12T13:39:31+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.909,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
+        "score": 5.52,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
         "id": "b6509bc05e11",
@@ -2073,37 +1745,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.903,
+        "score": 5.506,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "b6f809031c18",
-        "category": "news",
-        "lang": "de",
-        "title": "CDU will Stromsteuer für alle absenken",
-        "summary": "Das CDU-Präsidium hat sich nach zuletzt schwachen Wahlergebnissen zur Klausur getroffen. \"Wir müssen uns aus einem Tief herausarbeiten,\" sagte Kanzler Merz danach.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/cdu-klausur-merz-hoppermann-100.html",
-        "publishedAt": "2026-10-12T13:11:07+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/cdu-klausur-merz-hoppermann-100.html",
-            "publishedAt": "2026-10-12T13:11:07+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.902,
-        "firstSeen": "2026-10-12T14:18:53.626638+00:00"
       }
     ],
     "medical": [
@@ -2133,7 +1776,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.391,
+        "score": 11.227,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2165,7 +1808,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.821,
+        "score": 10.691,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2196,7 +1839,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.821,
+        "score": 9.691,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2228,7 +1871,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.518,
+        "score": 9.468,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2260,7 +1903,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.089,
+        "score": 7.943,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2291,7 +1934,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.821,
+        "score": 7.691,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2322,7 +1965,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.821,
+        "score": 7.691,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2360,7 +2003,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.87,
+        "score": 6.798,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2391,7 +2034,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.87,
+        "score": 6.798,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2422,7 +2065,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.518,
+        "score": 6.468,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2454,7 +2097,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.208,
+        "score": 6.177,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2491,7 +2134,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.208,
+        "score": 6.177,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2522,7 +2165,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.399,
+        "score": 5.222,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2553,7 +2196,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.072,
+        "score": 4.915,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2584,7 +2227,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.803,
+        "score": 4.662,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2615,7 +2258,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.541,
+        "score": 4.416,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2645,40 +2288,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.218,
+        "score": 3.094,
         "firstSeen": "2026-10-12T16:23:54.814615+00:00",
         "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "6e51bb3dcbd3",
-        "category": "medical",
-        "lang": "en",
-        "title": "Assessment of Two Soft Tissue Augmentation Using Acellular Dermis Around Dental Implants",
-        "summary": "This study aims to compare soft tissue grafting with acellular dermis at Phase I or Phase II dental implant surgery.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07512245",
-        "publishedAt": "2026-09-25T00:00:00+00:00",
-        "subtopics": [
-          "Orthopaedics",
-          "Dental"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07512245",
-            "publishedAt": "2026-09-25T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.749,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "evidence": "peer_reviewed",
         "matridermRelevant": false
       }
     ],
@@ -2709,7 +2321,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.407,
+        "score": 4.907,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -2739,7 +2351,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.13,
+        "score": 4.677,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -2768,7 +2380,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.684,
+        "score": 4.446,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2804,7 +2416,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.583,
+        "score": 4.224,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
@@ -2833,127 +2445,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.435,
+        "score": 4.102,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5a875db7370a",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: open model trade-offs and geothermal power’s promise",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-        "publishedAt": "2026-10-13T12:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Decision-making"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-            "publishedAt": "2026-10-13T12:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.067,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "45ad9337ee37",
-        "category": "growth",
-        "lang": "en",
-        "title": "AI labs are buying data from dead startups to train their models",
-        "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-        "publishedAt": "2026-10-13T09:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-            "publishedAt": "2026-10-13T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.012,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "49aae9e462bc",
-        "category": "growth",
-        "lang": "en",
-        "title": "Redesigning source control at Anthropic",
-        "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-        "publishedAt": "2026-10-13T23:00:06+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-            "publishedAt": "2026-10-13T23:00:06+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.993,
-        "firstSeen": "2026-10-13T23:10:38.643116+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4a863ac76646",
-        "category": "growth",
-        "lang": "en",
-        "title": "llm-gemini 0.35",
-        "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-        "publishedAt": "2026-10-13T22:28:54+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-            "publishedAt": "2026-10-13T22:28:54+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.981,
-        "firstSeen": "2026-10-14T11:06:05.228643+00:00",
         "kind": "article"
       },
       {
@@ -2983,7 +2476,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.937,
+        "score": 3.879,
         "firstSeen": "2026-10-09T22:11:21.131495+00:00",
         "kind": "video",
         "video": {
@@ -3020,7 +2513,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.845,
+        "score": 3.832,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -3056,7 +2549,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.802,
+        "score": 3.79,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -3068,23 +2561,23 @@
         }
       },
       {
-        "id": "858ce7e14d91",
+        "id": "49aae9e462bc",
         "category": "growth",
         "lang": "en",
-        "title": "Quoting Geoffrey Huntley",
-        "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my…",
+        "title": "Redesigning source control at Anthropic",
+        "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-        "publishedAt": "2026-10-13T13:32:00+00:00",
+        "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+        "publishedAt": "2026-10-13T23:00:06+00:00",
         "subtopics": [
           "AI & smart tools"
         ],
         "sources": [
           {
             "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-            "publishedAt": "2026-10-13T13:32:00+00:00",
+            "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+            "publishedAt": "2026-10-13T23:00:06+00:00",
             "tier": 3
           }
         ],
@@ -3092,30 +2585,29 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.797,
-        "firstSeen": "2026-10-13T14:44:34.259264+00:00",
+        "score": 3.736,
+        "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
       {
-        "id": "dadc4d2723fb",
+        "id": "4a863ac76646",
         "category": "growth",
         "lang": "en",
-        "title": "Who Got Richer Since 2022?",
-        "summary": "Last Friday, the Federal Reserve released the results of its 2025 Survey of Consumer Finances (SCF) , which takes a detailed snapshot of American households' finances every three years. And the big takeaway from this year's release is clear—older Americans…",
+        "title": "llm-gemini 0.35",
+        "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans .",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/",
-        "publishedAt": "2026-10-13T11:45:36+00:00",
+        "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+        "publishedAt": "2026-10-13T22:28:54+00:00",
         "subtopics": [
           "AI & smart tools",
-          "Productivity & systems",
-          "Personal finance"
+          "Entrepreneurship"
         ],
         "sources": [
           {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/",
-            "publishedAt": "2026-10-13T11:45:36+00:00",
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+            "publishedAt": "2026-10-13T22:28:54+00:00",
             "tier": 3
           }
         ],
@@ -3123,8 +2615,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.763,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
+        "score": 3.726,
+        "firstSeen": "2026-10-14T11:06:05.228643+00:00",
         "kind": "article"
       },
       {
@@ -3152,7 +2644,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.735,
+        "score": 3.724,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -3189,7 +2681,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.72,
+        "score": 3.71,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -3225,7 +2717,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.676,
+        "score": 3.666,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -3235,6 +2727,66 @@
           "watchUrl": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
           "channel": "TED"
         }
+      },
+      {
+        "id": "858ce7e14d91",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Geoffrey Huntley",
+        "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+        "publishedAt": "2026-10-13T13:32:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+            "publishedAt": "2026-10-13T13:32:00+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.573,
+        "firstSeen": "2026-10-13T14:44:34.259264+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "dadc4d2723fb",
+        "category": "growth",
+        "lang": "en",
+        "title": "Who Got Richer Since 2022?",
+        "summary": "Last Friday, the Federal Reserve released the results of its 2025 Survey of Consumer Finances (SCF) , which takes a detailed snapshot of American households' finances every three years. And the big takeaway from this year's release is clear—older Americans…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/",
+        "publishedAt": "2026-10-13T11:45:36+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/who-got-richer-since-2022/",
+            "publishedAt": "2026-10-13T11:45:36+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.545,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
+        "kind": "article"
       },
       {
         "id": "efadf9441346",
@@ -3267,7 +2819,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.587,
+        "score": 3.4,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
@@ -3296,7 +2848,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.56,
+        "score": 3.377,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -3327,7 +2879,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.473,
+        "score": 3.306,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -3356,8 +2908,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.455,
+        "score": 3.29,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "8d742db77143",
+        "category": "growth",
+        "lang": "en",
+        "title": "Love is infrastructure",
+        "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+        "publishedAt": "2026-10-16T09:00:00+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+            "publishedAt": "2026-10-16T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.098,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00",
         "kind": "article"
       },
       {
@@ -3393,7 +2974,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.088,
+        "score": 3.075,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
@@ -3422,38 +3003,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.087,
+        "score": 3.074,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a0ae48bb6d1b",
-        "category": "growth",
-        "lang": "en",
-        "title": "Open models have real benefits. Do they outweigh the risks?",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-        "publishedAt": "2026-10-13T10:00:00+00:00",
-        "subtopics": [
-          "Communication",
-          "Personal finance"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-            "publishedAt": "2026-10-13T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.04,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
       {
@@ -3481,7 +3032,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.019,
+        "score": 2.929,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
@@ -3510,7 +3061,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.874,
+        "score": 2.81,
         "firstSeen": "2026-10-10T11:50:15.612455+00:00",
         "kind": "article"
       },
@@ -3540,7 +3091,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.818,
+        "score": 2.763,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -3571,43 +3122,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.808,
+        "score": 2.755,
         "firstSeen": "2026-10-09T14:03:47.576436+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4783e7a5e36c",
-        "category": "growth",
-        "lang": "en",
-        "title": "ttok 1.0",
-        "summary": "Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokenizer when it should very clearly default to GPT-5/GPT-6 instead!",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/9/ttok/",
-        "publishedAt": "2026-10-09T00:34:43+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/9/ttok/",
-            "publishedAt": "2026-10-09T00:34:43+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/8/ttok/",
-            "publishedAt": "2026-10-08T23:34:28+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.756,
-        "firstSeen": "2026-10-09T12:30:39.295715+00:00",
         "kind": "article"
       },
       {
@@ -3636,7 +3152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.663,
+        "score": 2.652,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3667,7 +3183,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.631,
+        "score": 2.62,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3698,7 +3214,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.593,
+        "score": 2.583,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3727,7 +3243,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.502,
+        "score": 2.493,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3758,7 +3274,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.395,
+        "score": 2.388,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3789,8 +3305,99 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.37,
+        "score": 2.363,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a842fefb2bdb",
+        "category": "growth",
+        "lang": "en",
+        "title": "What It’s Like to Be…a Mail Carrier",
+        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+        "publishedAt": "2026-08-11T12:30:27+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+            "publishedAt": "2026-08-11T12:30:27+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.344,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a821601d6da8",
+        "category": "growth",
+        "lang": "en",
+        "title": "What It’s Like to Be…a Hotshot",
+        "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+        "publishedAt": "2026-07-28T12:23:34+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+            "publishedAt": "2026-07-28T12:23:34+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.298,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "f71d07f2efd6",
+        "category": "growth",
+        "lang": "en",
+        "title": "What Was the Best Portfolio Over the Last 50 Years?",
+        "summary": "A few months ago, I analyzed U.S. stock returns over the last century .",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+        "publishedAt": "2026-09-15T11:45:37+00:00",
+        "subtopics": [
+          "Productivity & systems",
+          "Personal finance",
+          "Persuasion & negotiation"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+            "publishedAt": "2026-09-15T11:45:37+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.281,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
     ]
@@ -3829,7 +3436,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 20,
+      "items": 22,
       "error": null
     },
     {
@@ -3972,9 +3579,9 @@
     }
   ],
   "filteredOut": {
-    "football": 49,
-    "news": 56,
+    "football": 57,
+    "news": 55,
     "medical": 10,
-    "growth": 51
+    "growth": 54
   }
 }
