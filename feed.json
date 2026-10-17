@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T11:18:29.470005+00:00",
+  "generatedAt": "2026-10-17T20:02:01.115930+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,36 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "e11b7dca89fb",
+        "category": "football",
+        "lang": "en",
+        "title": "European football: Barcelona thrash Real Betis to maintain 100% record",
+        "summary": "Lamine Yamal opens scoring in ninth straight win Luis Díaz hat-trick helps Bayern thump RB Leipzig 6-1 Barcelona ’s La Liga juggernaut rolled into Seville on Saturday and left with the scoreboard smoking, as the leaders beat Real Betis 5-2 to make it ⁠nine…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
+        "publishedAt": "2026-10-17T19:05:47+00:00",
+        "subtopics": [
+          "Barcelona",
+          "La Liga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
+            "publishedAt": "2026-10-17T19:05:47+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 13.904,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
       {
         "id": "25cc38119804",
         "category": "football",
@@ -34,34 +64,35 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.367,
+        "score": 12.618,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
-        "id": "e6ef1ccd4e4e",
+        "id": "f62deae5c7d4",
         "category": "football",
         "lang": "en",
-        "title": "Everton v Chelsea: Premier League – live",
-        "summary": "Xabi Alonso’s side are scoring and conceding at a remarkable rate. It’s great for neutrals but not necessarily the best way to qualify for Europe By WhoScored Watching Chelsea this season ought to come with a health warning.",
+        "title": "Fulham beat Hull to earn under-pressure Arbeloa a first PL win",
+        "summary": "It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question , the former Real Madrid manager has a Premier League win under his belt at the seventh…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
-        "publishedAt": "2026-10-17T10:45:06+00:00",
+        "url": "https://www.skysports.com/football/fulham-vs-hull-city/report/559508",
+        "publishedAt": "2026-10-17T17:00:00+00:00",
         "subtopics": [
+          "La Liga",
           "Premier League",
           "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
-            "publishedAt": "2026-10-17T10:45:06+00:00",
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/fulham-vs-hull-city/report/559508",
+            "publishedAt": "2026-10-17T17:00:00+00:00",
             "tier": 2
           },
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe",
-            "publishedAt": "2026-10-15T15:30:51+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/17/fulham-hull-premier-league-match-report",
+            "publishedAt": "2026-10-17T16:08:39+00:00",
             "tier": 2
           }
         ],
@@ -69,8 +100,259 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.943,
-        "firstSeen": "2026-10-17T11:18:29.470005+00:00"
+        "score": 10.0,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "f7f3101836a0",
+        "category": "football",
+        "lang": "en",
+        "title": "Houthi conflict casts shadow as Saudi Arabia scales back sporting pipe dreams",
+        "summary": "A match delayed by missile attack warnings is not what Cristiano Ronaldo and co signed up for but it’s the new reality; the Saudi sporting juggernaut is stalling Cristiano Ronaldo grabbed the scarf in the colours of the Saudi Arabian flag and waved it at the…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/sport/2026/oct/17/houthi-conflict-casts-shadow-as-saudi-arabia-scales-back-sporting-pipe-dreams",
+        "publishedAt": "2026-10-17T07:00:24+00:00",
+        "subtopics": [
+          "Champions League",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/sport/2026/oct/17/houthi-conflict-casts-shadow-as-saudi-arabia-scales-back-sporting-pipe-dreams",
+            "publishedAt": "2026-10-17T07:00:24+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.408,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "transfer": "RUMOUR"
+      },
+      {
+        "id": "fa90dc4093ad",
+        "category": "football",
+        "lang": "en",
+        "title": "Haaland nets double as Man City go six points clear at the top",
+        "summary": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T19:00:09+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T19:00:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.894,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "7067798e6723",
+        "category": "football",
+        "lang": "en",
+        "title": "Alonso praises 'serious' Chelsea",
+        "summary": "Chelsea manager Xabi Alonso describes his side's 2-0 victory over Everton as ''professional and solid' as they move up to fifth in the Premier League table.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5vgjny1082lo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T14:53:23+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c5vgjny1082lo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T14:53:23+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.509,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "3f48321ee3b6",
+        "category": "football",
+        "lang": "en",
+        "title": "Manzambi header sees Villa ease past Newcastle",
+        "summary": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/watch/video/13600439/newcastle-0-1-aston-villa-premier-league-highlights",
+        "publishedAt": "2026-10-17T19:32:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13600439/newcastle-0-1-aston-villa-premier-league-highlights",
+            "publishedAt": "2026-10-17T19:32:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T19:12:02+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.248,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "177c1aa007b5",
+        "category": "football",
+        "lang": "en",
+        "title": "Manzambi haunts Newcastle with winner for Aston Villa",
+        "summary": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed move from Freiburg to Newcastle this summer, which appeared nailed on. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
+        "publishedAt": "2026-10-17T19:30:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
+            "publishedAt": "2026-10-17T19:30:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/17/newcastle-aston-villa-premier-league-match-report",
+            "publishedAt": "2026-10-17T18:38:58+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.245,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "7eb650628d5c",
+        "category": "football",
+        "lang": "en",
+        "title": "Liverpool come from behind to beat nine-man Brentford",
+        "summary": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T19:00:13+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T19:00:13+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13600373/brentford-1-2-liverpool-premier-league-highlights",
+            "publishedAt": "2026-10-17T17:29:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.195,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "fa450bf21499",
+        "category": "football",
+        "lang": "en",
+        "title": "Emery praises Manzambi's 'skills and intelligence'",
+        "summary": "Aston Villa manager Unai Emery reacts to his 100th Premier League win after victory against Newcastle at St James Park.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cw80zpzx3vxjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T19:29:21+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cw80zpzx3vxjo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T19:29:21+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.444,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "b63557dc5f08",
+        "category": "football",
+        "lang": "en",
+        "title": "Iwobi delivers Fulham's first win of season",
+        "summary": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T19:00:06+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T19:00:06+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.394,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "243ec43ed45f",
@@ -99,8 +381,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.703,
+        "score": 6.258,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
+      },
+      {
+        "id": "c4feb51313e8",
+        "category": "football",
+        "lang": "en",
+        "title": "Man City's Maresca 'very happy' after Ipswich win",
+        "summary": "Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T17:08:01+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T17:08:01+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.213,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "1068fcd7dad7",
@@ -128,38 +439,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.571,
+        "score": 6.16,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
-      },
-      {
-        "id": "a6abf9d36b7c",
-        "category": "football",
-        "lang": "en",
-        "title": "Transfer Centre LIVE! 'Bellingham agrees new five-year deal at Real Madrid'",
-        "summary": "",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-        "publishedAt": "2026-10-16T16:20:00+00:00",
-        "subtopics": [
-          "La Liga",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-            "publishedAt": "2026-10-16T16:20:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.552,
-        "firstSeen": "2026-10-16T20:27:30.951362+00:00",
-        "transfer": "RUMOUR"
       },
       {
         "id": "87f6fe60307a",
@@ -188,96 +469,96 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.498,
+        "score": 6.107,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
-        "id": "013d0ac50d69",
+        "id": "85bf0bbfd604",
         "category": "football",
         "lang": "en",
-        "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
-        "summary": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of me is that, basically, I am a madman,” James McClean says calmly. “I’m outspoken.",
+        "title": "Chelsea inflict Everton's first defeat after Rogers escapes red",
+        "summary": "Pedro Neto scored both second-half goals as Chelsea inflicted Everton’s first defeat of the Premier League season in a 2-0 win on Merseyside after Morgan Rogers escaped a sending off before the interval.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
-        "publishedAt": "2026-10-17T05:00:24+00:00",
+        "url": "https://www.skysports.com/football/everton-vs-chelsea/report/559507",
+        "publishedAt": "2026-10-17T14:30:00+00:00",
         "subtopics": [
           "Premier League",
           "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
-            "publishedAt": "2026-10-17T05:00:24+00:00",
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/everton-vs-chelsea/report/559507",
+            "publishedAt": "2026-10-17T14:30:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.91,
-        "firstSeen": "2026-10-17T10:05:45.457400+00:00"
+        "isNew": true,
+        "score": 5.976,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
-        "id": "992133a731e1",
+        "id": "f9d126ff2d05",
         "category": "football",
         "lang": "en",
-        "title": "Evanilson, Rayan and Rodríguez goals seal Bournemouth’s historic home win in Europe",
-        "summary": "An impossible dream realised: the Vitality Stadium staging European football, where the Europa League is becoming an oasis for Bournemouth. No wins yet in the Premier League, but beating Sturm Graz following up winning away at Real Sociedad should calm the…",
+        "title": "Neto double at Everton leads Chelsea to victory marred by Martínez head injury",
+        "summary": "Chelsea have returned from the international break with a spirit, authority and resilience that augurs well for Xabi Alonso. Their troubles at Everton, not a happy hunting ground in recent years, were confined to the seven minutes Emi Martínez needed…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
-        "publishedAt": "2026-10-15T21:46:41+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
+        "publishedAt": "2026-10-17T13:53:13+00:00",
         "subtopics": [
-          "La Liga",
           "Premier League",
+          "International",
           "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
-            "publishedAt": "2026-10-15T21:46:41+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
+            "publishedAt": "2026-10-17T13:53:13+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.815,
-        "firstSeen": "2026-10-15T21:54:26.748160+00:00"
+        "isNew": true,
+        "score": 5.923,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
-        "id": "ecbabb1550a5",
+        "id": "5d31a7aa312b",
         "category": "football",
         "lang": "en",
-        "title": "The England keeper set to face his dad at a World Cup",
-        "summary": "Colin Gordon will be coaching Argentina at the World Cup, while son Chris will be playing for England.",
+        "title": "Boos and bananas on day of defiance at Man City",
+        "summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw98z1v08vg4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-16T09:14:05+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T18:02:39+00:00",
         "subtopics": [
-          "World Cup",
-          "Upcoming"
+          "Premier League",
+          "Tables"
         ],
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cw98z1v08vg4o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-16T09:14:05+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T18:02:39+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.713,
-        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
+        "isNew": true,
+        "score": 5.8,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "3028ff74731f",
@@ -305,58 +586,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.613,
+        "score": 5.453,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
-        "id": "cae610d355e5",
+        "id": "013d0ac50d69",
         "category": "football",
         "lang": "en",
-        "title": "'Top two - why not?' - Why Sangare turned down top clubs for Brentford",
-        "summary": "Mamadou Sangare could have been playing Champions League football this week. After all, the signs point to him being an elite-level player.",
+        "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
+        "summary": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of me is that, basically, I am a madman,” James McClean says calmly. “I’m outspoken.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13599149/mamadou-sangare-interview-brentford-midfielder-reveals-why-he-turned-down-top-clubs-in-europe-for-the-bees",
-        "publishedAt": "2026-10-15T08:00:00+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
+        "publishedAt": "2026-10-17T05:00:24+00:00",
         "subtopics": [
-          "Champions League",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13599149/mamadou-sangare-interview-brentford-midfielder-reveals-why-he-turned-down-top-clubs-in-europe-for-the-bees",
-            "publishedAt": "2026-10-15T08:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.505,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
-        "transfer": "RUMOUR"
-      },
-      {
-        "id": "6358b9a21e5c",
-        "category": "football",
-        "lang": "en",
-        "title": "Martínez has drawn back the curtain on Manchester United’s ruinous ownership | Jonathan Liew",
-        "summary": "Defender may not be blameless in team’s struggles but his criticism goes to the heart of what has gone wrong at the club Heartbreaking: the worst defender you know just made a great point. And no, nobody would describe Lisandro Martínez as the ideal person…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/15/lisandro-martinez-criticism-jason-wilcox-jim-ratcliffe-glazers",
-        "publishedAt": "2026-10-15T05:00:23+00:00",
-        "subtopics": [
-          "La Liga",
+          "Premier League",
           "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/15/lisandro-martinez-criticism-jason-wilcox-jim-ratcliffe-glazers",
-            "publishedAt": "2026-10-15T05:00:23+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
+            "publishedAt": "2026-10-17T05:00:24+00:00",
             "tier": 2
           }
         ],
@@ -364,8 +615,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.455,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+        "score": 5.28,
+        "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
         "id": "07c19358a1b1",
@@ -394,37 +645,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.373,
+        "score": 5.275,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "acc3c72b8620",
-        "category": "football",
-        "lang": "en",
-        "title": "Alex Scott quits Disney+ role as Women’s Champions League presenter",
-        "summary": "Scott walking away to focus on other projects Disney+ was criticised after opening round this season Alex Scott, the former Football Focus host, has left her role as a presenter of the Women’s Champions League coverage on Disney+. It is understood it was…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/15/alex-scott-quits-disney-womens-champions-league-presenter",
-        "publishedAt": "2026-10-15T14:58:55+00:00",
-        "subtopics": [
-          "Champions League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/15/alex-scott-quits-disney-womens-champions-league-presenter",
-            "publishedAt": "2026-10-15T14:58:55+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.144,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "fac57bfcc84c",
@@ -452,37 +674,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.05,
+        "score": 4.645,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
-      },
-      {
-        "id": "ef212537243a",
-        "category": "football",
-        "lang": "en",
-        "title": "'Not about me' - Arbeloa dismisses future questions",
-        "summary": "Fulham head coach Alvaro Arbeloa says the focus should not be on him as his side searches for a first Premier League win this season against Hull City this weekend.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c615jw414vypo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-16T10:24:57+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c615jw414vypo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-16T10:24:57+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.764,
-        "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
         "id": "641c0073d65a",
@@ -510,7 +703,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.643,
+        "score": 4.344,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -539,11 +732,81 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.752,
+        "score": 3.555,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       }
     ],
     "news": [
+      {
+        "id": "c8d154094a81",
+        "category": "news",
+        "lang": "de",
+        "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
+        "summary": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können Koalitionsverhandlungen beginnen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
+        "publishedAt": "2026-10-17T19:15:16+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
+            "publishedAt": "2026-10-17T19:15:16+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html",
+            "publishedAt": "2026-10-17T19:15:16+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.965,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "73c7b350b543",
+        "category": "news",
+        "lang": "de",
+        "title": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
+        "summary": "Beim \"Deutschlandtag\" der Jungen Union findet Kanzler Merz deutliche Worte in Richtung SPD: Er wolle den Erfolg der Koalition, aber nicht um jeden Preis. In Sachen Rente pocht er darauf, die Reformvorschläge vollständig umzusetzen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
+        "publishedAt": "2026-10-17T15:29:15+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
+            "publishedAt": "2026-10-17T15:29:15+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html",
+            "publishedAt": "2026-10-17T15:29:15+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.804,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
       {
         "id": "557d59a28c90",
         "category": "news",
@@ -570,8 +833,72 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.926,
+        "score": 7.57,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
+      },
+      {
+        "id": "4db0b82f2dd1",
+        "category": "news",
+        "lang": "de",
+        "title": "Ihr Thema der Woche aus Curslack",
+        "summary": "Stadtreporterin Anne Adams war in dem Hamburger Stadtteil unterwegs. Was hat die Menschen dort diese Woche bewegt?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-curslack,hamj-15644.html",
+        "publishedAt": "2026-10-17T18:00:59+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-curslack,hamj-15644.html",
+            "publishedAt": "2026-10-17T18:00:59+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.511,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "eb0eefc5e844",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburg: Bezirken fehlt Geld für Grünflächen und Spielplätze",
+        "summary": "Auf vielen Grünflächen zeigt sich, dass das Budget der Bezirke jahrelang nicht erhöht wurde, obwohl die Kosten gestiegen sind.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-bezirken-fehlt-geld-fuer-gruenflaechen-und-spielplaetze,gruenflaechen-100.html",
+        "publishedAt": "2026-10-17T17:51:16+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-bezirken-fehlt-geld-fuer-gruenflaechen-und-spielplaetze,gruenflaechen-100.html",
+            "publishedAt": "2026-10-17T17:51:16+00:00",
+            "tier": 1
+          },
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/geld-fuer-pflege-von-gruenflaechen-und-spielplaetzen-fehlt,hamj-15628.html",
+            "publishedAt": "2026-10-17T17:48:05+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.504,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "554262a25fb7",
@@ -599,7 +926,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.606,
+        "score": 7.289,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -628,7 +955,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.331,
+        "score": 7.047,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -664,7 +991,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.28,
+        "score": 7.002,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -700,7 +1027,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.264,
+        "score": 6.988,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -736,7 +1063,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.16,
+        "score": 6.897,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -772,7 +1099,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.141,
+        "score": 6.88,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -807,7 +1134,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.13,
+        "score": 6.871,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -842,7 +1169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.104,
+        "score": 6.848,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
@@ -871,7 +1198,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.043,
+        "score": 6.794,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -900,37 +1227,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.993,
+        "score": 6.751,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
-      },
-      {
-        "id": "14eac758a0a4",
-        "category": "news",
-        "lang": "de",
-        "title": "Hamburg verlängert Nutzung von Unterkünften für Geflüchtete",
-        "summary": "Acht Hamburger Flüchtlingsunterkünfte sollen länger genutzt werden, als angekündigt. Dafür soll die Nutzung von Hotels reduziert werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-verlaengert-nutzung-von-unterkuenften-fuer-gefluechtete,fluechtlinge-2360.html",
-        "publishedAt": "2026-10-16T11:40:42+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Immigration"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-verlaengert-nutzung-von-unterkuenften-fuer-gefluechtete,fluechtlinge-2360.html",
-            "publishedAt": "2026-10-16T11:40:42+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.711,
-        "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
         "id": "65b01843865f",
@@ -959,8 +1257,65 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.625,
+        "score": 6.427,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
+      },
+      {
+        "id": "1c501026e587",
+        "category": "news",
+        "lang": "de",
+        "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
+        "summary": "Dass gesetzlich Versicherte oft bei der Terminvergabe benachteiligt würden, hält der Chef des GKV-Spitzenverbands, Blatt, für eine \"himmelschreiende Ungerechtigkeit\". Stattdessen solle künftig der medizinische Bedarf entscheiden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/gkv-arzttermine-100.html",
+        "publishedAt": "2026-10-17T03:23:11+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/gkv-arzttermine-100.html",
+            "publishedAt": "2026-10-17T03:23:11+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.342,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "44411968fa1f",
+        "category": "news",
+        "lang": "de",
+        "title": "Köhlbrandbrücke in Hamburg am Wochenende wieder gesperrt",
+        "summary": "Bis Montagmorgen ist die Köhlbrandbrücke erneut wegen Reparatur- und Wartungsarbeiten voll gesperrt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
+        "publishedAt": "2026-10-17T12:41:10+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
+            "publishedAt": "2026-10-17T12:41:10+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.289,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "c42499fb9ca4",
@@ -994,7 +1349,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.463,
+        "score": 6.285,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -1023,38 +1378,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.381,
+        "score": 6.213,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "4bbca23b4a81",
-        "category": "news",
-        "lang": "de",
-        "title": "Vergabe der Wiesn-Zelte laut Gerichtsbeschluss rechtmäßig",
-        "summary": "Monatelang wurde darüber gestritten, wie die lukrativen Wiesn-Festzelte vergeben werden - und ob dabei nicht europäisches Recht angewendet werden müsste. Nun gab es die finale Entscheidung.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/gerichtsentscheidung-wiesn-zelte-100.html",
-        "publishedAt": "2026-10-16T11:23:56+00:00",
-        "subtopics": [
-          "EU",
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/gerichtsentscheidung-wiesn-zelte-100.html",
-            "publishedAt": "2026-10-16T11:23:56+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.102,
-        "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
         "id": "ef7df44247a7",
@@ -1088,7 +1413,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.095,
+        "score": 5.961,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1117,7 +1442,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.078,
+        "score": 5.947,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1146,7 +1471,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.058,
+        "score": 5.929,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1175,7 +1500,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.052,
+        "score": 5.924,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1210,7 +1535,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.036,
+        "score": 5.91,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
@@ -1246,7 +1571,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.02,
+        "score": 5.896,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1281,7 +1606,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.016,
+        "score": 5.892,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1310,28 +1635,29 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.0,
+        "score": 5.879,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
-        "id": "2f66c35c06eb",
+        "id": "4bbca23b4a81",
         "category": "news",
         "lang": "de",
-        "title": "Alexander Schweitzer: Vom Wahlverlierer zum Bundesminister",
-        "summary": "Im März wurde Alexander Schweitzer als Ministerpräsident von Rheinland-Pfalz abgewählt. Jetzt soll er als Bundesarbeitsminister dabei helfen, Deutschland aus der Krise zu führen.",
+        "title": "Vergabe der Wiesn-Zelte laut Gerichtsbeschluss rechtmäßig",
+        "summary": "Monatelang wurde darüber gestritten, wie die lukrativen Wiesn-Festzelte vergeben werden - und ob dabei nicht europäisches Recht angewendet werden müsste. Nun gab es die finale Entscheidung.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html",
-        "publishedAt": "2026-10-13T15:09:23+00:00",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/gerichtsentscheidung-wiesn-zelte-100.html",
+        "publishedAt": "2026-10-16T11:23:56+00:00",
         "subtopics": [
+          "EU",
           "Germany",
-          "Elections"
+          "Law & Policy"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/arbeitsminiser-schweitzer-portraet-100.html",
-            "publishedAt": "2026-10-13T15:09:23+00:00",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/gerichtsentscheidung-wiesn-zelte-100.html",
+            "publishedAt": "2026-10-16T11:23:56+00:00",
             "tier": 1
           }
         ],
@@ -1339,8 +1665,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.761,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00"
+        "score": 5.846,
+        "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
         "id": "ddfb34abd3b2",
@@ -1368,7 +1694,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.755,
+        "score": 5.663,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00"
       },
       {
@@ -1398,7 +1724,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.655,
+        "score": 5.453,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -1427,7 +1753,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.529,
+        "score": 5.342,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1457,7 +1783,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.483,
+        "score": 5.302,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -1492,7 +1818,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.409,
+        "score": 5.238,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1527,138 +1853,42 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.298,
+        "score": 5.14,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "81b740728b0d",
-        "category": "news",
-        "lang": "de",
-        "title": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
-        "summary": "Ein Berliner KI-Start-up zeigt, wie deutsche Gründer es auf die Weltbühne schaffen. Doch viele aufstrebende Unternehmen werden in ihrem Potenzial immer noch ausgebremst.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html",
-        "publishedAt": "2026-10-10T13:07:24+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html",
-            "publishedAt": "2026-10-10T13:07:24+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.253,
-        "firstSeen": "2026-10-10T13:13:18.349301+00:00"
-      },
-      {
-        "id": "533d93f66d15",
-        "category": "news",
-        "lang": "de",
-        "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
-        "summary": "Gute Nachrichten für gesetzlich Versicherte: Der GKV-Schätzerkreis hat über den Zusatzbeitrag für das kommende Jahr beraten - mit dem Ergebnis, dass dieser stabil bleiben kann. Der Gesundheitsminister wertet die Entwicklung positiv.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
-        "publishedAt": "2026-10-14T20:01:02+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
-            "publishedAt": "2026-10-14T20:01:02+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
-            "publishedAt": "2026-10-14T20:01:02+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.17,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
-      },
-      {
-        "id": "44411968fa1f",
-        "category": "news",
-        "lang": "de",
-        "title": "Köhlbrandbrücke in Hamburg am Wochenende wieder gesperrt",
-        "summary": "Am Wochenende wird die Köhlbrandbrücke erneut wegen Reparatur- und Wartungsarbeiten voll gesperrt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
-        "publishedAt": "2026-10-15T14:20:22+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
-            "publishedAt": "2026-10-15T14:20:22+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.136,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
-      },
-      {
-        "id": "4b89040836a6",
-        "category": "news",
-        "lang": "de",
-        "title": "Pflegekommission eingesetzt: Was Experten jetzt klären sollen",
-        "summary": "Die Bundesregierung hat sich auf die Einsetzung der Pflegestrukturkommission geeinigt. Sie soll Lösungen für eine große Reform finden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
-        "publishedAt": "2026-10-14T12:55:39+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
-            "publishedAt": "2026-10-14T12:55:39+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-kommission-kabinett-100.html",
-            "publishedAt": "2026-10-14T12:55:39+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.053,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       }
     ],
     "medical": [
+      {
+        "id": "150a1eeb71ad",
+        "category": "medical",
+        "lang": "en",
+        "title": "The Use of a Human Acellular Dermal Matrix (hADM) Transplant in Stage 4 Osteochondrosis Dissecans: A Retrospective Proof of Concept.",
+        "summary": "J Clin Med (2026 Sep 22). Fußhoeller J, Schild A, Keßler F",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42881806/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Dermal matrices",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42881806/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 11.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": true
+      },
       {
         "id": "ca362836d0a4",
         "category": "medical",
@@ -1685,7 +1915,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.935,
+        "score": 10.841,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1717,7 +1947,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.462,
+        "score": 10.387,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1747,10 +1977,47 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.218,
+        "score": 10.111,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
+      },
+      {
+        "id": "7f14905d13e8",
+        "category": "medical",
+        "lang": "en",
+        "title": "Histone post-translational modifications in diabetic foot ulcer healing: linking immune dysregulation to tissue repair.",
+        "summary": "This study is being done to collect data from treatment of patients who have diabetes with non-healing foot wounds and are being treated with a resorbable and biocompatible borate-based bioactive glass fiber matrix. A borate-based bioactive glass fiber…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42877584/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42877584/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          },
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06598241",
+            "publishedAt": "2026-10-13T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 9.5,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
       },
       {
         "id": "329c6ec5bbd6",
@@ -1778,7 +2045,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.462,
+        "score": 9.387,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1810,10 +2077,101 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.38,
+        "score": 9.351,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
+      },
+      {
+        "id": "a1a6b64a9b15",
+        "category": "medical",
+        "lang": "en",
+        "title": "Immune-Responsive Bioinks Enable Vision-Guided In situ Robotic Bioprinting to Accelerate Diabetic Wound Healing.",
+        "summary": "Adv Funct Mater (2026 Aug 20). Jeong SH, Valsami EA, Kim KT",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42877910/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42877910/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "723fe7420608",
+        "category": "medical",
+        "lang": "en",
+        "title": "Serum γ-Klotho and fibroblast growth factor-2 levels in patients with pressure ulcers.",
+        "summary": "Arch Med Sci (2026). Tuzun S, Hacioglu B, Oner C",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42877182/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42877182/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "c3d9363b0cbd",
+        "category": "medical",
+        "lang": "en",
+        "title": "Findings on the efficacy of sonic debridement in chronic wound management - a case series.",
+        "summary": "J Tissue Viability (2026 Oct 6). Bogie KM, Silander W, Farrow W",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874430/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42874430/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
       },
       {
         "id": "e9baa2a3c521",
@@ -1842,39 +2200,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.685,
+        "score": 7.6,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "7f14905d13e8",
-        "category": "medical",
-        "lang": "en",
-        "title": "Mirragen Diabetic Foot Ulcer Study",
-        "summary": "This study is being done to collect data from treatment of patients who have diabetes with non-healing foot wounds and are being treated with a resorbable and biocompatible borate-based bioactive glass fiber matrix. A borate-based bioactive glass fiber…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT06598241",
-        "publishedAt": "2026-10-13T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06598241",
-            "publishedAt": "2026-10-13T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.462,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1904,8 +2231,465 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.462,
+        "score": 7.387,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "e898af28e6b6",
+        "category": "medical",
+        "lang": "en",
+        "title": "PVA/chitosan-based hydrogels integrated with tilapia skin-derived collagen and Urtica dioica offers a promising approach for effective burn wound healing via transcriptional modulation of bFgf, Mmp2, Jak/Stat3, and α-Sma signaling pathway.",
+        "summary": "Naunyn Schmiedebergs Arch Pharmacol (2026 Oct 17). Abdelnaby A, Assar DH, Salah AS",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42888317/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care",
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42888317/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "ad874af3b262",
+        "category": "medical",
+        "lang": "en",
+        "title": "Wound care and infection prevention among war-injured civilians and their caregivers in the Gaza Strip: knowledge, attitudes, practices, and barriers.",
+        "summary": "Am J Infect Control (2026 Oct 16). Aldabbour B, Musallam R, Harara S",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887700/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42887700/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "3d476292d2bf",
+        "category": "medical",
+        "lang": "en",
+        "title": "Bioactive κ-Carrageenan/hyaluronic acid hydrogel sheet dressing with sustained bromelain release to promote healing of full-thickness burn injury.",
+        "summary": "Biomater Adv (2026 Oct 3). Pezeshkian Z, Milan PB, Bagher Z",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42887178/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care",
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42887178/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "7fbb6c190e74",
+        "category": "medical",
+        "lang": "en",
+        "title": "Carbon-based two-dimensional nanomaterials (CB-2DMs) for high-performance wound healing platforms bridging mechanics and medicine.",
+        "summary": "Discov Nano (2026 Oct 16). Omar RA, Singh K, Talreja N",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886319/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42886319/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "9dfa11b2d3d3",
+        "category": "medical",
+        "lang": "en",
+        "title": "Rewiring autophagy to target cutaneous wound healing: investigation of molecular mechanisms to therapeutic interventions.",
+        "summary": "Mol Biol Rep (2026 Oct 16). Nayak K, Banerjee I, Nazerulla F",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42886282/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42886282/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "a81ce7aba3d4",
+        "category": "medical",
+        "lang": "en",
+        "title": "Use of Biodegradable Temporizing Matrix for Donor and Recipient Site Wound Healing in Delayed Reverse Sural Flap: A Case Report.",
+        "summary": "Acta Orthop Belg (2026 Oct 8). Ho Man H, Kai Siang Chong D, Tiwari P",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42885468/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care",
+          "Reconstructive surgery"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42885468/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "73521a609e1c",
+        "category": "medical",
+        "lang": "en",
+        "title": "Time to Heal: MicroRNA Temporal Dysregulation in Diabetic Foot Ulcers.",
+        "summary": "Int J Mol Sci (2026 Sep 23). Pan L, Zhao L, Liu J",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42883745/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42883745/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "0d2aaba9d7db",
+        "category": "medical",
+        "lang": "en",
+        "title": "Clinical Outcomes of Semi-Occlusive Dressing for Allen Type III Fingertip Injuries.",
+        "summary": "J Clin Med (2026 Sep 23). Park J, Choi IC, Jeong C",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42881834/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42881834/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "8be28a0fd182",
+        "category": "medical",
+        "lang": "en",
+        "title": "[Impact of icariin on the differentiation towards dentinogenesis and angiogenesis, and inflammatory regulation of stem cells from human exfoliated deciduous teeth].",
+        "summary": "Beijing Da Xue Xue Bao Yi Xue Ban (2026 Oct 18). Jin Y, Dong L, Yuan X",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880908/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Regenerative medicine"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42880908/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "8a3f06f04ee3",
+        "category": "medical",
+        "lang": "en",
+        "title": "A multifunctional injectable, adhesive and self-healing carboxymethyl cellulose/alginate hydrogel reinforced with clove oil-caseinate nanoparticles for diabetic wound healing.",
+        "summary": "Int J Pharm (2026 Oct 15). Hazem M, El-Banna SG, Okab AB",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880648/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care",
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42880648/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "bb09234e61b3",
+        "category": "medical",
+        "lang": "en",
+        "title": "Spatiotemporal controlled delivery of insulin via supramolecular albumin stearate nanoparticles as a growth factor-mimetic system for soft tissue regeneration.",
+        "summary": "J Biomater Appl (2026 Oct 15). Shaji SS, Radhakrishnan R, K P A",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42880399/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Regenerative medicine"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42880399/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "7a12ee384fd6",
+        "category": "medical",
+        "lang": "en",
+        "title": "Easy Tailorable Alginate Film Gaining Super-Efficient Photothermal Conversion From Closed-System Design for Antibacterial and Wound Healing Applications.",
+        "summary": "Adv Healthc Mater (2026 Oct 15). Wu Z, Jiang L, Liu Z",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42879136/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42879136/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "b3a14406b6ba",
+        "category": "medical",
+        "lang": "en",
+        "title": "pH-responsive hydrogel delivery of Lycium barbarum glycopeptide coordinates immune-matrix crosstalk to enhance wound healing.",
+        "summary": "Drug Deliv (2026 Dec 31). Lai S, Lei S, Zeng C",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42878251/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care",
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42878251/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "fe6a0582fadf",
+        "category": "medical",
+        "lang": "en",
+        "title": "Curcumin (Curcuma longa): Applications in Clinical, Regenerative, and Aesthetic Dermatology.",
+        "summary": "J Clin Aesthet Dermatol (2026 Aug). DeVries A, Lawson A, Chaudry A",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42877871/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Regenerative medicine",
+          "Medical aesthetics"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42877871/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "390353ebcbd5",
+        "category": "medical",
+        "lang": "en",
+        "title": "Antibacterial and immunomodulatory core-shell nanofibrous membranes accelerate skin wound repair and regeneration.",
+        "summary": "Burns (2026 Oct 7). Chopra A, Raju RS, Balakrishnan R",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42874525/",
+        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+        "subtopics": [
+          "Wound care",
+          "Burns"
+        ],
+        "sources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42874525/",
+            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.7,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1942,7 +2726,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.672,
+        "score": 6.63,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1973,7 +2757,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.672,
+        "score": 6.63,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2004,7 +2788,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.38,
+        "score": 6.351,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2036,7 +2820,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.122,
+        "score": 6.104,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2067,7 +2851,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.821,
+        "score": 5.71,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2098,7 +2882,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.908,
+        "score": 4.806,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2129,7 +2913,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.637,
+        "score": 4.546,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2159,13 +2943,49 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.886,
+        "score": 3.772,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "50cd55038c81",
+        "category": "growth",
+        "lang": "en",
+        "title": "AI Safety Fact vs. Fiction | YC Paper Club",
+        "summary": "This week’s Paper Club is all about AI safety - not the headlines, the science. AI safety has been a research field for decades, with its own conferences, methods, and a track record in systems like aircraft collision avoidance, where the standard is one…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
+        "publishedAt": "2026-10-17T14:00:30+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
+            "publishedAt": "2026-10-17T14:00:30+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.043,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "kind": "video",
+        "video": {
+          "id": "X7oI4Umt3DU",
+          "thumbUrl": "https://i1.ytimg.com/vi/X7oI4Umt3DU/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
+          "channel": "Y Combinator"
+        }
+      },
       {
         "id": "5273282abdb2",
         "category": "growth",
@@ -2193,7 +3013,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.818,
+        "score": 5.548,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "video",
         "video": {
@@ -2230,7 +3050,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.119,
+        "score": 4.836,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "article"
       },
@@ -2260,38 +3080,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.965,
+        "score": 4.665,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "fc710191e832",
-        "category": "growth",
-        "lang": "en",
-        "title": "Chirp Pong",
-        "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-        "publishedAt": "2026-10-15T19:47:52+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Social skills"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-            "publishedAt": "2026-10-15T19:47:52+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.166,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
       {
@@ -2319,7 +3109,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.093,
+        "score": 3.997,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2328,6 +3118,73 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=cp7mBZJkaCs",
           "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "fc710191e832",
+        "category": "growth",
+        "lang": "en",
+        "title": "Chirp Pong",
+        "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+        "publishedAt": "2026-10-15T19:47:52+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Social skills"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+            "publishedAt": "2026-10-15T19:47:52+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.963,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "1343260ec331",
+        "category": "growth",
+        "lang": "en",
+        "title": "Campaigns Spend Millions to Influence Voters. This Works Better | Katie Paris | TED",
+        "summary": "Katie Paris quit her career in Washington, DC, to figure out how to make politics feel less like strangers shouting at each other and more like friends looking out for each other. In this practical talk, she reveals why conversations between real people can…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=ueOxonBk970",
+        "publishedAt": "2026-10-17T15:00:35+00:00",
+        "subtopics": [
+          "Communication",
+          "Persuasion & negotiation"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=ueOxonBk970",
+            "publishedAt": "2026-10-17T15:00:35+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.895,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "kind": "video",
+        "video": {
+          "id": "ueOxonBk970",
+          "thumbUrl": "https://i2.ytimg.com/vi/ueOxonBk970/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=ueOxonBk970",
+          "channel": "TED"
         }
       },
       {
@@ -2356,7 +3213,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.008,
+        "score": 3.824,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -2386,7 +3243,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.809,
+        "score": 3.801,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2396,37 +3253,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=PpEUTpzWt2M",
           "channel": "TED"
         }
-      },
-      {
-        "id": "2cf7b587d052",
-        "category": "growth",
-        "lang": "en",
-        "title": "LaTeX renderer",
-        "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/15/latex/",
-        "publishedAt": "2026-10-15T02:07:28+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/15/latex/",
-            "publishedAt": "2026-10-15T02:07:28+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.781,
-        "firstSeen": "2026-10-17T10:05:45.457400+00:00",
-        "kind": "article"
       },
       {
         "id": "ed019a905ba6",
@@ -2453,7 +3279,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.768,
+        "score": 3.76,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -2489,7 +3315,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.704,
+        "score": 3.697,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2499,35 +3325,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=8WWrNbHvd44",
           "channel": "TED"
         }
-      },
-      {
-        "id": "2c3ce0b13a2f",
-        "category": "growth",
-        "lang": "en",
-        "title": "Tree Appreciator",
-        "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-        "publishedAt": "2026-10-14T21:23:01+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-            "publishedAt": "2026-10-14T21:23:01+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.694,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
-        "kind": "article"
       },
       {
         "id": "989396acd63d",
@@ -2555,7 +3352,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.69,
+        "score": 3.683,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -2591,7 +3388,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.648,
+        "score": 3.641,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2601,6 +3398,66 @@
           "watchUrl": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
           "channel": "TED"
         }
+      },
+      {
+        "id": "2cf7b587d052",
+        "category": "growth",
+        "lang": "en",
+        "title": "LaTeX renderer",
+        "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker,…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/15/latex/",
+        "publishedAt": "2026-10-15T02:07:28+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/15/latex/",
+            "publishedAt": "2026-10-15T02:07:28+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.625,
+        "firstSeen": "2026-10-17T10:05:45.457400+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "2c3ce0b13a2f",
+        "category": "growth",
+        "lang": "en",
+        "title": "Tree Appreciator",
+        "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+        "publishedAt": "2026-10-14T21:23:01+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+            "publishedAt": "2026-10-14T21:23:01+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.548,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
+        "kind": "article"
       },
       {
         "id": "065912555937",
@@ -2627,7 +3484,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.609,
+        "score": 3.474,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
@@ -2656,7 +3513,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.356,
+        "score": 3.251,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -2686,7 +3543,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.349,
+        "score": 3.246,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00",
         "kind": "article"
       },
@@ -2715,7 +3572,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.243,
+        "score": 3.153,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00",
         "kind": "article"
       },
@@ -2746,8 +3603,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.224,
+        "score": 3.136,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "8d742db77143",
+        "category": "growth",
+        "lang": "en",
+        "title": "Love is infrastructure",
+        "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+        "publishedAt": "2026-10-16T09:00:00+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+            "publishedAt": "2026-10-16T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.064,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00",
         "kind": "article"
       },
       {
@@ -2781,8 +3667,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.123,
+        "score": 3.047,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "cfb3c2ddc081",
+        "category": "growth",
+        "lang": "en",
+        "title": "Six wild ideas for perpetuating your mind",
+        "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+        "publishedAt": "2026-10-15T09:00:00+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+            "publishedAt": "2026-10-15T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.041,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
       {
@@ -2810,37 +3725,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.107,
+        "score": 3.033,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "8d742db77143",
-        "category": "growth",
-        "lang": "en",
-        "title": "Love is infrastructure",
-        "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-        "publishedAt": "2026-10-16T09:00:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-            "publishedAt": "2026-10-16T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.073,
-        "firstSeen": "2026-10-16T10:36:30.354891+00:00",
         "kind": "article"
       },
       {
@@ -2870,37 +3756,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.058,
+        "score": 2.99,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "cfb3c2ddc081",
-        "category": "growth",
-        "lang": "en",
-        "title": "Six wild ideas for perpetuating your mind",
-        "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-        "publishedAt": "2026-10-15T09:00:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-            "publishedAt": "2026-10-15T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.049,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
       {
@@ -2928,7 +3785,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.047,
+        "score": 2.981,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "kind": "article"
       },
@@ -2957,7 +3814,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.797,
+        "score": 2.761,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
@@ -2987,7 +3844,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.63,
+        "score": 2.623,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3018,7 +3875,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.6,
+        "score": 2.593,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3049,7 +3906,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.563,
+        "score": 2.557,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3078,7 +3935,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.476,
+        "score": 2.47,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3109,7 +3966,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.374,
+        "score": 2.37,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3140,7 +3997,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.35,
+        "score": 2.345,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3171,7 +4028,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.27,
+        "score": 2.266,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3202,66 +4059,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.205,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "f05a3ea43d40",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Myth of Owning Your Time",
-        "summary": "You've probably heard it all before. Be your own boss.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
-        "publishedAt": "2026-08-18T11:45:54+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
-            "publishedAt": "2026-08-18T11:45:54+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.07,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "9df6253b05bb",
-        "category": "growth",
-        "lang": "en",
-        "title": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
-        "summary": "David Baszucki is the co-founder and CEO of Roblox, a platform built around a simple idea: give people the tools and incentives to create together. In this short conversation, he shares how a health decision saved his son’s life and how it changed how he…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-        "publishedAt": "2026-08-13T09:45:00+00:00",
-        "subtopics": [
-          "Communication",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-            "publishedAt": "2026-08-13T09:45:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.048,
+        "score": 2.202,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3301,7 +4099,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 23,
+      "items": 24,
       "error": null
     },
     {
@@ -3336,9 +4134,9 @@
     },
     {
       "id": "pubmed-woundcare",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "items": 25,
+      "error": null
     },
     {
       "id": "pubmed-dermal",
@@ -3444,9 +4242,9 @@
     }
   ],
   "filteredOut": {
-    "football": 59,
-    "news": 54,
-    "medical": 13,
-    "growth": 54
+    "football": 51,
+    "news": 56,
+    "medical": 18,
+    "growth": 52
   }
 }
