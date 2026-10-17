@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:02:01.115930+00:00",
+  "generatedAt": "2026-10-17T21:11:05.802370+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,36 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "7dc755fd6dda",
+        "category": "football",
+        "lang": "en",
+        "title": "Lamine Yamal opens the scoring as Barcelona beat Real Betis",
+        "summary": "Lamine Yamal, Rodri, Gabriel Jesus, Eric Garcia and Dani Olmo all scored for Barcelona as they swept aside Real Betis in a seven-goal thriller to stay five points clear at the top of La Liga.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T20:49:36+00:00",
+        "subtopics": [
+          "Barcelona",
+          "La Liga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T20:49:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 15.463,
+        "firstSeen": "2026-10-17T21:11:05.802370+00:00"
+      },
       {
         "id": "e11b7dca89fb",
         "category": "football",
@@ -34,8 +64,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.904,
+        "isNew": false,
+        "score": 13.79,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -64,7 +94,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.618,
+        "score": 12.535,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -99,8 +129,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 10.0,
+        "isNew": false,
+        "score": 9.894,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -128,10 +158,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.408,
+        "isNew": false,
+        "score": 8.334,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "transfer": "RUMOUR"
+      },
+      {
+        "id": "d53512175a92",
+        "category": "football",
+        "lang": "en",
+        "title": "Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game",
+        "summary": "Harry Kane scored on his 100th Bundesliga appearance while Luis Diaz netted a hat-trick as Bayern Munich thrashed RB Leipzig 6-1 to go top of the table.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T20:55:25+00:00",
+        "subtopics": [
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T20:55:25+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.973,
+        "firstSeen": "2026-10-17T21:11:05.802370+00:00"
       },
       {
         "id": "fa90dc4093ad",
@@ -158,8 +217,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.894,
+        "isNew": false,
+        "score": 7.781,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -187,8 +246,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.509,
+        "isNew": false,
+        "score": 7.411,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -222,8 +281,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.248,
+        "isNew": false,
+        "score": 7.133,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -231,7 +290,7 @@
         "category": "football",
         "lang": "en",
         "title": "Manzambi haunts Newcastle with winner for Aston Villa",
-        "summary": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed move from Freiburg to Newcastle this summer, which appeared nailed on. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder…",
+        "summary": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed summer move from Freiburg to Newcastle. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder looked worth every penny of…",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
@@ -257,8 +316,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.245,
+        "isNew": false,
+        "score": 7.13,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -292,8 +351,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.195,
+        "isNew": false,
+        "score": 7.081,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -321,8 +380,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.444,
+        "isNew": false,
+        "score": 6.328,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -350,8 +409,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.394,
+        "isNew": false,
+        "score": 6.281,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -381,37 +440,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.258,
+        "score": 6.209,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
-      },
-      {
-        "id": "c4feb51313e8",
-        "category": "football",
-        "lang": "en",
-        "title": "Man City's Maresca 'very happy' after Ipswich win",
-        "summary": "Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-17T17:08:01+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-17T17:08:01+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.213,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "1068fcd7dad7",
@@ -439,8 +469,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.16,
+        "score": 6.115,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
+      },
+      {
+        "id": "c4feb51313e8",
+        "category": "football",
+        "lang": "en",
+        "title": "Man City's Maresca 'very happy' after Ipswich win",
+        "summary": "Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T17:08:01+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T17:08:01+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.106,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "87f6fe60307a",
@@ -469,7 +528,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.107,
+        "score": 6.063,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -497,8 +556,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.976,
+        "isNew": false,
+        "score": 5.879,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -527,8 +586,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.923,
+        "isNew": false,
+        "score": 5.828,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -556,8 +615,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.8,
+        "isNew": false,
+        "score": 5.69,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -586,37 +645,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.453,
+        "score": 5.435,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
-      },
-      {
-        "id": "013d0ac50d69",
-        "category": "football",
-        "lang": "en",
-        "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
-        "summary": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of me is that, basically, I am a madman,” James McClean says calmly. “I’m outspoken.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
-        "publishedAt": "2026-10-17T05:00:24+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
-            "publishedAt": "2026-10-17T05:00:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.28,
-        "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
         "id": "07c19358a1b1",
@@ -645,8 +675,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.275,
+        "score": 5.264,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+      },
+      {
+        "id": "013d0ac50d69",
+        "category": "football",
+        "lang": "en",
+        "title": "James McClean: ‘Wearing the poppy was just never going to happen’",
+        "summary": "The former Republic of Ireland international on growing up in a community still reeling from the Troubles and the controversy that scarred his career “The perception of me is that, basically, I am a madman,” James McClean says calmly. “I’m outspoken.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
+        "publishedAt": "2026-10-17T05:00:24+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/17/james-mcclean-wearing-the-poppy-was-just-never-going-to-happen",
+            "publishedAt": "2026-10-17T05:00:24+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.211,
+        "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
         "id": "fac57bfcc84c",
@@ -674,7 +733,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.645,
+        "score": 4.6,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -703,7 +762,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.344,
+        "score": 4.311,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -732,7 +791,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.555,
+        "score": 3.533,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       }
     ],
@@ -768,8 +827,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.965,
+        "isNew": false,
+        "score": 7.915,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -803,9 +862,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.804,
+        "isNew": false,
+        "score": 7.756,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "24d922a2976e",
+        "category": "news",
+        "lang": "de",
+        "title": "2. Liga: Hannover 96 und FC St. Pauli mit Remis - Wagner wartet weiter auf ersten Sieg",
+        "summary": "Das Nordduell war hochintensiv, das Unentschieden gerecht. Hannover wartet unter seinem neuen Coach Sandro Wagner somit weiter auf den ersten Erfolg.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/sport/fussball/zweite-liga-spielbericht-hannover-96-fc-st-pauli,nordduell-332.html",
+        "publishedAt": "2026-10-17T20:23:25+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/sport/fussball/zweite-liga-spielbericht-hannover-96-fc-st-pauli,nordduell-332.html",
+            "publishedAt": "2026-10-17T20:23:25+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.565,
+        "firstSeen": "2026-10-17T21:11:05.802370+00:00"
       },
       {
         "id": "557d59a28c90",
@@ -833,7 +921,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.57,
+        "score": 7.526,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -861,8 +949,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.511,
+        "isNew": false,
+        "score": 7.462,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -896,8 +984,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.504,
+        "isNew": false,
+        "score": 7.455,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -926,7 +1014,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.289,
+        "score": 7.25,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -955,7 +1043,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.047,
+        "score": 7.012,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -991,7 +1079,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.002,
+        "score": 6.968,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1027,7 +1115,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.988,
+        "score": 6.954,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -1063,7 +1151,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.897,
+        "score": 6.865,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1099,7 +1187,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.88,
+        "score": 6.848,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1134,7 +1222,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.871,
+        "score": 6.839,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1169,7 +1257,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.848,
+        "score": 6.817,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
@@ -1198,7 +1286,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.794,
+        "score": 6.764,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -1227,7 +1315,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.751,
+        "score": 6.721,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1257,7 +1345,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.427,
+        "score": 6.403,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -1285,37 +1373,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.342,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
-      },
-      {
-        "id": "44411968fa1f",
-        "category": "news",
-        "lang": "de",
-        "title": "Köhlbrandbrücke in Hamburg am Wochenende wieder gesperrt",
-        "summary": "Bis Montagmorgen ist die Köhlbrandbrücke erneut wegen Reparatur- und Wartungsarbeiten voll gesperrt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
-        "publishedAt": "2026-10-17T12:41:10+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
-            "publishedAt": "2026-10-17T12:41:10+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.289,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
+        "score": 6.302,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "c42499fb9ca4",
@@ -1349,8 +1409,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.285,
+        "score": 6.263,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
+      },
+      {
+        "id": "44411968fa1f",
+        "category": "news",
+        "lang": "de",
+        "title": "Köhlbrandbrücke in Hamburg am Wochenende wieder gesperrt",
+        "summary": "Bis Montagmorgen ist die Köhlbrandbrücke erneut wegen Reparatur- und Wartungsarbeiten voll gesperrt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
+        "publishedAt": "2026-10-17T12:41:10+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
+            "publishedAt": "2026-10-17T12:41:10+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.244,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "f131eb5f93a2",
@@ -1378,7 +1466,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.213,
+        "score": 6.192,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1413,7 +1501,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.961,
+        "score": 5.945,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1442,7 +1530,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.947,
+        "score": 5.931,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1471,7 +1559,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.929,
+        "score": 5.913,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1500,7 +1588,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.924,
+        "score": 5.908,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1535,7 +1623,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.91,
+        "score": 5.894,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
@@ -1571,7 +1659,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.896,
+        "score": 5.881,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1606,7 +1694,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.892,
+        "score": 5.877,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1635,7 +1723,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.879,
+        "score": 5.864,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1665,7 +1753,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.846,
+        "score": 5.815,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
@@ -1694,7 +1782,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.663,
+        "score": 5.651,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00"
       },
       {
@@ -1724,7 +1812,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.453,
+        "score": 5.429,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -1753,7 +1841,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.342,
+        "score": 5.32,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1783,7 +1871,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.302,
+        "score": 5.28,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -1818,77 +1906,11 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.238,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
-      },
-      {
-        "id": "f22f0e71f965",
-        "category": "news",
-        "lang": "de",
-        "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
-        "summary": "Notaufnahmen und Rettungsdienste sind seit Jahren überlastet. Nun will der Bundestag endlich eine Reform auf den Weg bringen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
-        "publishedAt": "2026-10-15T03:00:17+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
-            "publishedAt": "2026-10-15T03:00:17+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html",
-            "publishedAt": "2026-10-15T03:00:17+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.14,
+        "score": 5.217,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       }
     ],
     "medical": [
-      {
-        "id": "150a1eeb71ad",
-        "category": "medical",
-        "lang": "en",
-        "title": "The Use of a Human Acellular Dermal Matrix (hADM) Transplant in Stage 4 Osteochondrosis Dissecans: A Retrospective Proof of Concept.",
-        "summary": "J Clin Med (2026 Sep 22). Fußhoeller J, Schild A, Keßler F",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42881806/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Dermal matrices",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42881806/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 11.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": true
-      },
       {
         "id": "ca362836d0a4",
         "category": "medical",
@@ -1915,7 +1937,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.841,
+        "score": 10.829,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1947,7 +1969,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.387,
+        "score": 10.378,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1977,47 +1999,10 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.111,
+        "score": 10.098,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
-      },
-      {
-        "id": "7f14905d13e8",
-        "category": "medical",
-        "lang": "en",
-        "title": "Histone post-translational modifications in diabetic foot ulcer healing: linking immune dysregulation to tissue repair.",
-        "summary": "This study is being done to collect data from treatment of patients who have diabetes with non-healing foot wounds and are being treated with a resorbable and biocompatible borate-based bioactive glass fiber matrix. A borate-based bioactive glass fiber…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42877584/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42877584/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          },
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06598241",
-            "publishedAt": "2026-10-13T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 9.5,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
       },
       {
         "id": "329c6ec5bbd6",
@@ -2045,7 +2030,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.387,
+        "score": 9.378,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2077,101 +2062,10 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.351,
+        "score": 9.347,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
-      },
-      {
-        "id": "a1a6b64a9b15",
-        "category": "medical",
-        "lang": "en",
-        "title": "Immune-Responsive Bioinks Enable Vision-Guided In situ Robotic Bioprinting to Accelerate Diabetic Wound Healing.",
-        "summary": "Adv Funct Mater (2026 Aug 20). Jeong SH, Valsami EA, Kim KT",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42877910/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42877910/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 8.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "723fe7420608",
-        "category": "medical",
-        "lang": "en",
-        "title": "Serum γ-Klotho and fibroblast growth factor-2 levels in patients with pressure ulcers.",
-        "summary": "Arch Med Sci (2026). Tuzun S, Hacioglu B, Oner C",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42877182/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42877182/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 8.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "c3d9363b0cbd",
-        "category": "medical",
-        "lang": "en",
-        "title": "Findings on the efficacy of sonic debridement in chronic wound management - a case series.",
-        "summary": "J Tissue Viability (2026 Oct 6). Bogie KM, Silander W, Farrow W",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42874430/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42874430/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
       },
       {
         "id": "e9baa2a3c521",
@@ -2200,8 +2094,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.6,
+        "score": 7.59,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "7f14905d13e8",
+        "category": "medical",
+        "lang": "en",
+        "title": "Mirragen Diabetic Foot Ulcer Study",
+        "summary": "This study is being done to collect data from treatment of patients who have diabetes with non-healing foot wounds and are being treated with a resorbable and biocompatible borate-based bioactive glass fiber matrix. A borate-based bioactive glass fiber…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT06598241",
+        "publishedAt": "2026-10-13T00:00:00+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06598241",
+            "publishedAt": "2026-10-13T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.378,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -2231,465 +2156,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.387,
+        "score": 7.378,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "e898af28e6b6",
-        "category": "medical",
-        "lang": "en",
-        "title": "PVA/chitosan-based hydrogels integrated with tilapia skin-derived collagen and Urtica dioica offers a promising approach for effective burn wound healing via transcriptional modulation of bFgf, Mmp2, Jak/Stat3, and α-Sma signaling pathway.",
-        "summary": "Naunyn Schmiedebergs Arch Pharmacol (2026 Oct 17). Abdelnaby A, Assar DH, Salah AS",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42888317/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42888317/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "ad874af3b262",
-        "category": "medical",
-        "lang": "en",
-        "title": "Wound care and infection prevention among war-injured civilians and their caregivers in the Gaza Strip: knowledge, attitudes, practices, and barriers.",
-        "summary": "Am J Infect Control (2026 Oct 16). Aldabbour B, Musallam R, Harara S",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42887700/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42887700/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "3d476292d2bf",
-        "category": "medical",
-        "lang": "en",
-        "title": "Bioactive κ-Carrageenan/hyaluronic acid hydrogel sheet dressing with sustained bromelain release to promote healing of full-thickness burn injury.",
-        "summary": "Biomater Adv (2026 Oct 3). Pezeshkian Z, Milan PB, Bagher Z",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42887178/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42887178/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "7fbb6c190e74",
-        "category": "medical",
-        "lang": "en",
-        "title": "Carbon-based two-dimensional nanomaterials (CB-2DMs) for high-performance wound healing platforms bridging mechanics and medicine.",
-        "summary": "Discov Nano (2026 Oct 16). Omar RA, Singh K, Talreja N",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42886319/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42886319/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "9dfa11b2d3d3",
-        "category": "medical",
-        "lang": "en",
-        "title": "Rewiring autophagy to target cutaneous wound healing: investigation of molecular mechanisms to therapeutic interventions.",
-        "summary": "Mol Biol Rep (2026 Oct 16). Nayak K, Banerjee I, Nazerulla F",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42886282/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42886282/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "a81ce7aba3d4",
-        "category": "medical",
-        "lang": "en",
-        "title": "Use of Biodegradable Temporizing Matrix for Donor and Recipient Site Wound Healing in Delayed Reverse Sural Flap: A Case Report.",
-        "summary": "Acta Orthop Belg (2026 Oct 8). Ho Man H, Kai Siang Chong D, Tiwari P",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42885468/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care",
-          "Reconstructive surgery"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42885468/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "73521a609e1c",
-        "category": "medical",
-        "lang": "en",
-        "title": "Time to Heal: MicroRNA Temporal Dysregulation in Diabetic Foot Ulcers.",
-        "summary": "Int J Mol Sci (2026 Sep 23). Pan L, Zhao L, Liu J",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42883745/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42883745/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "0d2aaba9d7db",
-        "category": "medical",
-        "lang": "en",
-        "title": "Clinical Outcomes of Semi-Occlusive Dressing for Allen Type III Fingertip Injuries.",
-        "summary": "J Clin Med (2026 Sep 23). Park J, Choi IC, Jeong C",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42881834/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42881834/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "8be28a0fd182",
-        "category": "medical",
-        "lang": "en",
-        "title": "[Impact of icariin on the differentiation towards dentinogenesis and angiogenesis, and inflammatory regulation of stem cells from human exfoliated deciduous teeth].",
-        "summary": "Beijing Da Xue Xue Bao Yi Xue Ban (2026 Oct 18). Jin Y, Dong L, Yuan X",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42880908/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Regenerative medicine"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42880908/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "8a3f06f04ee3",
-        "category": "medical",
-        "lang": "en",
-        "title": "A multifunctional injectable, adhesive and self-healing carboxymethyl cellulose/alginate hydrogel reinforced with clove oil-caseinate nanoparticles for diabetic wound healing.",
-        "summary": "Int J Pharm (2026 Oct 15). Hazem M, El-Banna SG, Okab AB",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42880648/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42880648/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "bb09234e61b3",
-        "category": "medical",
-        "lang": "en",
-        "title": "Spatiotemporal controlled delivery of insulin via supramolecular albumin stearate nanoparticles as a growth factor-mimetic system for soft tissue regeneration.",
-        "summary": "J Biomater Appl (2026 Oct 15). Shaji SS, Radhakrishnan R, K P A",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42880399/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Regenerative medicine"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42880399/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "7a12ee384fd6",
-        "category": "medical",
-        "lang": "en",
-        "title": "Easy Tailorable Alginate Film Gaining Super-Efficient Photothermal Conversion From Closed-System Design for Antibacterial and Wound Healing Applications.",
-        "summary": "Adv Healthc Mater (2026 Oct 15). Wu Z, Jiang L, Liu Z",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42879136/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42879136/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "b3a14406b6ba",
-        "category": "medical",
-        "lang": "en",
-        "title": "pH-responsive hydrogel delivery of Lycium barbarum glycopeptide coordinates immune-matrix crosstalk to enhance wound healing.",
-        "summary": "Drug Deliv (2026 Dec 31). Lai S, Lei S, Zeng C",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42878251/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care",
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42878251/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "fe6a0582fadf",
-        "category": "medical",
-        "lang": "en",
-        "title": "Curcumin (Curcuma longa): Applications in Clinical, Regenerative, and Aesthetic Dermatology.",
-        "summary": "J Clin Aesthet Dermatol (2026 Aug). DeVries A, Lawson A, Chaudry A",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42877871/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Regenerative medicine",
-          "Medical aesthetics"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42877871/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "390353ebcbd5",
-        "category": "medical",
-        "lang": "en",
-        "title": "Antibacterial and immunomodulatory core-shell nanofibrous membranes accelerate skin wound repair and regeneration.",
-        "summary": "Burns (2026 Oct 7). Chopra A, Raju RS, Balakrishnan R",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42874525/",
-        "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-        "subtopics": [
-          "Wound care",
-          "Burns"
-        ],
-        "sources": [
-          {
-            "name": "PubMed",
-            "url": "https://pubmed.ncbi.nlm.nih.gov/42874525/",
-            "publishedAt": "2026-10-17T20:02:01.115930+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.7,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -2726,7 +2194,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.63,
+        "score": 6.625,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2757,7 +2225,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.63,
+        "score": 6.625,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2788,7 +2256,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.351,
+        "score": 6.347,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2820,7 +2288,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.104,
+        "score": 6.102,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2851,7 +2319,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.71,
+        "score": 5.695,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2882,7 +2350,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.806,
+        "score": 4.793,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2913,7 +2381,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.546,
+        "score": 4.534,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2943,7 +2411,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.772,
+        "score": 3.757,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2974,8 +2442,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.043,
+        "isNew": false,
+        "score": 5.996,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -3013,7 +2481,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.548,
+        "score": 5.515,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "video",
         "video": {
@@ -3050,7 +2518,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.836,
+        "score": 4.802,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "article"
       },
@@ -3080,7 +2548,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.665,
+        "score": 4.628,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -3109,7 +2577,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.997,
+        "score": 3.985,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -3146,7 +2614,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.963,
+        "score": 3.939,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -3175,8 +2643,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.895,
+        "isNew": false,
+        "score": 3.894,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -3213,7 +2681,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.824,
+        "score": 3.802,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -3243,7 +2711,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.801,
+        "score": 3.8,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -3279,7 +2747,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.76,
+        "score": 3.759,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -3315,7 +2783,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.697,
+        "score": 3.696,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -3352,7 +2820,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.683,
+        "score": 3.682,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -3388,7 +2856,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.641,
+        "score": 3.64,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -3426,7 +2894,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.625,
+        "score": 3.606,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -3455,7 +2923,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.548,
+        "score": 3.531,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
@@ -3484,7 +2952,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.474,
+        "score": 3.458,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
@@ -3513,7 +2981,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.251,
+        "score": 3.239,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -3543,7 +3011,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.246,
+        "score": 3.233,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00",
         "kind": "article"
       },
@@ -3572,7 +3040,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.153,
+        "score": 3.142,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00",
         "kind": "article"
       },
@@ -3603,7 +3071,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.136,
+        "score": 3.125,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -3632,8 +3100,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.064,
+        "score": 3.063,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "cfb3c2ddc081",
+        "category": "growth",
+        "lang": "en",
+        "title": "Six wild ideas for perpetuating your mind",
+        "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+        "publishedAt": "2026-10-15T09:00:00+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+            "publishedAt": "2026-10-15T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.039,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
       {
@@ -3667,37 +3164,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.047,
+        "score": 3.038,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "cfb3c2ddc081",
-        "category": "growth",
-        "lang": "en",
-        "title": "Six wild ideas for perpetuating your mind",
-        "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-        "publishedAt": "2026-10-15T09:00:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-            "publishedAt": "2026-10-15T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.041,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
       {
@@ -3725,7 +3193,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.033,
+        "score": 3.024,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -3756,7 +3224,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.99,
+        "score": 2.982,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -3785,7 +3253,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.981,
+        "score": 2.972,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "kind": "article"
       },
@@ -3814,7 +3282,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.761,
+        "score": 2.757,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
@@ -3844,7 +3312,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.623,
+        "score": 2.622,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3875,7 +3343,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.593,
+        "score": 2.592,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3906,7 +3374,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.557,
+        "score": 2.556,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3966,7 +3434,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.37,
+        "score": 2.369,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -4059,7 +3527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.202,
+        "score": 2.201,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -4134,9 +3602,9 @@
     },
     {
       "id": "pubmed-woundcare",
-      "ok": true,
-      "items": 25,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
     },
     {
       "id": "pubmed-dermal",
@@ -4242,9 +3710,9 @@
     }
   ],
   "filteredOut": {
-    "football": 51,
-    "news": 56,
-    "medical": 18,
+    "football": 52,
+    "news": 55,
+    "medical": 13,
     "growth": 52
   }
 }
