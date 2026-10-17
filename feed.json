@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:05:45.457400+00:00",
+  "generatedAt": "2026-10-17T11:18:29.470005+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,9 +33,44 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.49,
+        "isNew": false,
+        "score": 13.367,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
+      },
+      {
+        "id": "e6ef1ccd4e4e",
+        "category": "football",
+        "lang": "en",
+        "title": "Everton v Chelsea: Premier League – live",
+        "summary": "Xabi Alonso’s side are scoring and conceding at a remarkable rate. It’s great for neutrals but not necessarily the best way to qualify for Europe By WhoScored Watching Chelsea this season ought to come with a health warning.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
+        "publishedAt": "2026-10-17T10:45:06+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/live/2026/oct/17/everton-v-chelsea-premier-league-live",
+            "publishedAt": "2026-10-17T10:45:06+00:00",
+            "tier": 2
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe",
+            "publishedAt": "2026-10-15T15:30:51+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.943,
+        "firstSeen": "2026-10-17T11:18:29.470005+00:00"
       },
       {
         "id": "243ec43ed45f",
@@ -64,7 +99,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.776,
+        "score": 6.703,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -93,7 +128,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.638,
+        "score": 6.571,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -122,7 +157,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.619,
+        "score": 6.552,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "transfer": "RUMOUR"
       },
@@ -153,7 +188,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.563,
+        "score": 6.498,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -181,8 +216,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.014,
+        "isNew": false,
+        "score": 5.91,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -212,7 +247,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.85,
+        "score": 5.815,
         "firstSeen": "2026-10-15T21:54:26.748160+00:00"
       },
       {
@@ -241,7 +276,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.765,
+        "score": 5.713,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -270,7 +305,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.639,
+        "score": 5.613,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -299,7 +334,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.527,
+        "score": 5.505,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "transfer": "RUMOUR"
       },
@@ -329,7 +364,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.475,
+        "score": 5.455,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -359,7 +394,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.389,
+        "score": 5.373,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -388,7 +423,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.171,
+        "score": 5.144,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -417,7 +452,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.116,
+        "score": 5.05,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -446,7 +481,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.818,
+        "score": 4.764,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -475,7 +510,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.692,
+        "score": 4.643,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -504,7 +539,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.784,
+        "score": 3.752,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       }
     ],
@@ -534,8 +569,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.98,
+        "isNew": false,
+        "score": 7.926,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -563,8 +598,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.653,
+        "isNew": false,
+        "score": 7.606,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -593,7 +628,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.373,
+        "score": 7.331,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -629,7 +664,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.322,
+        "score": 7.28,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -665,7 +700,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.305,
+        "score": 7.264,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -701,7 +736,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.199,
+        "score": 7.16,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -737,7 +772,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.18,
+        "score": 7.141,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -772,7 +807,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.169,
+        "score": 7.13,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -807,7 +842,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.143,
+        "score": 7.104,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
@@ -836,7 +871,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.08,
+        "score": 7.043,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -865,7 +900,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.03,
+        "score": 6.993,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -894,7 +929,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.749,
+        "score": 6.711,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
@@ -924,7 +959,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.654,
+        "score": 6.625,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -959,7 +994,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.49,
+        "score": 6.463,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -988,7 +1023,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.406,
+        "score": 6.381,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1018,7 +1053,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.14,
+        "score": 6.102,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
@@ -1053,7 +1088,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.115,
+        "score": 6.095,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1082,7 +1117,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.097,
+        "score": 6.078,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1111,7 +1146,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.077,
+        "score": 6.058,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1140,7 +1175,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.071,
+        "score": 6.052,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1175,7 +1210,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.055,
+        "score": 6.036,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
@@ -1211,7 +1246,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.039,
+        "score": 6.02,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1246,7 +1281,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.034,
+        "score": 6.016,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1275,7 +1310,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.019,
+        "score": 6.0,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1304,7 +1339,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.775,
+        "score": 5.761,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00"
       },
       {
@@ -1333,7 +1368,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.768,
+        "score": 5.755,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00"
       },
       {
@@ -1363,7 +1398,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.685,
+        "score": 5.655,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -1392,7 +1427,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.556,
+        "score": 5.529,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1422,7 +1457,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.51,
+        "score": 5.483,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -1457,7 +1492,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.435,
+        "score": 5.409,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1492,7 +1527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.322,
+        "score": 5.298,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1521,7 +1556,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.258,
+        "score": 5.253,
         "firstSeen": "2026-10-10T13:13:18.349301+00:00"
       },
       {
@@ -1556,7 +1591,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.191,
+        "score": 5.17,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1584,7 +1619,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.164,
+        "score": 5.136,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1619,7 +1654,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.072,
+        "score": 5.053,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       }
     ],
@@ -1650,7 +1685,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.949,
+        "score": 10.935,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1682,7 +1717,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.472,
+        "score": 10.462,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1712,7 +1747,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.233,
+        "score": 10.218,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1743,7 +1778,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.472,
+        "score": 9.462,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1775,7 +1810,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.384,
+        "score": 9.38,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1807,7 +1842,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.696,
+        "score": 7.685,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1838,7 +1873,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.472,
+        "score": 7.462,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1869,7 +1904,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.472,
+        "score": 7.462,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1907,7 +1942,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.677,
+        "score": 6.672,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1938,7 +1973,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.677,
+        "score": 6.672,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1969,7 +2004,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.384,
+        "score": 6.38,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2001,7 +2036,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.125,
+        "score": 6.122,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2032,7 +2067,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.836,
+        "score": 5.821,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2063,7 +2098,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.923,
+        "score": 4.908,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2094,7 +2129,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.65,
+        "score": 4.637,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2124,7 +2159,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.902,
+        "score": 3.886,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2158,7 +2193,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.858,
+        "score": 5.818,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "video",
         "video": {
@@ -2195,7 +2230,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.161,
+        "score": 5.119,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "article"
       },
@@ -2224,8 +2259,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.01,
+        "isNew": false,
+        "score": 4.965,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -2255,7 +2290,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.197,
+        "score": 4.166,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -2284,7 +2319,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.108,
+        "score": 4.093,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2321,7 +2356,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.035,
+        "score": 4.008,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -2351,7 +2386,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.81,
+        "score": 3.809,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2388,8 +2423,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.804,
+        "isNew": false,
+        "score": 3.781,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -2418,7 +2453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.769,
+        "score": 3.768,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -2426,6 +2461,42 @@
           "thumbUrl": "https://i4.ytimg.com/vi/CKAyfGItpgg/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=CKAyfGItpgg",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "c99752bef145",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why You Need the Growth Mindset of a Weed | Stephen Nobles | TED",
+        "summary": "Educator Stephen Nobles believes curiosity is the key to unlocking a student's potential. In conversation with TED's Whitney Pennington Rodgers, he encourages teachers to see every student through a lens of possibility — and asks what each of us might be…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=8WWrNbHvd44",
+        "publishedAt": "2026-10-08T15:00:17+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=8WWrNbHvd44",
+            "publishedAt": "2026-10-08T15:00:17+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.704,
+        "firstSeen": "2026-10-08T22:48:59.202436+00:00",
+        "kind": "video",
+        "video": {
+          "id": "8WWrNbHvd44",
+          "thumbUrl": "https://i1.ytimg.com/vi/8WWrNbHvd44/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=8WWrNbHvd44",
           "channel": "TED"
         }
       },
@@ -2454,45 +2525,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.715,
+        "score": 3.694,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
-      },
-      {
-        "id": "c99752bef145",
-        "category": "growth",
-        "lang": "en",
-        "title": "Why You Need the Growth Mindset of a Weed | Stephen Nobles | TED",
-        "summary": "Educator Stephen Nobles believes curiosity is the key to unlocking a student's potential. In conversation with TED's Whitney Pennington Rodgers, he encourages teachers to see every student through a lens of possibility — and asks what each of us might be…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=8WWrNbHvd44",
-        "publishedAt": "2026-10-08T15:00:17+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=8WWrNbHvd44",
-            "publishedAt": "2026-10-08T15:00:17+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.705,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00",
-        "kind": "video",
-        "video": {
-          "id": "8WWrNbHvd44",
-          "thumbUrl": "https://i1.ytimg.com/vi/8WWrNbHvd44/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=8WWrNbHvd44",
-          "channel": "TED"
-        }
       },
       {
         "id": "989396acd63d",
@@ -2520,7 +2555,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.691,
+        "score": 3.69,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -2556,7 +2591,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.649,
+        "score": 3.648,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2592,7 +2627,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.629,
+        "score": 3.609,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
@@ -2621,7 +2656,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.371,
+        "score": 3.356,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -2651,7 +2686,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.364,
+        "score": 3.349,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00",
         "kind": "article"
       },
@@ -2680,7 +2715,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.257,
+        "score": 3.243,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00",
         "kind": "article"
       },
@@ -2711,7 +2746,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.237,
+        "score": 3.224,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -2746,7 +2781,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.134,
+        "score": 3.123,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
@@ -2775,7 +2810,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.118,
+        "score": 3.107,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -2804,7 +2839,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.074,
+        "score": 3.073,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00",
         "kind": "article"
       },
@@ -2835,74 +2870,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.068,
+        "score": 3.058,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "94178e683380",
-        "category": "growth",
-        "lang": "en",
-        "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-        "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-        "publishedAt": "2026-10-12T16:58:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-            "publishedAt": "2026-10-12T16:58:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.057,
-        "firstSeen": "2026-10-13T22:15:23.727143+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "126aa063fc33",
-        "category": "growth",
-        "lang": "en",
-        "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
-        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
-        "publishedAt": "2026-10-15T10:09:45+00:00",
-        "subtopics": [
-          "Productivity & systems",
-          "Communication",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
-            "publishedAt": "2026-10-15T10:09:45+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
-            "publishedAt": "2026-10-06T22:08:36+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.051,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
       {
@@ -2930,8 +2899,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.05,
+        "score": 3.049,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "94178e683380",
+        "category": "growth",
+        "lang": "en",
+        "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
+        "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+        "publishedAt": "2026-10-12T16:58:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
+            "publishedAt": "2026-10-12T16:58:00+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.047,
+        "firstSeen": "2026-10-13T22:15:23.727143+00:00",
         "kind": "article"
       },
       {
@@ -2959,7 +2957,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.803,
+        "score": 2.797,
         "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
@@ -2989,7 +2987,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.631,
+        "score": 2.63,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3020,7 +3018,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.601,
+        "score": 2.6,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3051,7 +3049,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.564,
+        "score": 2.563,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3080,7 +3078,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.477,
+        "score": 2.476,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3111,7 +3109,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.375,
+        "score": 2.374,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3147,93 +3145,123 @@
         "kind": "article"
       },
       {
-        "id": "a842fefb2bdb",
+        "id": "f71d07f2efd6",
         "category": "growth",
         "lang": "en",
-        "title": "What It’s Like to Be…a Mail Carrier",
-        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
+        "title": "What Was the Best Portfolio Over the Last 50 Years?",
+        "summary": "A few months ago, I analyzed U.S. stock returns over the last century .",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
-        "publishedAt": "2026-08-11T12:30:27+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
-            "publishedAt": "2026-08-11T12:30:27+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.34,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a821601d6da8",
-        "category": "growth",
-        "lang": "en",
-        "title": "What It’s Like to Be…a Hotshot",
-        "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
-        "publishedAt": "2026-07-28T12:23:34+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
-            "publishedAt": "2026-07-28T12:23:34+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.295,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "e31a514b7f90",
-        "category": "growth",
-        "lang": "en",
-        "title": "Journey to Robbers Cave",
-        "summary": "The year was 1948. Only three years had passed since the Axis powers signed the instrument of surrender effectively ending the Second World War.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-        "publishedAt": "2026-07-19T22:58:46+00:00",
+        "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+        "publishedAt": "2026-09-15T11:45:37+00:00",
         "subtopics": [
           "Productivity & systems",
-          "Communication",
-          "Presentation & speaking"
+          "Personal finance",
+          "Persuasion & negotiation"
         ],
         "sources": [
           {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/journey-to-robbers-cave/",
-            "publishedAt": "2026-07-19T22:58:46+00:00",
-            "tier": 2
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+            "publishedAt": "2026-09-15T11:45:37+00:00",
+            "tier": 3
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.275,
+        "score": 2.27,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "8ba822b78432",
+        "category": "growth",
+        "lang": "en",
+        "title": "Living Poor to Die Rich",
+        "summary": "I recently joined a professional organization to discuss various topics in wealth management. On our first Zoom call there was a debate around the use of levered long/short strategies.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/living-poor-to-die-rich/",
+        "publishedAt": "2026-09-08T11:45:51+00:00",
+        "subtopics": [
+          "Leadership",
+          "Business case studies",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/living-poor-to-die-rich/",
+            "publishedAt": "2026-09-08T11:45:51+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.205,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "f05a3ea43d40",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Myth of Owning Your Time",
+        "summary": "You've probably heard it all before. Be your own boss.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
+        "publishedAt": "2026-08-18T11:45:54+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/the-myth-of-owning-your-time/",
+            "publishedAt": "2026-08-18T11:45:54+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.07,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "9df6253b05bb",
+        "category": "growth",
+        "lang": "en",
+        "title": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
+        "summary": "David Baszucki is the co-founder and CEO of Roblox, a platform built around a simple idea: give people the tools and incentives to create together. In this short conversation, he shares how a health decision saved his son’s life and how it changed how he…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
+        "publishedAt": "2026-08-13T09:45:00+00:00",
+        "subtopics": [
+          "Communication",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Farnam Street",
+            "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
+            "publishedAt": "2026-08-13T09:45:00+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.048,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3273,7 +3301,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 22,
+      "items": 23,
       "error": null
     },
     {
@@ -3374,9 +3402,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "onefutureuseful",
@@ -3416,8 +3444,8 @@
     }
   ],
   "filteredOut": {
-    "football": 60,
-    "news": 53,
+    "football": 59,
+    "news": 54,
     "medical": 13,
     "growth": 54
   }
