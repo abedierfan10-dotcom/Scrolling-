@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T21:11:05.802370+00:00",
+  "generatedAt": "2026-10-18T10:19:08.546881+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -12,7 +12,7 @@
         "id": "7dc755fd6dda",
         "category": "football",
         "lang": "en",
-        "title": "Lamine Yamal opens the scoring as Barcelona beat Real Betis",
+        "title": "Lamine Yamal opens scoring as Barcelona beat Real Betis",
         "summary": "Lamine Yamal, Rodri, Gabriel Jesus, Eric Garcia and Dani Olmo all scored for Barcelona as they swept aside Real Betis in a seven-goal thriller to stay five points clear at the top of La Liga.",
         "needsSummary": true,
         "readMore": null,
@@ -34,8 +34,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 15.463,
+        "isNew": false,
+        "score": 14.378,
         "firstSeen": "2026-10-17T21:11:05.802370+00:00"
       },
       {
@@ -47,7 +47,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
-        "publishedAt": "2026-10-17T19:05:47+00:00",
+        "publishedAt": "2026-10-17T21:33:46+00:00",
         "subtopics": [
           "Barcelona",
           "La Liga",
@@ -57,7 +57,7 @@
           {
             "name": "The Guardian",
             "url": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
-            "publishedAt": "2026-10-17T19:05:47+00:00",
+            "publishedAt": "2026-10-17T21:33:46+00:00",
             "tier": 2
           }
         ],
@@ -65,7 +65,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.79,
+        "score": 12.926,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -94,44 +94,67 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.535,
+        "score": 11.79,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
-        "id": "f62deae5c7d4",
+        "id": "4e552da19d0c",
         "category": "football",
         "lang": "en",
-        "title": "Fulham beat Hull to earn under-pressure Arbeloa a first PL win",
-        "summary": "It was not until his post-match lap of the pitch that Álvaro Arbeloa allowed himself a smile. After an uncomfortable week when his future was being called into question , the former Real Madrid manager has a Premier League win under his belt at the seventh…",
+        "title": "Manchester United feel heat as they travel to Leeds; Emi Martínez thanks fans after surgery – matchday live",
+        "summary": "News, discussion and buildup to Sunday’s action Premier League table | Top scorers | Mail us In the MLS , Lionel Messi scored twice to help Inter Miami to a 3-1 win at Atlanta United. Messi and Luis Suarez had combined to set up the first goal, scored by the…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/fulham-vs-hull-city/report/559508",
-        "publishedAt": "2026-10-17T17:00:00+00:00",
+        "url": "https://www.theguardian.com/football/live/2026/oct/18/manchester-united-feeling-the-heat-as-they-travel-to-leeds-matchday-live",
+        "publishedAt": "2026-10-18T10:09:54+00:00",
         "subtopics": [
-          "La Liga",
           "Premier League",
           "Results"
         ],
         "sources": [
           {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/fulham-vs-hull-city/report/559508",
-            "publishedAt": "2026-10-17T17:00:00+00:00",
-            "tier": 2
-          },
-          {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/17/fulham-hull-premier-league-match-report",
-            "publishedAt": "2026-10-17T16:08:39+00:00",
+            "url": "https://www.theguardian.com/football/live/2026/oct/18/manchester-united-feeling-the-heat-as-they-travel-to-leeds-matchday-live",
+            "publishedAt": "2026-10-18T10:09:54+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 9.894,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+        "isNew": true,
+        "score": 9.484,
+        "firstSeen": "2026-10-18T10:19:08.546881+00:00"
+      },
+      {
+        "id": "dba77b39179d",
+        "category": "football",
+        "lang": "en",
+        "title": "‘I suffer a lot’: Villarreal owner Fernando Roig on not enjoying games and the prospect of Liverpool",
+        "summary": "It will be a tense time for club’s president despite the Champions League game at Anfield offering a symbol of how far they have come The first time Fernando Roig watched Villarreal play as their president, he sat in the stand at a tiny whitewashed ground…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/18/fernando-roig-villarreal-liverpool-champions-league",
+        "publishedAt": "2026-10-18T07:00:53+00:00",
+        "subtopics": [
+          "La Liga",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/18/fernando-roig-villarreal-liverpool-champions-league",
+            "publishedAt": "2026-10-18T07:00:53+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.675,
+        "firstSeen": "2026-10-18T10:19:08.546881+00:00"
       },
       {
         "id": "f7f3101836a0",
@@ -159,7 +182,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.334,
+        "score": 7.662,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "transfer": "RUMOUR"
       },
@@ -188,8 +211,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.973,
+        "isNew": false,
+        "score": 6.884,
         "firstSeen": "2026-10-17T21:11:05.802370+00:00"
       },
       {
@@ -218,7 +241,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.781,
+        "score": 6.763,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -247,8 +270,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.411,
+        "score": 6.528,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "17a75b6577be",
+        "category": "football",
+        "lang": "en",
+        "title": "Wigan pine for FA Cup glory as not even victory can lift them off foot of League One",
+        "summary": "Gary Caldwell, club captain in 2013 and now manager, needs much more than Saturday’s win over Reading to disperse the clouds If the 2013 FA Cup final represented a blip for the Sheikh Mansour-era Manchester City in their quest for total domination of English…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/18/wigan-pine-for-fa-cup-glory-as-not-even-victory-can-lift-them-off-foot-of-league-one",
+        "publishedAt": "2026-10-18T07:00:54+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/18/wigan-pine-for-fa-cup-glory-as-not-even-victory-can-lift-them-off-foot-of-league-one",
+            "publishedAt": "2026-10-18T07:00:54+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.175,
+        "firstSeen": "2026-10-18T10:19:08.546881+00:00"
+      },
+      {
+        "id": "fac57bfcc84c",
+        "category": "football",
+        "lang": "en",
+        "title": "Do Manchester City have any grounds to win their appeal?",
+        "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-18T06:36:21+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-18T06:36:21+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.137,
+        "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
         "id": "3f48321ee3b6",
@@ -282,42 +363,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.133,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
-      },
-      {
-        "id": "177c1aa007b5",
-        "category": "football",
-        "lang": "en",
-        "title": "Manzambi haunts Newcastle with winner for Aston Villa",
-        "summary": "There is a reason why Aston Villa were so desperate to hijack Johan Manzambi’s proposed summer move from Freiburg to Newcastle. The tall, quick, tricky, clever and perfectly balanced 21-year-old Switzerland attacking midfielder looked worth every penny of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
-        "publishedAt": "2026-10-17T19:30:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/newcastle-united-vs-aston-villa/report/559511",
-            "publishedAt": "2026-10-17T19:30:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/17/newcastle-aston-villa-premier-league-match-report",
-            "publishedAt": "2026-10-17T18:38:58+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.13,
+        "score": 6.095,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -352,65 +398,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.081,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
-      },
-      {
-        "id": "fa450bf21499",
-        "category": "football",
-        "lang": "en",
-        "title": "Emery praises Manzambi's 'skills and intelligence'",
-        "summary": "Aston Villa manager Unai Emery reacts to his 100th Premier League win after victory against Newcastle at St James Park.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw80zpzx3vxjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-17T19:29:21+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cw80zpzx3vxjo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-17T19:29:21+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.328,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
-      },
-      {
-        "id": "b63557dc5f08",
-        "category": "football",
-        "lang": "en",
-        "title": "Iwobi delivers Fulham's first win of season",
-        "summary": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-17T19:00:06+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-17T19:00:06+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.281,
+        "score": 6.063,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -440,7 +428,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.209,
+        "score": 5.766,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -469,19 +457,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.115,
+        "score": 5.707,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
-        "id": "c4feb51313e8",
+        "id": "eb57c42cd74f",
         "category": "football",
         "lang": "en",
-        "title": "Man City's Maresca 'very happy' after Ipswich win",
-        "summary": "Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
+        "title": "How 'dangerous' Man City maintained 100 per cent record",
+        "summary": "Match of the Day's Joe Hart and Danny Murphy analyse how Manchester City made it seven wins from seven in the Premier League with a 3-2 victory against Ipswich.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-17T17:08:01+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T23:00:53+00:00",
         "subtopics": [
           "Premier League",
           "Results"
@@ -489,126 +477,37 @@
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-17T17:08:01+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T23:00:53+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.106,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+        "isNew": true,
+        "score": 5.526,
+        "firstSeen": "2026-10-18T10:19:08.546881+00:00"
       },
       {
-        "id": "87f6fe60307a",
+        "id": "fa450bf21499",
         "category": "football",
         "lang": "en",
-        "title": "Carrick brushes off Martínez’s failure to apologise publicly to United director Wilcox",
-        "summary": "Manchester United coach accepts defender’s apology ‘He’s realised he’s made a mistake and that’s enough’ Michael Carrick brushed off Lisandro Martínez’s failure to offer Jason Wilcox a public apology after the defender criticised Manchester United’s director…",
+        "title": "Emery praises Manzambi's 'skills and intelligence'",
+        "summary": "Aston Villa manager Unai Emery reacts to his 100th Premier League win after victory against Newcastle at St James Park.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/16/michael-carrick-lisandro-martinez-apologise-jason-wilcox-manchester-united",
-        "publishedAt": "2026-10-16T15:18:56+00:00",
-        "subtopics": [
-          "La Liga",
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/16/michael-carrick-lisandro-martinez-apologise-jason-wilcox-manchester-united",
-            "publishedAt": "2026-10-16T15:18:56+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.063,
-        "firstSeen": "2026-10-16T20:27:30.951362+00:00"
-      },
-      {
-        "id": "85bf0bbfd604",
-        "category": "football",
-        "lang": "en",
-        "title": "Chelsea inflict Everton's first defeat after Rogers escapes red",
-        "summary": "Pedro Neto scored both second-half goals as Chelsea inflicted Everton’s first defeat of the Premier League season in a 2-0 win on Merseyside after Morgan Rogers escaped a sending off before the interval.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/everton-vs-chelsea/report/559507",
-        "publishedAt": "2026-10-17T14:30:00+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cw80zpzx3vxjo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T19:29:21+00:00",
         "subtopics": [
           "Premier League",
           "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/everton-vs-chelsea/report/559507",
-            "publishedAt": "2026-10-17T14:30:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.879,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
-      },
-      {
-        "id": "f9d126ff2d05",
-        "category": "football",
-        "lang": "en",
-        "title": "Neto double at Everton leads Chelsea to victory marred by Martínez head injury",
-        "summary": "Chelsea have returned from the international break with a spirit, authority and resilience that augurs well for Xabi Alonso. Their troubles at Everton, not a happy hunting ground in recent years, were confined to the seven minutes Emi Martínez needed…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
-        "publishedAt": "2026-10-17T13:53:13+00:00",
-        "subtopics": [
-          "Premier League",
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/17/everton-chelsea-premier-league-match-report",
-            "publishedAt": "2026-10-17T13:53:13+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.828,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
-      },
-      {
-        "id": "5d31a7aa312b",
-        "category": "football",
-        "lang": "en",
-        "title": "Boos and bananas on day of defiance at Man City",
-        "summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-17T18:02:39+00:00",
-        "subtopics": [
-          "Premier League",
-          "Tables"
         ],
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-17T18:02:39+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cw80zpzx3vxjo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T19:29:21+00:00",
             "tier": 2
           }
         ],
@@ -616,7 +515,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.69,
+        "score": 5.293,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -645,29 +544,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.435,
+        "score": 5.276,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
-        "id": "07c19358a1b1",
+        "id": "b63557dc5f08",
         "category": "football",
         "lang": "en",
-        "title": "'Players won't like it' - Martinez apologises, but is the damage done?",
-        "summary": "Champions League Match of the Day pundits Nedum Onuoha, Stephen Warnock, and Rory Smith analyse Lisandro Martinez's comments following Manchester United's 2-0 loss to Atletico Madrid and the impact they'll have on the club.",
+        "title": "Iwobi delivers Fulham's first win of season",
+        "summary": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-14T23:13:53+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T19:00:06+00:00",
         "subtopics": [
-          "La Liga",
-          "Champions League",
+          "Premier League",
           "Results"
         ],
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-14T23:13:53+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T19:00:06+00:00",
             "tier": 2
           }
         ],
@@ -675,8 +573,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.264,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+        "score": 5.263,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "c4feb51313e8",
+        "category": "football",
+        "lang": "en",
+        "title": "Man City's Maresca 'very happy' after Ipswich win",
+        "summary": "Manchester City manager Enzo Maresca praises his side after their beat Ipswich Town at home in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T17:08:01+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmp3gkge7064o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T17:08:01+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.152,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+      },
+      {
+        "id": "5d31a7aa312b",
+        "category": "football",
+        "lang": "en",
+        "title": "Boos and bananas on day of defiance at Man City",
+        "summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-17T18:02:39+00:00",
+        "subtopics": [
+          "Premier League",
+          "Tables"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-17T18:02:39+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.705,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "013d0ac50d69",
@@ -704,37 +660,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.211,
+        "score": 4.584,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
-      },
-      {
-        "id": "fac57bfcc84c",
-        "category": "football",
-        "lang": "en",
-        "title": "Do Manchester City have any grounds to win their appeal?",
-        "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-16T16:17:01+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-16T16:17:01+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.6,
-        "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
         "id": "641c0073d65a",
@@ -762,37 +689,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.311,
+        "score": 4.014,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
-      },
-      {
-        "id": "2deb100dd3d3",
-        "category": "football",
-        "lang": "en",
-        "title": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley",
-        "summary": "BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-15T19:26:51+00:00",
-        "subtopics": [
-          "Premier League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-15T19:26:51+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.533,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       }
     ],
     "news": [
@@ -828,7 +726,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.915,
+        "score": 7.398,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -863,37 +761,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.756,
+        "score": 7.267,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
-      },
-      {
-        "id": "24d922a2976e",
-        "category": "news",
-        "lang": "de",
-        "title": "2. Liga: Hannover 96 und FC St. Pauli mit Remis - Wagner wartet weiter auf ersten Sieg",
-        "summary": "Das Nordduell war hochintensiv, das Unentschieden gerecht. Hannover wartet unter seinem neuen Coach Sandro Wagner somit weiter auf den ersten Erfolg.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/sport/fussball/zweite-liga-spielbericht-hannover-96-fc-st-pauli,nordduell-332.html",
-        "publishedAt": "2026-10-17T20:23:25+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/sport/fussball/zweite-liga-spielbericht-hannover-96-fc-st-pauli,nordduell-332.html",
-            "publishedAt": "2026-10-17T20:23:25+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.565,
-        "firstSeen": "2026-10-17T21:11:05.802370+00:00"
       },
       {
         "id": "557d59a28c90",
@@ -921,19 +790,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.526,
+        "score": 7.078,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
-        "id": "4db0b82f2dd1",
+        "id": "24d922a2976e",
         "category": "news",
         "lang": "de",
-        "title": "Ihr Thema der Woche aus Curslack",
-        "summary": "Stadtreporterin Anne Adams war in dem Hamburger Stadtteil unterwegs. Was hat die Menschen dort diese Woche bewegt?",
+        "title": "2. Liga: Hannover 96 und FC St. Pauli mit Remis - Wagner wartet weiter auf ersten Sieg",
+        "summary": "Das Nordduell war hochintensiv, das Unentschieden gerecht. Hannover wartet unter seinem neuen Coach Sandro Wagner somit weiter auf den ersten Erfolg.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-curslack,hamj-15644.html",
-        "publishedAt": "2026-10-17T18:00:59+00:00",
+        "url": "https://www.ndr.de/sport/fussball/zweite-liga-spielbericht-hannover-96-fc-st-pauli,nordduell-332.html",
+        "publishedAt": "2026-10-17T20:23:25+00:00",
         "subtopics": [
           "Hamburg",
           "Conflict"
@@ -941,8 +810,8 @@
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-curslack,hamj-15644.html",
-            "publishedAt": "2026-10-17T18:00:59+00:00",
+            "url": "https://www.ndr.de/sport/fussball/zweite-liga-spielbericht-hannover-96-fc-st-pauli,nordduell-332.html",
+            "publishedAt": "2026-10-17T20:23:25+00:00",
             "tier": 1
           }
         ],
@@ -950,8 +819,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.462,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
+        "score": 7.038,
+        "firstSeen": "2026-10-17T21:11:05.802370+00:00"
       },
       {
         "id": "eb0eefc5e844",
@@ -985,7 +854,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.455,
+        "score": 6.948,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -1014,7 +883,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.25,
+        "score": 6.85,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -1043,7 +912,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.012,
+        "score": 6.655,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1079,7 +948,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.968,
+        "score": 6.619,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1115,7 +984,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.954,
+        "score": 6.607,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -1151,7 +1020,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.865,
+        "score": 6.534,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1187,7 +1056,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.848,
+        "score": 6.52,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1222,7 +1091,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.839,
+        "score": 6.512,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1257,7 +1126,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.817,
+        "score": 6.494,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
@@ -1286,7 +1155,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.764,
+        "score": 6.451,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -1315,8 +1184,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.721,
+        "score": 6.415,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
+      },
+      {
+        "id": "d1f3efccbf62",
+        "category": "news",
+        "lang": "de",
+        "title": "U3 in den Herbstferien in der Hamburger Innenstadt gesperrt",
+        "summary": "Auf dem besonders beliebten Abschnitt zwischen St. Pauli und Rathaus wird zehn Tage lang gearbeitet.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
+        "publishedAt": "2026-10-18T04:36:42+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
+            "publishedAt": "2026-10-18T04:36:42+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.356,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
       },
       {
         "id": "65b01843865f",
@@ -1345,37 +1242,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.403,
+        "score": 6.154,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
-      },
-      {
-        "id": "1c501026e587",
-        "category": "news",
-        "lang": "de",
-        "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
-        "summary": "Dass gesetzlich Versicherte oft bei der Terminvergabe benachteiligt würden, hält der Chef des GKV-Spitzenverbands, Blatt, für eine \"himmelschreiende Ungerechtigkeit\". Stattdessen solle künftig der medizinische Bedarf entscheiden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/gkv-arzttermine-100.html",
-        "publishedAt": "2026-10-17T03:23:11+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/gkv-arzttermine-100.html",
-            "publishedAt": "2026-10-17T03:23:11+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.302,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "c42499fb9ca4",
@@ -1409,36 +1277,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.263,
+        "score": 6.039,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
-      },
-      {
-        "id": "44411968fa1f",
-        "category": "news",
-        "lang": "de",
-        "title": "Köhlbrandbrücke in Hamburg am Wochenende wieder gesperrt",
-        "summary": "Bis Montagmorgen ist die Köhlbrandbrücke erneut wegen Reparatur- und Wartungsarbeiten voll gesperrt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
-        "publishedAt": "2026-10-17T12:41:10+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
-            "publishedAt": "2026-10-17T12:41:10+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.244,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "f131eb5f93a2",
@@ -1466,8 +1306,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.192,
+        "score": 5.981,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
+      },
+      {
+        "id": "1c501026e587",
+        "category": "news",
+        "lang": "de",
+        "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
+        "summary": "Dass gesetzlich Versicherte oft bei der Terminvergabe benachteiligt würden, hält der Chef des GKV-Spitzenverbands, Blatt, für eine \"himmelschreiende Ungerechtigkeit\". Stattdessen solle künftig der medizinische Bedarf entscheiden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/gkv-arzttermine-100.html",
+        "publishedAt": "2026-10-17T03:23:11+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/gkv-arzttermine-100.html",
+            "publishedAt": "2026-10-17T03:23:11+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.893,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
         "id": "ef7df44247a7",
@@ -1501,8 +1370,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.945,
+        "score": 5.777,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+      },
+      {
+        "id": "44411968fa1f",
+        "category": "news",
+        "lang": "de",
+        "title": "Köhlbrandbrücke in Hamburg am Wochenende wieder gesperrt",
+        "summary": "Bis Montagmorgen ist die Köhlbrandbrücke erneut wegen Reparatur- und Wartungsarbeiten voll gesperrt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
+        "publishedAt": "2026-10-17T12:41:10+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/koehlbrandbruecke-in-hamburg-am-wochenende-wieder-gesperrt,brueckensperrungen-106.html",
+            "publishedAt": "2026-10-17T12:41:10+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.774,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
         "id": "7eeb43f4999e",
@@ -1530,7 +1427,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.931,
+        "score": 5.765,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1559,7 +1456,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.913,
+        "score": 5.751,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1588,7 +1485,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.908,
+        "score": 5.747,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1623,7 +1520,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.894,
+        "score": 5.735,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00"
       },
       {
@@ -1659,7 +1556,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.881,
+        "score": 5.724,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1682,19 +1579,13 @@
             "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
             "publishedAt": "2026-10-14T10:32:28+00:00",
             "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
-            "publishedAt": "2026-10-14T10:32:28+00:00",
-            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.877,
+        "score": 5.721,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
       },
       {
@@ -1723,8 +1614,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.864,
+        "score": 5.71,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00"
+      },
+      {
+        "id": "ddfb34abd3b2",
+        "category": "news",
+        "lang": "de",
+        "title": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
+        "summary": "Abgesperrte Regale, Unsicherheit über Standorte - nun zumindest Insolvenzgeld für Beschäftigte. Wie geht es vor dem wichtigen Weihnachtsgeschäft für die Kaufhauskette Galeria weiter?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
+        "publishedAt": "2026-10-13T14:33:25+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
+            "publishedAt": "2026-10-13T14:33:25+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.536,
+        "firstSeen": "2026-10-13T14:44:34.259264+00:00"
       },
       {
         "id": "4bbca23b4a81",
@@ -1753,37 +1673,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.815,
+        "score": 5.492,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
-      },
-      {
-        "id": "ddfb34abd3b2",
-        "category": "news",
-        "lang": "de",
-        "title": "Galeria-Insolvenz: Wie geht's weiter für Angestellte und Kunden?",
-        "summary": "Abgesperrte Regale, Unsicherheit über Standorte - nun zumindest Insolvenzgeld für Beschäftigte. Wie geht es vor dem wichtigen Weihnachtsgeschäft für die Kaufhauskette Galeria weiter?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
-        "publishedAt": "2026-10-13T14:33:25+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/neue-galeria-insolvenz-faq-2026-100.html",
-            "publishedAt": "2026-10-13T14:33:25+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.651,
-        "firstSeen": "2026-10-13T14:44:34.259264+00:00"
       },
       {
         "id": "ec4d7fceb26d",
@@ -1812,7 +1703,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.429,
+        "score": 5.175,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00"
       },
       {
@@ -1841,7 +1732,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.32,
+        "score": 5.085,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00"
       },
       {
@@ -1871,7 +1762,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.28,
+        "score": 5.053,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -1906,7 +1797,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.217,
+        "score": 5.001,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       }
     ],
@@ -1937,7 +1828,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.829,
+        "score": 10.694,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1969,7 +1860,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.378,
+        "score": 10.272,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1999,39 +1890,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.098,
+        "score": 9.946,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": true
-      },
-      {
-        "id": "329c6ec5bbd6",
-        "category": "medical",
-        "lang": "en",
-        "title": "Skin Subs vs Secondary Intention",
-        "summary": "The purpose of this study is to compare two ways of caring for wounds after Mohs micrographic surgery (MMS) for skin cancer using skin substitutes and secondary intention healing, to determine which option leads to better healing after Mohs surgery.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07587749",
-        "publishedAt": "2026-10-13T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Dermal matrices"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07587749",
-            "publishedAt": "2026-10-13T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 9.378,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
       },
@@ -2062,8 +1922,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.347,
+        "score": 9.306,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": true
+      },
+      {
+        "id": "329c6ec5bbd6",
+        "category": "medical",
+        "lang": "en",
+        "title": "Skin Subs vs Secondary Intention",
+        "summary": "The purpose of this study is to compare two ways of caring for wounds after Mohs micrographic surgery (MMS) for skin cancer using skin substitutes and secondary intention healing, to determine which option leads to better healing after Mohs surgery.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07587749",
+        "publishedAt": "2026-10-13T00:00:00+00:00",
+        "subtopics": [
+          "Wound care",
+          "Dermal matrices"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07587749",
+            "publishedAt": "2026-10-13T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 9.272,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
       },
@@ -2094,7 +1985,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.59,
+        "score": 7.47,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2125,7 +2016,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.378,
+        "score": 7.272,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2156,7 +2047,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.378,
+        "score": 7.272,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2194,7 +2085,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.625,
+        "score": 6.567,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2225,7 +2116,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.625,
+        "score": 6.567,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2256,7 +2147,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.347,
+        "score": 6.306,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2288,7 +2179,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.102,
+        "score": 6.077,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2319,7 +2210,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.695,
+        "score": 5.538,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2350,7 +2241,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.793,
+        "score": 4.648,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2381,7 +2272,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.534,
+        "score": 4.406,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2411,7 +2302,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.757,
+        "score": 3.596,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2443,7 +2334,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.996,
+        "score": 5.517,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2481,7 +2372,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.515,
+        "score": 5.175,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "video",
         "video": {
@@ -2491,6 +2382,58 @@
           "watchUrl": "https://www.youtube.com/watch?v=ny26teC-4bU",
           "channel": "TED"
         }
+      },
+      {
+        "id": "efadf9441346",
+        "category": "growth",
+        "lang": "en",
+        "title": "web-edit 0.1a2",
+        "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So...",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+        "publishedAt": "2026-10-17T13:16:49+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+            "publishedAt": "2026-10-17T13:16:49+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
+            "publishedAt": "2026-10-13T01:40:05+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+            "publishedAt": "2026-10-12T15:54:36+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": true,
+        "latestUpdate": "web-edit 0.1a2",
+        "earlier": [
+          {
+            "title": "web-edit 0.1a1",
+            "source": "Simon Willison",
+            "publishedAt": "2026-10-13T01:40:05+00:00"
+          },
+          {
+            "title": "web-edit 0.1a0",
+            "source": "Simon Willison",
+            "publishedAt": "2026-10-12T15:54:36+00:00"
+          }
+        ],
+        "isNew": false,
+        "score": 4.694,
+        "firstSeen": "2026-10-13T01:04:21.035910+00:00",
+        "kind": "article"
       },
       {
         "id": "61baa7c2d369",
@@ -2518,7 +2461,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.802,
+        "score": 4.446,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "article"
       },
@@ -2548,74 +2491,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.628,
+        "score": 4.25,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "288f44e1f0e5",
-        "category": "growth",
-        "lang": "en",
-        "title": "What surprised PG about AI",
-        "summary": "",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/cp7mBZJkaCs",
-        "publishedAt": "2026-10-13T17:55:08+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/cp7mBZJkaCs",
-            "publishedAt": "2026-10-13T17:55:08+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.985,
-        "firstSeen": "2026-10-13T23:10:38.643116+00:00",
-        "kind": "video",
-        "video": {
-          "id": "cp7mBZJkaCs",
-          "thumbUrl": "https://i4.ytimg.com/vi/cp7mBZJkaCs/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=cp7mBZJkaCs",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "fc710191e832",
-        "category": "growth",
-        "lang": "en",
-        "title": "Chirp Pong",
-        "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-        "publishedAt": "2026-10-15T19:47:52+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Social skills"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-            "publishedAt": "2026-10-15T19:47:52+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.939,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
       {
@@ -2644,7 +2521,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.894,
+        "score": 3.88,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2656,24 +2533,23 @@
         }
       },
       {
-        "id": "40b611a330c7",
+        "id": "288f44e1f0e5",
         "category": "growth",
         "lang": "en",
-        "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-        "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people…",
+        "title": "What surprised PG about AI",
+        "summary": "",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-        "publishedAt": "2026-10-15T13:04:03+00:00",
+        "url": "https://www.youtube.com/shorts/cp7mBZJkaCs",
+        "publishedAt": "2026-10-13T17:55:08+00:00",
         "subtopics": [
-          "AI & smart tools",
-          "Personal finance"
+          "AI & smart tools"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-            "publishedAt": "2026-10-15T13:04:03+00:00",
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/cp7mBZJkaCs",
+            "publishedAt": "2026-10-13T17:55:08+00:00",
             "tier": 3
           }
         ],
@@ -2681,9 +2557,16 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.802,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00",
-        "kind": "article"
+        "score": 3.863,
+        "firstSeen": "2026-10-13T23:10:38.643116+00:00",
+        "kind": "video",
+        "video": {
+          "id": "cp7mBZJkaCs",
+          "thumbUrl": "https://i4.ytimg.com/vi/cp7mBZJkaCs/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=cp7mBZJkaCs",
+          "channel": "Y Combinator"
+        }
       },
       {
         "id": "c0abbd96b519",
@@ -2711,7 +2594,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.8,
+        "score": 3.788,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2747,7 +2630,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.759,
+        "score": 3.748,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -2783,7 +2666,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.696,
+        "score": 3.685,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2793,6 +2676,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=8WWrNbHvd44",
           "channel": "TED"
         }
+      },
+      {
+        "id": "fc710191e832",
+        "category": "growth",
+        "lang": "en",
+        "title": "Chirp Pong",
+        "summary": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work!",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+        "publishedAt": "2026-10-15T19:47:52+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Social skills"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+            "publishedAt": "2026-10-15T19:47:52+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.683,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00",
+        "kind": "article"
       },
       {
         "id": "989396acd63d",
@@ -2820,7 +2733,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.682,
+        "score": 3.672,
         "firstSeen": "2026-10-07T22:37:13.001077+00:00",
         "kind": "video",
         "video": {
@@ -2856,7 +2769,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.64,
+        "score": 3.631,
         "firstSeen": "2026-10-05T15:28:52.068309+00:00",
         "kind": "video",
         "video": {
@@ -2866,6 +2779,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=RCNO3k4QL5M",
           "channel": "TED"
         }
+      },
+      {
+        "id": "40b611a330c7",
+        "category": "growth",
+        "lang": "en",
+        "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+        "summary": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+        "publishedAt": "2026-10-15T13:04:03+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+            "publishedAt": "2026-10-15T13:04:03+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.57,
+        "firstSeen": "2026-10-15T20:53:35.502089+00:00",
+        "kind": "article"
       },
       {
         "id": "2cf7b587d052",
@@ -2894,7 +2837,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.606,
+        "score": 3.41,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -2923,7 +2866,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.531,
+        "score": 3.348,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
@@ -2952,7 +2895,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.458,
+        "score": 3.288,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
@@ -2981,7 +2924,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.239,
+        "score": 3.108,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -3011,8 +2954,74 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.233,
+        "score": 3.103,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "8d742db77143",
+        "category": "growth",
+        "lang": "en",
+        "title": "Love is infrastructure",
+        "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+        "publishedAt": "2026-10-16T09:00:00+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+            "publishedAt": "2026-10-16T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.05,
+        "firstSeen": "2026-10-16T10:36:30.354891+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "126aa063fc33",
+        "category": "growth",
+        "lang": "en",
+        "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+        "publishedAt": "2026-10-15T10:09:45+00:00",
+        "subtopics": [
+          "Productivity & systems",
+          "Communication",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+            "publishedAt": "2026-10-15T10:09:45+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+            "publishedAt": "2026-10-06T22:08:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.028,
+        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
       {
@@ -3040,8 +3049,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.142,
+        "score": 3.028,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "cfb3c2ddc081",
+        "category": "growth",
+        "lang": "en",
+        "title": "Six wild ideas for perpetuating your mind",
+        "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+        "publishedAt": "2026-10-15T09:00:00+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+            "publishedAt": "2026-10-15T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.027,
+        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
       {
@@ -3071,101 +3109,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.125,
+        "score": 3.014,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "8d742db77143",
-        "category": "growth",
-        "lang": "en",
-        "title": "Love is infrastructure",
-        "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-        "publishedAt": "2026-10-16T09:00:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-            "publishedAt": "2026-10-16T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.063,
-        "firstSeen": "2026-10-16T10:36:30.354891+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "cfb3c2ddc081",
-        "category": "growth",
-        "lang": "en",
-        "title": "Six wild ideas for perpetuating your mind",
-        "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-        "publishedAt": "2026-10-15T09:00:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-            "publishedAt": "2026-10-15T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.039,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "efadf9441346",
-        "category": "growth",
-        "lang": "en",
-        "title": "web-edit 0.1a1",
-        "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
-        "publishedAt": "2026-10-13T01:40:05+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
-            "publishedAt": "2026-10-13T01:40:05+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-            "publishedAt": "2026-10-12T15:54:36+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.038,
-        "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
       {
@@ -3193,7 +3138,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.024,
+        "score": 2.931,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -3224,7 +3169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.982,
+        "score": 2.896,
         "firstSeen": "2026-10-13T00:05:46.336162+00:00",
         "kind": "article"
       },
@@ -3253,37 +3198,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.972,
+        "score": 2.889,
         "firstSeen": "2026-10-13T22:15:23.727143+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "24d721d47322",
-        "category": "growth",
-        "lang": "en",
-        "title": "Python 3.15.0 added to actions/python-versions",
-        "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.com/actions/python-versions and git pull once an hour until they add the…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-        "publishedAt": "2026-10-10T23:58:04+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
-            "publishedAt": "2026-10-10T23:58:04+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.757,
-        "firstSeen": "2026-10-11T12:02:01.731809+00:00",
         "kind": "article"
       },
       {
@@ -3312,7 +3228,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.622,
+        "score": 2.611,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3343,7 +3259,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.592,
+        "score": 2.581,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3374,7 +3290,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.556,
+        "score": 2.546,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3403,7 +3319,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.47,
+        "score": 2.461,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3434,7 +3350,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.369,
+        "score": 2.362,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3465,69 +3381,67 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.345,
+        "score": 2.338,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
       {
-        "id": "f71d07f2efd6",
+        "id": "a842fefb2bdb",
         "category": "growth",
         "lang": "en",
-        "title": "What Was the Best Portfolio Over the Last 50 Years?",
-        "summary": "A few months ago, I analyzed U.S. stock returns over the last century .",
+        "title": "What It’s Like to Be…a Mail Carrier",
+        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-        "publishedAt": "2026-09-15T11:45:37+00:00",
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+        "publishedAt": "2026-08-11T12:30:27+00:00",
         "subtopics": [
-          "Productivity & systems",
-          "Personal finance",
-          "Persuasion & negotiation"
+          "Communication",
+          "Relationships"
         ],
         "sources": [
           {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-            "publishedAt": "2026-09-15T11:45:37+00:00",
-            "tier": 3
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+            "publishedAt": "2026-08-11T12:30:27+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.266,
+        "score": 2.336,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
-        "id": "8ba822b78432",
+        "id": "a821601d6da8",
         "category": "growth",
         "lang": "en",
-        "title": "Living Poor to Die Rich",
-        "summary": "I recently joined a professional organization to discuss various topics in wealth management. On our first Zoom call there was a debate around the use of levered long/short strategies.",
+        "title": "What It’s Like to Be…a Hotshot",
+        "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://ofdollarsanddata.com/living-poor-to-die-rich/",
-        "publishedAt": "2026-09-08T11:45:51+00:00",
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+        "publishedAt": "2026-07-28T12:23:34+00:00",
         "subtopics": [
-          "Leadership",
-          "Business case studies",
-          "Personal finance"
+          "Communication",
+          "Relationships"
         ],
         "sources": [
           {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/living-poor-to-die-rich/",
-            "publishedAt": "2026-09-08T11:45:51+00:00",
-            "tier": 3
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+            "publishedAt": "2026-07-28T12:23:34+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.201,
+        "score": 2.292,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3668,9 +3582,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3710,8 +3624,8 @@
     }
   ],
   "filteredOut": {
-    "football": 52,
-    "news": 55,
+    "football": 53,
+    "news": 57,
     "medical": 13,
     "growth": 52
   }
