@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:57:24.123795+00:00",
+  "generatedAt": "2026-10-19T22:44:58.726073+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,8 +34,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.569,
+        "isNew": false,
+        "score": 13.499,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -65,7 +65,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.29,
+        "score": 12.255,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -92,8 +92,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.982,
+        "isNew": false,
+        "score": 11.914,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -122,7 +122,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.659,
+        "score": 10.627,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
       },
       {
@@ -156,8 +156,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.3,
+        "isNew": false,
+        "score": 7.223,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -185,8 +185,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.277,
+        "isNew": false,
+        "score": 7.215,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -215,7 +215,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.202,
+        "score": 7.142,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -249,8 +249,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.922,
+        "isNew": false,
+        "score": 6.851,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -279,16 +279,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.837,
+        "score": 6.828,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "transfer": "RUMOUR"
+      },
+      {
+        "id": "bd2ad2cd1d66",
+        "category": "football",
+        "lang": "en",
+        "title": "Spurs 'lack confidence' but we are a good team - De Zerbi",
+        "summary": "Tottenham Hotspur head coach Roberto de Zerbi hails the spirit and attitude of his side following their first Premier League win of the season, as they beat Coventry City.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqvgrn518d6jo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-19T21:59:30+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cqvgrn518d6jo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-19T21:59:30+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.422,
+        "firstSeen": "2026-10-19T22:44:58.726073+00:00"
       },
       {
         "id": "17826edde579",
         "category": "football",
         "lang": "en",
-        "title": "Lampard 'proud' of Coventry performance in defeat to Spurs",
-        "summary": "Coventry City head coach Frank Lampard speaks on his pride in his side's performance, despite a loss away to struggling Tottenham Hotspur in the Premier League.",
+        "title": "Lampard 'proud' of Coventry performance in defeat by Spurs",
+        "summary": "Coventry City manager Frank Lampard says he is proud of his side's performance, despite losing at struggling Tottenham Hotspur in the Premier League.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.bbc.co.uk/sport/football/videos/c32l4x1k28ero?at_medium=RSS&at_campaign=rss",
@@ -308,8 +337,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.472,
+        "isNew": false,
+        "score": 6.392,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -343,8 +372,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.26,
+        "isNew": false,
+        "score": 6.179,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -374,7 +403,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.776,
+        "score": 5.755,
         "firstSeen": "2026-10-18T10:19:08.546881+00:00"
       },
       {
@@ -403,7 +432,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.61,
+        "score": 5.553,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -431,9 +460,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.499,
+        "isNew": false,
+        "score": 5.431,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
+      },
+      {
+        "id": "c7f80aefddfc",
+        "category": "football",
+        "lang": "en",
+        "title": "Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini",
+        "summary": "Manager’s latest setback exposed growing doubts about his squad and his approach as Davide Nicola began his Venezia tenure with a remarkable win “I’ll love you even if you win,” promised the Venezia supporter’s banner. More gallows humour from a fanbase that…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/19/massimiliano-allegri-napoli-davide-nicola-venezia-serie-a",
+        "publishedAt": "2026-10-19T16:25:22+00:00",
+        "subtopics": [
+          "Serie A",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/19/massimiliano-allegri-napoli-davide-nicola-venezia-serie-a",
+            "publishedAt": "2026-10-19T16:25:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.908,
+        "firstSeen": "2026-10-19T22:44:58.726073+00:00"
       },
       {
         "id": "62108f85762e",
@@ -461,7 +519,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.636,
+        "score": 4.605,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
       },
       {
@@ -490,7 +548,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.592,
+        "score": 4.562,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
       },
       {
@@ -519,7 +577,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.276,
+        "score": 4.255,
         "firstSeen": "2026-10-18T10:19:08.546881+00:00"
       },
       {
@@ -548,7 +606,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.992,
+        "score": 3.979,
         "firstSeen": "2026-10-18T21:13:04.918445+00:00"
       },
       {
@@ -577,7 +635,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.815,
+        "score": 3.806,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       }
     ],
@@ -631,7 +689,7 @@
           }
         ],
         "isNew": false,
-        "score": 7.909,
+        "score": 7.874,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -666,7 +724,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.825,
+        "score": 7.792,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -701,7 +759,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.766,
+        "score": 7.734,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -737,7 +795,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.6,
+        "score": 7.569,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -772,7 +830,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.59,
+        "score": 7.56,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -807,7 +865,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.566,
+        "score": 7.536,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -836,7 +894,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.565,
+        "score": 7.535,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -865,7 +923,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.442,
+        "score": 7.413,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -893,37 +951,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.43,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
-      },
-      {
-        "id": "7f0a2fcf0ab5",
-        "category": "news",
-        "lang": "de",
-        "title": "St. Paulis Suche nach dem Stadionlied: Auch Rihanna steht zur Wahl",
-        "summary": "Die Fans des Fußball-Zweitligisten können sich alle Vorschläge für die neue Stadionhymne nun anhören. Abgestimmt wird ab dem 30.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/sport/fussball/st-pauli-sucht-stadionlied-auch-rihanna-steht-zur-wahl,pauli-686.html",
-        "publishedAt": "2026-10-19T15:13:00+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/sport/fussball/st-pauli-sucht-stadionlied-auch-rihanna-steht-zur-wahl,pauli-686.html",
-            "publishedAt": "2026-10-19T15:13:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.314,
+        "isNew": false,
+        "score": 7.397,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -952,8 +981,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.312,
+        "score": 7.285,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
+      },
+      {
+        "id": "7f0a2fcf0ab5",
+        "category": "news",
+        "lang": "de",
+        "title": "St. Paulis Suche nach dem Stadionlied: Auch Rihanna steht zur Wahl",
+        "summary": "Die Fans des Fußball-Zweitligisten können sich alle Vorschläge für die neue Stadionhymne nun anhören. Abgestimmt wird ab dem 30.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/sport/fussball/st-pauli-sucht-stadionlied-auch-rihanna-steht-zur-wahl,pauli-686.html",
+        "publishedAt": "2026-10-19T15:13:00+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/sport/fussball/st-pauli-sucht-stadionlied-auch-rihanna-steht-zur-wahl,pauli-686.html",
+            "publishedAt": "2026-10-19T15:13:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.282,
+        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
         "id": "05d46773235d",
@@ -987,7 +1045,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.263,
+        "score": 7.236,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1051,7 +1109,7 @@
           }
         ],
         "isNew": false,
-        "score": 7.088,
+        "score": 7.054,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1086,7 +1144,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.995,
+        "score": 6.972,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
       },
       {
@@ -1115,7 +1173,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.944,
+        "score": 6.921,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
       },
       {
@@ -1143,7 +1201,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.374,
+        "score": 6.341,
         "firstSeen": "2026-10-07T14:08:36.377830+00:00"
       },
       {
@@ -1170,8 +1228,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.369,
+        "isNew": false,
+        "score": 6.337,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -1206,7 +1264,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.334,
+        "score": 6.318,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -1235,7 +1293,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.223,
+        "score": 6.208,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -1264,7 +1322,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.089,
+        "score": 6.076,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -1294,7 +1352,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.953,
+        "score": 5.941,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1324,7 +1382,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.895,
+        "score": 5.884,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1359,7 +1417,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.89,
+        "score": 5.879,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1394,7 +1452,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.879,
+        "score": 5.869,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
@@ -1429,7 +1487,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.611,
+        "score": 5.604,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -1458,7 +1516,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.442,
+        "score": 5.437,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1487,7 +1545,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.44,
+        "score": 5.434,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
@@ -1516,7 +1574,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.315,
+        "score": 5.312,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00"
       },
       {
@@ -1545,37 +1603,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.114,
+        "score": 5.101,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
-      },
-      {
-        "id": "469c21c832a6",
-        "category": "news",
-        "lang": "de",
-        "title": "Hamburg: Demo gegen Aktion zur \"Remigration\" im Stadtpark",
-        "summary": "In Hamburg protestierten rund 1.000 Menschen gegen eine rechte \"Remigration\"-Aktion am Planetarium.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-hunderte-bei-demo-gegen-aktion-zur-remigration,demo-814.html",
-        "publishedAt": "2026-10-18T18:21:14+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-hunderte-bei-demo-gegen-aktion-zur-remigration,demo-814.html",
-            "publishedAt": "2026-10-18T18:21:14+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 4.889,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
         "id": "4bbca23b4a81",
@@ -1604,8 +1633,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.878,
+        "score": 4.868,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
+      },
+      {
+        "id": "469c21c832a6",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburg: Demo gegen Aktion zur \"Remigration\" im Stadtpark",
+        "summary": "In Hamburg protestierten rund 1.000 Menschen gegen eine rechte \"Remigration\"-Aktion am Planetarium.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-hunderte-bei-demo-gegen-aktion-zur-remigration,demo-814.html",
+        "publishedAt": "2026-10-18T18:21:14+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-hunderte-bei-demo-gegen-aktion-zur-remigration,demo-814.html",
+            "publishedAt": "2026-10-18T18:21:14+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.866,
+        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
         "id": "31aef48b00f7",
@@ -1634,7 +1692,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.619,
+        "score": 4.612,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
@@ -1669,7 +1727,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.589,
+        "score": 4.582,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1704,7 +1762,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.542,
+        "score": 4.536,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00"
       },
       {
@@ -1733,7 +1791,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.489,
+        "score": 4.483,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       }
     ],
@@ -1764,7 +1822,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.39,
+        "score": 11.38,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1796,7 +1854,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.017,
+        "score": 10.012,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1826,7 +1884,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.582,
+        "score": 9.575,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1858,7 +1916,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.208,
+        "score": 9.206,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1889,7 +1947,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.017,
+        "score": 9.012,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1919,7 +1977,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.39,
+        "score": 7.38,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1951,7 +2009,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.184,
+        "score": 7.178,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1982,7 +2040,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.017,
+        "score": 7.012,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2013,7 +2071,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.017,
+        "score": 7.012,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2051,7 +2109,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.426,
+        "score": 6.423,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2082,7 +2140,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.426,
+        "score": 6.423,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2113,7 +2171,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.208,
+        "score": 6.206,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2145,7 +2203,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.016,
+        "score": 6.014,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2176,7 +2234,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.159,
+        "score": 5.151,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2207,7 +2265,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.3,
+        "score": 4.293,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2238,7 +2296,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.173,
+        "score": 4.162,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2269,7 +2327,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.097,
+        "score": 4.091,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2299,7 +2357,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.013,
+        "score": 4.002,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2329,7 +2387,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.208,
+        "score": 3.2,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2361,8 +2419,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.387,
+        "isNew": false,
+        "score": 6.354,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2397,8 +2455,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.644,
+        "isNew": false,
+        "score": 5.611,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "article"
       },
@@ -2427,8 +2485,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.619,
+        "isNew": false,
+        "score": 5.586,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "article"
       },
@@ -2457,7 +2515,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.393,
+        "score": 5.363,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "kind": "article"
       },
@@ -2486,7 +2544,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.279,
+        "score": 5.25,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -2515,7 +2573,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.655,
+        "score": 4.63,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -2544,7 +2602,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.64,
+        "score": 4.615,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -2573,7 +2631,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.605,
+        "score": 4.589,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2611,7 +2669,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.527,
+        "score": 4.516,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "video",
         "video": {
@@ -2647,8 +2705,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.893,
+        "isNew": false,
+        "score": 3.892,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2685,7 +2743,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.845,
+        "score": 3.844,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2744,7 +2802,7 @@
           }
         ],
         "isNew": false,
-        "score": 3.791,
+        "score": 3.776,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
@@ -2774,7 +2832,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.769,
+        "score": 3.757,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "article"
       },
@@ -2804,7 +2862,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.756,
+        "score": 3.755,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2876,7 +2934,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.658,
+        "score": 3.657,
         "firstSeen": "2026-10-08T22:48:59.202436+00:00",
         "kind": "video",
         "video": {
@@ -2912,7 +2970,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.631,
+        "score": 3.628,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2949,7 +3007,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.53,
+        "score": 3.518,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -2979,7 +3037,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.196,
+        "score": 3.188,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -3009,7 +3067,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.13,
+        "score": 3.122,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -3038,7 +3096,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.087,
+        "score": 3.086,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -3069,7 +3127,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.035,
+        "score": 3.029,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -3098,8 +3156,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.016,
+        "score": 3.015,
         "firstSeen": "2026-10-16T10:36:30.354891+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "126aa063fc33",
+        "category": "growth",
+        "lang": "en",
+        "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+        "publishedAt": "2026-10-15T10:09:45+00:00",
+        "subtopics": [
+          "Productivity & systems",
+          "Communication",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+            "publishedAt": "2026-10-15T10:09:45+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+            "publishedAt": "2026-10-06T22:08:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.994,
+        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
       {
@@ -3127,7 +3222,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.999,
+        "score": 2.993,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
@@ -3156,7 +3251,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.963,
+        "score": 2.958,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
@@ -3185,7 +3280,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.857,
+        "score": 2.853,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -3215,7 +3310,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.855,
+        "score": 2.851,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00",
         "kind": "article"
       },
@@ -3244,7 +3339,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.81,
+        "score": 2.807,
         "firstSeen": "2026-10-13T14:44:34.259264+00:00",
         "kind": "article"
       },
@@ -3275,7 +3370,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.802,
+        "score": 2.799,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "kind": "article"
       },
@@ -3304,7 +3399,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.754,
+        "score": 2.751,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -3365,7 +3460,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.554,
+        "score": 2.553,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3396,7 +3491,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.52,
+        "score": 2.519,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3427,37 +3522,6 @@
         "isNew": false,
         "score": 2.438,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "7549a0489268",
-        "category": "growth",
-        "lang": "en",
-        "title": "Bill Ackman: The Biggest Fight of His Life",
-        "summary": "Bill Ackman is the founder and CEO of Pershing Square Capital Management, one of the most closely watched investment firms in the world. In this conversation, he breaks down the difference between real innovation and hype, how he invests, and his plan to…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
-        "publishedAt": "2026-09-24T09:50:00+00:00",
-        "subtopics": [
-          "Communication",
-          "Leadership",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
-            "publishedAt": "2026-09-24T09:50:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.343,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       }
     ]
@@ -3597,9 +3661,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3639,7 +3703,7 @@
     }
   ],
   "filteredOut": {
-    "football": 58,
+    "football": 56,
     "news": 57,
     "medical": 10,
     "growth": 48
