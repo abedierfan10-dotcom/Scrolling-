@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:28:35.258503+00:00",
+  "generatedAt": "2026-10-20T21:11:59.391555+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,77 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "0a6f79535297",
+        "category": "football",
+        "lang": "en",
+        "title": "Liverpool v Villarreal: Champions League – live",
+        "summary": "⚽ Updates from the 8pm BST kick-off at Anfield ⚽ Football clockwatch | Live scores | Table | Mail Scott Villarreal kick off. They’re kicking towards the Kop in this first half.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
+        "publishedAt": "2026-10-20T20:54:39+00:00",
+        "subtopics": [
+          "Barcelona",
+          "La Liga",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
+            "publishedAt": "2026-10-20T20:54:39+00:00",
+            "tier": 2
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live",
+            "publishedAt": "2026-10-20T20:54:26+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/liverpool-vs-villarreal/live/577635",
+            "publishedAt": "2026-10-20T18:30:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 16.27,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+      },
+      {
+        "id": "dd7e0a34e8d8",
+        "category": "football",
+        "lang": "en",
+        "title": "PSG beat Barcelona in epic clash LIVE!",
+        "summary": "",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/live/577638",
+        "publishedAt": "2026-10-20T19:15:00+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/live/577638",
+            "publishedAt": "2026-10-20T19:15:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 13.804,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+      },
       {
         "id": "2b9dfa33772c",
         "category": "football",
@@ -35,37 +106,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.552,
+        "score": 12.146,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
-      },
-      {
-        "id": "dc9242eaf43f",
-        "category": "football",
-        "lang": "en",
-        "title": "PSG v Barcelona - Europe's most exciting match-up?",
-        "summary": "Paris St-Germain and Barcelona, the current top two in this season's Champions League, meet on Tuesday.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-20T08:52:56+00:00",
-        "subtopics": [
-          "Barcelona",
-          "Champions League"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-20T08:52:56+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 12.148,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
         "id": "0a0770973a95",
@@ -94,7 +136,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.779,
+        "score": 11.576,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -122,38 +164,162 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.999,
+        "score": 10.607,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
-        "id": "96c82b3f1a33",
+        "id": "de105683fd4b",
         "category": "football",
         "lang": "en",
-        "title": "Villarreal’s Iñigo Pérez ready to meet Iraola again in test of old bond",
-        "summary": "Refused a work permit at Bournemouth, Pérez comes face to face with Liverpool’s head coach in Champions League On Iñigo Pérez’s first day as a head coach he took a call from Andoni Iraola, just as he had every day for months. They had known each other for 22…",
+        "title": "Carrick insists Manchester United board back him after Ten Hag points to ‘toxic culture’",
+        "summary": "Manager acknowledges he needs to start winning games Ten Hag accuses Cristiano Ronaldo of letting club down Michael Carrick believes Manchester United’s board continue to back him, although the manager admits he must start winning matches to keep his job.…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-inigo-perez-iraola-test-of-old-bond",
-        "publishedAt": "2026-10-20T07:00:19+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+        "publishedAt": "2026-10-20T20:13:21+00:00",
         "subtopics": [
-          "La Liga",
           "Champions League",
-          "Upcoming"
+          "Premier League",
+          "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-inigo-perez-iraola-test-of-old-bond",
-            "publishedAt": "2026-10-20T07:00:19+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united",
+            "publishedAt": "2026-10-20T20:13:21+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.981,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+        "isNew": true,
+        "score": 9.4,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+      },
+      {
+        "id": "711af89a37bc",
+        "category": "football",
+        "lang": "en",
+        "title": "Ngumoha stars as Liverpool come back to win thriller against Villarreal",
+        "summary": "Liverpool came from two goals down to defeat Villarreal 4-3 at Anfield and make it three wins from three in this season’s Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
+        "publishedAt": "2026-10-20T22:00:00+00:00",
+        "subtopics": [
+          "La Liga",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
+            "publishedAt": "2026-10-20T22:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.0,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+      },
+      {
+        "id": "9df55a183faa",
+        "category": "football",
+        "lang": "en",
+        "title": "Hat-trick hero Foden stars as Man City thrash AEK Athens",
+        "summary": "Phil Foden bagged a hat-trick as dominant Manchester City cruised to a 5-1 win over AEK Athens to claim their second Champions League victory of the campaign.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
+        "publishedAt": "2026-10-20T22:00:00+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
+            "publishedAt": "2026-10-20T22:00:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/manchester-city-vs-aek-athens/live/577636",
+            "publishedAt": "2026-10-20T18:30:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.0,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+      },
+      {
+        "id": "6f00c4272b52",
+        "category": "football",
+        "lang": "en",
+        "title": "Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play",
+        "summary": "Goalkeeper brushes off criticism before Bayern clash Kompany could miss game with virus affecting his legs David Raya says he does not care if rival supporters call Arsenal “boring” as his manager, Mikel Arteta, insisted that critics of the team’s style were…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
+        "publishedAt": "2026-10-20T20:00:37+00:00",
+        "subtopics": [
+          "Champions League",
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
+            "publishedAt": "2026-10-20T20:00:37+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.879,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+      },
+      {
+        "id": "7a22839f2786",
+        "category": "football",
+        "lang": "en",
+        "title": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history",
+        "summary": "Result is largest margin at any age level of a World Cup DiMaria is first to score six at Fifa finals since Haaland Tournament is in year two of expanded 24-team field The United States began their U-17 Women’s World Cup campaign on Monday with a…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/20/uswnt-u-17-samoa-world-cup",
+        "publishedAt": "2026-10-20T15:15:26+00:00",
+        "subtopics": [
+          "World Cup",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/20/uswnt-u-17-samoa-world-cup",
+            "publishedAt": "2026-10-20T15:15:26+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.441,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "02da0ad323d0",
@@ -181,130 +347,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.375,
+        "score": 6.016,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
-      },
-      {
-        "id": "f11e49496897",
-        "category": "football",
-        "lang": "en",
-        "title": "Semenyo’s eight-week injury absence leaves Manchester City short on cover for Haaland",
-        "summary": "Ghana forward sustained knee injury against Ipswich Maresca to ring changes against AEK Athens on Tuesday Antoine Semenyo has been ruled out for eight weeks with a knee injury, leaving Enzo Maresca short of alternatives to Erling Haaland, who is a doubt for…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
-        "publishedAt": "2026-10-19T13:03:00+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/19/antoine-semenyo-eight-week-knee-injury-absence-manchester-city-short-cover-erling-haaland",
-            "publishedAt": "2026-10-19T13:03:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.33,
-        "firstSeen": "2026-10-19T14:15:39.801648+00:00"
-      },
-      {
-        "id": "8c37d2caf311",
-        "category": "football",
-        "lang": "en",
-        "title": "Spurs beat Coventry to claim first win as Kulusevski makes long-awaited return",
-        "summary": "Tottenham claimed their first Premier League win of the season by beating Coventry 3-1 as Dejan Kulusevski made his long-awaited return after 526 days out injured.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/tottenham-hotspur-vs-coventry-city/report/559513",
-        "publishedAt": "2026-10-19T22:00:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/tottenham-hotspur-vs-coventry-city/report/559513",
-            "publishedAt": "2026-10-19T22:00:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-19T21:33:07+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.115,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
-      },
-      {
-        "id": "b9a0d5b9ad28",
-        "category": "football",
-        "lang": "en",
-        "title": "'He still has magic in his boots' - Maddison shows Spurs what they were missing",
-        "summary": "James Maddison says he has \"so much more to give\" Tottenham after he marked his first start in nearly 18 months with a stunning goal that helped Spurs to their first Premier League win of the season.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13601183/james-maddison-marks-first-tottenham-start-in-nearly-18-months-with-stunning-goal-in-first-premier-league-win-of-season",
-        "publishedAt": "2026-10-20T06:01:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13601183/james-maddison-marks-first-tottenham-start-in-nearly-18-months-with-stunning-goal-in-first-premier-league-win-of-season",
-            "publishedAt": "2026-10-20T06:01:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.897,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
-      },
-      {
-        "id": "ae043264a305",
-        "category": "football",
-        "lang": "en",
-        "title": "David Squires on … Manchester City sailing into unknown Premier League waters",
-        "summary": "Our cartoonist on a perfect start for Enzo Maresca’s league leaders. What could possibly go wrong?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
-        "publishedAt": "2026-10-20T10:04:53+00:00",
-        "subtopics": [
-          "Premier League",
-          "Tables"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
-            "publishedAt": "2026-10-20T10:04:53+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.761,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
         "id": "dba77b39179d",
@@ -333,8 +377,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.469,
+        "score": 5.346,
         "firstSeen": "2026-10-18T10:19:08.546881+00:00"
+      },
+      {
+        "id": "b9a0d5b9ad28",
+        "category": "football",
+        "lang": "en",
+        "title": "'He still has magic in his boots' - Maddison shows Spurs what they were missing",
+        "summary": "James Maddison says he has \"so much more to give\" Tottenham after he marked his first start in nearly 18 months with a stunning goal that helped Spurs to their first Premier League win of the season.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13601183/james-maddison-marks-first-tottenham-start-in-nearly-18-months-with-stunning-goal-in-first-premier-league-win-of-season",
+        "publishedAt": "2026-10-20T06:01:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13601183/james-maddison-marks-first-tottenham-start-in-nearly-18-months-with-stunning-goal-in-first-premier-league-win-of-season",
+            "publishedAt": "2026-10-20T06:01:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.271,
+        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+      },
+      {
+        "id": "ae043264a305",
+        "category": "football",
+        "lang": "en",
+        "title": "David Squires on … Manchester City sailing into unknown Premier League waters",
+        "summary": "Our cartoonist on a perfect start for Enzo Maresca’s league leaders. What could possibly go wrong?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
+        "publishedAt": "2026-10-20T10:04:53+00:00",
+        "subtopics": [
+          "Premier League",
+          "Tables"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
+            "publishedAt": "2026-10-20T10:04:53+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.039,
+        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
         "id": "924143f84c51",
@@ -362,7 +464,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.33,
+        "score": 4.852,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -391,7 +493,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.33,
+        "score": 4.851,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -420,7 +522,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.314,
+        "score": 4.84,
         "firstSeen": "2026-10-19T22:44:58.726073+00:00"
       },
       {
@@ -449,8 +551,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.295,
+        "score": 4.826,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
+      },
+      {
+        "id": "fd4e4ef39f84",
+        "category": "football",
+        "lang": "en",
+        "title": "Spurs beat Coventry to earn first league win of the season",
+        "summary": "Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-19T21:33:07+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-19T21:33:07+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.82,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "05449648a05d",
@@ -478,66 +609,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.51,
+        "score": 4.115,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
-      },
-      {
-        "id": "3403152a5b5f",
-        "category": "football",
-        "lang": "en",
-        "title": "‘Like a fresh start’: Michael Carrick relieved by Manchester United’s draw at Leeds",
-        "summary": "Head coach insists ‘we can still have a really good season’ ‘We were the dominant side,’ says Leeds manager Farke After a week in which Michael Carrick had “the headphones on” to quieten the noise, the Manchester United head coach claimed his side’s 1-1 draw…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-draw-leeds-fresh-start",
-        "publishedAt": "2026-10-18T16:50:54+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-draw-leeds-fresh-start",
-            "publishedAt": "2026-10-18T16:50:54+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.16,
-        "firstSeen": "2026-10-18T20:01:27.604703+00:00"
-      },
-      {
-        "id": "c7f80aefddfc",
-        "category": "football",
-        "lang": "en",
-        "title": "Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini",
-        "summary": "Manager’s latest setback exposed growing doubts about his squad and his approach as Davide Nicola began his Venezia tenure with a remarkable win “I’ll love you even if you win,” promised the Venezia supporter’s banner. More gallows humour from a fanbase that…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/19/massimiliano-allegri-napoli-davide-nicola-venezia-serie-a",
-        "publishedAt": "2026-10-19T16:25:22+00:00",
-        "subtopics": [
-          "Serie A",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/19/massimiliano-allegri-napoli-davide-nicola-venezia-serie-a",
-            "publishedAt": "2026-10-19T16:25:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.995,
-        "firstSeen": "2026-10-19T22:44:58.726073+00:00"
       },
       {
         "id": "17a75b6577be",
@@ -565,11 +638,169 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.969,
+        "score": 3.846,
         "firstSeen": "2026-10-18T10:19:08.546881+00:00"
+      },
+      {
+        "id": "c7f80aefddfc",
+        "category": "football",
+        "lang": "en",
+        "title": "Houdini act in Venice leaves Massimiliano Allegri searching for an escape at Napoli | Nicky Bandini",
+        "summary": "Manager’s latest setback exposed growing doubts about his squad and his approach as Davide Nicola began his Venezia tenure with a remarkable win “I’ll love you even if you win,” promised the Venezia supporter’s banner. More gallows humour from a fanbase that…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/19/massimiliano-allegri-napoli-davide-nicola-venezia-serie-a",
+        "publishedAt": "2026-10-19T16:25:22+00:00",
+        "subtopics": [
+          "Serie A",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/19/massimiliano-allegri-napoli-davide-nicola-venezia-serie-a",
+            "publishedAt": "2026-10-19T16:25:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.605,
+        "firstSeen": "2026-10-19T22:44:58.726073+00:00"
       }
     ],
     "news": [
+      {
+        "id": "4e645ad5efba",
+        "category": "news",
+        "lang": "de",
+        "title": "Wirtschaft vor acht vom 20.10.2026",
+        "summary": "Wirtschaft vor acht vom 20.10.2026",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1669678.html",
+        "publishedAt": "2026-10-20T17:56:23+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1669678.html",
+            "publishedAt": "2026-10-20T17:56:23+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669322.html",
+            "publishedAt": "2026-10-20T07:49:44+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.858,
+        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+      },
+      {
+        "id": "6e5e29b047f6",
+        "category": "news",
+        "lang": "de",
+        "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+        "summary": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+        "publishedAt": "2026-10-20T16:38:28+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+            "publishedAt": "2026-10-20T16:38:28+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
+            "publishedAt": "2026-10-20T16:38:28+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.803,
+        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+      },
+      {
+        "id": "ee187a2b90ba",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: Kurswende am Nachmittag",
+        "summary": "Ein ganzer Strauß von Belastungen hatte den DAX zunächst nach unten befördert. Dann die Kurswende: Neue Gerüchte über eine Lösung im Iran-Krieg machten die Runde.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+        "publishedAt": "2026-10-20T16:37:23+00:00",
+        "subtopics": [
+          "Iran",
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+            "publishedAt": "2026-10-20T16:37:23+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.802,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+      },
+      {
+        "id": "d61ec326ab02",
+        "category": "news",
+        "lang": "de",
+        "title": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
+        "summary": "Die Deutsche Post will das Briefporto im kommenden Januar von 95 Cent auf 1,15 Euro anheben. Auch Postkarten, Großbriefe und andere Produkte sollen 2027 teurer werden - sofern die Bundesnetzagentur die Erhöhungen genehmigt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html",
+        "publishedAt": "2026-10-20T14:00:04+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html",
+            "publishedAt": "2026-10-20T14:00:04+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.695,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+      },
       {
         "id": "643b177a0d45",
         "category": "news",
@@ -596,13 +827,19 @@
             "url": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html",
             "publishedAt": "2026-10-20T12:23:47+00:00",
             "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/investitionsgipfel-114.html",
+            "publishedAt": "2026-10-20T12:23:47+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.996,
+        "isNew": false,
+        "score": 7.632,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -625,40 +862,11 @@
             "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
             "publishedAt": "2026-10-20T12:15:27+00:00",
             "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.99,
-        "firstSeen": "2026-10-20T12:28:35.258503+00:00"
-      },
-      {
-        "id": "6e5e29b047f6",
-        "category": "news",
-        "lang": "de",
-        "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
-        "summary": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
-        "publishedAt": "2026-10-20T08:42:06+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
-            "publishedAt": "2026-10-20T08:42:06+00:00",
-            "tier": 1
           },
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
-            "publishedAt": "2026-10-20T08:42:06+00:00",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
+            "publishedAt": "2026-10-20T12:15:27+00:00",
             "tier": 1
           }
         ],
@@ -666,8 +874,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.836,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+        "score": 7.626,
+        "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
         "id": "01e39ab5de10",
@@ -702,8 +910,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.83,
+        "score": 7.486,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+      },
+      {
+        "id": "df4bf7c47acb",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburg möchte virtuelle Stadtmodelle weiter ausbauen",
+        "summary": "Hamburg setzt in Planungsprozessen verstärkt auf \"digitale Zwillinge\" - virtuelle Darstellungen der realen Welt. Rund neun Millionen Euro steckt Hamburg in die Weiterentwicklung.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-moechte-virtuelle-stadtmodelle-weiter-ausbauen,digitalisierung-200.html",
+        "publishedAt": "2026-10-20T18:16:04+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-moechte-virtuelle-stadtmodelle-weiter-ausbauen,digitalisierung-200.html",
+            "publishedAt": "2026-10-20T18:16:04+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.472,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "2c547f43cb15",
@@ -731,37 +968,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.812,
+        "score": 7.469,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
-        "id": "4e645ad5efba",
+        "id": "fd817a7ad480",
         "category": "news",
         "lang": "de",
-        "title": "Update Wirtschaft vom 20.10.2026",
-        "summary": "Update Wirtschaft vom 20.10.2026",
+        "title": "NDR 90,3 Kulturjournal vom 20.10.2026",
+        "summary": "Manche nennen sie SPERRIG. Manche nennen sie GAR NICHT – weil sie sie nicht kennen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669322.html",
-        "publishedAt": "2026-10-20T07:49:44+00:00",
+        "url": "https://www.ndr.de/903/ndr-903-kulturjournal-vom-20102026,audio-3548146.html",
+        "publishedAt": "2026-10-20T18:09:21+00:00",
         "subtopics": [
-          "Germany",
-          "Economy"
+          "Hamburg",
+          "Conflict"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669322.html",
-            "publishedAt": "2026-10-20T07:49:44+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/903/ndr-903-kulturjournal-vom-20102026,audio-3548146.html",
+            "publishedAt": "2026-10-20T18:09:21+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.8,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+        "isNew": true,
+        "score": 7.467,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "c8d154094a81",
@@ -812,7 +1049,7 @@
           }
         ],
         "isNew": false,
-        "score": 7.343,
+        "score": 7.058,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -848,7 +1085,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.094,
+        "score": 6.839,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -883,7 +1120,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.087,
+        "score": 6.833,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -918,7 +1155,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.067,
+        "score": 6.816,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -947,7 +1184,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.066,
+        "score": 6.815,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -976,37 +1213,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.967,
+        "score": 6.728,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
-      },
-      {
-        "id": "71736e92afd4",
-        "category": "news",
-        "lang": "de",
-        "title": "Basketball-Pokal: Towers unterliegen FC Bayern München",
-        "summary": "Es war eine deutliche Niederlage – mit 63:85 mussten sich die Hamburger in der ausverkauften Inselparkarena geschlagen geben.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/basketball-pokal-towers-unterliegen-fc-bayern-muenchen,hamj-15696.html",
-        "publishedAt": "2026-10-19T18:02:53+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/basketball-pokal-towers-unterliegen-fc-bayern-muenchen,hamj-15696.html",
-            "publishedAt": "2026-10-19T18:02:53+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.88,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
         "id": "31c692a432ef",
@@ -1034,7 +1242,42 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.863,
+        "score": 6.636,
+        "firstSeen": "2026-10-19T11:59:37.400943+00:00"
+      },
+      {
+        "id": "05d46773235d",
+        "category": "news",
+        "lang": "de",
+        "title": "Wann kommt der Gesetzentwurf für die Rentenreform?",
+        "summary": "Die Rentenreform soll kommen. Darüber sind sich in der schwarz-roten Koalition alle einig.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
+        "publishedAt": "2026-10-19T03:00:16+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
+            "publishedAt": "2026-10-19T03:00:16+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
+            "publishedAt": "2026-10-19T03:00:16+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.601,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1069,72 +1312,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.837,
+        "score": 6.491,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
-        "id": "05d46773235d",
+        "id": "e33652a2ebca",
         "category": "news",
         "lang": "de",
-        "title": "Wann kommt der Gesetzentwurf für die Rentenreform?",
-        "summary": "Die Rentenreform soll kommen. Darüber sind sich in der schwarz-roten Koalition alle einig.",
+        "title": "Halbmarathon 2026 in Hamburg: Viele Straßen am Sonntag gesperrt",
+        "summary": "Wegen des Halbmarathons in Hamburg kommt es am Sonntag zu einigen Sperrungen. Der Veranstalter empfiehlt, U- und S-Bahnen zu nutzen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
-        "publishedAt": "2026-10-19T03:00:16+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
+        "publishedAt": "2026-10-20T18:21:41+00:00",
         "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
-            "publishedAt": "2026-10-19T03:00:16+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html",
-            "publishedAt": "2026-10-19T03:00:16+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.823,
-        "firstSeen": "2026-10-19T11:59:37.400943+00:00"
-      },
-      {
-        "id": "7f0a2fcf0ab5",
-        "category": "news",
-        "lang": "de",
-        "title": "St. Paulis Suche nach dem Stadionlied: Auch Rihanna steht zur Wahl",
-        "summary": "Die Fans des Fußball-Zweitligisten können sich alle Vorschläge für die neue Stadionhymne nun anhören. Abgestimmt wird ab dem 30.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/sport/fussball/st-pauli-sucht-stadionlied-auch-rihanna-steht-zur-wahl,pauli-686.html",
-        "publishedAt": "2026-10-19T15:13:00+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Elections"
+          "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/sport/fussball/st-pauli-sucht-stadionlied-auch-rihanna-steht-zur-wahl,pauli-686.html",
-            "publishedAt": "2026-10-19T15:13:00+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
+            "publishedAt": "2026-10-20T18:21:41+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.786,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
+        "isNew": true,
+        "score": 6.476,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "d4ebb80c77c5",
@@ -1168,7 +1375,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.607,
+        "score": 6.412,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
       },
       {
@@ -1197,36 +1404,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.566,
+        "score": 6.376,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
-      },
-      {
-        "id": "fb5b26232581",
-        "category": "news",
-        "lang": "de",
-        "title": "Halbmarathon 2026 in Hamburg: Viele Straßen werden gesperrt",
-        "summary": "Wegen des Halbmarathons in Hamburg kommt es am Sonntag zu einigen Sperrungen. Der Veranstalter empfiehlt, U- und S-Bahnen zu nutzen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-werden-gesperrt,sperrungen-106.html",
-        "publishedAt": "2026-10-20T11:40:15+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-werden-gesperrt,sperrungen-106.html",
-            "publishedAt": "2026-10-20T11:40:15+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.564,
-        "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
         "id": "626777317f4a",
@@ -1289,8 +1468,37 @@
           }
         ],
         "isNew": false,
-        "score": 6.527,
+        "score": 6.243,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
+      },
+      {
+        "id": "5d9f245092f2",
+        "category": "news",
+        "lang": "de",
+        "title": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
+        "summary": "Ab 2027 wird in Arztpraxen ein festes Kontingent an Terminen festgelegt. Die Kassenärztliche Bundesvereinigung befürchtet noch längere Wartezeiten auf Termine - die Krankenkassen sehen darin Angstmacherei.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
+        "publishedAt": "2026-10-20T17:41:17+00:00",
+        "subtopics": [
+          "Germany",
+          "Healthcare"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
+            "publishedAt": "2026-10-20T17:41:17+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.147,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "73c7b350b543",
@@ -1324,7 +1532,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.075,
+        "score": 5.944,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -1353,8 +1561,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.985,
+        "score": 5.865,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
+      },
+      {
+        "id": "6ce0f085c049",
+        "category": "news",
+        "lang": "de",
+        "title": "Wasserstoffmesse in Hamburg: Von der Idee in die Praxis",
+        "summary": "Tausende Fachleute aus mehr als 100 Ländern treffen sich in den Messehallen. Der BUND protestiert gegen Wasserstoff aus Erdgas.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/wasserstoffmesse-in-hamburg-von-der-idee-in-die-praxis,kurzehh-4670.html",
+        "publishedAt": "2026-10-20T18:44:21+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/wasserstoffmesse-in-hamburg-von-der-idee-in-die-praxis,kurzehh-4670.html",
+            "publishedAt": "2026-10-20T18:44:21+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.792,
+        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
         "id": "554262a25fb7",
@@ -1382,122 +1619,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.877,
+        "score": 5.77,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
-      },
-      {
-        "id": "d1f3efccbf62",
-        "category": "news",
-        "lang": "de",
-        "title": "U3 in der Hamburger Innenstadt bis 29. Oktober gesperrt",
-        "summary": "Auf dem besonders beliebten Abschnitt zwischen St. Pauli und Rathaus wird zehn Tage lang gearbeitet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
-        "publishedAt": "2026-10-19T16:41:08+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
-            "publishedAt": "2026-10-19T16:41:08+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.835,
-        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
-      },
-      {
-        "id": "a078c8739e2a",
-        "category": "news",
-        "lang": "de",
-        "title": "U3-Sperrung zwischen Rathaus und St. Pauli beginnt",
-        "summary": "Um den gesperrten Abschnitt zu überbrücken, können Fahrgäste auf die Metrobus-Linien 17 umsteigen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal_1800/beginn-sperrung-zwischen-rathaus-und-st-pauli,hamj-15676.html",
-        "publishedAt": "2026-10-19T16:34:59+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal_1800/beginn-sperrung-zwischen-rathaus-und-st-pauli,hamj-15676.html",
-            "publishedAt": "2026-10-19T16:34:59+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.831,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
-      },
-      {
-        "id": "2a9a69a6738d",
-        "category": "news",
-        "lang": "de",
-        "title": "Wirtschaft vor acht vom 16102026",
-        "summary": "Wirtschaft vor acht vom 16102026",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1667576.html",
-        "publishedAt": "2026-10-16T18:20:58+00:00",
-        "subtopics": [
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1667576.html",
-            "publishedAt": "2026-10-16T18:20:58+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.785,
-        "firstSeen": "2026-10-16T20:27:30.951362+00:00"
-      },
-      {
-        "id": "ea05b5081c32",
-        "category": "news",
-        "lang": "de",
-        "title": "Hand in Hand für Norddeutschland: Deine Spende und Hilfe zählt!",
-        "summary": "Ob Chor, Feuerwehr, Schulklasse oder Freundinnen: Wir brauchen eure Hilfe - zugunsten der mentalen Gesundheit junger Menschen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/hand_in_hand_fuer_norddeutschland/hand-in-hand-fuer-norddeutschland-deine-spendenaktion-zaehlt,hih-deinespendenaktion-100.html",
-        "publishedAt": "2026-10-20T09:43:35+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/hand_in_hand_fuer_norddeutschland/hand-in-hand-fuer-norddeutschland-deine-spendenaktion-zaehlt,hih-deinespendenaktion-100.html",
-            "publishedAt": "2026-10-20T09:43:35+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.78,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       },
       {
         "id": "c7039bf21094",
@@ -1526,37 +1649,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.768,
+        "score": 5.674,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
-      },
-      {
-        "id": "6ce0f085c049",
-        "category": "news",
-        "lang": "de",
-        "title": "Wasserstoffmesse in Hamburg: Von der Idee in die Praxis",
-        "summary": "Tausende Fachleute aus mehr als 100 Ländern treffen sich in den Messehallen. Der BUND protestiert gegen Wasserstoff aus Erdgas.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/wasserstoffmesse-in-hamburg-von-der-idee-in-die-praxis,kurzehh-4670.html",
-        "publishedAt": "2026-10-20T08:58:19+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/wasserstoffmesse-in-hamburg-von-der-idee-in-die-praxis,kurzehh-4670.html",
-            "publishedAt": "2026-10-20T08:58:19+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.748,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
         "id": "ea77445d773f",
@@ -1585,7 +1679,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.721,
+        "score": 5.633,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1620,7 +1714,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.717,
+        "score": 5.63,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1655,8 +1749,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.708,
+        "score": 5.622,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
+      },
+      {
+        "id": "d1f3efccbf62",
+        "category": "news",
+        "lang": "de",
+        "title": "U3 in der Hamburger Innenstadt bis 29. Oktober gesperrt",
+        "summary": "Auf dem besonders beliebten Abschnitt zwischen St. Pauli und Rathaus wird zehn Tage lang gearbeitet.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
+        "publishedAt": "2026-10-19T16:41:08+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
+            "publishedAt": "2026-10-19T16:41:08+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.563,
+        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
       },
       {
         "id": "c42499fb9ca4",
@@ -1678,40 +1800,34 @@
             "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
             "publishedAt": "2026-10-15T11:03:31+00:00",
             "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
-            "publishedAt": "2026-10-15T11:03:31+00:00",
-            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.493,
+        "score": 5.433,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00"
       },
       {
-        "id": "7036f2caa2e1",
+        "id": "ea05b5081c32",
         "category": "news",
         "lang": "de",
-        "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
-        "summary": "Ob Samsung, Apple oder Nvidia: Alle großen Chiphersteller sind Kunden bei ASML. Dessen Maschinen zur Produktion von Halbleitern machen den KI-Boom erst möglich - und die Aktie zur wertvollsten in Europa.",
+        "title": "Hand in Hand für Norddeutschland: Deine Spende und Hilfe zählt!",
+        "summary": "Ob Chor, Feuerwehr, Schulklasse oder Freundinnen: Wir brauchen eure Hilfe - zugunsten der mentalen Gesundheit junger Menschen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
-        "publishedAt": "2026-10-14T13:14:36+00:00",
+        "url": "https://www.ndr.de/hand_in_hand_fuer_norddeutschland/hand-in-hand-fuer-norddeutschland-deine-spendenaktion-zaehlt,hih-deinespendenaktion-100.html",
+        "publishedAt": "2026-10-20T09:43:35+00:00",
         "subtopics": [
-          "Germany",
-          "Business"
+          "Hamburg",
+          "Healthcare"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
-            "publishedAt": "2026-10-14T13:14:36+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/hand_in_hand_fuer_norddeutschland/hand-in-hand-fuer-norddeutschland-deine-spendenaktion-zaehlt,hih-deinespendenaktion-100.html",
+            "publishedAt": "2026-10-20T09:43:35+00:00",
             "tier": 1
           }
         ],
@@ -1719,8 +1835,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.356,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
+        "score": 5.429,
+        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
       }
     ],
     "medical": [
@@ -1750,7 +1866,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.203,
+        "score": 11.097,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1782,7 +1898,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.926,
+        "score": 9.874,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1812,7 +1928,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.452,
+        "score": 9.377,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1844,7 +1960,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.173,
+        "score": 9.153,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1875,7 +1991,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.926,
+        "score": 8.874,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1913,7 +2029,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.52,
+        "score": 8.401,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1943,7 +2059,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.203,
+        "score": 7.097,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1975,7 +2091,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.08,
+        "score": 7.022,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2006,7 +2122,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.926,
+        "score": 6.874,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2037,7 +2153,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.926,
+        "score": 6.874,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2068,7 +2184,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.376,
+        "score": 6.347,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2098,8 +2214,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.376,
+        "isNew": false,
+        "score": 6.347,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2130,9 +2246,40 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.173,
+        "score": 6.153,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "046bed99a885",
+        "category": "medical",
+        "lang": "en",
+        "title": "Medtech execs share secrets to building resilient supply chains",
+        "summary": "At AdvaMed’s The MedTech Conference, company executives said they’re bracing for disruption by investing in inventory, scenario planning and their relationships with chip suppliers.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833421/",
+        "publishedAt": "2026-10-20T12:40:00+00:00",
+        "subtopics": [
+          "Industry",
+          "Conference"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/medtech-execs-share-secrets-to-building-resilient-supply-chains/833421/",
+            "publishedAt": "2026-10-20T12:40:00+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.176,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
@@ -2161,70 +2308,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.023,
+        "score": 4.946,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "7bb23115bac8",
-        "category": "medical",
-        "lang": "en",
-        "title": "Zimmer and Think Surgical pen multi-year extension to robotic surgery deal",
-        "summary": "Zimmer distributes an exclusive version of Think’s wireless handheld miniature robotic system that works with its Persona knee system.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/zimmer-and-think-surgical-pen-multi-year-extension-to-robotic-surgery-deal/833074/",
-        "publishedAt": "2026-10-15T15:00:00+00:00",
-        "subtopics": [
-          "Surgical products",
-          "Surgical robotics"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/zimmer-and-think-surgical-pen-multi-year-extension-to-robotic-surgery-deal/833074/",
-            "publishedAt": "2026-10-15T15:00:00+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.175,
-        "firstSeen": "2026-10-15T20:53:35.502089+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "fa207075c75d",
-        "category": "medical",
-        "lang": "en",
-        "title": "Siemens Healthineers to stop selling general ultrasound systems",
-        "summary": "In a strategy shift, the company will invest in its procedural ultrasound business, supporting cardiovascular surgeries",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/siemens-healthineers-to-stop-selling-general-ultrasound-systems/832976/",
-        "publishedAt": "2026-10-14T14:53:19+00:00",
-        "subtopics": [
-          "Cardiovascular",
-          "Diagnostics & imaging"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/siemens-healthineers-to-stop-selling-general-ultrasound-systems/832976/",
-            "publishedAt": "2026-10-14T14:53:19+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.986,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -2254,7 +2339,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.974,
+        "score": 3.86,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2284,8 +2369,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.818,
+        "score": 3.707,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
+        "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "7cf2dbef0d26",
+        "category": "medical",
+        "lang": "en",
+        "title": "Cybersecurity in focus for top medtech lobby",
+        "summary": "ResMed CEO Mick Farrell, chair of AdvaMed’s board, said the group plans to come up with standards around privacy, cybersecurity and interoperability.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/",
+        "publishedAt": "2026-10-20T12:48:00+00:00",
+        "subtopics": [
+          "Industry"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/",
+            "publishedAt": "2026-10-20T12:48:00+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.178,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -2314,13 +2429,42 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.068,
+        "score": 2.989,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "9ef26bf1ec36",
+        "category": "growth",
+        "lang": "en",
+        "title": "Astrolab’s upcoming rover will run the first LLMs on the moon",
+        "summary": "Large language models are set to go lunar. A computer capable of running AI software is one of the payloads aboard Astrolab’s FLIP lunar rover, which is slated to head to Earth’s celestial companion as early as November 2026.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+        "publishedAt": "2026-10-20T20:07:21+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+            "publishedAt": "2026-10-20T20:07:21+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.752,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00",
+        "kind": "article"
+      },
       {
         "id": "663ec7a5771e",
         "category": "growth",
@@ -2347,7 +2491,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.845,
+        "score": 5.572,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2357,6 +2501,126 @@
           "watchUrl": "https://www.youtube.com/watch?v=gDQB1rGT4pg",
           "channel": "TED"
         }
+      },
+      {
+        "id": "c6c2448352b8",
+        "category": "growth",
+        "lang": "en",
+        "title": "The new economics of enterprise AI",
+        "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+        "publishedAt": "2026-10-20T15:20:25+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+            "publishedAt": "2026-10-20T15:20:25+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.549,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "4dc8a56e0373",
+        "category": "growth",
+        "lang": "en",
+        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+        "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play .",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+        "publishedAt": "2026-10-20T19:34:19+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems",
+          "Business case studies"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+            "publishedAt": "2026-10-20T19:34:19+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.428,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "c0c44e531e03",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+        "publishedAt": "2026-10-20T12:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+            "publishedAt": "2026-10-20T12:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.423,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "678424bafb05",
+        "category": "growth",
+        "lang": "en",
+        "title": "AI adoption by industry shows what other sectors can learn",
+        "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+        "publishedAt": "2026-10-20T12:00:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Leadership"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+            "publishedAt": "2026-10-20T12:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.416,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00",
+        "kind": "article"
       },
       {
         "id": "0e27f9a18573",
@@ -2383,7 +2647,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.649,
+        "score": 5.302,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
@@ -2412,7 +2676,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.092,
+        "score": 4.813,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "article"
       },
@@ -2442,7 +2706,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.071,
+        "score": 4.794,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "article"
       },
@@ -2472,7 +2736,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.991,
+        "score": 4.687,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
@@ -2501,74 +2765,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.889,
+        "score": 4.635,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "kind": "article"
-      },
-      {
-        "id": "048da226d17e",
-        "category": "growth",
-        "lang": "en",
-        "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-        "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-        "publishedAt": "2026-10-19T09:08:05+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-            "publishedAt": "2026-10-19T09:08:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.797,
-        "firstSeen": "2026-10-19T11:59:37.400943+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "50cd55038c81",
-        "category": "growth",
-        "lang": "en",
-        "title": "AI Safety Fact vs. Fiction | YC Paper Club",
-        "summary": "This week’s Paper Club is all about AI safety - not the headlines, the science. AI safety has been a research field for decades, with its own conferences, methods, and a track record in systems like aircraft collision avoidance, where the standard is one…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
-        "publishedAt": "2026-10-17T14:00:30+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
-            "publishedAt": "2026-10-17T14:00:30+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.351,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "kind": "video",
-        "video": {
-          "id": "X7oI4Umt3DU",
-          "thumbUrl": "https://i1.ytimg.com/vi/X7oI4Umt3DU/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "5273282abdb2",
@@ -2597,7 +2796,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.347,
+        "score": 4.256,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "video",
         "video": {
@@ -2606,6 +2805,42 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=ny26teC-4bU",
           "channel": "TED"
+        }
+      },
+      {
+        "id": "50cd55038c81",
+        "category": "growth",
+        "lang": "en",
+        "title": "AI Safety Fact vs. Fiction | YC Paper Club",
+        "summary": "This week’s Paper Club is all about AI safety - not the headlines, the science. AI safety has been a research field for decades, with its own conferences, methods, and a track record in systems like aircraft collision avoidance, where the standard is one…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
+        "publishedAt": "2026-10-17T14:00:30+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
+            "publishedAt": "2026-10-17T14:00:30+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.223,
+        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
+        "kind": "video",
+        "video": {
+          "id": "X7oI4Umt3DU",
+          "thumbUrl": "https://i1.ytimg.com/vi/X7oI4Umt3DU/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
+          "channel": "Y Combinator"
         }
       },
       {
@@ -2633,7 +2868,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.236,
+        "score": 4.025,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -2662,7 +2897,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.225,
+        "score": 4.015,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -2692,7 +2927,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.878,
+        "score": 3.869,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2729,7 +2964,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.83,
+        "score": 3.822,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2766,7 +3001,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.743,
+        "score": 3.736,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2802,7 +3037,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.705,
+        "score": 3.698,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -2811,108 +3046,6 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=CKAyfGItpgg",
           "channel": "TED"
-        }
-      },
-      {
-        "id": "c99752bef145",
-        "category": "growth",
-        "lang": "en",
-        "title": "Why You Need the Growth Mindset of a Weed | Stephen Nobles | TED",
-        "summary": "Educator Stephen Nobles believes curiosity is the key to unlocking a student's potential. In conversation with TED's Whitney Pennington Rodgers, he encourages teachers to see every student through a lens of possibility — and asks what each of us might be…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=8WWrNbHvd44",
-        "publishedAt": "2026-10-08T15:00:17+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=8WWrNbHvd44",
-            "publishedAt": "2026-10-08T15:00:17+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.647,
-        "firstSeen": "2026-10-08T22:48:59.202436+00:00",
-        "kind": "video",
-        "video": {
-          "id": "8WWrNbHvd44",
-          "thumbUrl": "https://i1.ytimg.com/vi/8WWrNbHvd44/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=8WWrNbHvd44",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "61baa7c2d369",
-        "category": "growth",
-        "lang": "en",
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-        "publishedAt": "2026-10-16T18:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-            "publishedAt": "2026-10-16T18:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.581,
-        "firstSeen": "2026-10-16T20:27:30.951362+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "288f44e1f0e5",
-        "category": "growth",
-        "lang": "en",
-        "title": "What surprised PG about AI",
-        "summary": "",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/cp7mBZJkaCs",
-        "publishedAt": "2026-10-13T17:55:08+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/cp7mBZJkaCs",
-            "publishedAt": "2026-10-13T17:55:08+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.567,
-        "firstSeen": "2026-10-13T23:10:38.643116+00:00",
-        "kind": "video",
-        "video": {
-          "id": "cp7mBZJkaCs",
-          "thumbUrl": "https://i4.ytimg.com/vi/cp7mBZJkaCs/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=cp7mBZJkaCs",
-          "channel": "Y Combinator"
         }
       },
       {
@@ -2963,7 +3096,7 @@
           }
         ],
         "isNew": false,
-        "score": 3.54,
+        "score": 3.413,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
@@ -2993,7 +3126,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.33,
+        "score": 3.229,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -3022,37 +3155,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.096,
+        "score": 3.087,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "71716330a86a",
-        "category": "growth",
-        "lang": "en",
-        "title": "How far can we push computing?",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-        "publishedAt": "2026-10-19T09:00:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-            "publishedAt": "2026-10-19T09:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.072,
-        "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
       {
@@ -3081,8 +3185,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.061,
+        "score": 2.993,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "126aa063fc33",
+        "category": "growth",
+        "lang": "en",
+        "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+        "publishedAt": "2026-10-15T10:09:45+00:00",
+        "subtopics": [
+          "Productivity & systems",
+          "Communication",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+            "publishedAt": "2026-10-15T10:09:45+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+            "publishedAt": "2026-10-06T22:08:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.973,
+        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
       {
@@ -3111,7 +3252,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.007,
+        "score": 2.946,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -3142,7 +3283,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.931,
+        "score": 2.879,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -3171,7 +3312,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.902,
+        "score": 2.853,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
         "kind": "article"
       },
@@ -3200,7 +3341,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.873,
+        "score": 2.828,
         "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
@@ -3231,7 +3372,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.797,
+        "score": 2.788,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
@@ -3260,7 +3401,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.788,
+        "score": 2.753,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "article"
       },
@@ -3290,37 +3431,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.786,
+        "score": 2.751,
         "firstSeen": "2026-10-14T11:06:05.228643+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "858ce7e14d91",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Geoffrey Huntley",
-        "summary": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-        "publishedAt": "2026-10-13T13:32:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-            "publishedAt": "2026-10-13T13:32:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.75,
-        "firstSeen": "2026-10-13T14:44:34.259264+00:00",
         "kind": "article"
       },
       {
@@ -3349,7 +3461,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.571,
+        "score": 2.564,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3380,7 +3492,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.543,
+        "score": 2.537,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3411,7 +3523,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.51,
+        "score": 2.503,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3440,7 +3552,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.429,
+        "score": 2.424,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       }
@@ -3480,7 +3592,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 25,
+      "items": 29,
       "error": null
     },
     {
@@ -3581,9 +3693,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3623,9 +3735,9 @@
     }
   ],
   "filteredOut": {
-    "football": 60,
-    "news": 62,
+    "football": 56,
+    "news": 63,
     "medical": 10,
-    "growth": 47
+    "growth": 49
   }
 }
