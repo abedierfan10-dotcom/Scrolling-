@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:00:16.802310+00:00",
+  "generatedAt": "2026-10-21T11:05:18.081351+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -9,25 +9,30 @@
   "tabs": {
     "football": [
       {
-        "id": "1befb043d61c",
+        "id": "d7a08958c870",
         "category": "football",
         "lang": "en",
-        "title": "Doué and Vitinha burn bright as brittle Barcelona come unstuck against PSG",
-        "summary": "Fire, noise, fury, a sense of empty energy. And across town, a football match too.",
+        "title": "PSG's Kvaratskhelia set for surgery after ACL rupture in win over Barca",
+        "summary": "Paris Saint-Germain winger Kvicha Kvaratskhelia is set to have surgery after rupturing his anterior cruciate ligament (ACL), the French club have confirmed.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/20/paris-saint-germain-psg-barcelona-champions-league-match-report",
-        "publishedAt": "2026-10-20T21:08:45+00:00",
+        "url": "https://www.skysports.com/football/news/11095/13601843/khvicha-kvaratskhelia-psg-forward-set-for-surgery-after-rupturing-acl-in-champions-league-win-over-barcelona",
+        "publishedAt": "2026-10-21T10:55:00+00:00",
         "subtopics": [
           "Barcelona",
-          "Champions League",
-          "Upcoming"
+          "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/20/paris-saint-germain-psg-barcelona-champions-league-match-report",
-            "publishedAt": "2026-10-20T21:08:45+00:00",
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13601843/khvicha-kvaratskhelia-psg-forward-set-for-surgery-after-rupturing-acl-in-champions-league-win-over-barcelona",
+            "publishedAt": "2026-10-21T10:55:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-21T09:49:23+00:00",
             "tier": 2
           }
         ],
@@ -35,8 +40,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 15.412,
-        "firstSeen": "2026-10-20T22:00:16.802310+00:00"
+        "score": 14.782,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
+      },
+      {
+        "id": "a647cddb800a",
+        "category": "football",
+        "lang": "en",
+        "title": "Khvicha Kvaratskhelia sustains ACL rupture in most serious of three PSG injuries",
+        "summary": "Kvaratskhelia to undergo surgery on right knee Dembélé and Marquinhos out for weeks Paris St Germain’s Khvicha Kvaratskhelia ⁠will undergo surgery after rupturing the anterior cruciate ⁠ligament in ⁠his ​right knee in the Champions League win over ⁠Barcelona…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos",
+        "publishedAt": "2026-10-21T09:42:09+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/21/khvicha-kvaratskhelia-acl-injury-psg-ousmane-dembele-marquinhos",
+            "publishedAt": "2026-10-21T09:42:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 13.859,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
         "id": "4b515b72b46d",
@@ -64,9 +99,66 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 14.0,
+        "isNew": false,
+        "score": 12.904,
         "firstSeen": "2026-10-20T22:00:16.802310+00:00"
+      },
+      {
+        "id": "e1098a4af2c1",
+        "category": "football",
+        "lang": "en",
+        "title": "PSG duo Dembele and Marquinhos facing 'weeks' out after injuries vs Barca",
+        "summary": "",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+        "publishedAt": "2026-10-21T11:00:00+00:00",
+        "subtopics": [
+          "Barcelona"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+            "publishedAt": "2026-10-21T11:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 12.491,
+        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
+      },
+      {
+        "id": "079f3060f755",
+        "category": "football",
+        "lang": "en",
+        "title": "Does anyone feature on more than two clubs' all-time top-10 scoring charts? | The Knowledge",
+        "summary": "Plus: the longest kit supply partnerships, more own goals (part II) and consecutive goalless draws Mail us with all of your questions and answers “Harry Kane is now Bayern’s seventh-highest scorer of all time, as well as being Tottenham’s highest scorer. The…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/21/anyone-more-than-two-clubs-all-time-top-10-goal-scoring-charts-the-knowledge",
+        "publishedAt": "2026-10-21T07:00:04+00:00",
+        "subtopics": [
+          "Barcelona",
+          "La Liga"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/21/anyone-more-than-two-clubs-all-time-top-10-goal-scoring-charts-the-knowledge",
+            "publishedAt": "2026-10-21T07:00:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 12.103,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
         "id": "2b9dfa33772c",
@@ -95,7 +187,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.115,
+        "score": 11.708,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -125,36 +217,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.56,
+        "score": 11.355,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
-      },
-      {
-        "id": "8446af448792",
-        "category": "football",
-        "lang": "en",
-        "title": "Araujo the stopgap solution fixing Liverpool's problems",
-        "summary": "Ronald Araujo has impressed since arriving at Liverpool from Barcelona. Could he prove a longer-term solution?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-19T16:29:34+00:00",
-        "subtopics": [
-          "Barcelona"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/ck8dz7pp4089o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-19T16:29:34+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 10.577,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
         "id": "de105683fd4b",
@@ -183,21 +247,22 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.42,
+        "score": 8.354,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "9df55a183faa",
         "category": "football",
         "lang": "en",
-        "title": "Hat-trick hero Foden stars as Man City thrash AEK Athens",
-        "summary": "Enzo Maresca has called for Manchester City to make their own noise on the pitch to drown out the cacophony surrounding them but maybe a quiet night at the Etihad Stadium was what they needed all along. AEK Athens were easily dispatched in a businesslike…",
+        "title": "Hat-trick hero Foden shines as Man City thrash AEK Athens",
+        "summary": "Phil Foden shouted the loudest on a quiet night at the Etihad Stadium, announcing his personal return to form with an instinctive hat-trick as Manchester City dispatched AEK Athens with little fuss. Enzo Maresca had called for City to make their own noise…",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.skysports.com/football/manchester-city-vs-aek-athens/report/577636",
         "publishedAt": "2026-10-20T22:00:00+00:00",
         "subtopics": [
           "Champions League",
+          "Premier League",
           "Results"
         ],
         "sources": [
@@ -218,19 +283,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.8,
+        "score": 7.704,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "711af89a37bc",
         "category": "football",
         "lang": "en",
-        "title": "Ngumoha stars as Liverpool come back to win thriller against Villarreal",
+        "title": "'He's difficult to stop' - Ngumoha stars in Liverpool comeback win",
         "summary": "Liverpool came from two goals down to defeat Villarreal 4-3 at Anfield and make it three wins from three in this season’s Champions League.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
-        "publishedAt": "2026-10-20T22:00:00+00:00",
+        "publishedAt": "2026-10-21T07:14:00+00:00",
         "subtopics": [
           "La Liga",
           "Champions League",
@@ -240,7 +305,7 @@
           {
             "name": "Sky Sports",
             "url": "https://www.skysports.com/football/liverpool-vs-villarreal/report/577635",
-            "publishedAt": "2026-10-20T22:00:00+00:00",
+            "publishedAt": "2026-10-21T07:14:00+00:00",
             "tier": 2
           }
         ],
@@ -248,15 +313,102 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.0,
+        "score": 7.624,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+      },
+      {
+        "id": "d54eeaaa4d01",
+        "category": "football",
+        "lang": "en",
+        "title": "The night 'ruthless' Ngumoha came of age for Liverpool",
+        "summary": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-20T22:56:55+00:00",
+        "subtopics": [
+          "La Liga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-20T22:56:55+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.968,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
+      },
+      {
+        "id": "14b375f416d6",
+        "category": "football",
+        "lang": "en",
+        "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+        "summary": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-20T22:35:32+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-20T22:35:32+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.944,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
+      },
+      {
+        "id": "f28246c96d8d",
+        "category": "football",
+        "lang": "en",
+        "title": "Champions League roundup: McTominay double leads Napoli past Bodø/Glimt",
+        "summary": "Midfielder scores for first time since heart surgery Ten-man Atlético hang on for draw against Stuttgart Scott McTominay scored his first two goals of the season to help Napoli beat Bodø/Glimt 4-3 and relieve pressure on the coach, Massimiliano Allegri.…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery",
+        "publishedAt": "2026-10-20T21:55:04+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/20/champions-league-roundup-mctominay-scores-twice-on-return-from-heart-surgery",
+            "publishedAt": "2026-10-20T21:55:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.899,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
         "id": "e2c478e79c37",
         "category": "football",
         "lang": "en",
         "title": "Mac Allister double sparks Liverpool’s thrilling comeback win over Villarreal",
-        "summary": "Andoni Iraola and Iñigo Pérez parked their long and close friendship in the buildup to the Champions League duel between two old Athletic Bilbao teammates. They will have a humdinger of a contest to dissect when communications are restored.",
+        "summary": "Andoni Iraola and Iñigo Pérez parked a long and close friendship in the buildup to their first competitive confrontation as coaches. The old Athletic Bilbao teammates will have a humdinger of a Champions League contest to dissect once communications are…",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.theguardian.com/football/2026/oct/20/liverpool-villarreal-champions-league-match-report",
@@ -277,39 +429,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.904,
-        "firstSeen": "2026-10-20T22:00:16.802310+00:00"
-      },
-      {
-        "id": "6f00c4272b52",
-        "category": "football",
-        "lang": "en",
-        "title": "Arsenal’s David Raya hits back at ‘boring’ label as Arteta defends side’s style of play",
-        "summary": "Goalkeeper brushes off criticism before Bayern clash Kompany could miss game with virus affecting his legs David Raya says he does not care if rival supporters call Arsenal “boring” as his manager, Mikel Arteta, insisted that critics of the team’s style were…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
-        "publishedAt": "2026-10-20T20:00:37+00:00",
-        "subtopics": [
-          "Champions League",
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/20/bayern-munich-arsenal-champions-league",
-            "publishedAt": "2026-10-20T20:00:37+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.799,
-        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+        "score": 6.844,
+        "firstSeen": "2026-10-20T22:00:16.802310+00:00"
       },
       {
         "id": "7a22839f2786",
@@ -337,106 +459,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.373,
+        "score": 6.507,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
-        "id": "02da0ad323d0",
+        "id": "e37f1a5dc3ce",
         "category": "football",
         "lang": "en",
-        "title": "Konsa bullish about Arsenal’s Champions League hopes as Bayern clash looms",
-        "summary": "Centre-back has settled right in at Arsenal and is looking ‘to win everything’, starting with Wednesday’s duel against Harry Kane For Ezri Konsa, it was just a wonderfully satisfying challenge. The Nottingham Forest striker Liam Delap had stolen in behind…",
+        "title": "Mikel Arteta has mastered the art of making substitutions at Arsenal",
+        "summary": "Arsenal have beaten Nottingham Forest, Sunderland and Leeds this season thanks to goals from players off the bench By Opta Analyst They say that once is an accident, twice is a coincidence and three times is a pattern. After Mikel Arteta’s substitutes proved…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/19/ezri-konsa-arsenal-champions-league-bayern-munich",
-        "publishedAt": "2026-10-19T14:00:59+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/19/ezri-konsa-arsenal-champions-league-bayern-munich",
-            "publishedAt": "2026-10-19T14:00:59+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.988,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
-      },
-      {
-        "id": "b9a0d5b9ad28",
-        "category": "football",
-        "lang": "en",
-        "title": "'He still has magic in his boots' - Maddison shows Spurs what they were missing",
-        "summary": "James Maddison says he has \"so much more to give\" Tottenham after he marked his first start in nearly 18 months with a stunning goal that helped Spurs to their first Premier League win of the season.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13601183/james-maddison-marks-first-tottenham-start-in-nearly-18-months-with-stunning-goal-in-first-premier-league-win-of-season",
-        "publishedAt": "2026-10-20T06:01:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13601183/james-maddison-marks-first-tottenham-start-in-nearly-18-months-with-stunning-goal-in-first-premier-league-win-of-season",
-            "publishedAt": "2026-10-20T06:01:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.222,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
-      },
-      {
-        "id": "ae043264a305",
-        "category": "football",
-        "lang": "en",
-        "title": "David Squires on … Manchester City sailing into unknown Premier League waters",
-        "summary": "Our cartoonist on a perfect start for Enzo Maresca’s league leaders. What could possibly go wrong?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
-        "publishedAt": "2026-10-20T10:04:53+00:00",
-        "subtopics": [
-          "Premier League",
-          "Tables"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
-            "publishedAt": "2026-10-20T10:04:53+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.983,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
-      },
-      {
-        "id": "924143f84c51",
-        "category": "football",
-        "lang": "en",
-        "title": "‘Like a family’: De Zerbi credits players’ talk and bonding trip for improving Tottenham",
-        "summary": "Spurs off bottom after first win against Coventry Lampard unhappy Marmoush goal stood Roberto De Zerbi said that Tottenham are playing with more togetherness after holding a clear-the-air meeting before their recent game with Manchester United. Spurs went on…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/19/players-meeting-and-bonding-trip-have-boosted-tottenham-says-de-zerbi",
-        "publishedAt": "2026-10-19T22:14:44+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/21/mikel-arteta-art-making-substitutions-arsenal-nottingham-forest-sunderland-leeds",
+        "publishedAt": "2026-10-21T07:00:03+00:00",
         "subtopics": [
           "Premier League",
           "Results"
@@ -444,46 +479,17 @@
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/19/players-meeting-and-bonding-trip-have-boosted-tottenham-says-de-zerbi",
-            "publishedAt": "2026-10-19T22:14:44+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/21/mikel-arteta-art-making-substitutions-arsenal-nottingham-forest-sunderland-leeds",
+            "publishedAt": "2026-10-21T07:00:03+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 4.815,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
-      },
-      {
-        "id": "adf8f4ec3bd3",
-        "category": "football",
-        "lang": "en",
-        "title": "Maddison and Marmoush score as Spurs get their first PL win of season",
-        "summary": "FREE TO WATCH: Highlights from Tottenham Hotspurs' match against Coventry in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13601159/spurs-3-1-coventry-premier-league-highlights",
-        "publishedAt": "2026-10-19T22:14:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13601159/spurs-3-1-coventry-premier-league-highlights",
-            "publishedAt": "2026-10-19T22:14:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.814,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+        "isNew": true,
+        "score": 6.103,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
         "id": "bd2ad2cd1d66",
@@ -511,7 +517,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.803,
+        "score": 4.327,
         "firstSeen": "2026-10-19T22:44:58.726073+00:00"
       },
       {
@@ -540,7 +546,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.79,
+        "score": 4.319,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -569,86 +575,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.783,
+        "score": 4.315,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
-        "id": "05449648a05d",
+        "id": "ae043264a305",
         "category": "football",
         "lang": "en",
-        "title": "Guehi among players not to take knee - is it time to 'move campaign along'?",
-        "summary": "Premier League clubs took the knee for the first time this season, but six players chose to remain standing.",
+        "title": "David Squires on … Manchester City sailing into unknown Premier League waters",
+        "summary": "Our cartoonist on a perfect start for Enzo Maresca’s league leaders. What could possibly go wrong?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrndz49v7o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-19T16:41:54+00:00",
+        "url": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
+        "publishedAt": "2026-10-20T10:04:53+00:00",
         "subtopics": [
           "Premier League",
           "Tables"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cxyvrndz49v7o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-19T16:41:54+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.084,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
-      },
-      {
-        "id": "1e3214932a70",
-        "category": "football",
-        "lang": "en",
-        "title": "Arsenal substitutes change game - Arteta",
-        "summary": "Arsenal manager Mikel Arteta says their substitutes changed the game as they beat Nottingham Forest 1-0 in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cqwyrkyyglzjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-18T18:31:09+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cqwyrkyyglzjo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-18T18:31:09+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.002,
-        "firstSeen": "2026-10-18T20:01:27.604703+00:00"
-      },
-      {
-        "id": "17a75b6577be",
-        "category": "football",
-        "lang": "en",
-        "title": "Wigan pine for FA Cup glory as not even victory can lift them off foot of League One",
-        "summary": "Gary Caldwell, club captain in 2013 and now manager, needs much more than the weekend win against Reading to disperse the clouds If the 2013 FA Cup final represented a blip for the Sheikh Mansour-era Manchester City in their quest for total domination of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/18/wigan-pine-for-fa-cup-glory-as-not-even-victory-can-lift-them-off-foot-of-league-one",
-        "publishedAt": "2026-10-18T07:00:54+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/18/wigan-pine-for-fa-cup-glory-as-not-even-victory-can-lift-them-off-foot-of-league-one",
-            "publishedAt": "2026-10-18T07:00:54+00:00",
+            "url": "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters",
+            "publishedAt": "2026-10-20T10:04:53+00:00",
             "tier": 2
           }
         ],
@@ -656,8 +604,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.837,
-        "firstSeen": "2026-10-18T10:19:08.546881+00:00"
+        "score": 4.259,
+        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
         "id": "c7f80aefddfc",
@@ -685,21 +633,91 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.574,
+        "score": 3.182,
         "firstSeen": "2026-10-19T22:44:58.726073+00:00"
       }
     ],
     "news": [
       {
-        "id": "4e645ad5efba",
+        "id": "a8c57df1f2dc",
         "category": "news",
         "lang": "de",
-        "title": "Wirtschaft vor acht vom 20.10.2026",
+        "title": "Marktbericht: DAX startet kaum verändert",
+        "summary": "Der DAX ist verhalten in den Handel gestartet. Während KI-Werte sich dank SpaceX erholen, bleiben Investoren mit Blick auf weitere Tech-Bilanzen, die Unruhen in Frankreich und die Ölpreise vorsichtig.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
+        "publishedAt": "2026-10-21T08:52:33+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
+            "publishedAt": "2026-10-21T08:52:33+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html",
+            "publishedAt": "2026-10-21T08:52:33+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.903,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
+      },
+      {
+        "id": "c78dca8fce5b",
+        "category": "news",
+        "lang": "de",
+        "title": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
+        "summary": "Netflix war jahrelang der unumstrittene Marktführer beim Streaming. Doch der Konzern kämpft gegen immer stärkere Konkurrenz.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html",
+        "publishedAt": "2026-10-21T08:20:43+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html",
+            "publishedAt": "2026-10-21T08:20:43+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html",
+            "publishedAt": "2026-10-21T08:20:43+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.88,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
+      },
+      {
+        "id": "44ba5bfcb7f9",
+        "category": "news",
+        "lang": "de",
+        "title": "Update Wirtschaft vom 21.10.2026",
         "summary": "Wirtschaft vor acht vom 20.10.2026",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1669678.html",
-        "publishedAt": "2026-10-20T17:56:23+00:00",
+        "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669908.html",
+        "publishedAt": "2026-10-21T08:05:45+00:00",
         "subtopics": [
           "Germany",
           "Economy"
@@ -707,23 +725,129 @@
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1669678.html",
-            "publishedAt": "2026-10-20T17:56:23+00:00",
+            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669908.html",
+            "publishedAt": "2026-10-21T08:05:45+00:00",
             "tier": 1
           },
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1669322.html",
-            "publishedAt": "2026-10-20T07:49:44+00:00",
+            "url": "https://www.tagesschau.de/video/video-1669678.html",
+            "publishedAt": "2026-10-20T17:56:23+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.824,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+        "isNew": true,
+        "score": 7.869,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
+      },
+      {
+        "id": "3cc2c996e152",
+        "category": "news",
+        "lang": "de",
+        "title": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
+        "summary": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - der Start verursacht einen Großteil der Emissionen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
+        "publishedAt": "2026-10-21T07:25:52+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
+            "publishedAt": "2026-10-21T07:25:52+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
+            "publishedAt": "2026-10-21T07:25:52+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html",
+            "publishedAt": "2026-10-21T07:25:52+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.841,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
+      },
+      {
+        "id": "feeade819bc7",
+        "category": "news",
+        "lang": "de",
+        "title": "Ministerium unterläuft Panne beim Gesetz zur Tabaksteuer",
+        "summary": "Gestern wurde das Gesetz zur Anhebung der Tabaksteuer veröffentlicht. Eigentlich sollen die Steuersätze ab 2027 steigen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+        "publishedAt": "2026-10-21T04:52:22+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+            "publishedAt": "2026-10-21T04:52:22+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html",
+            "publishedAt": "2026-10-21T04:52:22+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.735,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
+      },
+      {
+        "id": "29957aecddf7",
+        "category": "news",
+        "lang": "de",
+        "title": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
+        "summary": "China setzt Europas Unternehmen zunehmend unter Druck - auch mit massiven Subventionen. Doch höhere Zölle allein reichen kaum aus.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html",
+        "publishedAt": "2026-10-21T04:41:58+00:00",
+        "subtopics": [
+          "EU",
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html",
+            "publishedAt": "2026-10-21T04:41:58+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.728,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
         "id": "6e5e29b047f6",
@@ -757,67 +881,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.77,
+        "score": 7.28,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
-      },
-      {
-        "id": "ee187a2b90ba",
-        "category": "news",
-        "lang": "de",
-        "title": "Marktbericht: Kurswende am Nachmittag",
-        "summary": "Ein ganzer Strauß von Belastungen hatte den DAX zunächst nach unten befördert. Dann die Kurswende: Neue Gerüchte über eine Lösung im Iran-Krieg machten die Runde.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-        "publishedAt": "2026-10-20T16:37:23+00:00",
-        "subtopics": [
-          "Iran",
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
-            "publishedAt": "2026-10-20T16:37:23+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.769,
-        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
-      },
-      {
-        "id": "d61ec326ab02",
-        "category": "news",
-        "lang": "de",
-        "title": "Die Deutsche Post will 2027 das Porto für Briefe erhöhen",
-        "summary": "Die Deutsche Post will das Briefporto im kommenden Januar von 95 Cent auf 1,15 Euro anheben. Auch Postkarten, Großbriefe und andere Produkte sollen 2027 teurer werden - sofern die Bundesnetzagentur die Erhöhungen genehmigt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html",
-        "publishedAt": "2026-10-20T14:00:04+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/porto-standardbrief-100.html",
-            "publishedAt": "2026-10-20T14:00:04+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.663,
-        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "643b177a0d45",
@@ -857,7 +922,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.6,
+        "score": 7.14,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -880,19 +945,13 @@
             "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
             "publishedAt": "2026-10-20T12:15:27+00:00",
             "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html",
-            "publishedAt": "2026-10-20T12:15:27+00:00",
-            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.595,
+        "score": 7.136,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -928,7 +987,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.456,
+        "score": 7.022,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -957,7 +1016,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.44,
+        "score": 7.008,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -986,36 +1045,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.438,
-        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
-      },
-      {
-        "id": "fd817a7ad480",
-        "category": "news",
-        "lang": "de",
-        "title": "NDR 90,3 Kulturjournal vom 20.10.2026",
-        "summary": "Manche nennen sie SPERRIG. Manche nennen sie GAR NICHT – weil sie sie nicht kennen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/903/ndr-903-kulturjournal-vom-20102026,audio-3548146.html",
-        "publishedAt": "2026-10-20T18:09:21+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/903/ndr-903-kulturjournal-vom-20102026,audio-3548146.html",
-            "publishedAt": "2026-10-20T18:09:21+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.433,
+        "score": 6.936,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
@@ -1067,7 +1097,7 @@
           }
         ],
         "isNew": false,
-        "score": 7.034,
+        "score": 6.674,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -1103,7 +1133,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.818,
+        "score": 6.496,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -1138,7 +1168,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.811,
+        "score": 6.491,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -1173,7 +1203,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.794,
+        "score": 6.477,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1202,7 +1232,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.793,
+        "score": 6.476,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1231,7 +1261,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.707,
+        "score": 6.405,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1260,7 +1290,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.616,
+        "score": 6.33,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1295,71 +1325,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.582,
+        "score": 6.302,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
-      },
-      {
-        "id": "d3ef123b03aa",
-        "category": "news",
-        "lang": "de",
-        "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
-        "summary": "Lange lebte Taranto vom größten Stahlwerk Italiens - und mit dessen Umweltverschmutzung. Ein Urteil könnte zum Wendepunkt werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
-        "publishedAt": "2026-10-20T08:42:49+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
-            "publishedAt": "2026-10-20T08:42:49+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
-            "publishedAt": "2026-10-20T08:42:49+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.462,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
-      },
-      {
-        "id": "e33652a2ebca",
-        "category": "news",
-        "lang": "de",
-        "title": "Halbmarathon 2026 in Hamburg: Viele Straßen am Sonntag gesperrt",
-        "summary": "Wegen des Halbmarathons in Hamburg kommt es am Sonntag zu einigen Sperrungen. Der Veranstalter empfiehlt, U- und S-Bahnen zu nutzen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
-        "publishedAt": "2026-10-20T18:21:41+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
-            "publishedAt": "2026-10-20T18:21:41+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.442,
-        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "d4ebb80c77c5",
@@ -1393,7 +1360,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.395,
+        "score": 6.148,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
       },
       {
@@ -1422,8 +1389,71 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.359,
+        "score": 6.119,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
+      },
+      {
+        "id": "d3ef123b03aa",
+        "category": "news",
+        "lang": "de",
+        "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
+        "summary": "Lange lebte Taranto vom größten Stahlwerk Italiens - und mit dessen Umweltverschmutzung. Ein Urteil könnte zum Wendepunkt werden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
+        "publishedAt": "2026-10-20T08:42:49+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
+            "publishedAt": "2026-10-20T08:42:49+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html",
+            "publishedAt": "2026-10-20T08:42:49+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.026,
+        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+      },
+      {
+        "id": "e33652a2ebca",
+        "category": "news",
+        "lang": "de",
+        "title": "Halbmarathon 2026 in Hamburg: Viele Straßen am Sonntag gesperrt",
+        "summary": "Wegen des Halbmarathons in Hamburg kommt es am Sonntag zu einigen Sperrungen. Der Veranstalter empfiehlt, U- und S-Bahnen zu nutzen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
+        "publishedAt": "2026-10-20T18:21:41+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
+            "publishedAt": "2026-10-20T18:21:41+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.939,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "626777317f4a",
@@ -1486,37 +1516,8 @@
           }
         ],
         "isNew": false,
-        "score": 6.219,
+        "score": 5.862,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
-      },
-      {
-        "id": "5d9f245092f2",
-        "category": "news",
-        "lang": "de",
-        "title": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
-        "summary": "Ab 2027 wird in Arztpraxen ein festes Kontingent an Terminen festgelegt. Die Kassenärztliche Bundesvereinigung befürchtet noch längere Wartezeiten auf Termine - die Krankenkassen sehen darin Angstmacherei.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
-        "publishedAt": "2026-10-20T17:41:17+00:00",
-        "subtopics": [
-          "Germany",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
-            "publishedAt": "2026-10-20T17:41:17+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.113,
-        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "73c7b350b543",
@@ -1550,7 +1551,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.933,
+        "score": 5.768,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -1579,7 +1580,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.855,
+        "score": 5.704,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
@@ -1608,28 +1609,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.761,
+        "score": 5.627,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
       },
       {
-        "id": "6ce0f085c049",
+        "id": "5d9f245092f2",
         "category": "news",
         "lang": "de",
-        "title": "Wasserstoffmesse in Hamburg: Von der Idee in die Praxis",
-        "summary": "Tausende Fachleute aus mehr als 100 Ländern treffen sich in den Messehallen. Der BUND protestiert gegen Wasserstoff aus Erdgas.",
+        "title": "Kassenärzte sagen ab 2027 längere Termin-Wartezeiten voraus",
+        "summary": "Ab 2027 wird in Arztpraxen ein festes Kontingent an Terminen festgelegt. Die Kassenärztliche Bundesvereinigung befürchtet noch längere Wartezeiten auf Termine - die Krankenkassen sehen darin Angstmacherei.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/wasserstoffmesse-in-hamburg-von-der-idee-in-die-praxis,kurzehh-4670.html",
-        "publishedAt": "2026-10-20T18:44:21+00:00",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
+        "publishedAt": "2026-10-20T17:41:17+00:00",
         "subtopics": [
-          "Hamburg",
-          "Protests"
+          "Germany",
+          "Healthcare"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/wasserstoffmesse-in-hamburg-von-der-idee-in-die-praxis,kurzehh-4670.html",
-            "publishedAt": "2026-10-20T18:44:21+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html",
+            "publishedAt": "2026-10-20T17:41:17+00:00",
             "tier": 1
           }
         ],
@@ -1637,8 +1638,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.758,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00"
+        "score": 5.616,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "c7039bf21094",
@@ -1667,7 +1668,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.666,
+        "score": 5.548,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1697,7 +1698,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.625,
+        "score": 5.515,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1732,7 +1733,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.622,
+        "score": 5.512,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
@@ -1767,56 +1768,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.615,
+        "score": 5.506,
         "firstSeen": "2026-10-16T12:03:04.794976+00:00"
       },
       {
-        "id": "d1f3efccbf62",
+        "id": "7036f2caa2e1",
         "category": "news",
         "lang": "de",
-        "title": "U3 in der Hamburger Innenstadt bis 29. Oktober gesperrt",
-        "summary": "Auf dem besonders beliebten Abschnitt zwischen St. Pauli und Rathaus wird zehn Tage lang gearbeitet.",
+        "title": "Marktbericht: Europa wertvollster Konzern ASML macht KI-Boom möglich",
+        "summary": "Ob Samsung, Apple oder Nvidia: Alle großen Chiphersteller sind Kunden bei ASML. Dessen Maschinen zur Produktion von Halbleitern machen den KI-Boom erst möglich - und die Aktie zur wertvollsten in Europa.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
-        "publishedAt": "2026-10-19T16:41:08+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/u3-in-herbstferien-in-der-hamburger-innenstadt-gesperrt,u-bahn-124.html",
-            "publishedAt": "2026-10-19T16:41:08+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.539,
-        "firstSeen": "2026-10-07T14:08:36.377830+00:00"
-      },
-      {
-        "id": "c42499fb9ca4",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundeswehr: Pistorius will Reservedienst verpflichtend machen",
-        "summary": "Im Bundestag wird heute über das \"Reservestärkungsgesetz\" beraten. Es soll dabei helfen, die Zahl der Reservistinnen und Reservisten zu erhöhen - auf 200.000 bis 2033.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
-        "publishedAt": "2026-10-15T11:03:31+00:00",
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
+        "publishedAt": "2026-10-14T13:14:36+00:00",
         "subtopics": [
           "Germany",
-          "Economy"
+          "Business"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html",
-            "publishedAt": "2026-10-15T11:03:31+00:00",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/asml-mb-mittag-100.html",
+            "publishedAt": "2026-10-14T13:14:36+00:00",
             "tier": 1
           }
         ],
@@ -1824,28 +1797,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.427,
-        "firstSeen": "2026-10-15T12:23:28.936416+00:00"
+        "score": 5.254,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       },
       {
-        "id": "ea05b5081c32",
+        "id": "4bdd170158ce",
         "category": "news",
         "lang": "de",
-        "title": "Hand in Hand für Norddeutschland: Deine Spende und Hilfe zählt!",
-        "summary": "Ob Chor, Feuerwehr, Schulklasse oder Freundinnen: Wir brauchen eure Hilfe - zugunsten der mentalen Gesundheit junger Menschen.",
+        "title": "Portugal erlaubt Einstieg der Lufthansa bei staatlicher Airline TAP",
+        "summary": "Die portugiesische Regierung treibt die Teilprivatisierung der Fluggesellschaft TAP voran. Im Kampf um 44,9 Prozent der Anteile setzte sich die Lufthansa gegen Air France-KLM durch.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/hand_in_hand_fuer_norddeutschland/hand-in-hand-fuer-norddeutschland-deine-spendenaktion-zaehlt,hih-deinespendenaktion-100.html",
-        "publishedAt": "2026-10-20T09:43:35+00:00",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html",
+        "publishedAt": "2026-10-14T12:53:13+00:00",
         "subtopics": [
-          "Hamburg",
-          "Healthcare"
+          "Germany",
+          "Government"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/hand_in_hand_fuer_norddeutschland/hand-in-hand-fuer-norddeutschland-deine-spendenaktion-zaehlt,hih-deinespendenaktion-100.html",
-            "publishedAt": "2026-10-20T09:43:35+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/uebernahme-tap-lufthansa-100.html",
+            "publishedAt": "2026-10-14T12:53:13+00:00",
             "tier": 1
           }
         ],
@@ -1853,8 +1826,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.399,
-        "firstSeen": "2026-10-13T13:28:14.953984+00:00"
+        "score": 5.253,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00"
       }
     ],
     "medical": [
@@ -1884,7 +1857,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.088,
+        "score": 10.938,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1916,7 +1889,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.869,
+        "score": 9.796,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1946,7 +1919,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.371,
+        "score": 9.266,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1978,7 +1951,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.151,
+        "score": 9.123,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2009,7 +1982,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.869,
+        "score": 8.796,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2047,7 +2020,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.39,
+        "score": 8.221,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2077,7 +2050,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.088,
+        "score": 6.938,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2109,7 +2082,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.017,
+        "score": 6.934,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2140,7 +2113,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.869,
+        "score": 6.796,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2171,7 +2144,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.869,
+        "score": 6.796,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2202,7 +2175,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.345,
+        "score": 6.304,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2233,7 +2206,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.345,
+        "score": 6.304,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2264,7 +2237,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.151,
+        "score": 6.123,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2295,7 +2268,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.164,
+        "score": 4.984,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2326,7 +2299,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.939,
+        "score": 4.83,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2357,7 +2330,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.85,
+        "score": 3.69,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2387,7 +2360,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.697,
+        "score": 3.54,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2417,7 +2390,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.166,
+        "score": 2.986,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2447,42 +2420,13 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.982,
+        "score": 2.87,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
-      {
-        "id": "cad82bd118a5",
-        "category": "growth",
-        "lang": "en",
-        "title": "Robotic therapy for stroke patients",
-        "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-        "publishedAt": "2026-10-20T21:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-            "publishedAt": "2026-10-20T21:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.755,
-        "firstSeen": "2026-10-20T22:00:16.802310+00:00",
-        "kind": "article"
-      },
       {
         "id": "663ec7a5771e",
         "category": "growth",
@@ -2509,7 +2453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.548,
+        "score": 5.204,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2519,6 +2463,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=gDQB1rGT4pg",
           "channel": "TED"
         }
+      },
+      {
+        "id": "bea23034a697",
+        "category": "growth",
+        "lang": "en",
+        "title": "eMudhra Intermediate CA Compromise",
+        "summary": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+        "publishedAt": "2026-10-20T23:50:25+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+            "publishedAt": "2026-10-20T23:50:25+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.038,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00",
+        "kind": "article"
       },
       {
         "id": "4dc8a56e0373",
@@ -2533,7 +2506,7 @@
         "subtopics": [
           "AI & smart tools",
           "Productivity & systems",
-          "Business case studies"
+          "Presentation & speaking"
         ],
         "sources": [
           {
@@ -2547,7 +2520,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.393,
+        "score": 4.881,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00",
         "kind": "article"
       },
@@ -2577,7 +2550,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.661,
+        "score": 4.279,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
@@ -2608,7 +2581,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.248,
+        "score": 4.133,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "video",
         "video": {
@@ -2644,7 +2617,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.212,
+        "score": 4.051,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2654,64 +2627,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "ad547968d473",
-        "category": "growth",
-        "lang": "en",
-        "title": "llm-tools-datasette 0.1.1",
-        "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-        "publishedAt": "2026-10-18T23:43:09+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-            "publishedAt": "2026-10-18T23:43:09+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.007,
-        "firstSeen": "2026-10-19T11:59:37.400943+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "8f1b78fcf0c4",
-        "category": "growth",
-        "lang": "en",
-        "title": "llm-echo 0.5",
-        "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-        "publishedAt": "2026-10-18T23:16:16+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-            "publishedAt": "2026-10-18T23:16:16+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.997,
-        "firstSeen": "2026-10-19T11:59:37.400943+00:00",
-        "kind": "article"
       },
       {
         "id": "c1e4e4567b20",
@@ -2739,7 +2654,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.868,
+        "score": 3.855,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2776,7 +2691,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.821,
+        "score": 3.809,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2786,6 +2701,64 @@
           "watchUrl": "https://www.youtube.com/watch?v=ueOxonBk970",
           "channel": "TED"
         }
+      },
+      {
+        "id": "ad547968d473",
+        "category": "growth",
+        "lang": "en",
+        "title": "llm-tools-datasette 0.1.1",
+        "summary": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+        "publishedAt": "2026-10-18T23:43:09+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+            "publishedAt": "2026-10-18T23:43:09+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.74,
+        "firstSeen": "2026-10-19T11:59:37.400943+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "8f1b78fcf0c4",
+        "category": "growth",
+        "lang": "en",
+        "title": "llm-echo 0.5",
+        "summary": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+        "publishedAt": "2026-10-18T23:16:16+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+            "publishedAt": "2026-10-18T23:16:16+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.732,
+        "firstSeen": "2026-10-19T11:59:37.400943+00:00",
+        "kind": "article"
       },
       {
         "id": "c0abbd96b519",
@@ -2813,7 +2786,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.735,
+        "score": 3.724,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2849,7 +2822,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.698,
+        "score": 3.687,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -2908,8 +2881,37 @@
           }
         ],
         "isNew": false,
-        "score": 3.402,
+        "score": 3.243,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "59f0b17775a7",
+        "category": "growth",
+        "lang": "en",
+        "title": "Interspecies communication",
+        "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+        "publishedAt": "2026-10-21T09:00:00+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+            "publishedAt": "2026-10-21T09:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.098,
+        "firstSeen": "2026-10-21T11:05:18.081351+00:00",
         "kind": "article"
       },
       {
@@ -2938,66 +2940,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.22,
+        "score": 3.093,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "80fa3b99b184",
-        "category": "growth",
-        "lang": "en",
-        "title": "A reason to eat carbs",
-        "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
-        "publishedAt": "2026-10-20T21:00:00+00:00",
-        "subtopics": [
-          "Personal finance"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
-            "publishedAt": "2026-10-20T21:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 3.099,
-        "firstSeen": "2026-10-20T22:00:16.802310+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "2c9a626fd301",
-        "category": "growth",
-        "lang": "en",
-        "title": "Taking a swing at a pickleball startup",
-        "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances. He did not.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
-        "publishedAt": "2026-10-20T21:00:00+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
-            "publishedAt": "2026-10-20T21:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 3.099,
-        "firstSeen": "2026-10-20T22:00:16.802310+00:00",
         "kind": "article"
       },
       {
@@ -3026,7 +2970,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.987,
+        "score": 2.901,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -3056,7 +3000,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.94,
+        "score": 2.862,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -3087,7 +3031,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.874,
+        "score": 2.808,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
@@ -3116,37 +3060,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.849,
+        "score": 2.787,
         "firstSeen": "2026-10-15T10:47:47.148967+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "065912555937",
-        "category": "growth",
-        "lang": "en",
-        "title": "AI is mass decompiling games. That's both awesome and scary.",
-        "summary": "AI is mass decompiling games. That's both awesome and scary.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-        "publishedAt": "2026-10-14T16:26:53+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-            "publishedAt": "2026-10-14T16:26:53+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.824,
-        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
       {
@@ -3176,28 +3091,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.788,
+        "score": 2.774,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
       {
-        "id": "49aae9e462bc",
+        "id": "065912555937",
         "category": "growth",
         "lang": "en",
-        "title": "Redesigning source control at Anthropic",
-        "summary": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic…",
+        "title": "AI is mass decompiling games. That's both awesome and scary.",
+        "summary": "AI is mass decompiling games. That's both awesome and scary.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-        "publishedAt": "2026-10-13T23:00:06+00:00",
+        "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+        "publishedAt": "2026-10-14T16:26:53+00:00",
         "subtopics": [
           "AI & smart tools"
         ],
         "sources": [
           {
             "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-            "publishedAt": "2026-10-13T23:00:06+00:00",
+            "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+            "publishedAt": "2026-10-14T16:26:53+00:00",
             "tier": 3
           }
         ],
@@ -3205,38 +3120,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.75,
-        "firstSeen": "2026-10-13T23:10:38.643116+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4a863ac76646",
-        "category": "growth",
-        "lang": "en",
-        "title": "llm-gemini 0.35",
-        "summary": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-        "publishedAt": "2026-10-13T22:28:54+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-            "publishedAt": "2026-10-13T22:28:54+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.748,
-        "firstSeen": "2026-10-14T11:06:05.228643+00:00",
+        "score": 2.767,
+        "firstSeen": "2026-10-14T21:15:05.130457+00:00",
         "kind": "article"
       },
       {
@@ -3265,7 +3150,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.564,
+        "score": 2.554,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3296,7 +3181,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.536,
+        "score": 2.526,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3327,7 +3212,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.503,
+        "score": 2.494,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3356,7 +3241,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.423,
+        "score": 2.416,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3387,7 +3272,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.331,
+        "score": 2.325,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3418,7 +3303,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.309,
+        "score": 2.302,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3449,7 +3334,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.236,
+        "score": 2.231,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3480,7 +3365,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.177,
+        "score": 2.173,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3509,7 +3394,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.055,
+        "score": 2.052,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3539,7 +3424,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.034,
+        "score": 2.032,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3568,7 +3453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.991,
+        "score": 1.99,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -3608,7 +3493,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 29,
+      "items": 32,
       "error": null
     },
     {
@@ -3751,9 +3636,9 @@
     }
   ],
   "filteredOut": {
-    "football": 56,
-    "news": 63,
+    "football": 55,
+    "news": 67,
     "medical": 10,
-    "growth": 55
+    "growth": 57
   }
 }
