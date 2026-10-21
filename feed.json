@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:11:48.388929+00:00",
+  "generatedAt": "2026-10-21T22:03:20.495972+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -40,7 +40,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.961,
+        "score": 13.898,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -69,8 +69,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.381,
+        "isNew": false,
+        "score": 13.311,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "transfer": "RUMOUR"
       },
@@ -100,8 +100,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.26,
+        "isNew": false,
+        "score": 13.194,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -129,8 +129,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 12.481,
+        "isNew": false,
+        "score": 12.394,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -158,7 +158,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.811,
+        "score": 11.743,
         "firstSeen": "2026-10-10T21:05:58.317689+00:00"
       },
       {
@@ -186,8 +186,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.773,
+        "isNew": false,
+        "score": 11.706,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -217,7 +217,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.498,
+        "score": 11.484,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00"
       },
       {
@@ -246,59 +246,34 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.333,
+        "score": 11.279,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
-        "id": "0a0770973a95",
+        "id": "cfc13f86c10f",
         "category": "football",
         "lang": "en",
-        "title": "Mbappe scores twice as Real Madrid beat Sevilla",
-        "summary": "Kylian Mbappe scores twice as Real Madrid beat Sevilla 4-1 in La Liga to close the gap on Barcelona to six points ahead of next weekend's El Clasico.",
+        "title": "Villa maintain perfect Champions League start with Viking victory",
+        "summary": "“We’ve conquered before, we’re prepared for more,” read the pre-match display held up by the Holte End. Even if few would really be ready for a full-on repeat of 1982, when Aston Villa conquered Europe, the current vintage are doing an outwards impression of…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-18T21:39:04+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T21:19:00+00:00",
         "subtopics": [
-          "Barcelona",
-          "La Liga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-18T21:39:04+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 11.25,
-        "firstSeen": "2026-10-19T11:59:37.400943+00:00"
-      },
-      {
-        "id": "0af6b6ca869e",
-        "category": "football",
-        "lang": "en",
-        "title": "Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live",
-        "summary": "⚽️ Champions League updates | Como 4-1 Man Utd ⚽️ Bayern v Arsenal | Live scores | Table | Mail Sarah Real Madrid : Courtois; Valverde, Huijsen, Rudiger, Carreras; Silva, Camavinga, Bellingham; Guler, Mbappe, Vini Jr. Bench: Lunin, Éder Militão, Endrick,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
-        "publishedAt": "2026-10-21T20:59:53+00:00",
-        "subtopics": [
-          "La Liga",
           "Champions League",
           "Results"
         ],
         "sources": [
           {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-21T21:19:00+00:00",
+            "tier": 2
+          },
+          {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
-            "publishedAt": "2026-10-21T20:59:53+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/21/aston-villa-viking-champions-league-match-report",
+            "publishedAt": "2026-10-21T21:07:48+00:00",
             "tier": 2
           }
         ],
@@ -306,19 +281,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 9.979,
-        "firstSeen": "2026-10-21T21:11:48.388929+00:00"
+        "score": 10.724,
+        "firstSeen": "2026-10-21T22:03:20.495972+00:00"
       },
       {
-        "id": "1978b5fcdfe8",
+        "id": "102af2b8414e",
         "category": "football",
         "lang": "en",
-        "title": "Bayern Munich 2-2 Arsenal: Champions League – live reaction",
-        "summary": "⚽️ Champions League updates | Como 4-1 Man Utd ⚽️ Clockwatch | Live scores | Table | Email Scott The teams are out! Bayern are in one of their all-red phases, while Arsenal are harking back to the early 90s with a blue version of the famous bruised banana.",
+        "title": "Declan Rice strikes late for Arsenal to deny Bayern Munich in blockbuster",
+        "summary": "It is as if Harry Kane cannot get enough of tormenting Arsenal. The Bayern Munich striker has plenty of form from his Tottenham days.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
-        "publishedAt": "2026-10-21T20:58:19+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/21/bayern-munich-arsenal-champions-league-match-report",
+        "publishedAt": "2026-10-21T21:14:31+00:00",
         "subtopics": [
           "Champions League",
           "Bundesliga",
@@ -327,8 +302,14 @@
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
-            "publishedAt": "2026-10-21T20:58:19+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/21/bayern-munich-arsenal-champions-league-match-report",
+            "publishedAt": "2026-10-21T21:14:31+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-21T21:09:36+00:00",
             "tier": 2
           }
         ],
@@ -336,8 +317,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 9.977,
-        "firstSeen": "2026-10-21T21:11:48.388929+00:00"
+        "score": 10.716,
+        "firstSeen": "2026-10-21T22:03:20.495972+00:00"
       },
       {
         "id": "bf801ebd40c0",
@@ -371,8 +352,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.781,
+        "isNew": false,
+        "score": 8.693,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -380,7 +361,7 @@
         "category": "football",
         "lang": "en",
         "title": "Fernandes rounds on Carrick after Man Utd humiliation",
-        "summary": "Manchester United skipper Bruno Fernandes has blamed head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+        "summary": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
@@ -407,7 +388,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.677,
+        "score": 8.593,
         "firstSeen": "2026-10-10T21:05:58.317689+00:00"
       },
       {
@@ -436,8 +417,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.0,
+        "isNew": false,
+        "score": 7.994,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -465,9 +446,97 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.0,
+        "isNew": false,
+        "score": 7.994,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
+      },
+      {
+        "id": "9f7233ad82d1",
+        "category": "football",
+        "lang": "en",
+        "title": "Real Madrid dominate Leipzig for third straight win",
+        "summary": "Real Madrid maintain their 100 per cent start in the Champions League as they comfortably beat Leipzig 4-1, with Bernardo Silva scoring his first goal for Madrid since moving from Manchester City in the summer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T21:38:23+00:00",
+        "subtopics": [
+          "La Liga",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-21T21:38:23+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.957,
+        "firstSeen": "2026-10-21T22:03:20.495972+00:00"
+      },
+      {
+        "id": "c5aa9c0b46d9",
+        "category": "football",
+        "lang": "en",
+        "title": "Isco the difference as Betis continue winning start against Feyenoord",
+        "summary": "Real Betis secure their third win on the bounce in the Champions League as Isco converts a penalty in the 59th minute against Feyenoord.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/ckp8gjl3epr7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T21:23:47+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/ckp8gjl3epr7o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-21T21:23:47+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.932,
+        "firstSeen": "2026-10-21T22:03:20.495972+00:00"
+      },
+      {
+        "id": "ad3e17c72984",
+        "category": "football",
+        "lang": "en",
+        "title": "Ruthless Roma put four past toothless Slovan Bratislava",
+        "summary": "Ruthless Roma stick four past Yaya Toure's Slovan Bratislava to secure their first Champions League victory of the season.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6eq325d29dqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T21:13:36+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6eq325d29dqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-21T21:13:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.915,
+        "firstSeen": "2026-10-21T22:03:20.495972+00:00"
       },
       {
         "id": "c1a494858ae8",
@@ -494,15 +563,15 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.0,
+        "isNew": false,
+        "score": 7.912,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
         "id": "fdc75eca964b",
         "category": "football",
         "lang": "en",
-        "title": "Mac Allister scores twice as Liverpool fightback to beat Villarreal",
+        "title": "Mac Allister scores twice as Liverpool fight back to beat Villarreal",
         "summary": "Rio Ngumoha provides the spark as Liverpool come from two goals down to beat Villarreal at Anfield in the Champions League.",
         "needsSummary": true,
         "readMore": null,
@@ -524,8 +593,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.98,
+        "isNew": false,
+        "score": 7.893,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -553,8 +622,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.979,
+        "isNew": false,
+        "score": 7.892,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -582,8 +651,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.925,
+        "isNew": false,
+        "score": 7.839,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -611,8 +680,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.853,
+        "isNew": false,
+        "score": 7.769,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -642,7 +711,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.805,
+        "score": 7.767,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
@@ -671,8 +740,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.336,
+        "isNew": false,
+        "score": 7.267,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "transfer": "OFFICIAL"
       },
@@ -702,7 +771,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.316,
+        "score": 7.248,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "transfer": "RUMOUR"
       },
@@ -732,9 +801,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.834,
+        "isNew": false,
+        "score": 6.765,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
+      },
+      {
+        "id": "91304c6bc8b8",
+        "category": "football",
+        "lang": "en",
+        "title": "Guirassy double helps Dortmund past Sabah",
+        "summary": "Serhou Guirassy scores in each half as Borussia Dortmund grind out a 2-1 win against Sabah in Azerbaijan.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5j9kzlrynx1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T21:12:15+00:00",
+        "subtopics": [
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c5j9kzlrynx1o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-21T21:12:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.413,
+        "firstSeen": "2026-10-21T22:03:20.495972+00:00"
       },
       {
         "id": "d54eeaaa4d01",
@@ -762,7 +860,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.386,
+        "score": 6.345,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -791,7 +889,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.369,
+        "score": 6.328,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -820,7 +918,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.337,
+        "score": 6.298,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -849,7 +947,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.061,
+        "score": 6.03,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
@@ -878,95 +976,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.333,
+        "score": 5.279,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
-      },
-      {
-        "id": "bd2ad2cd1d66",
-        "category": "football",
-        "lang": "en",
-        "title": "Spurs 'lack confidence' but we are a good team - De Zerbi",
-        "summary": "Tottenham Hotspur head coach Roberto de Zerbi hails the spirit and attitude of his side following their first Premier League win of the season, as they beat Coventry City.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cqvgrn518d6jo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-19T21:59:30+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cqvgrn518d6jo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-19T21:59:30+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.082,
-        "firstSeen": "2026-10-19T22:44:58.726073+00:00"
-      },
-      {
-        "id": "17826edde579",
-        "category": "football",
-        "lang": "en",
-        "title": "Lampard 'proud' of Coventry performance in defeat by Spurs",
-        "summary": "Coventry City manager Frank Lampard says he is proud of his side's performance, despite losing at struggling Tottenham Hotspur in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c32l4x1k28ero?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-19T21:41:21+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c32l4x1k28ero?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-19T21:41:21+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.076,
-        "firstSeen": "2026-10-19T21:57:24.123795+00:00"
-      },
-      {
-        "id": "fd4e4ef39f84",
-        "category": "football",
-        "lang": "en",
-        "title": "Spurs beat Coventry to earn first league win of the season",
-        "summary": "Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-19T21:33:07+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-19T21:33:07+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.074,
-        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "c7f80aefddfc",
@@ -994,7 +1005,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.98,
+        "score": 2.966,
         "firstSeen": "2026-10-19T22:44:58.726073+00:00"
       }
     ],
@@ -1031,7 +1042,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.905,
+        "score": 7.868,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1066,7 +1077,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.831,
+        "score": 7.795,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1100,8 +1111,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.661,
+        "isNew": false,
+        "score": 7.627,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -1136,7 +1147,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.637,
+        "score": 7.603,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00"
       },
       {
@@ -1171,37 +1182,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.615,
+        "score": 7.582,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
-      },
-      {
-        "id": "5256565eb2fc",
-        "category": "news",
-        "lang": "de",
-        "title": "Erhöhung der Hundesteuer: Das ändert sich 2027",
-        "summary": "Die Hundesteuer wird von 90 auf 120 Euro erhöht, mit einer Ausnahme: Hunde aus Hamburger Tierheimen sind die ersten drei Jahre steuerfrei.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/erhoehung-der-hundesteuer-das-aendert-sich-2027,hamj-15756.html",
-        "publishedAt": "2026-10-21T19:03:37+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/erhoehung-der-hundesteuer-das-aendert-sich-2027,hamj-15756.html",
-            "publishedAt": "2026-10-21T19:03:37+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.506,
-        "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
         "id": "310001e20115",
@@ -1230,8 +1212,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.502,
+        "score": 7.47,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00"
+      },
+      {
+        "id": "5256565eb2fc",
+        "category": "news",
+        "lang": "de",
+        "title": "Erhöhung der Hundesteuer: Das ändert sich 2027",
+        "summary": "Die Hundesteuer wird von 90 auf 120 Euro erhöht, mit einer Ausnahme: Hunde aus Hamburger Tierheimen sind die ersten drei Jahre steuerfrei.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/erhoehung-der-hundesteuer-das-aendert-sich-2027,hamj-15756.html",
+        "publishedAt": "2026-10-21T19:03:37+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/erhoehung-der-hundesteuer-das-aendert-sich-2027,hamj-15756.html",
+            "publishedAt": "2026-10-21T19:03:37+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.469,
+        "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
         "id": "c78dca8fce5b",
@@ -1265,7 +1276,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.478,
+        "score": 7.446,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1306,7 +1317,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.444,
+        "score": 7.413,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1334,8 +1345,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.412,
+        "isNew": false,
+        "score": 7.376,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -1365,7 +1376,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.347,
+        "score": 7.317,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1400,7 +1411,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.961,
+        "score": 6.937,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -1441,7 +1452,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.841,
+        "score": 6.818,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -1470,7 +1481,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.838,
+        "score": 6.814,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -1506,7 +1517,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.739,
+        "score": 6.717,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -1535,7 +1546,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.728,
+        "score": 6.706,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -1569,8 +1580,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.718,
+        "isNew": false,
+        "score": 6.684,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -1598,8 +1609,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.668,
+        "isNew": false,
+        "score": 6.634,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -1651,7 +1662,7 @@
           }
         ],
         "isNew": false,
-        "score": 6.44,
+        "score": 6.422,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -1679,8 +1690,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.367,
+        "isNew": false,
+        "score": 6.332,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -1716,7 +1727,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.287,
+        "score": 6.271,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -1751,7 +1762,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.282,
+        "score": 6.266,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       },
       {
@@ -1786,7 +1797,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.27,
+        "score": 6.254,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1815,7 +1826,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.27,
+        "score": 6.254,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1844,7 +1855,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.209,
+        "score": 6.194,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1873,7 +1884,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.145,
+        "score": 6.13,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1908,7 +1919,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.12,
+        "score": 6.106,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00"
       },
       {
@@ -1936,8 +1947,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.117,
+        "isNew": false,
+        "score": 6.081,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -1972,7 +1983,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.988,
+        "score": 5.975,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
       },
       {
@@ -2001,7 +2012,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.963,
+        "score": 5.95,
         "firstSeen": "2026-10-18T20:01:27.604703+00:00"
       },
       {
@@ -2036,7 +2047,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.743,
+        "score": 5.721,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -2071,7 +2082,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.66,
+        "score": 5.652,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00"
       },
       {
@@ -2135,36 +2146,8 @@
           }
         ],
         "isNew": false,
-        "score": 5.63,
-        "firstSeen": "2026-10-16T20:27:30.951362+00:00"
-      },
-      {
-        "id": "e33652a2ebca",
-        "category": "news",
-        "lang": "de",
-        "title": "Halbmarathon 2026 in Hamburg: Viele Straßen am Sonntag gesperrt",
-        "summary": "Wegen des Halbmarathons in Hamburg kommt es am Sonntag zu einigen Sperrungen. Der Veranstalter empfiehlt, U- und S-Bahnen zu nutzen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
-        "publishedAt": "2026-10-20T18:21:41+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
-            "publishedAt": "2026-10-20T18:21:41+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
         "score": 5.612,
-        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
+        "firstSeen": "2026-10-16T20:27:30.951362+00:00"
       },
       {
         "id": "557d59a28c90",
@@ -2192,8 +2175,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.605,
+        "score": 5.598,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00"
+      },
+      {
+        "id": "e33652a2ebca",
+        "category": "news",
+        "lang": "de",
+        "title": "Halbmarathon 2026 in Hamburg: Viele Straßen am Sonntag gesperrt",
+        "summary": "Wegen des Halbmarathons in Hamburg kommt es am Sonntag zu einigen Sperrungen. Der Veranstalter empfiehlt, U- und S-Bahnen zu nutzen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
+        "publishedAt": "2026-10-20T18:21:41+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
+            "publishedAt": "2026-10-20T18:21:41+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.587,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       }
     ],
     "medical": [
@@ -2225,7 +2236,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 14.901,
+        "score": 14.889,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -2259,7 +2270,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.828,
+        "score": 10.819,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2291,7 +2302,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.742,
+        "score": 9.738,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2321,7 +2332,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.189,
+        "score": 9.183,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2353,7 +2364,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.102,
+        "score": 9.1,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2384,7 +2395,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.742,
+        "score": 8.738,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2422,7 +2433,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.097,
+        "score": 8.087,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2454,7 +2465,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.874,
+        "score": 6.869,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2484,7 +2495,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.828,
+        "score": 6.819,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2515,7 +2526,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.742,
+        "score": 6.738,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2546,7 +2557,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.742,
+        "score": 6.738,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2577,7 +2588,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.275,
+        "score": 6.272,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2608,7 +2619,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.275,
+        "score": 6.272,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2639,7 +2650,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.102,
+        "score": 6.1,
         "firstSeen": "2026-10-02T21:46:30.354537+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2669,8 +2680,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.984,
+        "isNew": false,
+        "score": 5.974,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2700,8 +2711,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.183,
+        "isNew": false,
+        "score": 5.17,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2731,8 +2742,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.081,
+        "isNew": false,
+        "score": 5.069,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2763,7 +2774,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.853,
+        "score": 4.842,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2794,7 +2805,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.573,
+        "score": 3.563,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2824,7 +2835,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.426,
+        "score": 3.416,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2853,8 +2864,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.179,
+        "isNew": false,
+        "score": 3.167,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2884,7 +2895,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.855,
+        "score": 2.844,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2916,8 +2927,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.39,
+        "isNew": false,
+        "score": 5.354,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
       },
@@ -2945,8 +2956,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.294,
+        "isNew": false,
+        "score": 5.259,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
       },
@@ -2976,7 +2987,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.98,
+        "score": 4.962,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -3012,7 +3023,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.683,
+        "score": 4.656,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00",
         "kind": "article"
       },
@@ -3043,7 +3054,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.549,
+        "score": 4.523,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00",
         "kind": "article"
       },
@@ -3074,7 +3085,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.059,
+        "score": 4.053,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "kind": "video",
         "video": {
@@ -3111,7 +3122,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.031,
+        "score": 4.011,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
@@ -3140,7 +3151,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.946,
+        "score": 3.938,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -3177,7 +3188,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.845,
+        "score": 3.844,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -3214,7 +3225,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.8,
+        "score": 3.799,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -3251,7 +3262,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.716,
+        "score": 3.715,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -3323,7 +3334,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.567,
+        "score": 3.553,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -3352,7 +3363,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.56,
+        "score": 3.546,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -3404,7 +3415,7 @@
           }
         ],
         "isNew": false,
-        "score": 3.139,
+        "score": 3.131,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
@@ -3463,8 +3474,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.01,
+        "score": 3.003,
         "firstSeen": "2026-10-17T10:05:45.457400+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "126aa063fc33",
+        "category": "growth",
+        "lang": "en",
+        "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+        "publishedAt": "2026-10-15T10:09:45+00:00",
+        "subtopics": [
+          "Productivity & systems",
+          "Communication",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+            "publishedAt": "2026-10-15T10:09:45+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+            "publishedAt": "2026-10-06T22:08:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.951,
+        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
       {
@@ -3491,8 +3539,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 2.878,
+        "isNew": false,
+        "score": 2.873,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
       },
@@ -3522,7 +3570,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.845,
+        "score": 2.84,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
         "kind": "article"
       },
@@ -3552,39 +3600,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.812,
+        "score": 2.808,
         "firstSeen": "2026-10-15T20:53:35.502089+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "2cf7b587d052",
-        "category": "growth",
-        "lang": "en",
-        "title": "LaTeX renderer",
-        "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/15/latex/",
-        "publishedAt": "2026-10-15T02:07:28+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/15/latex/",
-            "publishedAt": "2026-10-15T02:07:28+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.765,
-        "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
       {
@@ -3614,28 +3631,30 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.764,
+        "score": 2.763,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
       {
-        "id": "2c3ce0b13a2f",
+        "id": "2cf7b587d052",
         "category": "growth",
         "lang": "en",
-        "title": "Tree Appreciator",
-        "summary": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two…",
+        "title": "LaTeX renderer",
+        "summary": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker,…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-        "publishedAt": "2026-10-14T21:23:01+00:00",
+        "url": "https://simonwillison.net/2026/Oct/15/latex/",
+        "publishedAt": "2026-10-15T02:07:28+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "AI & smart tools",
+          "Communication",
+          "Presentation & speaking"
         ],
         "sources": [
           {
             "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-            "publishedAt": "2026-10-14T21:23:01+00:00",
+            "url": "https://simonwillison.net/2026/Oct/15/latex/",
+            "publishedAt": "2026-10-15T02:07:28+00:00",
             "tier": 3
           }
         ],
@@ -3643,8 +3662,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.747,
-        "firstSeen": "2026-10-15T10:47:47.148967+00:00",
+        "score": 2.762,
+        "firstSeen": "2026-10-17T10:05:45.457400+00:00",
         "kind": "article"
       },
       {
@@ -3673,7 +3692,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.546,
+        "score": 2.545,
         "firstSeen": "2026-10-09T22:59:37.389718+00:00",
         "kind": "article"
       },
@@ -3704,7 +3723,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.519,
+        "score": 2.518,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3735,7 +3754,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.487,
+        "score": 2.486,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3764,8 +3783,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.41,
+        "score": 2.409,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a842fefb2bdb",
+        "category": "growth",
+        "lang": "en",
+        "title": "What It’s Like to Be…a Mail Carrier",
+        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+        "publishedAt": "2026-08-11T12:30:27+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+            "publishedAt": "2026-08-11T12:30:27+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.324,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
@@ -3795,7 +3844,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.32,
+        "score": 2.319,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       },
@@ -3826,8 +3875,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.298,
+        "score": 2.297,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a821601d6da8",
+        "category": "growth",
+        "lang": "en",
+        "title": "What It’s Like to Be…a Hotshot",
+        "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+        "publishedAt": "2026-07-28T12:23:34+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
+            "publishedAt": "2026-07-28T12:23:34+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.284,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
@@ -3888,7 +3967,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.17,
+        "score": 2.169,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3948,35 +4027,6 @@
         "earlier": [],
         "isNew": false,
         "score": 2.031,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a584a05fe444",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
-        "summary": "This summer, I’m revisiting one of my favorite episodes. If you haven’t heard it, now is the time.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-        "publishedAt": "2026-07-30T09:45:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-            "publishedAt": "2026-07-30T09:45:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 1.989,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
@@ -4117,9 +4167,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -4159,9 +4209,9 @@
     }
   ],
   "filteredOut": {
-    "football": 44,
+    "football": 42,
     "news": 71,
     "medical": 7,
-    "growth": 55
+    "growth": 56
   }
 }
