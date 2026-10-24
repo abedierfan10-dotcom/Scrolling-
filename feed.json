@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:12:48.960201+00:00",
+  "generatedAt": "2026-10-24T11:47:51.763182+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,36 +8,6 @@
   },
   "tabs": {
     "football": [
-      {
-        "id": "0a40b3ceb89a",
-        "category": "football",
-        "lang": "en",
-        "title": "Mourinho says Madrid-Barça comparison ‘unfair’, Premier League news, WSL, and more",
-        "summary": "⚽ All the latest as we build up to Saturday’s games ⚽ Ten things to look out for | Fixtures | Mail David Just under three hours to go before Villa Park witnesses people defiantly waving inflatable bananas while being called cheats. Taha Hashim looks at Aston…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
-        "publishedAt": "2026-10-24T10:00:12+00:00",
-        "subtopics": [
-          "Barcelona",
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
-            "publishedAt": "2026-10-24T10:00:12+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 15.478,
-        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
-      },
       {
         "id": "296a7b30e774",
         "category": "football",
@@ -65,7 +35,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.25,
+        "score": 13.183,
         "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
@@ -73,7 +43,7 @@
         "category": "football",
         "lang": "en",
         "title": "Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico",
-        "summary": "Once Bobby Robson’s translator at the Camp Nou, Mourinho is tasked with bringing down Barcelona on Sunday José Mourinho has done the por que?, the printout and the press conference no-show, and he’s been here only three months. The Real Madrid manager has…",
+        "summary": "Once Bobby Robson’s translator at the Camp Nou, José Mourinho is tasked with bringing down Barcelona on Sunday José Mourinho has done the por que?, the printout and the press conference no-show, and he’s been here only three months. The Real Madrid manager…",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.theguardian.com/football/2026/oct/24/la-liga-clasico-barcelona-real-madrid-jose-mourinho",
@@ -93,38 +63,61 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 12.184,
+        "isNew": false,
+        "score": 12.04,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       },
       {
-        "id": "7defce3e448e",
+        "id": "16d95f19a08e",
         "category": "football",
         "lang": "en",
-        "title": "Aston Villa v Manchester City: Premier League – live",
-        "summary": "⚽ Premier League updates from the 12.30pm BST kick-off ⚽ Ten things to look out for | Live scores | Table You remember Manchester City, don’t you? They made one or two headlines earlier in the month, but have since been kept off the back pages by a…",
+        "title": "WSL: Tottenham vs Arsenal LIVE!",
+        "summary": "⚽ Updates from Saturday’s action around the grounds ⚽ Ten things to look out for | Scores | Tables | Mail Billy Here are the starting XIs for the north London derby. Martin Ho makes three changes from Spurs’ 6-2 defeat to Chelsea last weekend, while Jess Naz…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
-        "publishedAt": "2026-10-24T10:00:30+00:00",
+        "url": "https://www.skysports.com/football/tottenham-hotspur-women-vs-arsenal-women/live/575803",
+        "publishedAt": "2026-10-24T12:20:00+00:00",
         "subtopics": [
           "Premier League",
           "Results"
         ],
         "sources": [
           {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/tottenham-hotspur-women-vs-arsenal-women/live/575803",
+            "publishedAt": "2026-10-24T12:20:00+00:00",
+            "tier": 2
+          },
+          {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
-            "publishedAt": "2026-10-24T10:00:30+00:00",
+            "url": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live",
+            "publishedAt": "2026-10-24T11:36:48+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-24T06:02:44+00:00",
             "tier": 2
           }
         ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
+        "developing": true,
+        "latestUpdate": "WSL: Tottenham vs Arsenal LIVE!",
+        "earlier": [
+          {
+            "title": "Tottenham host Arsenal in WSL, Premier League, EFL and more – football clockwatch live",
+            "source": "The Guardian",
+            "publishedAt": "2026-10-24T11:36:48+00:00"
+          },
+          {
+            "title": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
+            "source": "BBC Sport",
+            "publishedAt": "2026-10-24T06:02:44+00:00"
+          }
+        ],
         "isNew": true,
-        "score": 7.979,
-        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
+        "score": 9.6,
+        "firstSeen": "2026-10-24T11:47:51.763182+00:00"
       },
       {
         "id": "f823966b0fc5",
@@ -152,7 +145,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.973,
+        "score": 6.868,
         "firstSeen": "2026-10-23T21:47:39.040204+00:00"
       },
       {
@@ -180,8 +173,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.957,
+        "isNew": false,
+        "score": 6.853,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       },
       {
@@ -211,8 +204,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.933,
+        "score": 6.83,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
+      },
+      {
+        "id": "7defce3e448e",
+        "category": "football",
+        "lang": "en",
+        "title": "Aston Villa v Manchester City: Premier League – live",
+        "summary": "⚽ Premier League updates from the 12.30pm BST kick-off ⚽ Ten things to look out for | Live scores | Table Enzo Maresca on the omission of Phil Foden The good thing is that because we play so many games we have so many players available and to choose from. We…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
+        "publishedAt": "2026-10-24T11:39:22+00:00",
+        "subtopics": [
+          "Premier League",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
+            "publishedAt": "2026-10-24T11:39:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.985,
+        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       },
       {
         "id": "5e219c7870ac",
@@ -240,7 +262,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.633,
+        "score": 5.599,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       },
       {
@@ -268,8 +290,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.488,
+        "isNew": false,
+        "score": 5.382,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       },
       {
@@ -298,7 +320,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.438,
+        "score": 5.334,
         "firstSeen": "2026-10-23T21:47:39.040204+00:00"
       },
       {
@@ -327,7 +349,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.967,
+        "score": 4.888,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -356,7 +378,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.768,
+        "score": 4.7,
         "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
@@ -385,7 +407,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.384,
+        "score": 4.337,
         "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
@@ -414,40 +436,46 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.705,
+        "score": 3.667,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
-      },
+      }
+    ],
+    "news": [
       {
-        "id": "c8f56e398fa9",
-        "category": "football",
-        "lang": "en",
-        "title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
-        "summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?",
+        "id": "7e08af81ae4b",
+        "category": "news",
+        "lang": "de",
+        "title": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+        "summary": "Der Kanzler ruft auf dem CSU-Parteitag zu Geschlossenheit auf und warnt vor Extremisten. Großen Applaus gibt es aber für einen besonderen Gruß, der im Zusammenhang mit der Diskussion über die Steinmeier-Nachfolge gesehen wurde.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T22:52:52+00:00",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+        "publishedAt": "2026-10-24T11:37:52+00:00",
         "subtopics": [
-          "Europa League",
-          "Results"
+          "Germany",
+          "Government"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-22T22:52:52+00:00",
-            "tier": 2
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+            "publishedAt": "2026-10-24T11:37:52+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+            "publishedAt": "2026-10-24T11:37:52+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 3.38,
-        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
-      }
-    ],
-    "news": [
+        "isNew": true,
+        "score": 7.993,
+        "firstSeen": "2026-10-24T11:47:51.763182+00:00"
+      },
       {
         "id": "681fb2226123",
         "category": "news",
@@ -508,7 +536,7 @@
           }
         ],
         "isNew": false,
-        "score": 7.419,
+        "score": 7.363,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00"
       },
       {
@@ -536,8 +564,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.385,
+        "isNew": false,
+        "score": 7.32,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       },
       {
@@ -572,7 +600,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.358,
+        "score": 7.303,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -607,7 +635,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.351,
+        "score": 7.296,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -642,7 +670,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.31,
+        "score": 7.256,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -671,7 +699,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.197,
+        "score": 7.146,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -700,7 +728,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.095,
+        "score": 7.046,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00"
       },
       {
@@ -729,7 +757,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.956,
+        "score": 6.901,
         "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
@@ -758,7 +786,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.956,
+        "score": 6.901,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -787,7 +815,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.812,
+        "score": 6.76,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -816,7 +844,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.654,
+        "score": 6.616,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       },
       {
@@ -857,7 +885,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.598,
+        "score": 6.561,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       },
       {
@@ -886,7 +914,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.512,
+        "score": 6.477,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00"
       },
       {
@@ -921,7 +949,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.475,
+        "score": 6.441,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -956,36 +984,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.451,
+        "score": 6.418,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
-      },
-      {
-        "id": "d220b6e06e2f",
-        "category": "news",
-        "lang": "de",
-        "title": "Unwetterwarnung: Herbststurm mit Orkanböen und Sturmflut droht",
-        "summary": "Im Norden wird es am Wochenende stürmisch. Der Sturm hat in der Weser-Ems-Region für viele umgestürzte Bäume gesorgt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/info/unwetterwarnung-herbststurm-mit-orkanboeen-und-sturmflut-droht,wetter-7178.html",
-        "publishedAt": "2026-10-24T06:37:20+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/info/unwetterwarnung-herbststurm-mit-orkanboeen-und-sturmflut-droht,wetter-7178.html",
-            "publishedAt": "2026-10-24T06:37:20+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.444,
-        "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
         "id": "6402525362d9",
@@ -1013,8 +1013,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.42,
+        "score": 6.387,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
+      },
+      {
+        "id": "d220b6e06e2f",
+        "category": "news",
+        "lang": "de",
+        "title": "Unwetterwarnung: Herbststurm mit Orkanböen und Sturmflut droht",
+        "summary": "Im Norden wird es am Wochenende stürmisch. Der Sturm hat in der Weser-Ems-Region für viele umgestürzte Bäume gesorgt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/info/unwetterwarnung-herbststurm-mit-orkanboeen-und-sturmflut-droht,wetter-7178.html",
+        "publishedAt": "2026-10-24T06:37:20+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/info/unwetterwarnung-herbststurm-mit-orkanboeen-und-sturmflut-droht,wetter-7178.html",
+            "publishedAt": "2026-10-24T06:37:20+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.378,
+        "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
         "id": "ce86fe146b7e",
@@ -1048,7 +1076,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.392,
+        "score": 6.36,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1083,7 +1111,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.368,
+        "score": 6.336,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1112,7 +1140,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.139,
+        "score": 6.113,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1141,7 +1169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.118,
+        "score": 6.068,
         "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
@@ -1176,7 +1204,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.073,
+        "score": 6.048,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -1205,7 +1233,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.064,
+        "score": 6.039,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00"
       },
       {
@@ -1240,7 +1268,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.055,
+        "score": 6.03,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1270,7 +1298,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.009,
+        "score": 5.986,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00"
       },
       {
@@ -1305,7 +1333,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.999,
+        "score": 5.976,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1346,7 +1374,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.986,
+        "score": 5.963,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1376,7 +1404,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.947,
+        "score": 5.925,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1404,7 +1432,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.861,
+        "score": 5.808,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -1439,7 +1467,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.791,
+        "score": 5.773,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -1474,7 +1502,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.743,
+        "score": 5.725,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -1503,37 +1531,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.741,
+        "score": 5.724,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
-      },
-      {
-        "id": "e1ca00f3ca02",
-        "category": "news",
-        "lang": "de",
-        "title": "Beleidigungen bei Corona-Demo: Mann in Hamburg verurteilt",
-        "summary": "Das Amtsgericht hat einen Mann aus Buchholz wegen Beleidigungen zu einer Geldstrafe verurteilt. Damit endet ein Rechtsstreit in drei Instanzen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/beleidigungen-bei-corona-demo-mann-in-hamburg-verurteilt,prozess-1054.html",
-        "publishedAt": "2026-10-24T06:06:27+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/beleidigungen-bei-corona-demo-mann-in-hamburg-verurteilt,prozess-1054.html",
-            "publishedAt": "2026-10-24T06:06:27+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.722,
-        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       },
       {
         "id": "01e39ab5de10",
@@ -1562,28 +1561,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.702,
+        "score": 5.685,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
-        "id": "670e9fd05645",
+        "id": "e1ca00f3ca02",
         "category": "news",
         "lang": "de",
-        "title": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
-        "summary": "Millionen Cyberattacken binnen weniger Stunden: Die PHP-Sicherheitslücke hat weltweit Besorgnis ausgelöst. Viele Internetseiten sind noch immer nicht erreichbar - und Kriminelle versuchen weiter, die Lücke auszunutzen.",
+        "title": "Beleidigungen bei Corona-Demo: Mann in Hamburg verurteilt",
+        "summary": "Das Amtsgericht hat einen Mann aus Buchholz wegen Beleidigungen zu einer Geldstrafe verurteilt. Damit endet ein Rechtsstreit in drei Instanzen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html",
-        "publishedAt": "2026-10-22T16:27:55+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/beleidigungen-bei-corona-demo-mann-in-hamburg-verurteilt,prozess-1054.html",
+        "publishedAt": "2026-10-24T06:06:27+00:00",
         "subtopics": [
-          "Germany",
-          "Tech & AI"
+          "Hamburg",
+          "Protests"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html",
-            "publishedAt": "2026-10-22T16:27:55+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/beleidigungen-bei-corona-demo-mann-in-hamburg-verurteilt,prozess-1054.html",
+            "publishedAt": "2026-10-24T06:06:27+00:00",
             "tier": 1
           }
         ],
@@ -1591,8 +1590,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.612,
-        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
+        "score": 5.656,
+        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       }
     ],
     "medical": [
@@ -1624,7 +1623,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 14.195,
+        "score": 14.18,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1658,7 +1657,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.273,
+        "score": 10.26,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1689,7 +1688,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.232,
+        "score": 10.212,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1721,7 +1720,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.47,
+        "score": 9.464,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1751,7 +1750,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.8,
+        "score": 8.792,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1782,7 +1781,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.47,
+        "score": 8.464,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1813,7 +1812,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.948,
+        "score": 7.93,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1851,7 +1850,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.471,
+        "score": 7.458,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1882,7 +1881,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.232,
+        "score": 7.212,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1914,7 +1913,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.567,
+        "score": 6.56,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1945,7 +1944,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.47,
+        "score": 6.464,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1976,7 +1975,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.47,
+        "score": 6.464,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2006,7 +2005,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.273,
+        "score": 6.26,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2037,7 +2036,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.125,
+        "score": 6.121,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2068,7 +2067,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.125,
+        "score": 6.121,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2099,7 +2098,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.013,
+        "score": 4.992,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2130,7 +2129,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.9,
+        "score": 4.879,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2161,38 +2160,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.404,
-        "firstSeen": "2026-10-21T21:11:48.388929+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "6c637a88a190",
-        "category": "medical",
-        "lang": "en",
-        "title": "Gen AI policy is a White House priority, CDRH digital health leader says",
-        "summary": "Rick Abramson, director of the FDA’s Digital Health Center of Excellence, said to expect draft guidance in the coming months.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
-        "publishedAt": "2026-10-21T13:02:00+00:00",
-        "subtopics": [
-          "AI & digital health",
-          "Regulatory"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
-            "publishedAt": "2026-10-21T13:02:00+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.329,
+        "score": 4.387,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2222,7 +2190,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.686,
+        "score": 3.666,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2252,7 +2220,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.403,
+        "score": 3.386,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2282,7 +2250,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.072,
+        "score": 3.05,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2315,7 +2283,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.992,
+        "score": 5.936,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -2351,7 +2319,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.312,
+        "score": 5.272,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2386,8 +2354,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.986,
+        "isNew": false,
+        "score": 4.928,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00",
         "kind": "article"
       },
@@ -2417,7 +2385,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.917,
+        "score": 4.86,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "article"
       },
@@ -2447,7 +2415,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.877,
+        "score": 4.84,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2485,7 +2453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.532,
+        "score": 4.491,
         "firstSeen": "2026-10-22T22:02:25.599257+00:00",
         "kind": "article"
       },
@@ -2514,7 +2482,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.469,
+        "score": 4.43,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -2544,7 +2512,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.264,
+        "score": 4.23,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00",
         "kind": "article"
       },
@@ -2573,7 +2541,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.236,
+        "score": 4.202,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00",
         "kind": "article"
       },
@@ -2602,7 +2570,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.191,
+        "score": 4.152,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -2632,7 +2600,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.157,
+        "score": 4.144,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2668,7 +2636,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.153,
+        "score": 4.115,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -2697,7 +2665,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.09,
+        "score": 4.053,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -2727,7 +2695,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.856,
+        "score": 3.855,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2764,7 +2732,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.788,
+        "score": 3.786,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2801,7 +2769,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.745,
+        "score": 3.744,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2838,7 +2806,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.667,
+        "score": 3.666,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2875,7 +2843,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.666,
+        "score": 3.639,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
       },
@@ -2904,7 +2872,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.633,
+        "score": 3.632,
         "firstSeen": "2026-10-11T21:25:37.196199+00:00",
         "kind": "video",
         "video": {
@@ -2940,7 +2908,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.627,
+        "score": 3.601,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
       },
@@ -2969,7 +2937,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.58,
+        "score": 3.579,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -3005,7 +2973,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.561,
+        "score": 3.554,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -3041,7 +3009,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.381,
+        "score": 3.36,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00",
         "kind": "article"
       },
@@ -3072,7 +3040,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.326,
+        "score": 3.307,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00",
         "kind": "article"
       },
@@ -3102,7 +3070,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.117,
+        "score": 3.103,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
@@ -3131,7 +3099,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.93,
+        "score": 2.92,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -3160,45 +3128,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.927,
+        "score": 2.917,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "126aa063fc33",
-        "category": "growth",
-        "lang": "en",
-        "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
-        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
-        "publishedAt": "2026-10-15T10:09:45+00:00",
-        "subtopics": [
-          "Productivity & systems",
-          "Communication",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
-            "publishedAt": "2026-10-15T10:09:45+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
-            "publishedAt": "2026-10-06T22:08:36+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.901,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
       {
@@ -3249,7 +3180,7 @@
           }
         ],
         "isNew": false,
-        "score": 2.758,
+        "score": 2.752,
         "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
@@ -3280,7 +3211,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.705,
+        "score": 2.704,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
@@ -3311,7 +3242,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.477,
+        "score": 2.476,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3342,7 +3273,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.447,
+        "score": 2.446,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3371,38 +3302,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.375,
+        "score": 2.374,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a842fefb2bdb",
-        "category": "growth",
-        "lang": "en",
-        "title": "What It’s Like to Be…a Mail Carrier",
-        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
-        "publishedAt": "2026-08-11T12:30:27+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
-            "publishedAt": "2026-08-11T12:30:27+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.316,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
@@ -3432,8 +3333,70 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.291,
+        "score": 2.29,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "61ec1eae87c6",
+        "category": "growth",
+        "lang": "en",
+        "title": "Is Startup Equity a Bad Deal?",
+        "summary": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+        "publishedAt": "2026-09-22T11:45:57+00:00",
+        "subtopics": [
+          "Presentation & speaking",
+          "Leadership",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
+            "publishedAt": "2026-09-22T11:45:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.27,
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "f71d07f2efd6",
+        "category": "growth",
+        "lang": "en",
+        "title": "What Was the Best Portfolio Over the Last 50 Years?",
+        "summary": "A few months ago, I analyzed U.S. stock returns over the last century .",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+        "publishedAt": "2026-09-15T11:45:37+00:00",
+        "subtopics": [
+          "Productivity & systems",
+          "Personal finance",
+          "Persuasion & negotiation"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
+            "publishedAt": "2026-09-15T11:45:37+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.205,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
     ]
@@ -3472,7 +3435,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 33,
+      "items": 34,
       "error": null
     },
     {
@@ -3573,9 +3536,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "onefutureuseful",
@@ -3615,9 +3578,9 @@
     }
   ],
   "filteredOut": {
-    "football": 69,
-    "news": 59,
-    "medical": 7,
+    "football": 64,
+    "news": 60,
+    "medical": 8,
     "growth": 51
   }
 }
