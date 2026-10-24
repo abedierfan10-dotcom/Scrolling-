@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:47:51.763182+00:00",
+  "generatedAt": "2026-10-24T20:08:26.935020+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -35,8 +35,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.183,
+        "score": 12.886,
         "firstSeen": "2026-10-23T10:57:12.333690+00:00"
+      },
+      {
+        "id": "5ec3b7ff4f69",
+        "category": "football",
+        "lang": "en",
+        "title": "European football: Roma snatch late draw in 3-3 thriller as Como win again",
+        "summary": "McTominay scores twice for Napoli against Roma Dortmund top Bundesliga after Eintracht Frankfurt win Roma missed the chance to move top of Serie A, but preserved their unbeaten status as Leonardo Balerdi’s 89th-minute goal snatched a thrilling 3-3 draw at…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
+        "publishedAt": "2026-10-24T19:27:13+00:00",
+        "subtopics": [
+          "Champions League",
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
+            "publishedAt": "2026-10-24T19:27:13+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 11.429,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
         "id": "6ea0f9b180bf",
@@ -64,89 +94,229 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.04,
+        "score": 11.401,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       },
       {
-        "id": "16d95f19a08e",
+        "id": "479de8ced769",
         "category": "football",
         "lang": "en",
-        "title": "WSL: Tottenham vs Arsenal LIVE!",
-        "summary": "⚽ Updates from Saturday’s action around the grounds ⚽ Ten things to look out for | Scores | Tables | Mail Billy Here are the starting XIs for the north London derby. Martin Ho makes three changes from Spurs’ 6-2 defeat to Chelsea last weekend, while Jess Naz…",
+        "title": "Arsenal beat Everton to go level on points with leaders Man City",
+        "summary": "Champions Arsenal capitalised on Manchester City’s defeat at Aston Villa to move level on points with the Premier League leaders by comfortably beating Everton 2-0 at a rain-soaked Emirates Stadium.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/tottenham-hotspur-women-vs-arsenal-women/live/575803",
-        "publishedAt": "2026-10-24T12:20:00+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-24T18:59:30+00:00",
         "subtopics": [
           "Premier League",
           "Results"
         ],
         "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/tottenham-hotspur-women-vs-arsenal-women/live/575803",
-            "publishedAt": "2026-10-24T12:20:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live",
-            "publishedAt": "2026-10-24T11:36:48+00:00",
-            "tier": 2
-          },
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-24T06:02:44+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-24T18:59:30+00:00",
             "tier": 2
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "WSL: Tottenham vs Arsenal LIVE!",
-        "earlier": [
-          {
-            "title": "Tottenham host Arsenal in WSL, Premier League, EFL and more – football clockwatch live",
-            "source": "The Guardian",
-            "publishedAt": "2026-10-24T11:36:48+00:00"
           },
           {
-            "title": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
-            "source": "BBC Sport",
-            "publishedAt": "2026-10-24T06:02:44+00:00"
-          }
-        ],
-        "isNew": true,
-        "score": 9.6,
-        "firstSeen": "2026-10-24T11:47:51.763182+00:00"
-      },
-      {
-        "id": "f823966b0fc5",
-        "category": "football",
-        "lang": "en",
-        "title": "Forest out of relegation zone after cagey draw at Ipswich",
-        "summary": "FREE TO WATCH: Highlights from the Premier League match between Ipswich Town and Nottingham Forest.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13602902/ipswich-town-1-1-nottingham-forest-premier-league-highlights",
-        "publishedAt": "2026-10-23T22:09:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
             "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13602902/ipswich-town-1-1-nottingham-forest-premier-league-highlights",
-            "publishedAt": "2026-10-23T22:09:00+00:00",
+            "url": "https://www.skysports.com/football/arsenal-vs-everton/report/559514",
+            "publishedAt": "2026-10-24T16:58:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.868,
-        "firstSeen": "2026-10-23T21:47:39.040204+00:00"
+        "isNew": true,
+        "score": 8.683,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+      },
+      {
+        "id": "b13a238ded29",
+        "category": "football",
+        "lang": "en",
+        "title": "Burnley sack Nicky Hayen after Lincoln rout leaves them in bottom three",
+        "summary": "Belgian won only one of his 14 games in charge Relegated Burnley expected to challenge for promotion Burnley have sacked Nicky Hayen after only 14 games in charge, in the wake of a 4-1 defeat at Lincoln that left the Clarets in the Championship’s relegation…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/24/burnley-sack-nicky-hayen-lincoln-rout-championship",
+        "publishedAt": "2026-10-24T18:05:08+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/24/burnley-sack-nicky-hayen-lincoln-rout-championship",
+            "publishedAt": "2026-10-24T18:05:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.793,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+      },
+      {
+        "id": "d01a03bb87c0",
+        "category": "football",
+        "lang": "en",
+        "title": "Fulham climb out of drop zone after Oscar Bobb’s late show sinks Coventry",
+        "summary": "Oscar Bobb’s first Premier League goal for Fulham earned a win against Coventry that lifted Álvaro Arbeloa’s side clear of the relegation zone. Bobb produced a fine bit of individual skill to score in the 80th minute, twisting his way into the area and…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/24/coventry-fulham-premier-league-match-report",
+        "publishedAt": "2026-10-24T16:11:49+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/24/coventry-fulham-premier-league-match-report",
+            "publishedAt": "2026-10-24T16:11:49+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.616,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+      },
+      {
+        "id": "8f88c38050af",
+        "category": "football",
+        "lang": "en",
+        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
+        "summary": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-24T18:59:27+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-24T18:59:27+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13603081/aston-villa-2-1-manchester-city-premier-league-highlights",
+            "publishedAt": "2026-10-24T17:15:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.183,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+      },
+      {
+        "id": "0c45362bdf5a",
+        "category": "football",
+        "lang": "en",
+        "title": "Konsa and Gabriel on target as Arsenal top Everton",
+        "summary": "The wait goes on for David Moyes. The 63-year-old Scot must have been hoping that on his 14th visit to this stadium as Everton’s manager, his luck would change.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/watch/video/13603221/arsenal-2-0-everton-premier-league-highlights",
+        "publishedAt": "2026-10-24T17:15:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13603221/arsenal-2-0-everton-premier-league-highlights",
+            "publishedAt": "2026-10-24T17:15:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/24/arsenal-everton-premier-league-match-report",
+            "publishedAt": "2026-10-24T16:03:49+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.013,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+      },
+      {
+        "id": "0bda25cea8cc",
+        "category": "football",
+        "lang": "en",
+        "title": "Arteta collating evidence of other managers stepping out of technical area",
+        "summary": "Arsenal boss Mikel Arteta says he is compiling footage of rival Premier League managers repeatedly leaving their technical areas after receiving his second yellow card of the season in his side’s 2-0 win over Everton.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13603372/arsenal-boss-mikel-arteta-reveals-he-clips-up-premier-league-managers-stepping-out-of-technical-area",
+        "publishedAt": "2026-10-24T20:45:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13603372/arsenal-boss-mikel-arteta-reveals-he-clips-up-premier-league-managers-stepping-out-of-technical-area",
+            "publishedAt": "2026-10-24T20:45:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.5,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+      },
+      {
+        "id": "e066a0412087",
+        "category": "football",
+        "lang": "en",
+        "title": "Spurs earn rare win at Stamford Bridge in chaotic end to game",
+        "summary": "FREE TO WATCH: Highlights from the Premier League match between Chelsea and Tottenham Hotspur.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/watch/video/13603351/chelsea-0-2-tottenham-hotspur-premier-league-highlights",
+        "publishedAt": "2026-10-24T19:54:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13603351/chelsea-0-2-tottenham-hotspur-premier-league-highlights",
+            "publishedAt": "2026-10-24T19:54:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.475,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
         "id": "0aa868d3aaac",
@@ -174,8 +344,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.853,
+        "score": 6.387,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00"
+      },
+      {
+        "id": "3b4625d79eb6",
+        "category": "football",
+        "lang": "en",
+        "title": "Bobb's late strike secures Fulham win at Coventry",
+        "summary": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-24T18:59:22+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-24T18:59:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.382,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
         "id": "6354a1ae6e1d",
@@ -204,37 +403,95 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.83,
+        "score": 6.369,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
-        "id": "7defce3e448e",
+        "id": "a1b738689fc1",
         "category": "football",
         "lang": "en",
-        "title": "Aston Villa v Manchester City: Premier League – live",
-        "summary": "⚽ Premier League updates from the 12.30pm BST kick-off ⚽ Ten things to look out for | Live scores | Table Enzo Maresca on the omission of Phil Foden The good thing is that because we play so many games we have so many players available and to choose from. We…",
+        "title": "Bobb stunner earns Fulham back-to-back PL wins",
+        "summary": "Highlights from the Premier League match between Coventry City and Fulham.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
-        "publishedAt": "2026-10-24T11:39:22+00:00",
+        "url": "https://www.skysports.com/watch/video/13603205/coventry-city-0-1-fulham-premier-league-highlights",
+        "publishedAt": "2026-10-24T17:15:00+00:00",
         "subtopics": [
           "Premier League",
-          "Upcoming"
+          "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
-            "publishedAt": "2026-10-24T11:39:22+00:00",
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13603205/coventry-city-0-1-fulham-premier-league-highlights",
+            "publishedAt": "2026-10-24T17:15:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.985,
-        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
+        "isNew": true,
+        "score": 6.213,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+      },
+      {
+        "id": "a7a2958dde20",
+        "category": "football",
+        "lang": "en",
+        "title": "Moment of magic from Bobb wins it for Fulham at Coventry",
+        "summary": "A late moment of magic from Oscar Bobb secured a narrow 1-0 victory for Fulham at Coventry to make it back-to-back Premier League wins for Alvaro Arbeloa's side.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/coventry-city-vs-fulham/report/559517",
+        "publishedAt": "2026-10-24T16:45:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/coventry-city-vs-fulham/report/559517",
+            "publishedAt": "2026-10-24T16:45:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.167,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+      },
+      {
+        "id": "28aa3ba09828",
+        "category": "football",
+        "lang": "en",
+        "title": "Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start",
+        "summary": "Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league",
+        "publishedAt": "2026-10-24T15:16:45+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league",
+            "publishedAt": "2026-10-24T15:16:45+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.034,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
         "id": "5e219c7870ac",
@@ -262,8 +519,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.599,
+        "score": 5.449,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
+      },
+      {
+        "id": "a6694c9ed9da",
+        "category": "football",
+        "lang": "en",
+        "title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+        "summary": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-21T23:11:06+00:00",
+        "subtopics": [
+          "Champions League",
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-21T23:11:06+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.274,
+        "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
         "id": "4377a3be7ce4",
@@ -291,7 +578,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.382,
+        "score": 4.908,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       },
       {
@@ -320,7 +607,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.334,
+        "score": 4.873,
         "firstSeen": "2026-10-23T21:47:39.040204+00:00"
       },
       {
@@ -349,37 +636,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.888,
+        "score": 4.539,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
-      },
-      {
-        "id": "7faf2b0d05ee",
-        "category": "football",
-        "lang": "en",
-        "title": "Failure on the field, unrest in stands - Burnley's horror 12 months",
-        "summary": "Burnley have failed to win a home league game in 12 months as they continue to struggle after relegation from the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6qxnzyx77vqo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-23T09:24:10+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c6qxnzyx77vqo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-23T09:24:10+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.7,
-        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
         "id": "cf02bf7b8a74",
@@ -407,7 +665,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.337,
+        "score": 4.126,
         "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
@@ -436,7 +694,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.667,
+        "score": 3.5,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       }
     ],
@@ -450,7 +708,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
-        "publishedAt": "2026-10-24T11:37:52+00:00",
+        "publishedAt": "2026-10-24T12:19:07+00:00",
         "subtopics": [
           "Germany",
           "Government"
@@ -459,13 +717,42 @@
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
-            "publishedAt": "2026-10-24T11:37:52+00:00",
+            "publishedAt": "2026-10-24T12:19:07+00:00",
             "tier": 1
           },
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
-            "publishedAt": "2026-10-24T11:37:52+00:00",
+            "publishedAt": "2026-10-24T12:19:07+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.67,
+        "firstSeen": "2026-10-24T11:47:51.763182+00:00"
+      },
+      {
+        "id": "7d9bb8a5ad46",
+        "category": "news",
+        "lang": "de",
+        "title": "Herbstferienende im Norden: Stockender Verkehr und Stau am Samstag",
+        "summary": "In mehreren Bundesländern enden die Ferien - deshalb war es tagsüber voll auf den Straßen im Norden. Baustellen sorgten für weitere Probleme.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/info/herbstferienende-im-norden-adac-erwartet-staus-am-wochenende,stau-320.html",
+        "publishedAt": "2026-10-24T19:16:00+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/info/herbstferienende-im-norden-adac-erwartet-staus-am-wochenende,stau-320.html",
+            "publishedAt": "2026-10-24T19:16:00+00:00",
             "tier": 1
           }
         ],
@@ -473,8 +760,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.993,
-        "firstSeen": "2026-10-24T11:47:51.763182+00:00"
+        "score": 7.561,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+      },
+      {
+        "id": "9b046b315bcc",
+        "category": "news",
+        "lang": "de",
+        "title": "Neue Biografie über Architekt und Stadtplaner Fritz Schumacher",
+        "summary": "\"Wer war Fritz Schumacher. Vier Leben für Baukultur und Städtebaureform\" würdigt ihn, entmystifiziert ihn aber auch ein bisschen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/neue-biografie-ueber-architekt-und-stadtplaner-fritz-schumacher,hamj-15856.html",
+        "publishedAt": "2026-10-24T18:05:56+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/neue-biografie-ueber-architekt-und-stadtplaner-fritz-schumacher,hamj-15856.html",
+            "publishedAt": "2026-10-24T18:05:56+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.51,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
         "id": "681fb2226123",
@@ -536,37 +852,8 @@
           }
         ],
         "isNew": false,
-        "score": 7.363,
+        "score": 7.087,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00"
-      },
-      {
-        "id": "af0d5faf6e19",
-        "category": "news",
-        "lang": "de",
-        "title": "Harburg: Scharfe Waffe bei Verkehrskontrolle gefunden",
-        "summary": "Polizisten haben an einer Tankstelle einen 31-Jährigen festgenommen. Warum er schwer bewaffnet unterwegs war, ist unklar.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/harburg-scharfe-waffe-bei-verkehrskontrolle-gefunden,kurzehh-4700.html",
-        "publishedAt": "2026-10-24T05:12:27+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/harburg-scharfe-waffe-bei-verkehrskontrolle-gefunden,kurzehh-4700.html",
-            "publishedAt": "2026-10-24T05:12:27+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.32,
-        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
       },
       {
         "id": "fdc642d51d82",
@@ -600,7 +887,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.303,
+        "score": 7.034,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -635,7 +922,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.296,
+        "score": 7.028,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -670,7 +957,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.256,
+        "score": 6.993,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -699,7 +986,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.146,
+        "score": 6.895,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -728,57 +1015,55 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.046,
+        "score": 6.807,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00"
       },
       {
-        "id": "977e625d7433",
+        "id": "9e3cdd8bce6d",
         "category": "news",
         "lang": "de",
-        "title": "\"Fördern & Wohnen\"-Chefin: 450.000 Euro für fünf Monate und ein rätselhafter Abgang",
-        "summary": "Die ehemalige Geschäftsführerin des städtischen Unternehmens, Kathrin Sommer, war nur fünf Monate im Amt. Ihr Abgang wirft Fragen auf.",
+        "title": "Unwetterwarnung: Herbststurm mit Orkanböen und Sturmflut droht",
+        "summary": "In Teilen Schleswig-Holsteins gilt eine Unwetterwarnung. Am Sonntag gibt es Einschränkungen beim Sylt Shuttle.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/foerdern-wohnen-chefin-450000-euro-fuer-fuenf-monate-und-ein-raetselhafter-abgang,hohe-gehaelter-100.html",
-        "publishedAt": "2026-10-23T17:58:49+00:00",
+        "url": "https://www.ndr.de/nachrichten/info/herbststurm-im-norden-an-der-kueste-drohen-orkanboeen,wetter-7178.html",
+        "publishedAt": "2026-10-24T17:45:52+00:00",
         "subtopics": [
-          "Hamburg",
-          "Conflict"
+          "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/foerdern-wohnen-chefin-450000-euro-fuer-fuenf-monate-und-ein-raetselhafter-abgang,hohe-gehaelter-100.html",
-            "publishedAt": "2026-10-23T17:58:49+00:00",
+            "url": "https://www.ndr.de/nachrichten/info/herbststurm-im-norden-an-der-kueste-drohen-orkanboeen,wetter-7178.html",
+            "publishedAt": "2026-10-24T17:45:52+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.901,
-        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
+        "isNew": true,
+        "score": 6.496,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
-        "id": "93616ffed98f",
+        "id": "e33652a2ebca",
         "category": "news",
         "lang": "de",
-        "title": "Fördern & Wohnen: Streit um Abfindung für Ex-Geschäftsführerin",
-        "summary": "Kathrin Sommer soll rund 250.000 Euro Gehalt und 200.000 Euro Abfindung bekommen haben - für nicht mal fünf Monate Arbeit.",
+        "title": "Halbmarathon 2026 in Hamburg: Viele Straßen am Sonntag gesperrt",
+        "summary": "Wegen des Halbmarathons in Hamburg kommt es am Sonntag zu einigen Sperrungen. Der Veranstalter empfiehlt, U- und S-Bahnen zu nutzen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/foerdern-wohnen-streit-um-abfindung-fuer-ex-geschaeftsfuehrerin,hamj-15826.html",
-        "publishedAt": "2026-10-23T17:58:09+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
+        "publishedAt": "2026-10-24T17:17:26+00:00",
         "subtopics": [
-          "Hamburg",
-          "Markets"
+          "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/foerdern-wohnen-streit-um-abfindung-fuer-ex-geschaeftsfuehrerin,hamj-15826.html",
-            "publishedAt": "2026-10-23T17:58:09+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/halbmarathon-2026-in-hamburg-viele-strassen-am-sonntag-gesperrt,sperrungen-106.html",
+            "publishedAt": "2026-10-24T17:17:26+00:00",
             "tier": 1
           }
         ],
@@ -786,37 +1071,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.901,
-        "firstSeen": "2026-10-23T20:55:57.373175+00:00"
-      },
-      {
-        "id": "e92f0af50ce8",
-        "category": "news",
-        "lang": "de",
-        "title": "Chefin von \"Pflegen & Wohnen\" verlässt Unternehmen",
-        "summary": "Die Abgangswelle bei städtischen Unternehmen in Hamburg geht weiter: Jetzt will auch die Chefin des Pflegeheim-Unternehmens \"Pflegen & Wohnen\" ihren Posten räumen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/chefin-von-pflegen-wohnen-geht,lohmann-112.html",
-        "publishedAt": "2026-10-23T13:43:40+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/chefin-von-pflegen-wohnen-geht,lohmann-112.html",
-            "publishedAt": "2026-10-23T13:43:40+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.76,
-        "firstSeen": "2026-10-23T20:55:57.373175+00:00"
+        "score": 6.475,
+        "firstSeen": "2026-10-20T21:11:59.391555+00:00"
       },
       {
         "id": "2dec09aa37a5",
@@ -844,7 +1100,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.616,
+        "score": 6.427,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       },
       {
@@ -885,7 +1141,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.561,
+        "score": 6.379,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       },
       {
@@ -914,7 +1170,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.477,
+        "score": 6.305,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00"
       },
       {
@@ -949,7 +1205,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.441,
+        "score": 6.273,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -984,7 +1240,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.418,
+        "score": 6.252,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1013,36 +1269,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.387,
+        "score": 6.225,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
-      },
-      {
-        "id": "d220b6e06e2f",
-        "category": "news",
-        "lang": "de",
-        "title": "Unwetterwarnung: Herbststurm mit Orkanböen und Sturmflut droht",
-        "summary": "Im Norden wird es am Wochenende stürmisch. Der Sturm hat in der Weser-Ems-Region für viele umgestürzte Bäume gesorgt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/info/unwetterwarnung-herbststurm-mit-orkanboeen-und-sturmflut-droht,wetter-7178.html",
-        "publishedAt": "2026-10-24T06:37:20+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/info/unwetterwarnung-herbststurm-mit-orkanboeen-und-sturmflut-droht,wetter-7178.html",
-            "publishedAt": "2026-10-24T06:37:20+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.378,
-        "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
         "id": "ce86fe146b7e",
@@ -1076,7 +1304,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.36,
+        "score": 6.201,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1111,7 +1339,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.336,
+        "score": 6.18,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1140,37 +1368,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.113,
+        "score": 5.983,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
-      },
-      {
-        "id": "5c17d56f1f34",
-        "category": "news",
-        "lang": "de",
-        "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
-        "summary": "Wie sollen Ärzte oder Pflegekräfte reagieren, wenn Menschen in existenzieller Not sagen, dass sie sterben wollen? Ein Gesetz, das dafür Regeln vorgibt, fehlt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
-        "publishedAt": "2026-10-23T10:48:25+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
-            "publishedAt": "2026-10-23T10:48:25+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.068,
-        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
         "id": "5f34d18d46c0",
@@ -1204,7 +1403,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.048,
+        "score": 5.926,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -1233,7 +1432,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.039,
+        "score": 5.917,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00"
       },
       {
@@ -1268,7 +1467,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.03,
+        "score": 5.91,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1298,7 +1497,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.986,
+        "score": 5.871,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00"
       },
       {
@@ -1333,7 +1532,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.976,
+        "score": 5.862,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1374,8 +1573,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.963,
+        "score": 5.85,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
+      },
+      {
+        "id": "5c17d56f1f34",
+        "category": "news",
+        "lang": "de",
+        "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
+        "summary": "Wie sollen Ärzte oder Pflegekräfte reagieren, wenn Menschen in existenzieller Not sagen, dass sie sterben wollen? Ein Gesetz, das dafür Regeln vorgibt, fehlt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
+        "publishedAt": "2026-10-23T10:48:25+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
+            "publishedAt": "2026-10-23T10:48:25+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.827,
+        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
         "id": "29957aecddf7",
@@ -1404,36 +1632,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.925,
+        "score": 5.817,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
-        "id": "bd8aa729b5c4",
+        "id": "7f2ddf651a6f",
         "category": "news",
         "lang": "de",
-        "title": "Bahn-Sperrung zwischen Hamburg Hbf und Harburg: HVV stellt zusätzliche Busse",
-        "summary": "Südlich des Hauptbahnhofs tauscht die Deutsche Bahn ab Montag Weichen aus. Nur wenige Regionalzüge fahren.",
+        "title": "Demo in Hamburg gegen Kürzungen im Gesundheitswesen",
+        "summary": "Hunderte Menschen sind auf den Rathausmarkt gekommen, um gegen die Sparmaßnahmen im Gesundheitssystem zu protestieren. Die Initiatoren fordern, die Reformen zu stoppen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/bahn-sperrung-zwischen-hamburg-hbf-und-harburg-hvv-stellt-zusaetzliche-busse,bahnsperrung-104.html",
-        "publishedAt": "2026-10-23T15:12:24+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/demo-in-hamburg-gegen-kuerzungen-im-gesundheitswesen,demo-hamburg-164.html",
+        "publishedAt": "2026-10-24T17:44:15+00:00",
         "subtopics": [
-          "Hamburg"
+          "Hamburg",
+          "Healthcare"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/bahn-sperrung-zwischen-hamburg-hbf-und-harburg-hvv-stellt-zusaetzliche-busse,bahnsperrung-104.html",
-            "publishedAt": "2026-10-23T15:12:24+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/demo-in-hamburg-gegen-kuerzungen-im-gesundheitswesen,demo-hamburg-164.html",
+            "publishedAt": "2026-10-24T17:44:15+00:00",
+            "tier": 1
+          },
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/300-menschen-protestieren-gegen-kuerzungen-im-gesundheitswesen,hamj-15846.html",
+            "publishedAt": "2026-10-24T17:43:47+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.808,
-        "firstSeen": "2026-10-23T20:55:57.373175+00:00"
+        "isNew": true,
+        "score": 5.795,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
         "id": "6e5e29b047f6",
@@ -1467,7 +1702,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.773,
+        "score": 5.682,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -1502,7 +1737,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.725,
+        "score": 5.641,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -1531,7 +1766,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.724,
+        "score": 5.639,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -1561,28 +1796,27 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.685,
+        "score": 5.605,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
-        "id": "e1ca00f3ca02",
+        "id": "bd8aa729b5c4",
         "category": "news",
         "lang": "de",
-        "title": "Beleidigungen bei Corona-Demo: Mann in Hamburg verurteilt",
-        "summary": "Das Amtsgericht hat einen Mann aus Buchholz wegen Beleidigungen zu einer Geldstrafe verurteilt. Damit endet ein Rechtsstreit in drei Instanzen.",
+        "title": "Bahn-Sperrung zwischen Hamburger Hauptbahnhof und Harburg: Zusätzliche Busse",
+        "summary": "Südlich des Hauptbahnhofs tauscht die Deutsche Bahn ab Montag Weichen aus. Nur wenige Regionalzüge fahren.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/beleidigungen-bei-corona-demo-mann-in-hamburg-verurteilt,prozess-1054.html",
-        "publishedAt": "2026-10-24T06:06:27+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/bahn-sperrung-zwischen-hamburg-hbf-und-harburg-hvv-stellt-zusaetzliche-busse,bahnsperrung-104.html",
+        "publishedAt": "2026-10-23T15:12:24+00:00",
         "subtopics": [
-          "Hamburg",
-          "Protests"
+          "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/beleidigungen-bei-corona-demo-mann-in-hamburg-verurteilt,prozess-1054.html",
-            "publishedAt": "2026-10-24T06:06:27+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/bahn-sperrung-zwischen-hamburg-hbf-und-harburg-hvv-stellt-zusaetzliche-busse,bahnsperrung-104.html",
+            "publishedAt": "2026-10-23T15:12:24+00:00",
             "tier": 1
           }
         ],
@@ -1590,8 +1824,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.656,
-        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
+        "score": 5.55,
+        "firstSeen": "2026-10-23T20:55:57.373175+00:00"
+      },
+      {
+        "id": "10557573155c",
+        "category": "news",
+        "lang": "de",
+        "title": "Anteil weiblicher Führungskräfte in Deutschland weiterhin niedrig",
+        "summary": "Der Anteil von Frauen in Spitzenpositionen verharrt in Deutschland weiter unter dem EU-Durchschnitt: Weniger als ein Drittel der Chefposten war 2025 weiblich besetzt. Spitzenreiter im EU-Vergleich bleibt Schweden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html",
+        "publishedAt": "2026-10-19T12:19:43+00:00",
+        "subtopics": [
+          "Germany",
+          "EU",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html",
+            "publishedAt": "2026-10-19T12:19:43+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.448,
+        "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       }
     ],
     "medical": [
@@ -1623,7 +1887,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 14.18,
+        "score": 14.099,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1657,7 +1921,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.26,
+        "score": 10.197,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1688,7 +1952,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.212,
+        "score": 10.11,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1720,7 +1984,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.464,
+        "score": 9.433,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1750,7 +2014,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.792,
+        "score": 8.747,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1781,7 +2045,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.464,
+        "score": 8.433,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1812,7 +2076,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.93,
+        "score": 7.84,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1850,7 +2114,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.458,
+        "score": 7.386,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1881,7 +2145,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.212,
+        "score": 7.11,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1913,7 +2177,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.56,
+        "score": 6.525,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1944,7 +2208,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.464,
+        "score": 6.433,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1975,7 +2239,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.464,
+        "score": 6.433,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2005,7 +2269,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.26,
+        "score": 6.197,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2036,7 +2300,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.121,
+        "score": 6.104,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2067,7 +2331,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.121,
+        "score": 6.104,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2098,7 +2362,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.992,
+        "score": 4.883,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2129,7 +2393,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.879,
+        "score": 4.771,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2160,7 +2424,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.387,
+        "score": 4.298,
+        "firstSeen": "2026-10-21T21:11:48.388929+00:00",
+        "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "6c637a88a190",
+        "category": "medical",
+        "lang": "en",
+        "title": "Gen AI policy is a White House priority, CDRH digital health leader says",
+        "summary": "Rick Abramson, director of the FDA’s Digital Health Center of Excellence, said to expect draft guidance in the coming months.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
+        "publishedAt": "2026-10-21T13:02:00+00:00",
+        "subtopics": [
+          "AI & digital health",
+          "Regulatory"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
+            "publishedAt": "2026-10-21T13:02:00+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.226,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2190,7 +2485,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.666,
+        "score": 3.566,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2220,7 +2515,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.386,
+        "score": 3.298,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2250,13 +2545,49 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.05,
+        "score": 2.938,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "bd38abdd2335",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why Inference Matters 12x More Than Training | YC Paper Club",
+        "summary": "This week’s Paper Club is all about inference. For every FLOP spent training a model, roughly six go to serving it each year — and getting that part right has produced over $220 billion in market cap in the last decade.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=mHNKuH-9OxU",
+        "publishedAt": "2026-10-24T14:00:08+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=mHNKuH-9OxU",
+            "publishedAt": "2026-10-24T14:00:08+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.038,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00",
+        "kind": "video",
+        "video": {
+          "id": "mHNKuH-9OxU",
+          "thumbUrl": "https://i2.ytimg.com/vi/mHNKuH-9OxU/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=mHNKuH-9OxU",
+          "channel": "Y Combinator"
+        }
+      },
       {
         "id": "fd2a1f2c28a2",
         "category": "growth",
@@ -2283,7 +2614,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.936,
+        "score": 5.664,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -2319,7 +2650,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.272,
+        "score": 5.077,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2328,6 +2659,72 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=tENA0Z30QUU",
           "channel": "TED"
+        }
+      },
+      {
+        "id": "5699208333bf",
+        "category": "growth",
+        "lang": "en",
+        "title": "battledrones v14: Compass Rose, a four player map",
+        "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+        "publishedAt": "2026-10-24T03:59:57+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+            "publishedAt": "2026-10-24T03:59:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.859,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "50af592ccfe3",
+        "category": "growth",
+        "lang": "en",
+        "title": "How To Stand Out In A World Of AI Designs",
+        "summary": "Magic Patterns (W23) is one of the fastest-growing design tools in AI, helping product teams turn ideas into interactive, code-backed prototypes in minutes. Alex Danilowicz and his co-founder, both front-end engineers, built Magic Patterns to solve a problem…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
+        "publishedAt": "2026-10-22T15:00:16+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
+            "publishedAt": "2026-10-22T15:00:16+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.661,
+        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
+        "kind": "video",
+        "video": {
+          "id": "2tZT2-pS_pI",
+          "thumbUrl": "https://i3.ytimg.com/vi/2tZT2-pS_pI/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
+          "channel": "Y Combinator"
         }
       },
       {
@@ -2355,7 +2752,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.928,
+        "score": 4.645,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00",
         "kind": "article"
       },
@@ -2385,46 +2782,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.86,
+        "score": 4.585,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "article"
-      },
-      {
-        "id": "50af592ccfe3",
-        "category": "growth",
-        "lang": "en",
-        "title": "How To Stand Out In A World Of AI Designs",
-        "summary": "Magic Patterns (W23) is one of the fastest-growing design tools in AI, helping product teams turn ideas into interactive, code-backed prototypes in minutes. Alex Danilowicz and his co-founder, both front-end engineers, built Magic Patterns to solve a problem…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
-        "publishedAt": "2026-10-22T15:00:16+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
-            "publishedAt": "2026-10-22T15:00:16+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.84,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
-        "kind": "video",
-        "video": {
-          "id": "2tZT2-pS_pI",
-          "thumbUrl": "https://i3.ytimg.com/vi/2tZT2-pS_pI/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "712bc0d815dc",
@@ -2453,7 +2813,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.491,
+        "score": 4.294,
         "firstSeen": "2026-10-22T22:02:25.599257+00:00",
         "kind": "article"
       },
@@ -2482,95 +2842,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.43,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "3b1852bb0011",
-        "category": "growth",
-        "lang": "en",
-        "title": "Making the case for context-aware AI",
-        "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-        "publishedAt": "2026-10-22T10:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-            "publishedAt": "2026-10-22T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.23,
-        "firstSeen": "2026-10-22T11:05:07.991732+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "8cacaf29b137",
-        "category": "growth",
-        "lang": "en",
-        "title": "AI’s hidden storage bill: What inference leaves behind",
-        "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-        "publishedAt": "2026-10-22T08:41:18+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-            "publishedAt": "2026-10-22T08:41:18+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.202,
-        "firstSeen": "2026-10-22T11:05:07.991732+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "9c6552bd6dc0",
-        "category": "growth",
-        "lang": "en",
-        "title": "DE STAAT - FREEDOM (Official Music Video)",
-        "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-        "publishedAt": "2026-10-22T19:42:26+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-            "publishedAt": "2026-10-22T19:42:26+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.152,
+        "score": 4.24,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -2600,7 +2872,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.144,
+        "score": 4.08,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2610,6 +2882,94 @@
           "watchUrl": "https://www.youtube.com/watch?v=gDQB1rGT4pg",
           "channel": "TED"
         }
+      },
+      {
+        "id": "3b1852bb0011",
+        "category": "growth",
+        "lang": "en",
+        "title": "Making the case for context-aware AI",
+        "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "publishedAt": "2026-10-22T10:00:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+            "publishedAt": "2026-10-22T10:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.063,
+        "firstSeen": "2026-10-22T11:05:07.991732+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "8cacaf29b137",
+        "category": "growth",
+        "lang": "en",
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "publishedAt": "2026-10-22T08:41:18+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+            "publishedAt": "2026-10-22T08:41:18+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.039,
+        "firstSeen": "2026-10-22T11:05:07.991732+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "9c6552bd6dc0",
+        "category": "growth",
+        "lang": "en",
+        "title": "DE STAAT - FREEDOM (Official Music Video)",
+        "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it .",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+        "publishedAt": "2026-10-22T19:42:26+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+            "publishedAt": "2026-10-22T19:42:26+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.959,
+        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
+        "kind": "article"
       },
       {
         "id": "f29afd156725",
@@ -2636,7 +2996,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.115,
+        "score": 3.926,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -2665,7 +3025,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.053,
+        "score": 3.872,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -2695,7 +3055,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.855,
+        "score": 3.846,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2732,7 +3092,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.786,
+        "score": 3.779,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2769,7 +3129,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.744,
+        "score": 3.737,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2806,7 +3166,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.666,
+        "score": 3.659,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -2815,6 +3175,78 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=PpEUTpzWt2M",
           "channel": "TED"
+        }
+      },
+      {
+        "id": "ed019a905ba6",
+        "category": "growth",
+        "lang": "en",
+        "title": "How to Start Any Conversation the Right Way | Chris Fenning | TED",
+        "summary": "What's your point? Communication expert Chris Fenning reveals how the first 60 seconds can make or break a workplace conversation — and shares a three-step framework to help you get it right.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=CKAyfGItpgg",
+        "publishedAt": "2026-10-11T18:00:21+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=CKAyfGItpgg",
+            "publishedAt": "2026-10-11T18:00:21+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.626,
+        "firstSeen": "2026-10-11T21:25:37.196199+00:00",
+        "kind": "video",
+        "video": {
+          "id": "CKAyfGItpgg",
+          "thumbUrl": "https://i4.ytimg.com/vi/CKAyfGItpgg/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=CKAyfGItpgg",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "18ba7bbb90e1",
+        "category": "growth",
+        "lang": "en",
+        "title": "This Is How You Should Actually Make Launch Videos",
+        "summary": "There’s a misconception that a successful launch video needs to cost tens of thousands of dollars and feel like a high production commercial. But Farza Majeed has a radically different approach.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
+        "publishedAt": "2026-10-23T15:00:24+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
+            "publishedAt": "2026-10-23T15:00:24+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.57,
+        "firstSeen": "2026-10-23T20:55:57.373175+00:00",
+        "kind": "video",
+        "video": {
+          "id": "v12aSIZIXUs",
+          "thumbUrl": "https://i3.ytimg.com/vi/v12aSIZIXUs/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=v12aSIZIXUs",
+          "channel": "Y Combinator"
         }
       },
       {
@@ -2843,45 +3275,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.639,
+        "score": 3.506,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
-      },
-      {
-        "id": "ed019a905ba6",
-        "category": "growth",
-        "lang": "en",
-        "title": "How to Start Any Conversation the Right Way | Chris Fenning | TED",
-        "summary": "What's your point? Communication expert Chris Fenning reveals how the first 60 seconds can make or break a workplace conversation — and shares a three-step framework to help you get it right.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=CKAyfGItpgg",
-        "publishedAt": "2026-10-11T18:00:21+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=CKAyfGItpgg",
-            "publishedAt": "2026-10-11T18:00:21+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.632,
-        "firstSeen": "2026-10-11T21:25:37.196199+00:00",
-        "kind": "video",
-        "video": {
-          "id": "CKAyfGItpgg",
-          "thumbUrl": "https://i4.ytimg.com/vi/CKAyfGItpgg/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=CKAyfGItpgg",
-          "channel": "TED"
-        }
       },
       {
         "id": "5158d3df898b",
@@ -2908,81 +3304,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.601,
+        "score": 3.472,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
-      },
-      {
-        "id": "18ba7bbb90e1",
-        "category": "growth",
-        "lang": "en",
-        "title": "This Is How You Should Actually Make Launch Videos",
-        "summary": "There’s a misconception that a successful launch video needs to cost tens of thousands of dollars and feel like a high production commercial. But Farza Majeed has a radically different approach.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
-        "publishedAt": "2026-10-23T15:00:24+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
-            "publishedAt": "2026-10-23T15:00:24+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.579,
-        "firstSeen": "2026-10-23T20:55:57.373175+00:00",
-        "kind": "video",
-        "video": {
-          "id": "v12aSIZIXUs",
-          "thumbUrl": "https://i3.ytimg.com/vi/v12aSIZIXUs/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=v12aSIZIXUs",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "50cd55038c81",
-        "category": "growth",
-        "lang": "en",
-        "title": "AI Safety Fact vs. Fiction | YC Paper Club",
-        "summary": "This week’s Paper Club is all about AI safety - not the headlines, the science. AI safety has been a research field for decades, with its own conferences, methods, and a track record in systems like aircraft collision avoidance, where the standard is one…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
-        "publishedAt": "2026-10-17T14:00:30+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
-            "publishedAt": "2026-10-17T14:00:30+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.554,
-        "firstSeen": "2026-10-17T20:02:01.115930+00:00",
-        "kind": "video",
-        "video": {
-          "id": "X7oI4Umt3DU",
-          "thumbUrl": "https://i1.ytimg.com/vi/X7oI4Umt3DU/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=X7oI4Umt3DU",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "bea23034a697",
@@ -3009,7 +3333,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.36,
+        "score": 3.26,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00",
         "kind": "article"
       },
@@ -3040,7 +3364,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.307,
+        "score": 3.213,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00",
         "kind": "article"
       },
@@ -3070,8 +3394,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.103,
+        "score": 3.033,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "126aa063fc33",
+        "category": "growth",
+        "lang": "en",
+        "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+        "publishedAt": "2026-10-15T10:09:45+00:00",
+        "subtopics": [
+          "Productivity & systems",
+          "Communication",
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+            "publishedAt": "2026-10-15T10:09:45+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+            "publishedAt": "2026-10-06T22:08:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.893,
+        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
       {
@@ -3099,7 +3460,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.92,
+        "score": 2.871,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -3128,60 +3489,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.917,
+        "score": 2.869,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "efadf9441346",
-        "category": "growth",
-        "lang": "en",
-        "title": "web-edit 0.1a2",
-        "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
-        "publishedAt": "2026-10-17T13:16:49+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
-            "publishedAt": "2026-10-17T13:16:49+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
-            "publishedAt": "2026-10-13T01:40:05+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-            "publishedAt": "2026-10-12T15:54:36+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "web-edit 0.1a2",
-        "earlier": [
-          {
-            "title": "web-edit 0.1a1",
-            "source": "Simon Willison",
-            "publishedAt": "2026-10-13T01:40:05+00:00"
-          },
-          {
-            "title": "web-edit 0.1a0",
-            "source": "Simon Willison",
-            "publishedAt": "2026-10-12T15:54:36+00:00"
-          }
-        ],
-        "isNew": false,
-        "score": 2.752,
-        "firstSeen": "2026-10-13T01:04:21.035910+00:00",
         "kind": "article"
       },
       {
@@ -3211,7 +3520,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.704,
+        "score": 2.696,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
@@ -3242,7 +3551,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.476,
+        "score": 2.47,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3273,7 +3582,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.446,
+        "score": 2.441,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3302,8 +3611,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.374,
+        "score": 2.369,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "a842fefb2bdb",
+        "category": "growth",
+        "lang": "en",
+        "title": "What It’s Like to Be…a Mail Carrier",
+        "summary": "Loading the mail truck before the day begins, dealing with aggressive dogs and bad weather, and keeping a neighborhood connected by showing up every day with John Ayala, a retired mail carrier in Los Angeles. How did a golf club help him deliver packages?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+        "publishedAt": "2026-08-11T12:30:27+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/what-its-like-to-be-a-mail-carrier/",
+            "publishedAt": "2026-08-11T12:30:27+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.314,
+        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
       {
@@ -3333,70 +3672,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.29,
+        "score": 2.286,
         "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "61ec1eae87c6",
-        "category": "growth",
-        "lang": "en",
-        "title": "Is Startup Equity a Bad Deal?",
-        "summary": "Imagine joining a startup as employee number 10. Your salary is a bit below what the market pays for your role, but, in exchange, you get equity.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-        "publishedAt": "2026-09-22T11:45:57+00:00",
-        "subtopics": [
-          "Presentation & speaking",
-          "Leadership",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/is-startup-equity-a-bad-deal/",
-            "publishedAt": "2026-09-22T11:45:57+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.27,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "f71d07f2efd6",
-        "category": "growth",
-        "lang": "en",
-        "title": "What Was the Best Portfolio Over the Last 50 Years?",
-        "summary": "A few months ago, I analyzed U.S. stock returns over the last century .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-        "publishedAt": "2026-09-15T11:45:37+00:00",
-        "subtopics": [
-          "Productivity & systems",
-          "Personal finance",
-          "Persuasion & negotiation"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/what-was-the-best-portfolio-over-the-last-50-years/",
-            "publishedAt": "2026-09-15T11:45:37+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.205,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       }
     ]
@@ -3435,7 +3712,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 34,
+      "items": 35,
       "error": null
     },
     {
@@ -3536,9 +3813,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3578,9 +3855,9 @@
     }
   ],
   "filteredOut": {
-    "football": 64,
-    "news": 60,
-    "medical": 8,
+    "football": 52,
+    "news": 67,
+    "medical": 7,
     "growth": 51
   }
 }
