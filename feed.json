@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:16:54.631793+00:00",
+  "generatedAt": "2026-10-25T20:20:02.669868+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -12,12 +12,12 @@
         "id": "296a7b30e774",
         "category": "football",
         "lang": "en",
-        "title": "Is el clásico still the world’s biggest match? Three questions before Barcelona v Real Madrid",
+        "title": "Barcelona v Real Madrid: El Clásico – live",
         "summary": "The fixture’s relevance waned as the Messi-Ronaldo rivalry faded. Can Lamine Yamal and Mbappé lift it into a new era?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
-        "publishedAt": "2026-10-23T09:00:05+00:00",
+        "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
+        "publishedAt": "2026-10-25T20:14:58+00:00",
         "subtopics": [
           "Barcelona",
           "La Liga",
@@ -26,104 +26,104 @@
         "sources": [
           {
             "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/live/2026/oct/25/barcelona-v-real-madrid-el-clasico-live",
+            "publishedAt": "2026-10-25T20:14:58+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/barcelona-vs-real-madrid/live/563017",
+            "publishedAt": "2026-10-25T12:52:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "The Guardian",
             "url": "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
             "publishedAt": "2026-10-23T09:00:05+00:00",
             "tier": 2
           }
         ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
+        "developing": true,
+        "latestUpdate": "Barcelona v Real Madrid: El Clásico – live",
+        "earlier": [
+          {
+            "title": "Barcelona vs Real Madrid LIVE!",
+            "source": "Sky Sports",
+            "publishedAt": "2026-10-25T12:52:00+00:00"
+          },
+          {
+            "title": "Is el clásico still the world’s biggest match? Three questions before Barcelona v Real Madrid",
+            "source": "The Guardian",
+            "publishedAt": "2026-10-23T09:00:05+00:00"
+          }
+        ],
         "isNew": false,
-        "score": 12.506,
+        "score": 15.791,
         "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
-        "id": "e3b080c2fb77",
+        "id": "c44eb695b058",
         "category": "football",
         "lang": "en",
-        "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
-        "summary": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
+        "title": "Fernandes gamble leaves Carrick to carry the can for United’s institutional failures | Will Unwin",
+        "summary": "Leaving out his captain was doomed to fail but so are the club under the current leadership and the fans at Old Trafford know that all too well Dropping your captain, who has held the team together for most of the past five years, is a bold move from a man…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-25T07:55:05+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-michael-carrick-bruno-fernandes-jim-ratcliffe-institutional-failures",
+        "publishedAt": "2026-10-25T17:56:06+00:00",
         "subtopics": [
-          "Barcelona",
-          "La Liga"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-25T07:55:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 12.078,
-        "firstSeen": "2026-10-25T10:38:05.164317+00:00"
-      },
-      {
-        "id": "6ea0f9b180bf",
-        "category": "football",
-        "lang": "en",
-        "title": "Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico",
-        "summary": "Once Bobby Robson’s translator at the Camp Nou, José Mourinho is tasked with bringing down Barcelona on Sunday José Mourinho has done the por que?, the printout and the press conference no-show, and he’s been here only three months. The Real Madrid manager…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/24/la-liga-clasico-barcelona-real-madrid-jose-mourinho",
-        "publishedAt": "2026-10-24T07:00:26+00:00",
-        "subtopics": [
-          "Barcelona",
-          "La Liga"
+          "Champions League",
+          "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/24/la-liga-clasico-barcelona-real-madrid-jose-mourinho",
-            "publishedAt": "2026-10-24T07:00:26+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-michael-carrick-bruno-fernandes-jim-ratcliffe-institutional-failures",
+            "publishedAt": "2026-10-25T17:56:06+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 10.586,
-        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
+        "isNew": true,
+        "score": 9.26,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
-        "id": "1f0f00a10b11",
+        "id": "bc3ed3ba4825",
         "category": "football",
         "lang": "en",
-        "title": "Gordon's rise fuelled by Barca belief and Ballon d'Or dreams ahead of Clasico",
-        "summary": "Paris St-Germain on Tuesday, Real Madrid on Sunday, and eyes on the Ballon d'Or ceremony on Monday.",
+        "title": "Sunderland stay bottom after goalless draw with Leeds",
+        "summary": "Sunderland remain bottom of the Premier League table after a 0-0 draw against Leeds at home extended their winless run in the top-flight to six games.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13602442/barcelona-vs-real-madrid-anthony-gordon-is-fuelled-by-barcas-belief-and-ballon-dor-dreams-ahead-of-el-clasico",
-        "publishedAt": "2026-10-23T09:00:00+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cj75pv5zp95po?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-25T19:59:07+00:00",
         "subtopics": [
-          "Barcelona",
-          "La Liga"
+          "Premier League",
+          "Results"
         ],
         "sources": [
           {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cj75pv5zp95po?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-25T19:59:07+00:00",
+            "tier": 2
+          },
+          {
             "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13602442/barcelona-vs-real-madrid-anthony-gordon-is-fuelled-by-barcas-belief-and-ballon-dor-dreams-ahead-of-el-clasico",
-            "publishedAt": "2026-10-23T09:00:00+00:00",
+            "url": "https://www.skysports.com/football/sunderland-vs-leeds-united/report/559523",
+            "publishedAt": "2026-10-25T18:26:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 10.006,
-        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
+        "isNew": true,
+        "score": 8.764,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
         "id": "5ec3b7ff4f69",
@@ -152,7 +152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.286,
+        "score": 7.851,
         "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
@@ -180,9 +180,189 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.994,
+        "isNew": false,
+        "score": 7.264,
         "firstSeen": "2026-10-25T12:16:54.631793+00:00"
+      },
+      {
+        "id": "13bae7d0fccd",
+        "category": "football",
+        "lang": "en",
+        "title": "Ouattara rescues point for Brentford as Hull maintain unbeaten home record",
+        "summary": "Hull’s unbeaten home record remains intact but the Tigers have not tasted victory for seven games after this draw with Brentford. The opening goal came courtesy of a 24th-minute Oli McBurnie penalty, awarded when Aaron Hickey flattened Tim Iroegbunam while…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/25/hull-brentford-premier-league-match-report",
+        "publishedAt": "2026-10-25T16:40:07+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/25/hull-brentford-premier-league-match-report",
+            "publishedAt": "2026-10-25T16:40:07+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/hull-city-vs-brentford/report/559519",
+            "publishedAt": "2026-10-25T16:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.941,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
+      },
+      {
+        "id": "922fe4e9a344",
+        "category": "football",
+        "lang": "en",
+        "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+        "summary": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-25T20:00:09+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-25T20:00:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.466,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
+      },
+      {
+        "id": "a180642e5905",
+        "category": "football",
+        "lang": "en",
+        "title": "Hull draw third consecutive home game after being held by Brentford",
+        "summary": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-25T19:59:29+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-25T19:59:29+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.465,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
+      },
+      {
+        "id": "219080c118f7",
+        "category": "football",
+        "lang": "en",
+        "title": "Manchester United board hold crisis talks over Carrick’s future and Howe approach",
+        "summary": "Job in balance after 3-0 home defeat by Bournemouth Howe is director of football Jason Wilcox’s top candidate Manchester United’s hierarchy are in crisis talks over whether or not to sack Michael Carrick as manager after he oversaw another torrid defeat , to…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-board-crisis-talks-michael-carrick-eddie-howe-bournemouth-premier-league",
+        "publishedAt": "2026-10-25T19:24:06+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/25/manchester-united-board-crisis-talks-michael-carrick-eddie-howe-bournemouth-premier-league",
+            "publishedAt": "2026-10-25T19:24:06+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.404,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
+      },
+      {
+        "id": "480e8ea9cd7a",
+        "category": "football",
+        "lang": "en",
+        "title": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
+        "summary": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had probably just about deserved a second Premier League win…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
+        "publishedAt": "2026-10-25T18:46:08+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
+            "publishedAt": "2026-10-25T18:46:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.341,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
+      },
+      {
+        "id": "c0bb1d942952",
+        "category": "football",
+        "lang": "en",
+        "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+        "summary": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-25T18:13:55+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-25T18:13:55+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.289,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
         "id": "b13a238ded29",
@@ -210,7 +390,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.595,
+        "score": 6.206,
         "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
@@ -239,94 +419,111 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.494,
+        "score": 6.129,
         "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
-        "id": "aa750eb59eca",
+        "id": "64d10a4163b4",
         "category": "football",
         "lang": "en",
-        "title": "Carrick denies Manchester United are ‘unmanageable’, clásico buildup and more – matchday live",
-        "summary": "⚽️ News before the 2pm GMT Premier League fixtures ⚽️ How they stand | Fixtures | Mail John Aintree Racecourse has confirmed today’s race meeting has been cancelled due to high winds. Will that mean Liverpool v Brighton is called off?",
+        "title": "Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end",
+        "summary": "Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s methods taking root. It was Liverpool, deserving winners on home soil for the first time in…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/live/2026/oct/25/buildup-liverpool-brighton-manchester-united-bournemouth-matchday-live",
-        "publishedAt": "2026-10-25T12:02:09+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/25/liverpool-brighton-premier-league-match-report",
+        "publishedAt": "2026-10-25T16:12:57+00:00",
         "subtopics": [
           "Premier League",
-          "Upcoming"
+          "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/25/buildup-liverpool-brighton-manchester-united-bournemouth-matchday-live",
-            "publishedAt": "2026-10-25T12:02:09+00:00",
+            "url": "https://www.theguardian.com/football/2026/oct/25/liverpool-brighton-premier-league-match-report",
+            "publishedAt": "2026-10-25T16:12:57+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.974,
-        "firstSeen": "2026-10-25T10:38:05.164317+00:00"
+        "isNew": true,
+        "score": 6.1,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
-        "id": "8f88c38050af",
+        "id": "97e3eff7f06b",
         "category": "football",
         "lang": "en",
-        "title": "Jackson scores twice as Aston Villa end Man City's perfect start",
-        "summary": "Nicolas Jackson scores twice as Aston Villa beat Manchester City 2-1 at Villa Park to end their 100% start to the Premier League season.",
+        "title": "Isak on target again as Liverpool beat Brighton",
+        "summary": "Alexander Isak scored for a third straight Premier League game as Liverpool inflicted only Brighton's second loss of the season.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-24T18:59:27+00:00",
+        "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521",
+        "publishedAt": "2026-10-25T16:00:00+00:00",
         "subtopics": [
           "Premier League",
           "Results"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c6j47qe970x7o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-24T18:59:27+00:00",
-            "tier": 2
-          },
-          {
             "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13603081/aston-villa-2-1-manchester-city-premier-league-highlights",
-            "publishedAt": "2026-10-24T17:15:00+00:00",
+            "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521",
+            "publishedAt": "2026-10-25T16:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.946,
-        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+        "isNew": true,
+        "score": 6.081,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
-        "id": "0c45362bdf5a",
+        "id": "89496d246dc2",
         "category": "football",
         "lang": "en",
-        "title": "Konsa and Gabriel on target as Arsenal top Everton",
+        "title": "Scottish Premiership: Durán caps Celtic’s comeback win over Hibernian",
+        "summary": "Hibernian 1-2 Celtic; Rangers 4-0 St Johnstone Braga and Miller give Hearts 2-0 win at Motherwell Camilo Durán moved into double figures for the season as Celtic reasserted themselves at the top of the Premiership by coming from behind to defeat beleaguered…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts",
+        "publishedAt": "2026-10-25T17:53:36+00:00",
+        "subtopics": [
+          "Europa League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts",
+            "publishedAt": "2026-10-25T17:53:36+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.256,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
+      },
+      {
+        "id": "3896edfa9a67",
+        "category": "football",
+        "lang": "en",
+        "title": "Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel",
         "summary": "The wait goes on for David Moyes. The 63-year-old Scot must have been hoping that on his 14th visit to this stadium as Everton’s manager, his luck would change.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13603221/arsenal-2-0-everton-premier-league-highlights",
-        "publishedAt": "2026-10-24T17:15:00+00:00",
+        "url": "https://www.theguardian.com/football/2026/oct/24/arsenal-everton-premier-league-match-report",
+        "publishedAt": "2026-10-24T16:03:49+00:00",
         "subtopics": [
           "Premier League",
           "Results"
         ],
         "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13603221/arsenal-2-0-everton-premier-league-highlights",
-            "publishedAt": "2026-10-24T17:15:00+00:00",
-            "tier": 2
-          },
           {
             "name": "The Guardian",
             "url": "https://www.theguardian.com/football/2026/oct/24/arsenal-everton-premier-league-match-report",
@@ -337,212 +534,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.849,
-        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
-      },
-      {
-        "id": "0aa868d3aaac",
-        "category": "football",
-        "lang": "en",
-        "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
-        "summary": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-23T21:54:54+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-23T21:54:54+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.792,
-        "firstSeen": "2026-10-24T10:12:48.960201+00:00"
-      },
-      {
-        "id": "b371d3dd69ee",
-        "category": "football",
-        "lang": "en",
-        "title": "Merson: Brighton are one million per cent title contenders – if they win next two",
-        "summary": "Sky Sports' Paul Merson says Brighton will enter the Premier League title race if they win their next two games.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13602288/brighton-will-be-in-premier-league-title-race-if-they-beat-liverpool-and-man-city-says-paul-merson",
-        "publishedAt": "2026-10-23T10:00:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13602288/brighton-will-be-in-premier-league-title-race-if-they-beat-liverpool-and-man-city-says-paul-merson",
-            "publishedAt": "2026-10-23T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.523,
-        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
-      },
-      {
-        "id": "5e219c7870ac",
-        "category": "football",
-        "lang": "en",
-        "title": "Manchester United bin-fire keeps blazing and Arsenal draw at Bayern | Football Weekly Extra – video",
-        "summary": "Max Rushden is joined by Jonathan Liew , Paul Watson and Archie Rhind-Tutt to discuss the latest Champions League action Continue reading...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/video/2026/oct/22/manchester-united-bin-fire-keeps-blazing-and-arsenal-draw-at-bayern-football-weekly-extra-video",
-        "publishedAt": "2026-10-22T13:24:40+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/video/2026/oct/22/manchester-united-bin-fire-keeps-blazing-and-arsenal-draw-at-bayern-football-weekly-extra-video",
-            "publishedAt": "2026-10-22T13:24:40+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.256,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00"
-      },
-      {
-        "id": "0bda25cea8cc",
-        "category": "football",
-        "lang": "en",
-        "title": "Arteta collating evidence of other managers stepping out of technical area",
-        "summary": "Arsenal boss Mikel Arteta says he is compiling footage of rival Premier League managers repeatedly leaving their technical areas after receiving his second yellow card of the season in his side’s 2-0 win over Everton.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13603372/arsenal-boss-mikel-arteta-reveals-he-clips-up-premier-league-managers-stepping-out-of-technical-area",
-        "publishedAt": "2026-10-24T20:45:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13603372/arsenal-boss-mikel-arteta-reveals-he-clips-up-premier-league-managers-stepping-out-of-technical-area",
-            "publishedAt": "2026-10-24T20:45:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.249,
-        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
-      },
-      {
-        "id": "e066a0412087",
-        "category": "football",
-        "lang": "en",
-        "title": "Spurs pick up rare win at Stamford Bridge in chaotic end to game",
-        "summary": "FREE TO WATCH: Highlights from the Premier League match between Chelsea and Tottenham Hotspur.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13603351/chelsea-0-2-tottenham-hotspur-premier-league-highlights",
-        "publishedAt": "2026-10-24T19:54:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13603351/chelsea-0-2-tottenham-hotspur-premier-league-highlights",
-            "publishedAt": "2026-10-24T19:54:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.199,
-        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
-      },
-      {
-        "id": "3b4625d79eb6",
-        "category": "football",
-        "lang": "en",
-        "title": "Bobb's late strike secures Fulham win at Coventry",
-        "summary": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-24T18:59:22+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-24T18:59:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.146,
-        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
-      },
-      {
-        "id": "a1b738689fc1",
-        "category": "football",
-        "lang": "en",
-        "title": "Bobb stunner secures Fulham back-to-back PL wins",
-        "summary": "Highlights from the Premier League match between Coventry City and Fulham.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13603205/coventry-city-0-1-fulham-premier-league-highlights",
-        "publishedAt": "2026-10-24T17:15:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13603205/coventry-city-0-1-fulham-premier-league-highlights",
-            "publishedAt": "2026-10-24T17:15:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.049,
-        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+        "isNew": true,
+        "score": 4.624,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
         "id": "28aa3ba09828",
@@ -570,7 +564,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.947,
+        "score": 4.594,
         "firstSeen": "2026-10-24T20:08:26.935020+00:00"
       },
       {
@@ -599,69 +593,40 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.093,
+        "score": 3.949,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
-      },
-      {
-        "id": "d808170fa48f",
-        "category": "football",
-        "lang": "en",
-        "title": "Reporter Notebook: No panic stations at Sunderland despite tough start",
-        "summary": "It's certainly been a different start to the season for Sunderland compared to last year, when they flew out of the traps on their Premier League return and went months without a home league defeat.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13602265/sunderland-reporter-notebook-no-panic-for-regis-le-bris-side-despite-sitting-bottom-of-premier-league-table",
-        "publishedAt": "2026-10-23T08:00:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13602265/sunderland-reporter-notebook-no-panic-for-regis-le-bris-side-despite-sitting-bottom-of-premier-league-table",
-            "publishedAt": "2026-10-23T08:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.988,
-        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
-      },
-      {
-        "id": "a16f420a9152",
-        "category": "football",
-        "lang": "en",
-        "title": "Sutton's predictions v Waffle the Wonder Dog and his owner Simon",
-        "summary": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner Simon, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-22T16:30:41+00:00",
-        "subtopics": [
-          "Premier League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-22T16:30:41+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.285,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       }
     ],
     "news": [
+      {
+        "id": "1f9396b46202",
+        "category": "news",
+        "lang": "de",
+        "title": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
+        "summary": "Dass Unternehmen und Haushalte beim Strompreis entlastet werden sollen, darüber herrscht in der Regierung Einigkeit. Unklar aber ist, wie das finanziert werden kann.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
+        "publishedAt": "2026-10-25T18:49:43+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
+            "publishedAt": "2026-10-25T18:49:43+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.934,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
+      },
       {
         "id": "b049c9b19b90",
         "category": "news",
@@ -693,9 +658,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.986,
+        "isNew": false,
+        "score": 7.648,
         "firstSeen": "2026-10-25T12:16:54.631793+00:00"
+      },
+      {
+        "id": "6316c443cba0",
+        "category": "news",
+        "lang": "de",
+        "title": "So war der Halbmarathon 2026 in Hamburg",
+        "summary": "Nach der wetterbedingten Absage im Juni, trotzen nun über 15.000 Läuferinnen und Läufer den herbstlichen Bedingungen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-halbmarathon-2026-in-hamburg,hamj-15868.html",
+        "publishedAt": "2026-10-25T18:47:44+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-halbmarathon-2026-in-hamburg,hamj-15868.html",
+            "publishedAt": "2026-10-25T18:47:44+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.532,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
         "id": "01db42d48034",
@@ -722,8 +716,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.535,
+        "isNew": false,
+        "score": 7.203,
         "firstSeen": "2026-10-25T12:16:54.631793+00:00"
       },
       {
@@ -752,7 +746,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.252,
+        "score": 6.953,
         "firstSeen": "2026-10-25T10:38:05.164317+00:00"
       },
       {
@@ -787,7 +781,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.1,
+        "score": 6.863,
         "firstSeen": "2026-10-24T11:47:51.763182+00:00"
       },
       {
@@ -821,29 +815,28 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.981,
+        "isNew": false,
+        "score": 6.644,
         "firstSeen": "2026-10-25T12:16:54.631793+00:00"
       },
       {
-        "id": "9b046b315bcc",
+        "id": "5471a23781da",
         "category": "news",
         "lang": "de",
-        "title": "Neue Biografie über Architekt und Stadtplaner Fritz Schumacher",
-        "summary": "\"Wer war Fritz Schumacher. Vier Leben für Baukultur und Städtebaureform\" würdigt ihn, entmystifiziert ihn aber auch ein bisschen.",
+        "title": "Unwetter und Sturmflut: \"Manja\" zieht über den Norden",
+        "summary": "An der Nordsee wird in der Nacht eine Sturmflut erwartet. Mehrere Inselfähren haben ihren Betrieb eingestellt.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/neue-biografie-ueber-architekt-und-stadtplaner-fritz-schumacher,hamj-15856.html",
-        "publishedAt": "2026-10-24T18:05:56+00:00",
+        "url": "https://www.ndr.de/nachrichten/info/herbststurm-mit-manja-drohen-dem-norden-wieder-orkanboeen,wetter-7178.html",
+        "publishedAt": "2026-10-25T20:16:19+00:00",
         "subtopics": [
-          "Hamburg",
-          "Conflict"
+          "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/neue-biografie-ueber-architekt-und-stadtplaner-fritz-schumacher,hamj-15856.html",
-            "publishedAt": "2026-10-24T18:05:56+00:00",
+            "url": "https://www.ndr.de/nachrichten/info/herbststurm-mit-manja-drohen-dem-norden-wieder-orkanboeen,wetter-7178.html",
+            "publishedAt": "2026-10-25T20:16:19+00:00",
             "tier": 1
           }
         ],
@@ -851,8 +844,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.889,
-        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+        "score": 6.597,
+        "firstSeen": "2026-10-25T10:38:05.164317+00:00"
       },
       {
         "id": "681fb2226123",
@@ -914,7 +907,7 @@
           }
         ],
         "isNew": false,
-        "score": 6.641,
+        "score": 6.456,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00"
       },
       {
@@ -949,7 +942,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.6,
+        "score": 6.419,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -984,36 +977,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.595,
+        "score": 6.415,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
-      },
-      {
-        "id": "5471a23781da",
-        "category": "news",
-        "lang": "de",
-        "title": "Herbststurm: Mit \"Manja\" drohen dem Norden wieder Orkanböen",
-        "summary": "Das nächste Sturmtief sorgt in Norddeutschland für teils sehr stürmisches Wetter. An der Nordsee wird eine Sturmflut erwartet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/info/herbststurm-mit-manja-drohen-dem-norden-wieder-orkanboeen,wetter-7178.html",
-        "publishedAt": "2026-10-25T12:08:48+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/info/herbststurm-mit-manja-drohen-dem-norden-wieder-orkanboeen,wetter-7178.html",
-            "publishedAt": "2026-10-25T12:08:48+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.594,
-        "firstSeen": "2026-10-25T10:38:05.164317+00:00"
       },
       {
         "id": "5a3aca476c56",
@@ -1047,7 +1012,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.567,
+        "score": 6.39,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -1076,7 +1041,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.491,
+        "score": 6.322,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -1105,7 +1070,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.421,
+        "score": 6.261,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00"
       },
       {
@@ -1134,7 +1099,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.122,
+        "score": 5.996,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       },
       {
@@ -1175,7 +1140,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.084,
+        "score": 5.962,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       },
       {
@@ -1204,7 +1169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.026,
+        "score": 5.91,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00"
       },
       {
@@ -1239,7 +1204,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.001,
+        "score": 5.888,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1274,7 +1239,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.985,
+        "score": 5.874,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1303,7 +1268,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.963,
+        "score": 5.854,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1338,7 +1303,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.944,
+        "score": 5.838,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1373,7 +1338,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.928,
+        "score": 5.823,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1402,7 +1367,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.773,
+        "score": 5.686,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1437,7 +1402,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.728,
+        "score": 5.646,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00"
       },
       {
@@ -1466,7 +1431,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.722,
+        "score": 5.64,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00"
       },
       {
@@ -1501,7 +1466,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.716,
+        "score": 5.635,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1531,7 +1496,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.685,
+        "score": 5.607,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00"
       },
       {
@@ -1566,7 +1531,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.678,
+        "score": 5.601,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1607,7 +1572,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.669,
+        "score": 5.593,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1637,7 +1602,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.642,
+        "score": 5.57,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00"
       },
       {
@@ -1672,7 +1637,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.537,
+        "score": 5.476,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
       },
       {
@@ -1707,7 +1672,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.504,
+        "score": 5.447,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -1736,7 +1701,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.503,
+        "score": 5.446,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00"
       },
       {
@@ -1766,37 +1731,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.476,
+        "score": 5.422,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00"
-      },
-      {
-        "id": "5c17d56f1f34",
-        "category": "news",
-        "lang": "de",
-        "title": "Fachgesellschaften veröffentlichen Leitlinien für Suizidassistenz",
-        "summary": "Wie sollen Ärzte oder Pflegekräfte reagieren, wenn Menschen in existenzieller Not sagen, dass sie sterben wollen? Ein Gesetz, das dafür Regeln vorgibt, fehlt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
-        "publishedAt": "2026-10-23T10:48:25+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/leitlinien-suizidassistenz-100.html",
-            "publishedAt": "2026-10-23T10:48:25+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.437,
-        "firstSeen": "2026-10-23T10:57:12.333690+00:00"
       },
       {
         "id": "10557573155c",
@@ -1825,7 +1761,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.352,
+        "score": 5.312,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00"
       }
     ],
@@ -1858,7 +1794,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.953,
+        "score": 13.885,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1892,7 +1828,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.082,
+        "score": 10.028,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1923,7 +1859,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.925,
+        "score": 9.838,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1955,7 +1891,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.376,
+        "score": 9.35,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1985,7 +1921,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.667,
+        "score": 8.629,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2016,7 +1952,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.376,
+        "score": 8.35,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2047,7 +1983,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.675,
+        "score": 7.598,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2085,7 +2021,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.257,
+        "score": 7.196,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2116,7 +2052,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.925,
+        "score": 6.838,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2148,7 +2084,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.462,
+        "score": 6.432,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2179,7 +2115,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.376,
+        "score": 6.35,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2210,38 +2146,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.376,
+        "score": 6.35,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "307952d87606",
-        "category": "medical",
-        "lang": "en",
-        "title": "Effects of Daily Avocado Consumption on Sleep and Skin Health in Postmenopausal Females",
-        "summary": "Poor sleep quality and accelerated skin aging are common in postmenopausal women and may be linked, in part, through impaired vascular function. Avocados contain monounsaturated fats, carotenoids, vitamin E, magnesium, fiber, and other bioactive compounds…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07880444",
-        "publishedAt": "2026-10-19T00:00:00+00:00",
-        "subtopics": [
-          "Biomaterials"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07880444",
-            "publishedAt": "2026-10-19T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.082,
-        "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -2271,7 +2177,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.073,
+        "score": 6.058,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2302,8 +2208,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.073,
+        "score": 6.058,
         "firstSeen": "2026-10-20T12:28:35.258503+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "307952d87606",
+        "category": "medical",
+        "lang": "en",
+        "title": "Effects of Daily Avocado Consumption on Sleep and Skin Health in Postmenopausal Females",
+        "summary": "Poor sleep quality and accelerated skin aging are common in postmenopausal women and may be linked, in part, through impaired vascular function. Avocados contain monounsaturated fats, carotenoids, vitamin E, magnesium, fiber, and other bioactive compounds…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07880444",
+        "publishedAt": "2026-10-19T00:00:00+00:00",
+        "subtopics": [
+          "Biomaterials"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07880444",
+            "publishedAt": "2026-10-19T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.028,
+        "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -2333,7 +2269,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.684,
+        "score": 4.591,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2364,7 +2300,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.573,
+        "score": 4.48,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2395,7 +2331,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.137,
+        "score": 4.061,
+        "firstSeen": "2026-10-21T21:11:48.388929+00:00",
+        "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "6c637a88a190",
+        "category": "medical",
+        "lang": "en",
+        "title": "Gen AI policy is a White House priority, CDRH digital health leader says",
+        "summary": "Rick Abramson, director of the FDA’s Digital Health Center of Excellence, said to expect draft guidance in the coming months.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
+        "publishedAt": "2026-10-21T13:02:00+00:00",
+        "subtopics": [
+          "AI & digital health",
+          "Regulatory"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
+            "publishedAt": "2026-10-21T13:02:00+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.997,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2425,7 +2392,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.384,
+        "score": 3.299,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2455,7 +2422,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.136,
+        "score": 3.06,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2485,7 +2452,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.735,
+        "score": 2.64,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2517,7 +2484,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.453,
+        "score": 5.21,
         "firstSeen": "2026-10-24T20:08:26.935020+00:00",
         "kind": "video",
         "video": {
@@ -2554,7 +2521,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.223,
+        "score": 5.04,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -2590,7 +2557,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.761,
+        "score": 4.63,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2627,7 +2594,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.37,
+        "score": 4.249,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2663,7 +2630,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.356,
+        "score": 4.146,
         "firstSeen": "2026-10-24T20:08:26.935020+00:00",
         "kind": "article"
       },
@@ -2692,7 +2659,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.187,
+        "score": 3.996,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00",
         "kind": "article"
       },
@@ -2722,7 +2689,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.14,
+        "score": 3.954,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "article"
       },
@@ -2752,7 +2719,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.978,
+        "score": 3.935,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2760,6 +2727,43 @@
           "thumbUrl": "https://i4.ytimg.com/vi/gDQB1rGT4pg/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=gDQB1rGT4pg",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "2e13d7052360",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why We Should Design Cities Like Disney | Zach DeBoer | TED",
+        "summary": "Where you live shapes your relationships, your emotions and even how long you live, says community designer Zach DeBoer. After studying what a century of building cities around cars has done to downtowns in the US, he turned to lessons from some of the most…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=46v8M4RsCzg",
+        "publishedAt": "2026-10-25T15:00:34+00:00",
+        "subtopics": [
+          "Psychology",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=46v8M4RsCzg",
+            "publishedAt": "2026-10-25T15:00:34+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.894,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00",
+        "kind": "video",
+        "video": {
+          "id": "46v8M4RsCzg",
+          "thumbUrl": "https://i1.ytimg.com/vi/46v8M4RsCzg/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=46v8M4RsCzg",
           "channel": "TED"
         }
       },
@@ -2790,37 +2794,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.975,
+        "score": 3.842,
         "firstSeen": "2026-10-22T22:02:25.599257+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "ab838d8755d5",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Foundations of Scalable AI",
-        "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-        "publishedAt": "2026-10-22T18:48:04+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-            "publishedAt": "2026-10-22T18:48:04+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.932,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
       {
@@ -2849,7 +2824,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.831,
+        "score": 3.823,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2861,53 +2836,23 @@
         }
       },
       {
-        "id": "3b1852bb0011",
+        "id": "ab838d8755d5",
         "category": "growth",
         "lang": "en",
-        "title": "Making the case for context-aware AI",
-        "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether…",
+        "title": "The Foundations of Scalable AI",
+        "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-        "publishedAt": "2026-10-22T10:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-            "publishedAt": "2026-10-22T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.793,
-        "firstSeen": "2026-10-22T11:05:07.991732+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "8cacaf29b137",
-        "category": "growth",
-        "lang": "en",
-        "title": "AI’s hidden storage bill: What inference leaves behind",
-        "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-        "publishedAt": "2026-10-22T08:41:18+00:00",
+        "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "publishedAt": "2026-10-22T18:48:04+00:00",
         "subtopics": [
           "AI & smart tools"
         ],
         "sources": [
           {
             "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-            "publishedAt": "2026-10-22T08:41:18+00:00",
+            "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+            "publishedAt": "2026-10-22T18:48:04+00:00",
             "tier": 2
           }
         ],
@@ -2915,8 +2860,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.774,
-        "firstSeen": "2026-10-22T11:05:07.991732+00:00",
+        "score": 3.804,
+        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
       {
@@ -2945,7 +2890,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.764,
+        "score": 3.757,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2982,7 +2927,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.723,
+        "score": 3.716,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2994,32 +2939,62 @@
         }
       },
       {
-        "id": "9c6552bd6dc0",
+        "id": "3b1852bb0011",
         "category": "growth",
         "lang": "en",
-        "title": "DE STAAT - FREEDOM (Official Music Video)",
-        "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it .",
+        "title": "Making the case for context-aware AI",
+        "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-        "publishedAt": "2026-10-22T19:42:26+00:00",
+        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "publishedAt": "2026-10-22T10:00:00+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "AI & smart tools",
+          "Relationships"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
-            "publishedAt": "2026-10-22T19:42:26+00:00",
-            "tier": 3
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+            "publishedAt": "2026-10-22T10:00:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.648,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
+        "score": 3.681,
+        "firstSeen": "2026-10-22T11:05:07.991732+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "8cacaf29b137",
+        "category": "growth",
+        "lang": "en",
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "publishedAt": "2026-10-22T08:41:18+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+            "publishedAt": "2026-10-22T08:41:18+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.664,
+        "firstSeen": "2026-10-22T11:05:07.991732+00:00",
         "kind": "article"
       },
       {
@@ -3048,7 +3023,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.647,
+        "score": 3.641,
         "firstSeen": "2026-10-13T23:10:38.643116+00:00",
         "kind": "video",
         "video": {
@@ -3058,6 +3033,71 @@
           "watchUrl": "https://www.youtube.com/watch?v=PpEUTpzWt2M",
           "channel": "TED"
         }
+      },
+      {
+        "id": "18ba7bbb90e1",
+        "category": "growth",
+        "lang": "en",
+        "title": "This Is How You Should Actually Make Launch Videos",
+        "summary": "There’s a misconception that a successful launch video needs to cost tens of thousands of dollars and feel like a high production commercial. But Farza Majeed has a radically different approach.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
+        "publishedAt": "2026-10-23T15:00:24+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
+            "publishedAt": "2026-10-23T15:00:24+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.546,
+        "firstSeen": "2026-10-23T20:55:57.373175+00:00",
+        "kind": "video",
+        "video": {
+          "id": "v12aSIZIXUs",
+          "thumbUrl": "https://i3.ytimg.com/vi/v12aSIZIXUs/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=v12aSIZIXUs",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "9c6552bd6dc0",
+        "category": "growth",
+        "lang": "en",
+        "title": "DE STAAT - FREEDOM (Official Music Video)",
+        "summary": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it .",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+        "publishedAt": "2026-10-22T19:42:26+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
+            "publishedAt": "2026-10-22T19:42:26+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.518,
+        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
+        "kind": "article"
       },
       {
         "id": "f29afd156725",
@@ -3084,7 +3124,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.622,
+        "score": 3.495,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -3113,45 +3153,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.579,
+        "score": 3.457,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
-      },
-      {
-        "id": "18ba7bbb90e1",
-        "category": "growth",
-        "lang": "en",
-        "title": "This Is How You Should Actually Make Launch Videos",
-        "summary": "There’s a misconception that a successful launch video needs to cost tens of thousands of dollars and feel like a high production commercial. But Farza Majeed has a radically different approach.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
-        "publishedAt": "2026-10-23T15:00:24+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
-            "publishedAt": "2026-10-23T15:00:24+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.554,
-        "firstSeen": "2026-10-23T20:55:57.373175+00:00",
-        "kind": "video",
-        "video": {
-          "id": "v12aSIZIXUs",
-          "thumbUrl": "https://i3.ytimg.com/vi/v12aSIZIXUs/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=v12aSIZIXUs",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "918065aafd8b",
@@ -3179,7 +3183,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.291,
+        "score": 3.202,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
       },
@@ -3208,7 +3212,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.265,
+        "score": 3.178,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
       },
@@ -3237,7 +3241,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.097,
+        "score": 3.03,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00",
         "kind": "article"
       },
@@ -3268,38 +3272,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.061,
+        "score": 2.997,
         "firstSeen": "2026-10-20T21:11:59.391555+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "6c096b15e9b9",
-        "category": "growth",
-        "lang": "en",
-        "title": "My obituary for programming",
-        "summary": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-        "publishedAt": "2026-10-19T23:58:25+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Business case studies"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-            "publishedAt": "2026-10-19T23:58:25+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.919,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
       {
@@ -3335,8 +3309,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.88,
+        "score": 2.874,
         "firstSeen": "2026-10-07T12:34:32.938707+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "6c096b15e9b9",
+        "category": "growth",
+        "lang": "en",
+        "title": "My obituary for programming",
+        "summary": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+        "publishedAt": "2026-10-19T23:58:25+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Business case studies"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+            "publishedAt": "2026-10-19T23:58:25+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.872,
+        "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
       {
@@ -3364,7 +3368,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.792,
+        "score": 2.759,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -3393,7 +3397,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.79,
+        "score": 2.757,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -3424,7 +3428,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.681,
+        "score": 2.674,
         "firstSeen": "2026-10-20T10:52:48.540736+00:00",
         "kind": "article"
       },
@@ -3455,7 +3459,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.46,
+        "score": 2.455,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       },
@@ -3486,7 +3490,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.431,
+        "score": 2.426,
         "firstSeen": "2026-10-06T13:50:59.706295+00:00",
         "kind": "article"
       },
@@ -3515,7 +3519,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.361,
+        "score": 2.356,
         "firstSeen": "2026-10-01T12:21:15.425672+00:00",
         "kind": "article"
       },
@@ -3545,7 +3549,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.312,
+        "score": 2.311,
         "firstSeen": "2026-09-21T18:31:30.954862+00:00",
         "kind": "article"
       },
@@ -3576,38 +3580,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.279,
-        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a821601d6da8",
-        "category": "growth",
-        "lang": "en",
-        "title": "What It’s Like to Be…a Hotshot",
-        "summary": "Digging line to redirect the country's fiercest wildland fires, sleeping in the dirt after a 16-hour day, and turning physical endurance into a public service with Ben Strahan, a hotshot crew superintendent in California. What does a wildfire sound like up…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
-        "publishedAt": "2026-07-28T12:23:34+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/what-its-like-to-be-a-hotshot/",
-            "publishedAt": "2026-07-28T12:23:34+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
         "score": 2.276,
-        "firstSeen": "2026-09-21T18:31:30.954862+00:00",
+        "firstSeen": "2026-09-27T10:12:47.599357+00:00",
         "kind": "article"
       }
     ]
@@ -3789,9 +3763,9 @@
     }
   ],
   "filteredOut": {
-    "football": 59,
-    "news": 69,
-    "medical": 8,
-    "growth": 52
+    "football": 63,
+    "news": 68,
+    "medical": 7,
+    "growth": 51
   }
 }
