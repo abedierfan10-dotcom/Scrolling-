@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:55:00.387721+00:00",
+  "generatedAt": "2026-10-27T21:46:41.367897+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,35 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "65df56e00676",
+        "category": "football",
+        "lang": "en",
+        "title": "Barcelona fined £503 over approach for Alvarez",
+        "summary": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-27T21:38:20+00:00",
+        "subtopics": [
+          "Barcelona",
+          "La Liga"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-27T21:38:20+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 12.486,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
+      },
       {
         "id": "5d4ddf65a734",
         "category": "football",
@@ -34,8 +63,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.866,
+        "score": 12.372,
         "firstSeen": "2026-10-26T22:59:03.086457+00:00"
+      },
+      {
+        "id": "b32ee9d91f9a",
+        "category": "football",
+        "lang": "en",
+        "title": "Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner",
+        "summary": "Alexia Putellas picks up women’s award for third time England captain acclaimed in London ceremony Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years. Two hours into a lavishly…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor",
+        "publishedAt": "2026-10-26T23:11:22+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor",
+            "publishedAt": "2026-10-26T23:11:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 12.369,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
         "id": "5fdb674d057b",
@@ -64,7 +122,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.481,
+        "score": 12.089,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -94,7 +152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.166,
+        "score": 11.857,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00"
       },
       {
@@ -124,7 +182,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.836,
+        "score": 11.615,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00"
       },
       {
@@ -154,7 +212,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.782,
+        "score": 11.575,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00"
       },
       {
@@ -182,36 +240,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.383,
+        "score": 10.884,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
-      },
-      {
-        "id": "e1098a4af2c1",
-        "category": "football",
-        "lang": "en",
-        "title": "'Cubarsi should've won it' - Lamine Yamal on claiming Young Talent award again",
-        "summary": "",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-        "publishedAt": "2026-10-26T21:10:00+00:00",
-        "subtopics": [
-          "Barcelona"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-            "publishedAt": "2026-10-26T21:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 11.236,
-        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
       },
       {
         "id": "35e87c26310c",
@@ -239,7 +269,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.13,
+        "score": 7.698,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -268,38 +298,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.829,
+        "score": 7.477,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
-        "id": "5ec3b7ff4f69",
+        "id": "548aae62c48c",
         "category": "football",
         "lang": "en",
-        "title": "European football: Lazio beat Parma to top Serie A; Dortmund lead Bundesliga",
-        "summary": "Lazio win 2-1 while Roma draw 3-3 with Napoli Beier gives Dortmund win over Eintracht Frankfurt Lazio climbed to the top of Serie A with a 2-1 home win ⁠over Parma ⁠as Roma ​twice came from behind to secure a 3-3 draw with Napoli in a pulsating clash in…",
+        "title": "Man City players can block out 'noise' of away fans - Maresca",
+        "summary": "Manchester City suffered a first Premier League defeat of the season at a boisterous Aston Villa, amid persistent reminders of their financial charges.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
-        "publishedAt": "2026-10-24T21:21:11+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwqd7jl3yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-27T15:27:27+00:00",
         "subtopics": [
-          "Bundesliga",
-          "Serie A",
+          "Premier League",
           "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
-            "publishedAt": "2026-10-24T21:21:11+00:00",
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c6jrwqd7jl3yo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-27T15:27:27+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.83,
-        "firstSeen": "2026-10-24T20:08:26.935020+00:00"
+        "isNew": true,
+        "score": 5.909,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
+      },
+      {
+        "id": "14d51b643743",
+        "category": "football",
+        "lang": "en",
+        "title": "How Kane's Ballon d'Or win could boost the Bundesliga",
+        "summary": "Harry Kane's Ballon d'Or win not only ended a 25-year wait for an English winner of the award but also saw a Bundesliga player win it for the first time since 1996.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-27T14:24:23+00:00",
+        "subtopics": [
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/crgqwge88z84o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-27T14:24:23+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.823,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
         "id": "ae87748761cd",
@@ -327,66 +385,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.102,
+        "score": 4.678,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
-      },
-      {
-        "id": "1972f29dc2cd",
-        "category": "football",
-        "lang": "en",
-        "title": "Bayern continue unbeaten start in Kompany's absence",
-        "summary": "Bayern Munich beat Freiburg to return to the top of the Bundesliga, as the German champions paid tribute to absent manager Vincent Kompany who is recovering in hospital after he collapsed while watching Bayern's second team train.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cqx284yk4mk0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-26T11:35:11+00:00",
-        "subtopics": [
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cqx284yk4mk0o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-26T11:35:11+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.745,
-        "firstSeen": "2026-10-26T12:10:56.817299+00:00"
-      },
-      {
-        "id": "480e8ea9cd7a",
-        "category": "football",
-        "lang": "en",
-        "title": "Roefs and Trafford stand firm as Sunderland and Leeds battle for point",
-        "summary": "Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra-balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had arguably just about deserved a second Premier League win…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
-        "publishedAt": "2026-10-25T18:46:08+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/25/sunderland-leeds-premier-league-match-report",
-            "publishedAt": "2026-10-25T18:46:08+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.194,
-        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
         "id": "8cbd607590fd",
@@ -414,7 +414,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.183,
+        "score": 4.002,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00"
       },
       {
@@ -443,50 +443,56 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.181,
-        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
-      },
-      {
-        "id": "64d10a4163b4",
-        "category": "football",
-        "lang": "en",
-        "title": "Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end",
-        "summary": "Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s methods taking root. It was Liverpool, deserving winners on home soil for the first time in…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/25/liverpool-brighton-premier-league-match-report",
-        "publishedAt": "2026-10-25T16:12:57+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/25/liverpool-brighton-premier-league-match-report",
-            "publishedAt": "2026-10-25T16:12:57+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.135,
+        "score": 4.001,
         "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       }
     ],
     "news": [
       {
+        "id": "3a202370b5ed",
+        "category": "news",
+        "lang": "de",
+        "title": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
+        "summary": "Rund 27.000 Kubikmeter hochradioaktiver Müll müssen dauerhaft und sicher verwahrt werden. Bis 2050 soll ein Endlager gefunden werden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
+        "publishedAt": "2026-10-27T17:12:36+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
+            "publishedAt": "2026-10-27T17:12:36+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
+            "publishedAt": "2026-10-27T17:12:36+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.803,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
+      },
+      {
         "id": "a56b6dbcdbb4",
         "category": "news",
         "lang": "de",
-        "title": "Atommüll-Endlager: In fünf Bundesländern soll nicht mehr gesucht werden",
-        "summary": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt.",
+        "title": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
+        "summary": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt - auf weniger als fünf Prozent der Landesfläche.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-        "publishedAt": "2026-10-27T12:53:16+00:00",
+        "publishedAt": "2026-10-27T17:11:59+00:00",
         "subtopics": [
           "Germany",
           "Conflict"
@@ -495,13 +501,54 @@
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-            "publishedAt": "2026-10-27T12:53:16+00:00",
+            "publishedAt": "2026-10-27T17:11:59+00:00",
             "tier": 1
           },
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-            "publishedAt": "2026-10-27T12:53:16+00:00",
+            "publishedAt": "2026-10-27T17:11:59+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
+            "publishedAt": "2026-10-27T17:11:59+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.802,
+        "firstSeen": "2026-10-27T12:55:00.387721+00:00"
+      },
+      {
+        "id": "a74b312b0a64",
+        "category": "news",
+        "lang": "de",
+        "title": "Was die Israel-Wahl für Deutschland bedeutet",
+        "summary": "Die Wahl in Israel wird auch in Deutschland mit Spannung verfolgt. Trotz Kritik an Netanjahus Politik bleibt die Bundesregierung zurückhaltend.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html",
+        "publishedAt": "2026-10-27T15:52:06+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html",
+            "publishedAt": "2026-10-27T15:52:06+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html",
+            "publishedAt": "2026-10-27T15:52:06+00:00",
             "tier": 1
           }
         ],
@@ -509,8 +556,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.999,
-        "firstSeen": "2026-10-27T12:55:00.387721+00:00"
+        "score": 7.747,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
+      },
+      {
+        "id": "0d255ea5e504",
+        "category": "news",
+        "lang": "de",
+        "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
+        "summary": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
+        "publishedAt": "2026-10-27T14:12:19+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
+            "publishedAt": "2026-10-27T14:12:19+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
+            "publishedAt": "2026-10-27T14:12:19+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.68,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
         "id": "09d46d0403bf",
@@ -544,43 +626,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.873,
+        "score": 7.518,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
-        "id": "9b4384d21004",
+        "id": "252396aabd17",
         "category": "news",
         "lang": "de",
-        "title": "Marktbericht: Anleger warten auf weitere Unternehmensbilanzen",
-        "summary": "In den kommenden Tagen werden eine ganze Reihe von wichtigen Unternehmen ihre Geschäftsberichte vorstellen. Die Anleger hoffen auf frische Impulse für den Aktienmarkt, bis dahin bleiben sie zurückhaltend.",
+        "title": "Verfolgungsjagd in Eilbek: Polizist fasst flüchtenden Lieferando-Fahrer",
+        "summary": "Der Lieferando-Fahrer war bei Rot über die Ampel gefahren. Der Polizist verfolgte den Mann zu Fuß und holte ihn vom Rad.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
-        "publishedAt": "2026-10-27T09:41:27+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/verfolgungsjagd-in-eilbek-polizist-fasst-fluechtenden-lieferando-fahrer,kurzehh-4724.html",
+        "publishedAt": "2026-10-27T19:28:58+00:00",
         "subtopics": [
-          "Germany",
-          "Business"
+          "Hamburg",
+          "Conflict"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
-            "publishedAt": "2026-10-27T09:41:27+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
-            "publishedAt": "2026-10-27T09:41:27+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/verfolgungsjagd-in-eilbek-polizist-fasst-fluechtenden-lieferando-fahrer,kurzehh-4724.html",
+            "publishedAt": "2026-10-27T19:28:58+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.859,
-        "firstSeen": "2026-10-27T11:32:28.093000+00:00"
+        "isNew": true,
+        "score": 7.499,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
         "id": "33bc46b27b19",
@@ -614,19 +690,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.845,
+        "score": 7.493,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
-        "id": "a31fbf170f86",
+        "id": "74dbea5c36ad",
         "category": "news",
         "lang": "de",
-        "title": "Bombe in Müssen geborgen: Bahnstrecke Hamburg-Berlin wieder frei",
-        "summary": "In der Gemeinde war am Morgen ein verdächtiger Gegenstand gefunden worden. Anwohner mussten kurzfristig ihre Wohnungen verlassen.",
+        "title": "Zwischenstand beim DFB-Pokalspiel HSV gegen Eintracht Frankfurt",
+        "summary": "Punkt 18 Uhr war Anstoß. Reporter Thorsten Vorbau berichtet live vom Volkspark-Stadion.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/bombe-in-muessen-gefunden-bahnstrecke-hamburg-berlin-gesperrt,muessen-100.html",
-        "publishedAt": "2026-10-27T11:24:32+00:00",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/zwischenstand-beim-dfb-pokalspiel-hsv-gegen-eintracht-frankfurt,hamj-15944.html",
+        "publishedAt": "2026-10-27T19:15:45+00:00",
         "subtopics": [
           "Hamburg",
           "Conflict"
@@ -634,17 +710,75 @@
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/schleswig-holstein/luebeck_herzogtum-lauenburg_ostholstein/bombe-in-muessen-gefunden-bahnstrecke-hamburg-berlin-gesperrt,muessen-100.html",
-            "publishedAt": "2026-10-27T11:24:32+00:00",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/zwischenstand-beim-dfb-pokalspiel-hsv-gegen-eintracht-frankfurt,hamj-15944.html",
+            "publishedAt": "2026-10-27T19:15:45+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.533,
-        "firstSeen": "2026-10-27T11:32:28.093000+00:00"
+        "isNew": true,
+        "score": 7.49,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
+      },
+      {
+        "id": "217cede747b2",
+        "category": "news",
+        "lang": "de",
+        "title": "Mehrere Interessenten für insolventen Solarpark-Betreiber \"Enerparc\"",
+        "summary": "Nach Angaben des vorläufigen Insolvenzverwalters haben mehr als zehn Firmen Interesse daran, das Unternehmen mit Sitz in der Hamburger Hafencity zu übernehmen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/mehrere-interessenten-fuer-insolventen-solarpark-betreiber-enerparc,enerparc-100.html",
+        "publishedAt": "2026-10-27T15:52:42+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/mehrere-interessenten-fuer-insolventen-solarpark-betreiber-enerparc,enerparc-100.html",
+            "publishedAt": "2026-10-27T15:52:42+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.348,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
+      },
+      {
+        "id": "63a5a970c644",
+        "category": "news",
+        "lang": "de",
+        "title": "Nach Insolvenzantrag: Geschäftsbetrieb bei Galeria läuft weiter",
+        "summary": "In Hamburg betreibt Galeria aktuell noch drei Warenhäuser: Auf der Mönckebergstraße, der Osterstraße und im Alstertal-Einkaufszentrum.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/nach-insolvenzantrag-geschaeftsbetrieb-bei-galeria-laeuft-weiter,kurzehh-4728.html",
+        "publishedAt": "2026-10-27T15:07:06+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/nach-insolvenzantrag-geschaeftsbetrieb-bei-galeria-laeuft-weiter,kurzehh-4728.html",
+            "publishedAt": "2026-10-27T15:07:06+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.317,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
         "id": "54b939655b49",
@@ -672,7 +806,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.437,
+        "score": 7.086,
+        "firstSeen": "2026-10-27T11:32:28.093000+00:00"
+      },
+      {
+        "id": "9b4384d21004",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: DAX kann weiter zulegen",
+        "summary": "Obwohl die wichtigsten Termine der Woche noch bevorstehen, hat der DAX seine Kurserholung fortgesetzt. Geholfen haben dabei neue Hoffnungen auf eine diplomatische Lösung im Iran-Krieg.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+        "publishedAt": "2026-10-27T17:18:35+00:00",
+        "subtopics": [
+          "Iran",
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+            "publishedAt": "2026-10-27T17:18:35+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
+            "publishedAt": "2026-10-27T17:18:35+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.007,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
@@ -708,7 +878,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.262,
+        "score": 6.982,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -743,7 +913,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.192,
+        "score": 6.921,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -778,7 +948,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.169,
+        "score": 6.901,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -807,9 +977,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.104,
+        "isNew": false,
+        "score": 6.745,
         "firstSeen": "2026-10-27T12:55:00.387721+00:00"
+      },
+      {
+        "id": "ea0fa04cf1f0",
+        "category": "news",
+        "lang": "de",
+        "title": "Bundesgerichtshof verweist Streit um falsches Künast-Zitat an EuGH",
+        "summary": "Der Bundesgerichtshof hat den Rechtsstreit der Grünen-Politikerin Künast gegen Meta an den Europäischen Gerichtshof verwiesen. Der soll prüfen, ob der Internetkonzern für die Löschung eines rechtswidrigen Memes verantwortlich ist.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/kuenast-meta-eugh-100.html",
+        "publishedAt": "2026-10-27T15:35:01+00:00",
+        "subtopics": [
+          "EU",
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/kuenast-meta-eugh-100.html",
+            "publishedAt": "2026-10-27T15:35:01+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.736,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
         "id": "62b0365b4f7e",
@@ -843,7 +1043,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.98,
+        "score": 6.612,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
@@ -878,7 +1078,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.857,
+        "score": 6.504,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
@@ -907,7 +1107,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.773,
+        "score": 6.431,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
@@ -942,8 +1142,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.604,
+        "score": 6.406,
         "firstSeen": "2026-10-25T20:20:02.669868+00:00"
+      },
+      {
+        "id": "7df4f2d4503b",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburg: Feuerwehr löscht Brand in Imbiss an der Eiffestraße",
+        "summary": "Weil die Eiffestraße für den Feuerwehreinsatz zeitweise gesperrt werden musste, kann es weiterhin rundherum Staus und Verzögerungen geben.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-feuerwehr-loescht-brand-in-imbiss-an-der-eiffestrasse,kurzehh-4730.html",
+        "publishedAt": "2026-10-27T15:20:42+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-feuerwehr-loescht-brand-in-imbiss-an-der-eiffestrasse,kurzehh-4730.html",
+            "publishedAt": "2026-10-27T15:20:42+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.326,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
         "id": "b049c9b19b90",
@@ -977,8 +1205,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.448,
+        "score": 6.269,
         "firstSeen": "2026-10-25T12:16:54.631793+00:00"
+      },
+      {
+        "id": "6316c443cba0",
+        "category": "news",
+        "lang": "de",
+        "title": "So war der Halbmarathon 2026 in Hamburg",
+        "summary": "Nach der wetterbedingten Absage im Juni, trotzen nun über 15.000 Läuferinnen und Läufer den herbstlichen Bedingungen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-halbmarathon-2026-in-hamburg,hamj-15868.html",
+        "publishedAt": "2026-10-25T18:47:44+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-halbmarathon-2026-in-hamburg,hamj-15868.html",
+            "publishedAt": "2026-10-25T18:47:44+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.005,
+        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
         "id": "2856023a1239",
@@ -1018,37 +1275,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.262,
+        "score": 5.982,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
-      },
-      {
-        "id": "6316c443cba0",
-        "category": "news",
-        "lang": "de",
-        "title": "So war der Halbmarathon 2026 in Hamburg",
-        "summary": "Nach der wetterbedingten Absage im Juni, trotzen nun über 15.000 Läuferinnen und Läufer den herbstlichen Bedingungen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-halbmarathon-2026-in-hamburg,hamj-15868.html",
-        "publishedAt": "2026-10-25T18:47:44+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-halbmarathon-2026-in-hamburg,hamj-15868.html",
-            "publishedAt": "2026-10-25T18:47:44+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.203,
-        "firstSeen": "2026-10-25T20:20:02.669868+00:00"
       },
       {
         "id": "7e08af81ae4b",
@@ -1082,65 +1310,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.018,
+        "score": 5.893,
         "firstSeen": "2026-10-24T11:47:51.763182+00:00"
-      },
-      {
-        "id": "431697a078a1",
-        "category": "news",
-        "lang": "de",
-        "title": "Psychiater über Sadismus im Internet: Wir können alle manipuliert werden",
-        "summary": "Ein 18-jähriger Hamburger soll eine junge Amerikanerin in den Tod getrieben haben. Der Gerichtsgutachter Christoph Lenk spricht über Täterdynamiken in Online-Chats.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/info/psychiater-ueber-sadismus-im-internet-wir-koennen-alle-manipuliert-werden,onlinesadist-100.html",
-        "publishedAt": "2026-10-26T20:13:00+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/info/psychiater-ueber-sadismus-im-internet-wir-koennen-alle-manipuliert-werden,onlinesadist-100.html",
-            "publishedAt": "2026-10-26T20:13:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.94,
-        "firstSeen": "2026-10-26T22:15:03.656954+00:00"
-      },
-      {
-        "id": "1de32e3a6f1e",
-        "category": "news",
-        "lang": "de",
-        "title": "Erste Herbst-Sturmflut erreicht Hamburg",
-        "summary": "Teile des Fischmarkts werden überschwemmt. Am Pegel St.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/erste-herbst-sturmflut-erreicht-hamburg,hamj-15906.html",
-        "publishedAt": "2026-10-26T18:42:13+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/erste-herbst-sturmflut-erreicht-hamburg,hamj-15906.html",
-            "publishedAt": "2026-10-26T18:42:13+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.888,
-        "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
         "id": "681fb2226123",
@@ -1202,7 +1373,7 @@
           }
         ],
         "isNew": false,
-        "score": 5.796,
+        "score": 5.698,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00"
       },
       {
@@ -1237,7 +1408,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.774,
+        "score": 5.678,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
       },
       {
@@ -1266,36 +1437,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.723,
+        "score": 5.634,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00"
-      },
-      {
-        "id": "cd94b6373394",
-        "category": "news",
-        "lang": "de",
-        "title": "Fliegerbombe in Hamburg-Heimfeld kontrolliert gesprengt",
-        "summary": "Im Hamburger Stadtteil Heimfeld ist am Montag ein Teil einer Fliegerbombe kontrolliert gesprengt worden. Gebäude mussten nicht evakuiert werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/fliegerbombe-in-hamburg-heimfeld-kontrolliert-gesprengt,kurzehh-4716.html",
-        "publishedAt": "2026-10-26T13:29:23+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/fliegerbombe-in-hamburg-heimfeld-kontrolliert-gesprengt,kurzehh-4716.html",
-            "publishedAt": "2026-10-26T13:29:23+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.717,
-        "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
         "id": "7e7dda98d85b",
@@ -1329,37 +1472,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.709,
+        "score": 5.498,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00"
-      },
-      {
-        "id": "d0f3751188da",
-        "category": "news",
-        "lang": "de",
-        "title": "Groß-Sand: Wann kommt neue Stadtteilklinik in Wilhelmsburg?",
-        "summary": "Seit fast vier Monaten ist das Krankenhaus Groß-Sand im Hamburger Stadtteil Wilhelmsburg Geschichte. Wie es an dem Standort weitergeht, bleibt offen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/gross-sand-wann-kommt-neue-stadtteilklinik-in-wilhelmsburg,grosssand-120.html",
-        "publishedAt": "2026-10-27T06:26:53+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/gross-sand-wann-kommt-neue-stadtteilklinik-in-wilhelmsburg,grosssand-120.html",
-            "publishedAt": "2026-10-27T06:26:53+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.625,
-        "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
         "id": "2dec09aa37a5",
@@ -1387,7 +1501,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.544,
+        "score": 5.477,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
       },
       {
@@ -1422,36 +1536,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.526,
+        "score": 5.461,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00"
-      },
-      {
-        "id": "03734db4b340",
-        "category": "news",
-        "lang": "de",
-        "title": "Sturmflut: Feuerwehr-Einsätze in Hamburg",
-        "summary": "Die erste Sturmflut in diesem Herbst hat in Hamburg für einige Feuerwehr-Einsätze gesorgt. In der Hafencity musste eine Frau vom Dach ihres Autos gerettet werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/sturmflut-feuerwehr-einsaetze-in-hamburg,hamj-15892.html",
-        "publishedAt": "2026-10-26T06:50:22+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/sturmflut-feuerwehr-einsaetze-in-hamburg,hamj-15892.html",
-            "publishedAt": "2026-10-26T06:50:22+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.518,
-        "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
         "id": "19ab544a300e",
@@ -1479,7 +1565,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.498,
+        "score": 5.436,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00"
       },
       {
@@ -1514,7 +1600,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.485,
+        "score": 5.425,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
       },
       {
@@ -1549,101 +1635,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.478,
+        "score": 5.419,
         "firstSeen": "2026-10-22T11:05:07.991732+00:00"
-      },
-      {
-        "id": "6402525362d9",
-        "category": "news",
-        "lang": "de",
-        "title": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
-        "summary": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
-        "publishedAt": "2026-10-22T07:56:08+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/asien/israel-wirtschaft-wahl-100.html",
-            "publishedAt": "2026-10-22T07:56:08+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.467,
-        "firstSeen": "2026-10-22T11:05:07.991732+00:00"
-      },
-      {
-        "id": "cd073cc4eb33",
-        "category": "news",
-        "lang": "de",
-        "title": "Meta investiert mindestens 135 Milliarden Dollar in KI",
-        "summary": "Der Meta-Konzern will den Ausbau seiner KI-Infrastruktur vorantreiben. Zur Finanzierung soll es eine neue Aktie ohne Stimmrechte geben.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
-        "publishedAt": "2026-10-22T05:25:41+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/meta-quartalszahlen-ki-investitionen-100.html",
-            "publishedAt": "2026-10-22T05:25:41+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.45,
-        "firstSeen": "2026-10-22T11:05:07.991732+00:00"
-      },
-      {
-        "id": "1f201d544345",
-        "category": "news",
-        "lang": "de",
-        "title": "Dobrindt plant hohe Hürden für Vergesellschaftungen",
-        "summary": "Geht es nach der Berliner Linkspartei, sollen Wohnungen in Zukunft vergesellschaftet werden. Doch die Bundesregierung will der Partei mit einem Gesetz zuvorkommen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
-        "publishedAt": "2026-10-25T11:51:21+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
-            "publishedAt": "2026-10-25T11:51:21+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-vergesellschaftung-100.html",
-            "publishedAt": "2026-10-25T11:51:21+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.446,
-        "firstSeen": "2026-10-25T12:16:54.631793+00:00"
       }
     ],
     "medical": [
@@ -1675,7 +1668,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.577,
+        "score": 13.518,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1709,7 +1702,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.786,
+        "score": 9.739,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1740,7 +1733,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.448,
+        "score": 9.373,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1772,7 +1765,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.231,
+        "score": 9.209,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1802,7 +1795,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.46,
+        "score": 8.427,
         "firstSeen": "2026-10-16T20:27:30.951362+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1833,7 +1826,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.231,
+        "score": 8.209,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1865,7 +1858,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.198,
+        "score": 8.091,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1896,7 +1889,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.252,
+        "score": 7.185,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1927,7 +1920,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.448,
+        "score": 6.373,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1959,7 +1952,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.299,
+        "score": 6.273,
         "firstSeen": "2026-10-14T12:36:04.535099+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1990,7 +1983,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.231,
+        "score": 6.209,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2021,7 +2014,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.231,
+        "score": 6.209,
         "firstSeen": "2026-10-13T13:28:14.953984+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2051,21 +2044,52 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.786,
+        "score": 5.739,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
-        "id": "c3dee61311d6",
+        "id": "2f955aa73f88",
         "category": "medical",
         "lang": "en",
-        "title": "Overheard in Boston: Medtech CEOs talk rising costs, turbulent markets, cyberattacks",
-        "summary": "At AdvaMed’s The MedTech Conference, CEOs from top medical device companies shared how they navigate difficult times, inflation and new technologies.",
+        "title": "Abbott launches MRD test with improved cancer detection tech",
+        "summary": "Dr. Rick Baehner, Abbott’s chief medical officer for precision oncology, spoke to MedTech Dive about how the new version of the Oncodetect test performs and the market it addresses.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.medtechdive.com/news/overheard-in-boston-medtech-ceos-talk-rising-costs-turbulent-markets-cyb/872744/",
-        "publishedAt": "2026-10-26T14:24:37+00:00",
+        "url": "https://www.medtechdive.com/news/abbott-launches-mrd-test-with-improved-cancer-detection-tech/872867/",
+        "publishedAt": "2026-10-27T14:14:04+00:00",
+        "subtopics": [
+          "Industry",
+          "Product launch"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/abbott-launches-mrd-test-with-improved-cancer-detection-tech/872867/",
+            "publishedAt": "2026-10-27T14:14:04+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.19,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00",
+        "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "d68adad3f316",
+        "category": "medical",
+        "lang": "en",
+        "title": "Medical device leaders share AI hot takes at The MedTech Conference",
+        "summary": "Medtech CEOs and consultants advised focusing on a core market and preparing for complex processes in a highly regulated industry.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/medical-device-leaders-share-ai-hot-takes-at-the-medtech-conference/872868/",
+        "publishedAt": "2026-10-27T14:02:28+00:00",
         "subtopics": [
           "Industry",
           "Conference"
@@ -2073,17 +2097,17 @@
         "sources": [
           {
             "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/overheard-in-boston-medtech-ceos-talk-rising-costs-turbulent-markets-cyb/872744/",
-            "publishedAt": "2026-10-26T14:24:37+00:00",
+            "url": "https://www.medtechdive.com/news/medical-device-leaders-share-ai-hot-takes-at-the-medtech-conference/872868/",
+            "publishedAt": "2026-10-27T14:02:28+00:00",
             "tier": 5
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 4.983,
-        "firstSeen": "2026-10-26T22:15:03.656954+00:00",
+        "isNew": true,
+        "score": 5.187,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -2113,9 +2137,40 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.923,
+        "score": 4.87,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "c3dee61311d6",
+        "category": "medical",
+        "lang": "en",
+        "title": "Overheard in Boston: Medtech CEOs talk rising costs, turbulent markets, cyberattacks",
+        "summary": "At AdvaMed’s The MedTech Conference, CEOs from top medical device companies shared how they navigate difficult times, inflation and new technologies.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/overheard-in-boston-medtech-ceos-talk-rising-costs-turbulent-markets-cyb/872744/",
+        "publishedAt": "2026-10-26T14:24:37+00:00",
+        "subtopics": [
+          "Industry",
+          "Conference"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/overheard-in-boston-medtech-ceos-talk-rising-costs-turbulent-markets-cyb/872744/",
+            "publishedAt": "2026-10-26T14:24:37+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.868,
+        "firstSeen": "2026-10-26T22:15:03.656954+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
@@ -2144,7 +2199,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.173,
+        "score": 4.092,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2175,69 +2230,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.064,
+        "score": 3.984,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "a2ee793f090c",
-        "category": "medical",
-        "lang": "en",
-        "title": "CDRH on hiring spree after significant staff losses, director says",
-        "summary": "Dr. Michelle Tarver said the FDA’s device center is filling positions after losing large numbers of clinical reviewers, as well as AI and digital health experts.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/cdrh-on-hiring-spree-after-significant-staff-losses-director-says/833659/",
-        "publishedAt": "2026-10-21T20:02:22+00:00",
-        "subtopics": [
-          "AI & digital health",
-          "Regulatory"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/cdrh-on-hiring-spree-after-significant-staff-losses-director-says/833659/",
-            "publishedAt": "2026-10-21T20:02:22+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.721,
-        "firstSeen": "2026-10-21T21:11:48.388929+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "534b02901867",
-        "category": "medical",
-        "lang": "en",
-        "title": "Quest Diagnostics hit by cyberattack",
-        "summary": "The testing company believes an unauthorized third party accessed patient records.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/quest-diagnostics-hit-by-cyberattack/833785/",
-        "publishedAt": "2026-10-22T20:18:00+00:00",
-        "subtopics": [
-          "Diagnostics & imaging"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/quest-diagnostics-hit-by-cyberattack/833785/",
-            "publishedAt": "2026-10-22T20:18:00+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.916,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -2266,7 +2260,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.912,
+        "score": 2.8,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2296,13 +2290,78 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.213,
+        "score": 2.131,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "3de7638b9f3f",
+        "category": "growth",
+        "lang": "en",
+        "title": "This dad tried to get AI to help raise his kids, and it didn’t turn out the way he hoped #TEDTalks",
+        "summary": "As the world races toward digital perfection, tech humanist Stephen Remedios tried to optimize the messiest and most imperfect of all human work: parenting. He shares the story of DaddyGPT, a digital version of himself built to help raise his kids — until…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/Sj2OZXQHugQ",
+        "publishedAt": "2026-10-27T18:00:13+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/Sj2OZXQHugQ",
+            "publishedAt": "2026-10-27T18:00:13+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.436,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00",
+        "kind": "video",
+        "video": {
+          "id": "Sj2OZXQHugQ",
+          "thumbUrl": "https://i4.ytimg.com/vi/Sj2OZXQHugQ/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=Sj2OZXQHugQ",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "f376eece8b40",
+        "category": "growth",
+        "lang": "en",
+        "title": "Game Boy Color on My Conference Badge",
+        "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia...",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+        "publishedAt": "2026-10-27T19:34:18+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+            "publishedAt": "2026-10-27T19:34:18+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.403,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00",
+        "kind": "article"
+      },
       {
         "id": "b518c840f711",
         "category": "growth",
@@ -2329,7 +2388,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.63,
+        "score": 5.281,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00",
         "kind": "article"
       },
@@ -2358,7 +2417,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.056,
+        "score": 4.777,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "article"
       },
@@ -2389,7 +2448,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.971,
+        "score": 4.666,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00",
         "kind": "article"
       },
@@ -2419,37 +2478,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.891,
+        "score": 4.633,
         "firstSeen": "2026-10-26T13:48:17.478148+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "b521cb6b48c6",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Jason Koebler",
-        "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-        "publishedAt": "2026-10-26T19:00:25+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-            "publishedAt": "2026-10-26T19:00:25+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.798,
-        "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "article"
       },
       {
@@ -2478,8 +2508,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.781,
+        "score": 4.536,
         "firstSeen": "2026-10-26T13:48:17.478148+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "b521cb6b48c6",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Jason Koebler",
+        "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+        "publishedAt": "2026-10-26T19:00:25+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+            "publishedAt": "2026-10-26T19:00:25+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.514,
+        "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "article"
       },
       {
@@ -2507,7 +2566,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.706,
+        "score": 4.433,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00",
         "kind": "article"
       },
@@ -2537,7 +2596,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.387,
+        "score": 4.29,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -2573,7 +2632,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.344,
+        "score": 4.215,
         "firstSeen": "2026-10-24T20:08:26.935020+00:00",
         "kind": "video",
         "video": {
@@ -2609,7 +2668,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.163,
+        "score": 4.094,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2621,33 +2680,41 @@
         }
       },
       {
-        "id": "26fd38f53c39",
+        "id": "bfbd5a70399b",
         "category": "growth",
         "lang": "en",
-        "title": "Seam Cutter",
-        "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image.",
+        "title": "Why You Should Share a Recipe with a Stranger | Anuj Gupta | TED",
+        "summary": "Can we eat our way to a stronger democracy? Civic leader Anuj Gupta believes that food is one of our last common denominators.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-        "publishedAt": "2026-10-25T15:10:19+00:00",
+        "url": "https://www.youtube.com/watch?v=tu6tF-lVDJI",
+        "publishedAt": "2026-10-27T15:00:00+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "Communication",
+          "Leadership"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-            "publishedAt": "2026-10-25T15:10:19+00:00",
-            "tier": 3
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=tu6tF-lVDJI",
+            "publishedAt": "2026-10-27T15:00:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 4.019,
-        "firstSeen": "2026-10-26T12:10:56.817299+00:00",
-        "kind": "article"
+        "isNew": true,
+        "score": 3.893,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00",
+        "kind": "video",
+        "video": {
+          "id": "tu6tF-lVDJI",
+          "thumbUrl": "https://i1.ytimg.com/vi/tu6tF-lVDJI/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=tu6tF-lVDJI",
+          "channel": "TED"
+        }
       },
       {
         "id": "e314fb61298d",
@@ -2675,7 +2742,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.877,
+        "score": 3.869,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -2712,7 +2779,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.853,
+        "score": 3.845,
         "firstSeen": "2026-10-25T20:20:02.669868+00:00",
         "kind": "video",
         "video": {
@@ -2720,6 +2787,72 @@
           "thumbUrl": "https://i1.ytimg.com/vi/46v8M4RsCzg/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=46v8M4RsCzg",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "26fd38f53c39",
+        "category": "growth",
+        "lang": "en",
+        "title": "Seam Cutter",
+        "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+        "publishedAt": "2026-10-25T15:10:19+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+            "publishedAt": "2026-10-25T15:10:19+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.831,
+        "firstSeen": "2026-10-26T12:10:56.817299+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "436a2b2fff60",
+        "category": "growth",
+        "lang": "en",
+        "title": "Inside the “Play Labs” Helping Refugee Kids Heal | Erum Mariam | TED",
+        "summary": "What does healing look like for a refugee child? That's the question educational leader Erum Mariam asked when her team built the humanitarian \"play labs\": small, welcoming spaces where children displaced from their homes can play and reconnect with what…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
+        "publishedAt": "2026-10-22T15:00:04+00:00",
+        "subtopics": [
+          "Leadership",
+          "Social skills"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
+            "publishedAt": "2026-10-22T15:00:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.777,
+        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
+        "kind": "video",
+        "video": {
+          "id": "j11fPNKe5mY",
+          "thumbUrl": "https://i3.ytimg.com/vi/j11fPNKe5mY/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=j11fPNKe5mY",
           "channel": "TED"
         }
       },
@@ -2749,7 +2882,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.819,
+        "score": 3.755,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2758,43 +2891,6 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=2tZT2-pS_pI",
           "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "436a2b2fff60",
-        "category": "growth",
-        "lang": "en",
-        "title": "Inside the “Play Labs” Helping Refugee Kids Heal | Erum Mariam | TED",
-        "summary": "What does healing look like for a refugee child? That's the question educational leader Erum Mariam asked when her team built the humanitarian \"play labs\": small, welcoming spaces where children displaced from their homes can play and reconnect with what…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-        "publishedAt": "2026-10-22T15:00:04+00:00",
-        "subtopics": [
-          "Leadership",
-          "Social skills"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-            "publishedAt": "2026-10-22T15:00:04+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.785,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
-        "kind": "video",
-        "video": {
-          "id": "j11fPNKe5mY",
-          "thumbUrl": "https://i3.ytimg.com/vi/j11fPNKe5mY/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-          "channel": "TED"
         }
       },
       {
@@ -2823,7 +2919,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.722,
+        "score": 3.715,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2860,7 +2956,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.683,
+        "score": 3.676,
         "firstSeen": "2026-10-17T20:02:01.115930+00:00",
         "kind": "video",
         "video": {
@@ -2872,40 +2968,39 @@
         }
       },
       {
-        "id": "c0abbd96b519",
+        "id": "df1d9964d77e",
         "category": "growth",
         "lang": "en",
-        "title": "How the Wealth Gap Is Reshaping Politics | Xochitl Gonzalez | TED",
-        "summary": "Wealth inequality gets talked about as an economic problem. Writer Xochitl Gonzalez makes the case that it's a civic one, too — a slow, quiet threat to democracy.",
+        "title": "Robots Made In America",
+        "summary": "Robot foundation models are starting to transfer skills from one machine to another, which means the bottleneck is shifting to hardware. The U.S.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.youtube.com/watch?v=PpEUTpzWt2M",
-        "publishedAt": "2026-10-13T15:00:17+00:00",
+        "url": "https://www.youtube.com/shorts/7adYEc1XkEs",
+        "publishedAt": "2026-10-27T18:29:01+00:00",
         "subtopics": [
-          "Personal finance",
-          "Psychology"
+          "Entrepreneurship"
         ],
         "sources": [
           {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=PpEUTpzWt2M",
-            "publishedAt": "2026-10-13T15:00:17+00:00",
-            "tier": 2
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/7adYEc1XkEs",
+            "publishedAt": "2026-10-27T18:29:01+00:00",
+            "tier": 3
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 3.612,
-        "firstSeen": "2026-10-13T23:10:38.643116+00:00",
+        "isNew": true,
+        "score": 3.597,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
-          "id": "PpEUTpzWt2M",
-          "thumbUrl": "https://i1.ytimg.com/vi/PpEUTpzWt2M/hqdefault.jpg",
+          "id": "7adYEc1XkEs",
+          "thumbUrl": "https://i4.ytimg.com/vi/7adYEc1XkEs/hqdefault.jpg",
           "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=PpEUTpzWt2M",
-          "channel": "TED"
+          "watchUrl": "https://www.youtube.com/watch?v=7adYEc1XkEs",
+          "channel": "Y Combinator"
         }
       },
       {
@@ -2934,7 +3029,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.576,
+        "score": 3.568,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -2970,7 +3065,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.507,
+        "score": 3.499,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -2980,35 +3075,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=v12aSIZIXUs",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "5699208333bf",
-        "category": "growth",
-        "lang": "en",
-        "title": "battledrones v14: Compass Rose, a four player map",
-        "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-        "publishedAt": "2026-10-24T03:59:57+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-            "publishedAt": "2026-10-24T03:59:57+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.4,
-        "firstSeen": "2026-10-24T20:08:26.935020+00:00",
-        "kind": "article"
       },
       {
         "id": "712bc0d815dc",
@@ -3037,8 +3103,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.37,
+        "score": 3.299,
         "firstSeen": "2026-10-22T22:02:25.599257+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "5699208333bf",
+        "category": "growth",
+        "lang": "en",
+        "title": "battledrones v14: Compass Rose, a four player map",
+        "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+        "publishedAt": "2026-10-24T03:59:57+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+            "publishedAt": "2026-10-24T03:59:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.289,
+        "firstSeen": "2026-10-24T20:08:26.935020+00:00",
         "kind": "article"
       },
       {
@@ -3066,7 +3161,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.349,
+        "score": 3.281,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -3095,7 +3190,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.318,
+        "score": 3.217,
         "firstSeen": "2026-10-24T10:12:48.960201+00:00",
         "kind": "article"
       },
@@ -3125,7 +3220,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.295,
+        "score": 3.197,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "article"
       },
@@ -3154,7 +3249,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.057,
+        "score": 2.988,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -3183,7 +3278,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.044,
+        "score": 2.977,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -3212,7 +3307,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.023,
+        "score": 2.959,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "article"
       },
@@ -3242,7 +3337,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.884,
+        "score": 2.836,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
       },
@@ -3271,7 +3366,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.871,
+        "score": 2.825,
         "firstSeen": "2026-10-21T21:11:48.388929+00:00",
         "kind": "article"
       },
@@ -3300,8 +3395,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 2.799,
+        "isNew": false,
+        "score": 2.79,
         "firstSeen": "2026-10-27T12:55:00.387721+00:00",
         "kind": "article"
       },
@@ -3330,101 +3425,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.79,
+        "score": 2.754,
         "firstSeen": "2026-10-21T11:05:18.081351+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4dc8a56e0373",
-        "category": "growth",
-        "lang": "en",
-        "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-        "summary": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-        "publishedAt": "2026-10-20T19:34:19+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-            "publishedAt": "2026-10-20T19:34:19+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.772,
-        "firstSeen": "2026-10-20T21:11:59.391555+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5d50c75afde3",
-        "category": "growth",
-        "lang": "en",
-        "title": "What is the Average Net Worth by Age? [2025 Latest Data]",
-        "summary": "Do you want to know how you are doing relative to your peers financially? Then this is the article for you.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ofdollarsanddata.com/average-net-worth-by-age/",
-        "publishedAt": "2026-10-20T10:00:03+00:00",
-        "subtopics": [
-          "Communication",
-          "Personal finance",
-          "Psychology"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/average-net-worth-by-age/",
-            "publishedAt": "2026-10-20T10:00:03+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.638,
-        "firstSeen": "2026-10-20T10:52:48.540736+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "f989cc6a3b5f",
-        "category": "growth",
-        "lang": "en",
-        "title": "Ryan Serhant: How to Get People to Say Yes",
-        "summary": "Ryan Serhant is a real estate broker, founder of SERHANT., and star of Bravo’s Million Dollar Listing New York and Netflix’s Owning Manhattan. He explains how to sell without making people feel sold to: build a connection, help first, and earn the right to…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
-        "publishedAt": "2026-10-08T09:55:00+00:00",
-        "subtopics": [
-          "Communication",
-          "Entrepreneurship",
-          "Psychology"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
-            "publishedAt": "2026-10-08T09:55:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.429,
-        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "kind": "article"
       }
     ]
@@ -3463,7 +3465,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 28,
+      "items": 30,
       "error": null
     },
     {
@@ -3606,9 +3608,9 @@
     }
   ],
   "filteredOut": {
-    "football": 65,
-    "news": 70,
+    "football": 66,
+    "news": 68,
     "medical": 9,
-    "growth": 48
+    "growth": 47
   }
 }
