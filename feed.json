@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T11:37:54.527957+00:00",
+  "generatedAt": "2026-10-31T13:14:34.291377+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -9,34 +9,33 @@
   "tabs": {
     "football": [
       {
-        "id": "f316770e33a0",
+        "id": "ffa861a909ba",
         "category": "football",
         "lang": "en",
-        "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
-        "summary": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?",
+        "title": "In-demand Spain star Martin talks future plans: 'This is my home'",
+        "summary": "\"I have always said that this is my home.\" That is the response when talking to Jon Martin about life at Real Sociedad. He has been linked with Real Madrid, Barcelona and some of the biggest clubs in the Premier League.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-29T08:07:22+00:00",
+        "url": "https://www.skysports.com/football/news/11095/13595376/jon-martin-interview-real-sociedad-and-spain-defender-on-why-he-is-staying-at-his-home-amid-interest-from-biggest-clubs",
+        "publishedAt": "2026-10-31T12:00:00+00:00",
         "subtopics": [
           "Barcelona",
-          "La Liga",
-          "Results"
+          "La Liga"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-29T08:07:22+00:00",
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13595376/jon-martin-interview-real-sociedad-and-spain-defender-on-why-he-is-staying-at-his-home-amid-interest-from-biggest-clubs",
+            "publishedAt": "2026-10-31T12:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 11.502,
-        "firstSeen": "2026-10-29T12:13:19.659477+00:00"
+        "isNew": true,
+        "score": 12.373,
+        "firstSeen": "2026-10-31T13:14:34.291377+00:00"
       },
       {
         "id": "de1d0dde1315",
@@ -63,43 +62,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.318,
+        "score": 11.219,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
-      },
-      {
-        "id": "5aa3e0793e7e",
-        "category": "football",
-        "lang": "en",
-        "title": "Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live",
-        "summary": "⚽ Updates on the 12.30pm GMT kick-off in west London ⚽ Football Daily | Goalscorers | Live Scores | Email Scott None of these lads have started the season as they’d have liked. Chelsea may be fifth in the Premier League table, but they’re out of the League…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-buildup-premier-league-wsl-and-more-matchday-live",
-        "publishedAt": "2026-10-31T11:16:08+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-buildup-premier-league-wsl-and-more-matchday-live",
-            "publishedAt": "2026-10-31T11:16:08+00:00",
-            "tier": 2
-          },
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
-            "publishedAt": "2026-10-31T11:00:42+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 9.462,
-        "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
         "id": "da68d7774bad",
@@ -127,10 +91,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 9.145,
+        "isNew": false,
+        "score": 9.002,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00",
         "transfer": "REPORTED"
+      },
+      {
+        "id": "3f9b6f67f1ef",
+        "category": "football",
+        "lang": "en",
+        "title": "Chelsea v Manchester United: Premier League – live",
+        "summary": "⚽ Updates on the 12.30pm GMT kick-off in west London ⚽ Football Daily | Goalscorers | Live Scores | Email Scott 3 min: A rare old atmosphere at the Bridge. Saturday lunchtime pints!",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+        "publishedAt": "2026-10-31T13:09:43+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+            "publishedAt": "2026-10-31T13:09:43+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.992,
+        "firstSeen": "2026-10-31T13:14:34.291377+00:00"
       },
       {
         "id": "9f30cd0292cf",
@@ -158,7 +151,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.819,
+        "score": 7.774,
         "firstSeen": "2026-10-29T23:03:54.084294+00:00"
       },
       {
@@ -188,9 +181,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.562,
+        "score": 6.477,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "transfer": "RUMOUR"
+      },
+      {
+        "id": "01c99750d5ec",
+        "category": "football",
+        "lang": "en",
+        "title": "PL Predictions: Spurs set for statement win over Palace",
+        "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
+        "publishedAt": "2026-10-31T12:30:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
+            "publishedAt": "2026-10-31T12:30:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.424,
+        "firstSeen": "2026-10-31T13:14:34.291377+00:00"
       },
       {
         "id": "64dccf6a81d7",
@@ -218,7 +240,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.831,
+        "score": 5.786,
         "firstSeen": "2026-10-29T23:03:54.084294+00:00"
       },
       {
@@ -248,7 +270,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.69,
+        "score": 5.626,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -277,7 +299,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.5,
+        "score": 5.472,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "transfer": "OFFICIAL"
       },
@@ -307,7 +329,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.357,
+        "score": 5.338,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -336,7 +358,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.336,
+        "score": 5.318,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -365,7 +387,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.148,
+        "score": 4.113,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       },
       {
@@ -394,7 +416,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.101,
+        "score": 4.068,
         "firstSeen": "2026-10-29T13:53:10.122046+00:00"
       },
       {
@@ -423,7 +445,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.756,
+        "score": 3.715,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       }
     ],
@@ -459,8 +481,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.83,
+        "isNew": false,
+        "score": 7.763,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
@@ -495,7 +517,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.393,
+        "score": 7.337,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -530,7 +552,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.286,
+        "score": 7.232,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -559,7 +581,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.179,
+        "score": 7.127,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -594,7 +616,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.128,
+        "score": 7.077,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
@@ -623,7 +645,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.065,
+        "score": 7.017,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -652,7 +674,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.044,
+        "score": 6.996,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -681,7 +703,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.939,
+        "score": 6.883,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -710,7 +732,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.936,
+        "score": 6.881,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -745,7 +767,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.668,
+        "score": 6.629,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       },
       {
@@ -774,7 +796,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.644,
+        "score": 6.595,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -809,7 +831,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.603,
+        "score": 6.565,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -838,7 +860,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.531,
+        "score": 6.495,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       },
       {
@@ -873,7 +895,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.397,
+        "score": 6.364,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -903,7 +925,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.36,
+        "score": 6.328,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -932,7 +954,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.237,
+        "score": 6.184,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -966,9 +988,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.235,
+        "isNew": false,
+        "score": 6.165,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
+      },
+      {
+        "id": "d400069ff5f6",
+        "category": "news",
+        "lang": "de",
+        "title": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
+        "summary": "Zwei Männer aus Belarus stehen im Verdacht, im Raum Nürnberg einen Brandanschlag geplant zu haben - im Auftrag einer fremden Regierung oder Vereinigung. Sie wurden festgenommen und sitzen in Untersuchungshaft.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
+        "publishedAt": "2026-10-28T19:03:51+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
+            "publishedAt": "2026-10-28T19:03:51+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.121,
+        "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
         "id": "f149b7c6eac5",
@@ -997,37 +1048,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.166,
+        "score": 6.114,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
-      },
-      {
-        "id": "d400069ff5f6",
-        "category": "news",
-        "lang": "de",
-        "title": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
-        "summary": "Zwei Männer aus Belarus stehen im Verdacht, im Raum Nürnberg einen Brandanschlag geplant zu haben - im Auftrag einer fremden Regierung oder Vereinigung. Sie wurden festgenommen und sitzen in Untersuchungshaft.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
-        "publishedAt": "2026-10-28T19:03:51+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
-            "publishedAt": "2026-10-28T19:03:51+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.148,
-        "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
         "id": "68a763a7a6b3",
@@ -1056,7 +1078,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.066,
+        "score": 6.041,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1091,7 +1113,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.033,
+        "score": 6.008,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
       },
       {
@@ -1119,8 +1141,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.013,
+        "isNew": false,
+        "score": 5.949,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
@@ -1149,7 +1171,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.987,
+        "score": 5.939,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -1184,7 +1206,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.971,
+        "score": 5.924,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -1213,7 +1235,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.936,
+        "score": 5.913,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
       },
       {
@@ -1242,7 +1264,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.91,
+        "score": 5.856,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
@@ -1277,7 +1299,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.781,
+        "score": 5.763,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1312,7 +1334,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.781,
+        "score": 5.763,
         "firstSeen": "2026-10-27T12:55:00.387721+00:00"
       },
       {
@@ -1347,7 +1369,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.766,
+        "score": 5.748,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1376,36 +1398,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.747,
+        "score": 5.729,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
-      },
-      {
-        "id": "8cf5b1493900",
-        "category": "news",
-        "lang": "de",
-        "title": "Erneute Sperrung der U-Bahnlinie 3 in der Hamburger Innenstadt",
-        "summary": "Auf dem besonders beliebten Abschnitt zwischen St. Pauli und Rathaus wurden die Arbeiten beendet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/erneute-sperrung-der-u-bahnlinie-3-in-der-hamburger-innenstadt,u-bahn-124.html",
-        "publishedAt": "2026-10-30T11:55:17+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/erneute-sperrung-der-u-bahnlinie-3-in-der-hamburger-innenstadt,u-bahn-124.html",
-            "publishedAt": "2026-10-30T11:55:17+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.708,
-        "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
         "id": "09d46d0403bf",
@@ -1433,29 +1427,27 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.702,
+        "score": 5.685,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
-        "id": "f1f155558e74",
+        "id": "8cf5b1493900",
         "category": "news",
         "lang": "de",
-        "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
-        "summary": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede.",
+        "title": "Erneute Sperrung der U-Bahnlinie 3 in der Hamburger Innenstadt",
+        "summary": "Auf dem besonders beliebten Abschnitt zwischen St. Pauli und Rathaus wurden die Arbeiten beendet.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
-        "publishedAt": "2026-10-29T06:20:37+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/erneute-sperrung-der-u-bahnlinie-3-in-der-hamburger-innenstadt,u-bahn-124.html",
+        "publishedAt": "2026-10-30T11:55:17+00:00",
         "subtopics": [
-          "Germany",
-          "EU",
-          "Government"
+          "Hamburg"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
-            "publishedAt": "2026-10-29T06:20:37+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/erneute-sperrung-der-u-bahnlinie-3-in-der-hamburger-innenstadt,u-bahn-124.html",
+            "publishedAt": "2026-10-30T11:55:17+00:00",
             "tier": 1
           }
         ],
@@ -1463,8 +1455,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.557,
-        "firstSeen": "2026-10-29T22:23:32.987882+00:00"
+        "score": 5.658,
+        "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
         "id": "0d1ffed97b91",
@@ -1493,28 +1485,29 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.553,
+        "score": 5.539,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
-        "id": "932484b3bff2",
+        "id": "f1f155558e74",
         "category": "news",
         "lang": "de",
-        "title": "Jugendproteste: \"Sie meinen es jetzt wirklich ernst\"",
-        "summary": "Steigende Preise, marode Schulen, fehlender Dialog: Im Interview erklärt der Protestforscher Florian Staudt, warum junge Menschen in Europa protestieren - und was die Politik aus seiner Sicht jetzt tun sollte.",
+        "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+        "summary": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-gruende-100.html",
-        "publishedAt": "2026-10-30T16:03:53+00:00",
+        "url": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
+        "publishedAt": "2026-10-29T06:20:37+00:00",
         "subtopics": [
           "Germany",
-          "Protests"
+          "EU",
+          "Government"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-gruende-100.html",
-            "publishedAt": "2026-10-30T16:03:53+00:00",
+            "url": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html",
+            "publishedAt": "2026-10-29T06:20:37+00:00",
             "tier": 1
           }
         ],
@@ -1522,8 +1515,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.542,
-        "firstSeen": "2026-10-30T21:54:22.608604+00:00"
+        "score": 5.525,
+        "firstSeen": "2026-10-29T22:23:32.987882+00:00"
+      },
+      {
+        "id": "51adf792c617",
+        "category": "news",
+        "lang": "de",
+        "title": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
+        "summary": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
+        "publishedAt": "2026-10-26T15:49:36+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html",
+            "publishedAt": "2026-10-26T15:49:36+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.523,
+        "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       }
     ],
     "medical": [
@@ -1555,7 +1577,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.061,
+        "score": 13.054,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1589,7 +1611,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.379,
+        "score": 9.373,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1620,7 +1642,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.793,
+        "score": 8.784,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1652,7 +1674,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.932,
+        "score": 7.914,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1690,7 +1712,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.932,
+        "score": 7.914,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1722,7 +1744,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.262,
+        "score": 7.249,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1753,7 +1775,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.914,
+        "score": 6.894,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1784,7 +1806,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.67,
+        "score": 6.662,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1815,7 +1837,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.793,
+        "score": 5.784,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1845,7 +1867,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.379,
+        "score": 5.373,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1875,7 +1897,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.2,
+        "score": 5.178,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1906,7 +1928,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.188,
+        "score": 4.173,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1936,7 +1958,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.447,
+        "score": 3.43,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1966,7 +1988,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.715,
+        "score": 2.696,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2000,7 +2022,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.491,
+        "score": 5.439,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "kind": "video",
         "video": {
@@ -2036,7 +2058,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.221,
+        "score": 5.176,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2072,7 +2094,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.024,
+        "score": 4.983,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2080,6 +2102,42 @@
           "thumbUrl": "https://i3.ytimg.com/vi/VoSVN7H07-Q/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=VoSVN7H07-Q",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "0504dd56132c",
+        "category": "growth",
+        "lang": "en",
+        "title": "LLMs That Write Well",
+        "summary": "LLMs have gotten much better at coding and math, but their writing increasingly sounds flat and robotic. The same reward signals that improve coding and agentic work can flatten voice and style.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/674Efd5Scfg",
+        "publishedAt": "2026-10-29T18:48:01+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/674Efd5Scfg",
+            "publishedAt": "2026-10-29T18:48:01+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.895,
+        "firstSeen": "2026-10-29T22:23:32.987882+00:00",
+        "kind": "video",
+        "video": {
+          "id": "674Efd5Scfg",
+          "thumbUrl": "https://i3.ytimg.com/vi/674Efd5Scfg/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=674Efd5Scfg",
           "channel": "Y Combinator"
         }
       },
@@ -2108,45 +2166,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.949,
+        "score": 4.891,
         "firstSeen": "2026-10-30T22:44:56.163184+00:00",
         "kind": "article"
-      },
-      {
-        "id": "0504dd56132c",
-        "category": "growth",
-        "lang": "en",
-        "title": "LLMs That Write Well",
-        "summary": "LLMs have gotten much better at coding and math, but their writing increasingly sounds flat and robotic. The same reward signals that improve coding and agentic work can flatten voice and style.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/674Efd5Scfg",
-        "publishedAt": "2026-10-29T18:48:01+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/674Efd5Scfg",
-            "publishedAt": "2026-10-29T18:48:01+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.934,
-        "firstSeen": "2026-10-29T22:23:32.987882+00:00",
-        "kind": "video",
-        "video": {
-          "id": "674Efd5Scfg",
-          "thumbUrl": "https://i3.ytimg.com/vi/674Efd5Scfg/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=674Efd5Scfg",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "d59a1f01d08f",
@@ -2173,7 +2195,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.833,
+        "score": 4.797,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2209,7 +2231,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.494,
+        "score": 4.466,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2245,7 +2267,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.468,
+        "score": 4.441,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2253,43 +2275,6 @@
           "thumbUrl": "https://i1.ytimg.com/vi/DzblM1Mc-J8/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=DzblM1Mc-J8",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "1506271ed014",
-        "category": "growth",
-        "lang": "en",
-        "title": "Plaid for Government Benefits",
-        "summary": "Applying for government benefits means proving the same facts again and again across systems that don’t talk to each other. That creates friction for honest applicants and openings for fraud.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/3CDvfm9DYjw",
-        "publishedAt": "2026-10-28T15:47:55+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Behaviour change"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/3CDvfm9DYjw",
-            "publishedAt": "2026-10-28T15:47:55+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.393,
-        "firstSeen": "2026-10-28T22:07:50.557016+00:00",
-        "kind": "video",
-        "video": {
-          "id": "3CDvfm9DYjw",
-          "thumbUrl": "https://i4.ytimg.com/vi/3CDvfm9DYjw/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=3CDvfm9DYjw",
           "channel": "Y Combinator"
         }
       },
@@ -2318,7 +2303,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.39,
+        "score": 4.372,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2327,6 +2312,43 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=Sj2OZXQHugQ",
           "channel": "TED"
+        }
+      },
+      {
+        "id": "1506271ed014",
+        "category": "growth",
+        "lang": "en",
+        "title": "Plaid for Government Benefits",
+        "summary": "Applying for government benefits means proving the same facts again and again across systems that don’t talk to each other. That creates friction for honest applicants and openings for fraud.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/3CDvfm9DYjw",
+        "publishedAt": "2026-10-28T15:47:55+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Behaviour change"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/3CDvfm9DYjw",
+            "publishedAt": "2026-10-28T15:47:55+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.367,
+        "firstSeen": "2026-10-28T22:07:50.557016+00:00",
+        "kind": "video",
+        "video": {
+          "id": "3CDvfm9DYjw",
+          "thumbUrl": "https://i4.ytimg.com/vi/3CDvfm9DYjw/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=3CDvfm9DYjw",
+          "channel": "Y Combinator"
         }
       },
       {
@@ -2355,37 +2377,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.28,
+        "score": 4.245,
         "firstSeen": "2026-10-29T13:53:10.122046+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "0c49eb4fc302",
-        "category": "growth",
-        "lang": "en",
-        "title": "We urgently need to monitor AI agents’ actions in real time",
-        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-        "publishedAt": "2026-10-29T10:11:12+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-            "publishedAt": "2026-10-29T10:11:12+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.237,
-        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       },
       {
@@ -2414,7 +2407,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.237,
+        "score": 4.215,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2424,6 +2417,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=9EJM4LNMK0I",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "0c49eb4fc302",
+        "category": "growth",
+        "lang": "en",
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "publishedAt": "2026-10-29T10:11:12+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+            "publishedAt": "2026-10-29T10:11:12+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.203,
+        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
+        "kind": "article"
       },
       {
         "id": "32e3919a0587",
@@ -2451,7 +2473,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.234,
+        "score": 4.193,
         "firstSeen": "2026-10-29T23:03:54.084294+00:00",
         "kind": "article"
       },
@@ -2480,7 +2502,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.155,
+        "score": 4.135,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2517,7 +2539,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.091,
+        "score": 4.053,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "article"
       },
@@ -2546,7 +2568,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.024,
+        "score": 3.988,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "article"
       },
@@ -2577,7 +2599,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.973,
+        "score": 3.945,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
       },
@@ -2608,7 +2630,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.836,
+        "score": 3.811,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
       },
@@ -2637,7 +2659,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.833,
+        "score": 3.809,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
       },
@@ -2667,7 +2689,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.809,
+        "score": 3.807,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2704,7 +2726,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.786,
+        "score": 3.785,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -2741,7 +2763,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.765,
+        "score": 3.763,
         "firstSeen": "2026-10-25T20:20:02.669868+00:00",
         "kind": "video",
         "video": {
@@ -2749,6 +2771,43 @@
           "thumbUrl": "https://i1.ytimg.com/vi/46v8M4RsCzg/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=46v8M4RsCzg",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "436a2b2fff60",
+        "category": "growth",
+        "lang": "en",
+        "title": "Inside the “Play Labs” Helping Refugee Kids Heal | Erum Mariam | TED",
+        "summary": "What does healing look like for a refugee child? That's the question educational leader Erum Mariam asked when her team built the humanitarian \"play labs\": small, welcoming spaces where children displaced from their homes can play and reconnect with what…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
+        "publishedAt": "2026-10-22T15:00:04+00:00",
+        "subtopics": [
+          "Leadership",
+          "Social skills"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
+            "publishedAt": "2026-10-22T15:00:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.702,
+        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
+        "kind": "video",
+        "video": {
+          "id": "j11fPNKe5mY",
+          "thumbUrl": "https://i3.ytimg.com/vi/j11fPNKe5mY/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=j11fPNKe5mY",
           "channel": "TED"
         }
       },
@@ -2779,46 +2838,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.724,
+        "score": 3.695,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
-      },
-      {
-        "id": "436a2b2fff60",
-        "category": "growth",
-        "lang": "en",
-        "title": "Inside the “Play Labs” Helping Refugee Kids Heal | Erum Mariam | TED",
-        "summary": "What does healing look like for a refugee child? That's the question educational leader Erum Mariam asked when her team built the humanitarian \"play labs\": small, welcoming spaces where children displaced from their homes can play and reconnect with what…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-        "publishedAt": "2026-10-22T15:00:04+00:00",
-        "subtopics": [
-          "Leadership",
-          "Social skills"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-            "publishedAt": "2026-10-22T15:00:04+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.704,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
-        "kind": "video",
-        "video": {
-          "id": "j11fPNKe5mY",
-          "thumbUrl": "https://i3.ytimg.com/vi/j11fPNKe5mY/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-          "channel": "TED"
-        }
       },
       {
         "id": "c1e4e4567b20",
@@ -2846,7 +2868,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.647,
+        "score": 3.646,
         "firstSeen": "2026-10-19T21:57:24.123795+00:00",
         "kind": "video",
         "video": {
@@ -2882,7 +2904,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.609,
+        "score": 3.583,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
       },
@@ -2911,7 +2933,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.555,
+        "score": 3.549,
         "firstSeen": "2026-10-24T20:08:26.935020+00:00",
         "kind": "video",
         "video": {
@@ -2947,7 +2969,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.512,
+        "score": 3.51,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2955,6 +2977,43 @@
           "thumbUrl": "https://i4.ytimg.com/vi/7adYEc1XkEs/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=7adYEc1XkEs",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "e43b71c34e9b",
+        "category": "growth",
+        "lang": "en",
+        "title": "The New Full-Stack Designer",
+        "summary": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to walk through his design process. He shows the admin redesign and Sidekick work his team recently shipped, a weekend project where…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
+        "publishedAt": "2026-10-26T14:00:10+00:00",
+        "subtopics": [
+          "Productivity & systems",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
+            "publishedAt": "2026-10-26T14:00:10+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.484,
+        "firstSeen": "2026-10-26T22:15:03.656954+00:00",
+        "kind": "video",
+        "video": {
+          "id": "eojywvxqoLc",
+          "thumbUrl": "https://i2.ytimg.com/vi/eojywvxqoLc/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=eojywvxqoLc",
           "channel": "Y Combinator"
         }
       },
@@ -2985,46 +3044,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.505,
+        "score": 3.481,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "article"
-      },
-      {
-        "id": "e43b71c34e9b",
-        "category": "growth",
-        "lang": "en",
-        "title": "The New Full-Stack Designer",
-        "summary": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to walk through his design process. He shows the admin redesign and Sidekick work his team recently shipped, a weekend project where…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
-        "publishedAt": "2026-10-26T14:00:10+00:00",
-        "subtopics": [
-          "Productivity & systems",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
-            "publishedAt": "2026-10-26T14:00:10+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.485,
-        "firstSeen": "2026-10-26T22:15:03.656954+00:00",
-        "kind": "video",
-        "video": {
-          "id": "eojywvxqoLc",
-          "thumbUrl": "https://i2.ytimg.com/vi/eojywvxqoLc/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=eojywvxqoLc",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "18ba7bbb90e1",
@@ -3051,7 +3073,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.423,
+        "score": 3.422,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -3087,7 +3109,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.309,
+        "score": 3.29,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "article"
       },
@@ -3118,7 +3140,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.104,
+        "score": 3.089,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00",
         "kind": "article"
       },
@@ -3147,7 +3169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.073,
+        "score": 3.071,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "article"
       }
@@ -3330,7 +3352,7 @@
     }
   ],
   "filteredOut": {
-    "football": 67,
+    "football": 64,
     "news": 61,
     "medical": 15,
     "growth": 43
