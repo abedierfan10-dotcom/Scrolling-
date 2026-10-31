@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:56:03.924854+00:00",
+  "generatedAt": "2026-10-31T22:07:35.850987+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -35,7 +35,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.363,
+        "score": 11.348,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -63,7 +63,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.816,
+        "score": 10.763,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -91,8 +91,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 9.616,
+        "isNew": false,
+        "score": 9.51,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -122,9 +122,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.415,
+        "score": 8.338,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00",
         "transfer": "REPORTED"
+      },
+      {
+        "id": "3b5deb50596a",
+        "category": "football",
+        "lang": "en",
+        "title": "Sakamoto sparks Coventry win to keep 10-man Sunderland rock-bottom",
+        "summary": "Coventry climbed out of the relegation zone with a win that leaves Sunderland rooted to the bottom of the Premier League. Tatsuhiro Sakamoto’s first Premier League goal put Coventry ahead 17 minutes in, Taiwo Awoniyi’s first league goal for the home side…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/31/coventry-sunderland-premier-league-match-report",
+        "publishedAt": "2026-10-31T17:24:27+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/31/coventry-sunderland-premier-league-match-report",
+            "publishedAt": "2026-10-31T17:24:27+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.547,
+        "firstSeen": "2026-10-31T22:07:35.850987+00:00"
       },
       {
         "id": "d97aebdfb1c6",
@@ -151,9 +180,67 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.617,
+        "isNew": false,
+        "score": 7.511,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
+      },
+      {
+        "id": "d72001fe6472",
+        "category": "football",
+        "lang": "en",
+        "title": "Michael Carrick insists he will still be in charge of Manchester United against Roma",
+        "summary": "Defeat against Chelsea extends winless run to nine games Carrick clinging on to job after club’s worst run since 1988 Michael Carrick insisted he would still be in charge when Manchester United face Roma in the Champions League on Tuesday, despite the 2-0…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
+        "publishedAt": "2026-10-31T16:43:37+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
+            "publishedAt": "2026-10-31T16:43:37+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.487,
+        "firstSeen": "2026-10-31T22:07:35.850987+00:00"
+      },
+      {
+        "id": "d2aeba05317b",
+        "category": "football",
+        "lang": "en",
+        "title": "Are De Zerbi's Spurs finding elusive consistency?",
+        "summary": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-31T21:16:11+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-31T21:16:11+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.412,
+        "firstSeen": "2026-10-31T22:07:35.850987+00:00"
       },
       {
         "id": "9f8ce24141fe",
@@ -180,8 +267,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.41,
+        "isNew": false,
+        "score": 6.292,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -209,8 +296,68 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.223,
+        "isNew": false,
+        "score": 6.113,
+        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
+      },
+      {
+        "id": "22da670591a9",
+        "category": "football",
+        "lang": "en",
+        "title": "Grealish could have been Everton’s poster boy of a new era. Now his career is in limbo",
+        "summary": "After being dropped for ‘a breach of club discipline’, the winger must face the same questions about respect and self-awareness For the biggest game in Manchester City’s history, Jack Grealish was given a starting berth while Phil Foden, Julián Alvarez and…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/30/jack-grealish-dropped-disclipline-everton-newcastle-carabao-cup-david-moyes",
+        "publishedAt": "2026-10-30T16:50:09+00:00",
+        "subtopics": [
+          "Champions League",
+          "Premier League",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/30/jack-grealish-dropped-disclipline-everton-newcastle-carabao-cup-david-moyes",
+            "publishedAt": "2026-10-30T16:50:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.085,
+        "firstSeen": "2026-10-30T21:54:22.608604+00:00",
+        "transfer": "RUMOUR"
+      },
+      {
+        "id": "9522c36b47c5",
+        "category": "football",
+        "lang": "en",
+        "title": "Chelsea capitalise on second-half implosion to defeat 10-man Man Utd",
+        "summary": "FREE TO WATCH: Highlights from Chelsea’s match against Manchester United in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/watch/video/13606146/chelsea-2-0-manchester-united-premier-league-highlights",
+        "publishedAt": "2026-10-31T17:15:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13606146/chelsea-2-0-manchester-united-premier-league-highlights",
+            "publishedAt": "2026-10-31T17:15:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.033,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -244,69 +391,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.14,
-        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
-      },
-      {
-        "id": "9522c36b47c5",
-        "category": "football",
-        "lang": "en",
-        "title": "Chelsea capitalise on second-half implosion to defeat 10-man Man Utd",
-        "summary": "FREE TO WATCH: Highlights from Chelsea’s match against Manchester United in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13606146/chelsea-2-0-manchester-united-premier-league-highlights",
-        "publishedAt": "2026-10-31T17:15:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13606146/chelsea-2-0-manchester-united-premier-league-highlights",
-            "publishedAt": "2026-10-31T17:15:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.14,
-        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
-      },
-      {
-        "id": "22da670591a9",
-        "category": "football",
-        "lang": "en",
-        "title": "Grealish could have been Everton’s poster boy of a new era. Now his career is in limbo",
-        "summary": "After being dropped for ‘a breach of club discipline’, the winger must face the same questions about respect and self-awareness For the biggest game in Manchester City’s history, Jack Grealish was given a starting berth while Phil Foden, Julián Alvarez and…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/30/jack-grealish-dropped-disclipline-everton-newcastle-carabao-cup-david-moyes",
-        "publishedAt": "2026-10-30T16:50:09+00:00",
-        "subtopics": [
-          "Champions League",
-          "Premier League",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/30/jack-grealish-dropped-disclipline-everton-newcastle-carabao-cup-david-moyes",
-            "publishedAt": "2026-10-30T16:50:09+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.131,
-        "firstSeen": "2026-10-30T21:54:22.608604+00:00",
-        "transfer": "RUMOUR"
+        "score": 6.033,
+        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
         "id": "8bf625f3b2d0",
@@ -333,8 +420,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.117,
+        "isNew": false,
+        "score": 6.011,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -362,16 +449,16 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.971,
+        "isNew": false,
+        "score": 5.871,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
         "id": "a4cf4602365e",
         "category": "football",
         "lang": "en",
-        "title": "Carrick bemoans Man Utd defending in Chelsea loss",
-        "summary": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat to Chelsea in the Premier League.",
+        "title": "Carrick bemoans Man Utd defending in loss to Chelsea",
+        "summary": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat by Chelsea in the Premier League.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
@@ -391,8 +478,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.961,
+        "isNew": false,
+        "score": 5.861,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -421,8 +508,67 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.602,
+        "score": 5.577,
         "firstSeen": "2026-10-29T23:03:54.084294+00:00"
+      },
+      {
+        "id": "4771e42cf20b",
+        "category": "football",
+        "lang": "en",
+        "title": "AC Milan score three first-half goals to seal derby victory over Inter",
+        "summary": "Christian Pulisic, Adrien Rabiot and Diego Moreira score in the first-half to help AC Milan to a 3-1 victory over city rivals Inter Milan in the first Milan derby of the season in Serie A.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-31T21:58:09+00:00",
+        "subtopics": [
+          "Serie A",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-31T21:58:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.484,
+        "firstSeen": "2026-10-31T22:07:35.850987+00:00"
+      },
+      {
+        "id": "57e46987edb5",
+        "category": "football",
+        "lang": "en",
+        "title": "Post your questions for Charlie Nicholas",
+        "summary": "Is there anything you would like to ask the former Celtic, Arsenal and Scotland forward? Ever wanted to ask Charlie Nicholas a question?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
+        "publishedAt": "2026-10-29T08:00:26+00:00",
+        "subtopics": [
+          "World Cup",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
+            "publishedAt": "2026-10-29T08:00:26+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.347,
+        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
+        "transfer": "OFFICIAL"
       },
       {
         "id": "0707a650e6dd",
@@ -451,38 +597,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.362,
+        "score": 5.327,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
-      },
-      {
-        "id": "57e46987edb5",
-        "category": "football",
-        "lang": "en",
-        "title": "Post your questions for Charlie Nicholas",
-        "summary": "Is there anything you would like to ask the former Celtic, Arsenal and Scotland forward? Ever wanted to ask Charlie Nicholas a question?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
-        "publishedAt": "2026-10-29T08:00:26+00:00",
-        "subtopics": [
-          "World Cup",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
-            "publishedAt": "2026-10-29T08:00:26+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.362,
-        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
-        "transfer": "OFFICIAL"
       },
       {
         "id": "ccda19a7446b",
@@ -510,7 +626,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.259,
+        "score": 5.248,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -539,7 +655,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.935,
+        "score": 3.918,
         "firstSeen": "2026-10-29T13:53:10.122046+00:00"
       },
       {
@@ -568,7 +684,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.547,
+        "score": 3.525,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       }
     ],
@@ -604,8 +720,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.872,
+        "isNew": false,
+        "score": 7.822,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -633,8 +749,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.482,
+        "isNew": false,
+        "score": 7.431,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -669,7 +785,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.464,
+        "score": 7.421,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
@@ -704,7 +820,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.084,
+        "score": 7.047,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -739,7 +855,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.991,
+        "score": 6.956,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -768,7 +884,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.897,
+        "score": 6.864,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -803,7 +919,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.853,
+        "score": 6.82,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
@@ -832,7 +948,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.798,
+        "score": 6.767,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -861,7 +977,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.78,
+        "score": 6.748,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -890,7 +1006,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.636,
+        "score": 6.601,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -925,7 +1041,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.453,
+        "score": 6.427,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       },
       {
@@ -960,7 +1076,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.396,
+        "score": 6.371,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -989,7 +1105,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.333,
+        "score": 6.31,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       },
       {
@@ -1017,8 +1133,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.283,
+        "isNew": false,
+        "score": 6.231,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -1053,7 +1169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.216,
+        "score": 6.195,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1083,7 +1199,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.184,
+        "score": 6.164,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1112,7 +1228,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.999,
+        "score": 5.982,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1141,7 +1257,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.948,
+        "score": 5.914,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -1171,7 +1287,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.928,
+        "score": 5.912,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1206,8 +1322,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.899,
+        "score": 5.884,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
+      },
+      {
+        "id": "522fc9a5207b",
+        "category": "news",
+        "lang": "de",
+        "title": "\"Gen-Z-regelt\"-Demo: Ausschreitungen in Hamburg",
+        "summary": "Bei den Protesten am Samstag zündeten Demonstrierende in der Nähe des Hauptbahnhofs eine Barrikade aus Baustellenabsperrungen und Mülltonnen an.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/gen-z-regelt-demo-in-hamburg-ist-gestartet,genz-132.html",
+        "publishedAt": "2026-10-31T21:38:44+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/gen-z-regelt-demo-in-hamburg-ist-gestartet,genz-132.html",
+            "publishedAt": "2026-10-31T21:38:44+00:00",
+            "tier": 1
+          },
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ausschreitungen-am-ende-der-gen-z-demo-in-hamburg,hamj-16076.html",
+            "publishedAt": "2026-10-31T18:57:43+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.879,
+        "firstSeen": "2026-10-31T22:07:35.850987+00:00"
       },
       {
         "id": "f149b7c6eac5",
@@ -1236,7 +1387,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.886,
+        "score": 5.853,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
@@ -1271,7 +1422,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.855,
+        "score": 5.81,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
@@ -1300,7 +1451,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.815,
+        "score": 5.8,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
       },
       {
@@ -1329,7 +1480,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.73,
+        "score": 5.699,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -1364,7 +1515,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.716,
+        "score": 5.686,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -1399,7 +1550,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.68,
+        "score": 5.668,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1434,7 +1585,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.68,
+        "score": 5.668,
         "firstSeen": "2026-10-27T12:55:00.387721+00:00"
       },
       {
@@ -1469,7 +1620,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.667,
+        "score": 5.655,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
+      },
+      {
+        "id": "0d255ea5e504",
+        "category": "news",
+        "lang": "de",
+        "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
+        "summary": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
+        "publishedAt": "2026-10-27T14:12:19+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
+            "publishedAt": "2026-10-27T14:12:19+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.639,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1498,66 +1678,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.662,
+        "score": 5.621,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
-      },
-      {
-        "id": "0d255ea5e504",
-        "category": "news",
-        "lang": "de",
-        "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
-        "summary": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-        "publishedAt": "2026-10-27T14:12:19+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-            "publishedAt": "2026-10-27T14:12:19+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.65,
-        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
-      },
-      {
-        "id": "7c432d22ba2a",
-        "category": "news",
-        "lang": "de",
-        "title": "Video mit Fake-Kontrolle: Influencer in Hamburg vor Gericht",
-        "summary": "Ein 33-Jähriger hatte sich als Lebensmittelkontrolleur ausgegeben und die Mitarbeiterin eines Asia-Imbisses bloßgestellt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/video-mit-fake-kontrolle-influencer-in-hamburg-vor-gericht,prozess-1080.html",
-        "publishedAt": "2026-10-30T18:04:47+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/video-mit-fake-kontrolle-influencer-in-hamburg-vor-gericht,prozess-1080.html",
-            "publishedAt": "2026-10-30T18:04:47+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.612,
-        "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
         "id": "09d46d0403bf",
@@ -1585,8 +1707,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.611,
+        "score": 5.6,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
+      },
+      {
+        "id": "7c432d22ba2a",
+        "category": "news",
+        "lang": "de",
+        "title": "Video mit Fake-Kontrolle: Influencer in Hamburg vor Gericht",
+        "summary": "Ein 33-Jähriger hatte sich als Lebensmittelkontrolleur ausgegeben und die Mitarbeiterin eines Asia-Imbisses bloßgestellt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/video-mit-fake-kontrolle-influencer-in-hamburg-vor-gericht,prozess-1080.html",
+        "publishedAt": "2026-10-30T18:04:47+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/video-mit-fake-kontrolle-influencer-in-hamburg-vor-gericht,prozess-1080.html",
+            "publishedAt": "2026-10-30T18:04:47+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.576,
+        "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
         "id": "0d1ffed97b91",
@@ -1615,7 +1766,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.481,
+        "score": 5.473,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -1644,42 +1795,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.466,
-        "firstSeen": "2026-10-26T22:15:03.656954+00:00"
-      },
-      {
-        "id": "7f5909849bb7",
-        "category": "news",
-        "lang": "de",
-        "title": "Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?",
-        "summary": "Am 30. Januar wählt die Bundesversammlung ein neues Staatsoberhaupt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
-        "publishedAt": "2026-10-26T15:07:22+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
-            "publishedAt": "2026-10-26T15:07:22+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
-            "publishedAt": "2026-10-26T15:07:22+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.461,
+        "score": 5.458,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       }
     ],
@@ -1712,7 +1828,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.022,
+        "score": 13.017,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1746,7 +1862,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.348,
+        "score": 9.344,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1777,7 +1893,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.743,
+        "score": 8.737,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1809,7 +1925,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.831,
+        "score": 7.819,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1847,7 +1963,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.831,
+        "score": 7.819,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1879,7 +1995,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.191,
+        "score": 7.182,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1910,7 +2026,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.801,
+        "score": 6.786,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1941,7 +2057,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.626,
+        "score": 6.621,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1972,7 +2088,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.743,
+        "score": 5.737,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2002,7 +2118,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.348,
+        "score": 5.344,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2032,7 +2148,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.078,
+        "score": 5.063,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2063,7 +2179,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.103,
+        "score": 4.092,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2093,7 +2209,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.35,
+        "score": 3.338,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2123,7 +2239,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.606,
+        "score": 2.593,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2157,7 +2273,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.207,
+        "score": 5.174,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "kind": "video",
         "video": {
@@ -2193,7 +2309,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.973,
+        "score": 4.944,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2229,7 +2345,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.801,
+        "score": 4.774,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2265,7 +2381,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.723,
+        "score": 4.698,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2301,7 +2417,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.635,
+        "score": 4.611,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2337,7 +2453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.632,
+        "score": 4.595,
         "firstSeen": "2026-10-30T22:44:56.163184+00:00",
         "kind": "article"
       },
@@ -2366,7 +2482,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.34,
+        "score": 4.322,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2402,7 +2518,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.317,
+        "score": 4.299,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2438,7 +2554,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.288,
+        "score": 4.276,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2475,7 +2591,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.252,
+        "score": 4.235,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2512,7 +2628,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.116,
+        "score": 4.101,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2549,37 +2665,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.089,
+        "score": 4.066,
         "firstSeen": "2026-10-29T13:53:10.122046+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "0c49eb4fc302",
-        "category": "growth",
-        "lang": "en",
-        "title": "We urgently need to monitor AI agents’ actions in real time",
-        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-        "publishedAt": "2026-10-29T10:11:12+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-            "publishedAt": "2026-10-29T10:11:12+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.052,
-        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       },
       {
@@ -2607,7 +2694,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.045,
+        "score": 4.032,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2617,6 +2704,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=vaKVoWc3TtY",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "0c49eb4fc302",
+        "category": "growth",
+        "lang": "en",
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "publishedAt": "2026-10-29T10:11:12+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+            "publishedAt": "2026-10-29T10:11:12+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.03,
+        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
+        "kind": "article"
       },
       {
         "id": "32e3919a0587",
@@ -2644,7 +2760,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.01,
+        "score": 3.984,
         "firstSeen": "2026-10-29T23:03:54.084294+00:00",
         "kind": "article"
       },
@@ -2674,7 +2790,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.885,
+        "score": 3.861,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "article"
       },
@@ -2703,7 +2819,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.827,
+        "score": 3.803,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "article"
       },
@@ -2734,7 +2850,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.821,
+        "score": 3.803,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
       },
@@ -2764,7 +2880,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.8,
+        "score": 3.799,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2801,7 +2917,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.778,
+        "score": 3.777,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -2838,7 +2954,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.757,
+        "score": 3.756,
         "firstSeen": "2026-10-25T20:20:02.669868+00:00",
         "kind": "video",
         "video": {
@@ -2846,6 +2962,43 @@
           "thumbUrl": "https://i1.ytimg.com/vi/46v8M4RsCzg/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=46v8M4RsCzg",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "436a2b2fff60",
+        "category": "growth",
+        "lang": "en",
+        "title": "Inside the “Play Labs” Helping Refugee Kids Heal | Erum Mariam | TED",
+        "summary": "What does healing look like for a refugee child? That's the question educational leader Erum Mariam asked when her team built the humanitarian \"play labs\": small, welcoming spaces where children displaced from their homes can play and reconnect with what…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
+        "publishedAt": "2026-10-22T15:00:04+00:00",
+        "subtopics": [
+          "Leadership",
+          "Social skills"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
+            "publishedAt": "2026-10-22T15:00:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.695,
+        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
+        "kind": "video",
+        "video": {
+          "id": "j11fPNKe5mY",
+          "thumbUrl": "https://i3.ytimg.com/vi/j11fPNKe5mY/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=j11fPNKe5mY",
           "channel": "TED"
         }
       },
@@ -2876,7 +3029,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.702,
+        "score": 3.686,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
       },
@@ -2905,46 +3058,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.7,
+        "score": 3.684,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
-      },
-      {
-        "id": "436a2b2fff60",
-        "category": "growth",
-        "lang": "en",
-        "title": "Inside the “Play Labs” Helping Refugee Kids Heal | Erum Mariam | TED",
-        "summary": "What does healing look like for a refugee child? That's the question educational leader Erum Mariam asked when her team built the humanitarian \"play labs\": small, welcoming spaces where children displaced from their homes can play and reconnect with what…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-        "publishedAt": "2026-10-22T15:00:04+00:00",
-        "subtopics": [
-          "Leadership",
-          "Social skills"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-            "publishedAt": "2026-10-22T15:00:04+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.696,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
-        "kind": "video",
-        "video": {
-          "id": "j11fPNKe5mY",
-          "thumbUrl": "https://i3.ytimg.com/vi/j11fPNKe5mY/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-          "channel": "TED"
-        }
       },
       {
         "id": "52ced88a57d9",
@@ -2973,7 +3089,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.566,
+        "score": 3.547,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       },
@@ -3002,7 +3118,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.503,
+        "score": 3.502,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -3039,7 +3155,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.477,
+        "score": 3.476,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -3075,7 +3191,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.466,
+        "score": 3.449,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
       },
@@ -3104,7 +3220,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.416,
+        "score": 3.415,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -3142,7 +3258,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.375,
+        "score": 3.36,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "article"
       },
@@ -3171,7 +3287,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.205,
+        "score": 3.192,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "article"
       },
@@ -3200,7 +3316,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.063,
+        "score": 3.062,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "article"
       },
@@ -3229,7 +3345,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.041,
+        "score": 3.039,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       },
@@ -3260,7 +3376,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.026,
+        "score": 3.016,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00",
         "kind": "article"
       },
@@ -3289,7 +3405,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.989,
+        "score": 2.98,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "article"
       }
@@ -3430,9 +3546,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3472,8 +3588,8 @@
     }
   ],
   "filteredOut": {
-    "football": 51,
-    "news": 61,
+    "football": 50,
+    "news": 60,
     "medical": 15,
     "growth": 45
   }
