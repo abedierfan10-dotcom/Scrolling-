@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:36:47.161772+00:00",
+  "generatedAt": "2026-11-01T13:58:15.609212+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -40,8 +40,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.637,
+        "isNew": false,
+        "score": 13.552,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -70,8 +70,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 9.131,
+        "isNew": false,
+        "score": 9.01,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -101,7 +101,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.611,
+        "score": 7.56,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00",
         "transfer": "REPORTED"
       },
@@ -130,8 +130,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.838,
+        "isNew": false,
+        "score": 6.753,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -160,7 +160,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.54,
+        "score": 6.469,
         "firstSeen": "2026-10-31T22:07:35.850987+00:00"
       },
       {
@@ -194,8 +194,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.176,
+        "isNew": false,
+        "score": 6.09,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -225,7 +225,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.656,
+        "score": 5.626,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "transfer": "RUMOUR"
       },
@@ -254,8 +254,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.338,
+        "isNew": false,
+        "score": 5.253,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -283,8 +283,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.337,
+        "isNew": false,
+        "score": 5.253,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -313,7 +313,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.261,
+        "score": 5.18,
         "firstSeen": "2026-10-31T22:07:35.850987+00:00"
       },
       {
@@ -342,8 +342,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.188,
+        "score": 5.11,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
+      },
+      {
+        "id": "0707a650e6dd",
+        "category": "football",
+        "lang": "en",
+        "title": "Roster rifts, police raids and Son’s uncertain future leave South Korea at a crossroads",
+        "summary": "After a disaster World Cup, the team have continued to spiral, with tensions high between young and older players and the captain’s standing in question Son Heung-min and Cristiano Ronaldo are iconic No 7s, Premier League legends and international…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min",
+        "publishedAt": "2026-10-30T09:00:49+00:00",
+        "subtopics": [
+          "World Cup",
+          "Premier League",
+          "Tables"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min",
+            "publishedAt": "2026-10-30T09:00:49+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.977,
+        "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
         "id": "9522c36b47c5",
@@ -371,7 +401,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.032,
+        "score": 4.961,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -406,38 +436,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.032,
+        "score": 4.961,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
-      },
-      {
-        "id": "0707a650e6dd",
-        "category": "football",
-        "lang": "en",
-        "title": "Roster rifts, police raids and Son’s uncertain future leave South Korea at a crossroads",
-        "summary": "After a disaster World Cup, the team have continued to spiral, with tensions high between young and older players and the captain’s standing in question Son Heung-min and Cristiano Ronaldo are iconic No 7s, Premier League legends and international…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min",
-        "publishedAt": "2026-10-30T09:00:49+00:00",
-        "subtopics": [
-          "World Cup",
-          "Premier League",
-          "Tables"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min",
-            "publishedAt": "2026-10-30T09:00:49+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.0,
-        "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
         "id": "f4e01d3df9d4",
@@ -465,7 +465,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.934,
+        "score": 4.868,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -494,7 +494,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.928,
+        "score": 4.862,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -523,7 +523,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.518,
+        "score": 4.448,
         "firstSeen": "2026-10-31T13:14:34.291377+00:00"
       },
       {
@@ -552,7 +552,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.304,
+        "score": 4.221,
         "firstSeen": "2026-10-31T22:07:35.850987+00:00"
       }
     ],
@@ -589,7 +589,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.275,
+        "score": 7.229,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -624,7 +624,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.952,
+        "score": 6.913,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
@@ -653,7 +653,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.882,
+        "score": 6.836,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -688,7 +688,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.65,
+        "score": 6.617,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -723,7 +723,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.576,
+        "score": 6.545,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -752,7 +752,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.502,
+        "score": 6.472,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -787,7 +787,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.467,
+        "score": 6.438,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
@@ -816,7 +816,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.424,
+        "score": 6.396,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -845,7 +845,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.409,
+        "score": 6.381,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -857,7 +857,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-        "publishedAt": "2026-11-01T11:59:09+00:00",
+        "publishedAt": "2026-11-01T13:29:56+00:00",
         "subtopics": [
           "Germany",
           "Protests"
@@ -866,15 +866,44 @@
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-            "publishedAt": "2026-11-01T11:59:09+00:00",
+            "publishedAt": "2026-11-01T13:29:56+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.272,
+        "isNew": false,
+        "score": 6.279,
+        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
+      },
+      {
+        "id": "4288ec068259",
+        "category": "news",
+        "lang": "de",
+        "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+        "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+        "publishedAt": "2026-11-01T13:07:16+00:00",
+        "subtopics": [
+          "Germany",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+            "publishedAt": "2026-11-01T13:07:16+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.262,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -902,8 +931,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.272,
+        "isNew": false,
+        "score": 6.212,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -932,7 +961,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.213,
+        "score": 6.18,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -967,7 +996,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.15,
+        "score": 6.127,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       },
       {
@@ -1002,37 +1031,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.105,
+        "score": 6.083,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
-      },
-      {
-        "id": "4288ec068259",
-        "category": "news",
-        "lang": "de",
-        "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-        "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-        "publishedAt": "2026-11-01T07:47:42+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-            "publishedAt": "2026-11-01T07:47:42+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.092,
-        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
         "id": "6bba27900166",
@@ -1060,7 +1060,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.056,
+        "score": 6.034,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       },
       {
@@ -1095,7 +1095,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.963,
+        "score": 5.944,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1125,7 +1125,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.938,
+        "score": 5.919,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1154,7 +1154,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.791,
+        "score": 5.776,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1184,7 +1184,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.735,
+        "score": 5.72,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1219,7 +1219,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.712,
+        "score": 5.698,
+        "firstSeen": "2026-10-28T12:02:18.938042+00:00"
+      },
+      {
+        "id": "728d549e215c",
+        "category": "news",
+        "lang": "de",
+        "title": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
+        "summary": "Die deutsche Wirtschaft hat viele Probleme. Doch bei all den negativen Nachrichten gibt es auch Chancen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
+        "publishedAt": "2026-10-28T05:19:59+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
+            "publishedAt": "2026-10-28T05:19:59+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.632,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
       },
       {
@@ -1248,66 +1277,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.663,
+        "score": 5.615,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
-      },
-      {
-        "id": "728d549e215c",
-        "category": "news",
-        "lang": "de",
-        "title": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
-        "summary": "Die deutsche Wirtschaft hat viele Probleme. Doch bei all den negativen Nachrichten gibt es auch Chancen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
-        "publishedAt": "2026-10-28T05:19:59+00:00",
-        "subtopics": [
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/konjunktur/deutschland-wachstum-ki-robotik-zukunftsmaerkte-100.html",
-            "publishedAt": "2026-10-28T05:19:59+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.645,
-        "firstSeen": "2026-10-28T12:02:18.938042+00:00"
-      },
-      {
-        "id": "e4cbc3170378",
-        "category": "news",
-        "lang": "de",
-        "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-        "summary": "Mehr als 400 ausgefallene Unterrichtsstunden, aber kein Anspruch auf eine Neubewertung des Abiturs: Die Klage eines ehemaligen Schülers aus Landau gegen das Land Rheinland-Pfalz blieb ohne Erfolg. Von Christoph Kehlbach.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-        "publishedAt": "2026-10-30T15:55:15+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-            "publishedAt": "2026-10-30T15:55:15+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.543,
-        "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
         "id": "3a202370b5ed",
@@ -1341,7 +1312,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.539,
+        "score": 5.528,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1376,7 +1347,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.539,
+        "score": 5.528,
         "firstSeen": "2026-10-27T12:55:00.387721+00:00"
       },
       {
@@ -1411,8 +1382,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.528,
+        "score": 5.517,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
+      },
+      {
+        "id": "e4cbc3170378",
+        "category": "news",
+        "lang": "de",
+        "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
+        "summary": "Mehr als 400 ausgefallene Unterrichtsstunden, aber kein Anspruch auf eine Neubewertung des Abiturs: Die Klage eines ehemaligen Schülers aus Landau gegen das Land Rheinland-Pfalz blieb ohne Erfolg. Von Christoph Kehlbach.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
+        "publishedAt": "2026-10-30T15:55:15+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
+            "publishedAt": "2026-10-30T15:55:15+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.512,
+        "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
         "id": "0d255ea5e504",
@@ -1440,8 +1440,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.515,
+        "score": 5.505,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
+      },
+      {
+        "id": "09d46d0403bf",
+        "category": "news",
+        "lang": "de",
+        "title": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
+        "summary": "Der Chiphersteller Infineon baut sein Werk in österreichischen Villach aus - um dort schnellere und größere Halbleiter zu produzieren. Gut eine Milliarde Euro will der DAX-Konzern in den kommenden Jahren in den Standort investieren.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html",
+        "publishedAt": "2026-10-27T10:00:37+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html",
+            "publishedAt": "2026-10-27T10:00:37+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.474,
+        "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
         "id": "f149b7c6eac5",
@@ -1470,37 +1499,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.493,
+        "score": 5.463,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
-      },
-      {
-        "id": "09d46d0403bf",
-        "category": "news",
-        "lang": "de",
-        "title": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
-        "summary": "Der Chiphersteller Infineon baut sein Werk in österreichischen Villach aus - um dort schnellere und größere Halbleiter zu produzieren. Gut eine Milliarde Euro will der DAX-Konzern in den kommenden Jahren in den Standort investieren.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html",
-        "publishedAt": "2026-10-27T10:00:37+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html",
-            "publishedAt": "2026-10-27T10:00:37+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.484,
-        "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
         "id": "0d1ffed97b91",
@@ -1529,37 +1529,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.381,
+        "score": 5.373,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
-      },
-      {
-        "id": "a3de827f6024",
-        "category": "news",
-        "lang": "de",
-        "title": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
-        "summary": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
-        "publishedAt": "2026-10-30T07:55:53+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
-            "publishedAt": "2026-10-30T07:55:53+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.37,
-        "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
         "id": "51adf792c617",
@@ -1587,7 +1558,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.369,
+        "score": 5.362,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -1622,8 +1593,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.365,
+        "score": 5.358,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
+      },
+      {
+        "id": "a3de827f6024",
+        "category": "news",
+        "lang": "de",
+        "title": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
+        "summary": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
+        "publishedAt": "2026-10-30T07:55:53+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bauturbo-wohnungen-immobilien-100.html",
+            "publishedAt": "2026-10-30T07:55:53+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.342,
+        "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
         "id": "edf2c57ddb84",
@@ -1657,7 +1657,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.359,
+        "score": 5.332,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       }
     ],
@@ -1690,7 +1690,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.961,
+        "score": 12.956,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1724,7 +1724,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.3,
+        "score": 9.296,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1755,7 +1755,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.665,
+        "score": 8.659,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1787,7 +1787,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.672,
+        "score": 7.658,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1825,7 +1825,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.672,
+        "score": 7.658,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1857,7 +1857,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.08,
+        "score": 7.07,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1888,7 +1888,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.621,
+        "score": 6.606,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1919,7 +1919,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.557,
+        "score": 6.551,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1950,7 +1950,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.665,
+        "score": 5.659,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1980,7 +1980,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.3,
+        "score": 5.296,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2010,7 +2010,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.885,
+        "score": 4.869,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2041,7 +2041,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.968,
+        "score": 3.956,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2071,7 +2071,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.197,
+        "score": 3.184,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2101,7 +2101,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.434,
+        "score": 2.419,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2132,8 +2132,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.959,
+        "isNew": false,
+        "score": 4.91,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00",
         "kind": "article"
       },
@@ -2168,7 +2168,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.92,
+        "score": 4.871,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -2199,7 +2199,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.81,
+        "score": 4.78,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "kind": "video",
         "video": {
@@ -2235,7 +2235,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.625,
+        "score": 4.598,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2271,7 +2271,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.488,
+        "score": 4.465,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2307,7 +2307,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.427,
+        "score": 4.404,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2343,7 +2343,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.357,
+        "score": 4.336,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2379,7 +2379,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.189,
+        "score": 4.155,
         "firstSeen": "2026-10-30T22:44:56.163184+00:00",
         "kind": "article"
       },
@@ -2408,7 +2408,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.145,
+        "score": 4.134,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2444,7 +2444,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.124,
+        "score": 4.107,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2480,7 +2480,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.106,
+        "score": 4.09,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2517,7 +2517,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.054,
+        "score": 4.039,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2554,7 +2554,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.946,
+        "score": 3.933,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2590,7 +2590,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.89,
+        "score": 3.878,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2627,37 +2627,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.821,
+        "score": 3.8,
         "firstSeen": "2026-10-29T13:53:10.122046+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "0c49eb4fc302",
-        "category": "growth",
-        "lang": "en",
-        "title": "We urgently need to monitor AI agents’ actions in real time",
-        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-        "publishedAt": "2026-10-29T10:11:12+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-            "publishedAt": "2026-10-29T10:11:12+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.791,
-        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       },
       {
@@ -2686,7 +2657,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.785,
+        "score": 3.784,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2696,6 +2667,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=tu6tF-lVDJI",
           "channel": "TED"
         }
+      },
+      {
+        "id": "0c49eb4fc302",
+        "category": "growth",
+        "lang": "en",
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "publishedAt": "2026-10-29T10:11:12+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+            "publishedAt": "2026-10-29T10:11:12+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.771,
+        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
+        "kind": "article"
       },
       {
         "id": "e314fb61298d",
@@ -2723,7 +2723,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.764,
+        "score": 3.763,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -2760,7 +2760,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.743,
+        "score": 3.742,
         "firstSeen": "2026-10-25T20:20:02.669868+00:00",
         "kind": "video",
         "video": {
@@ -2768,6 +2768,43 @@
           "thumbUrl": "https://i1.ytimg.com/vi/46v8M4RsCzg/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=46v8M4RsCzg",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "436a2b2fff60",
+        "category": "growth",
+        "lang": "en",
+        "title": "Inside the “Play Labs” Helping Refugee Kids Heal | Erum Mariam | TED",
+        "summary": "What does healing look like for a refugee child? That's the question educational leader Erum Mariam asked when her team built the humanitarian \"play labs\": small, welcoming spaces where children displaced from their homes can play and reconnect with what…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
+        "publishedAt": "2026-10-22T15:00:04+00:00",
+        "subtopics": [
+          "Leadership",
+          "Social skills"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
+            "publishedAt": "2026-10-22T15:00:04+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.683,
+        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
+        "kind": "video",
+        "video": {
+          "id": "j11fPNKe5mY",
+          "thumbUrl": "https://i3.ytimg.com/vi/j11fPNKe5mY/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=j11fPNKe5mY",
           "channel": "TED"
         }
       },
@@ -2797,46 +2834,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.696,
+        "score": 3.672,
         "firstSeen": "2026-10-29T23:03:54.084294+00:00",
         "kind": "article"
-      },
-      {
-        "id": "436a2b2fff60",
-        "category": "growth",
-        "lang": "en",
-        "title": "Inside the “Play Labs” Helping Refugee Kids Heal | Erum Mariam | TED",
-        "summary": "What does healing look like for a refugee child? That's the question educational leader Erum Mariam asked when her team built the humanitarian \"play labs\": small, welcoming spaces where children displaced from their homes can play and reconnect with what…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-        "publishedAt": "2026-10-22T15:00:04+00:00",
-        "subtopics": [
-          "Leadership",
-          "Social skills"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-            "publishedAt": "2026-10-22T15:00:04+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.684,
-        "firstSeen": "2026-10-22T21:09:16.601272+00:00",
-        "kind": "video",
-        "video": {
-          "id": "j11fPNKe5mY",
-          "thumbUrl": "https://i3.ytimg.com/vi/j11fPNKe5mY/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=j11fPNKe5mY",
-          "channel": "TED"
-        }
       },
       {
         "id": "d29f179e903a",
@@ -2865,7 +2865,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.609,
+        "score": 3.593,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
       },
@@ -2895,7 +2895,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.597,
+        "score": 3.575,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "article"
       },
@@ -2924,7 +2924,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.551,
+        "score": 3.53,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "article"
       },
@@ -2955,7 +2955,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.514,
+        "score": 3.5,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
       },
@@ -2984,7 +2984,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.512,
+        "score": 3.498,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
       },
@@ -3013,7 +3013,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.489,
+        "score": 3.487,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -3050,7 +3050,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.463,
+        "score": 3.462,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -3086,7 +3086,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.403,
+        "score": 3.402,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -3124,7 +3124,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.344,
+        "score": 3.327,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       },
@@ -3153,7 +3153,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.265,
+        "score": 3.249,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
       },
@@ -3184,7 +3184,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.193,
+        "score": 3.179,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "article"
       },
@@ -3213,7 +3213,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.058,
+        "score": 3.047,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "article"
       },
@@ -3242,7 +3242,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.048,
+        "score": 3.046,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "article"
       },
@@ -3271,7 +3271,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.026,
+        "score": 3.024,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       }
@@ -3311,7 +3311,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 28,
+      "items": 29,
       "error": null
     },
     {
@@ -3412,9 +3412,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "onefutureuseful",
@@ -3454,8 +3454,8 @@
     }
   ],
   "filteredOut": {
-    "football": 61,
-    "news": 67,
+    "football": 60,
+    "news": 68,
     "medical": 15,
     "growth": 42
   }
