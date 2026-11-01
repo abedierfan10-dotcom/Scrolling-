@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:58:15.609212+00:00",
+  "generatedAt": "2026-11-01T21:38:22.114135+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,36 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "8a701cde57d9",
+        "category": "football",
+        "lang": "en",
+        "title": "Bellingham & Mbappe score as Real Madrid earn statement win",
+        "summary": "Kylian Mbappe, Jude Bellingham and Yan Diomande score as Real Madrid cruise to a 3-0 win against Racing Santander, moving only three points behind Barcelona at the top of La Liga.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-01T18:37:48+00:00",
+        "subtopics": [
+          "Barcelona",
+          "La Liga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-01T18:37:48+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 13.702,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
+      },
       {
         "id": "701bbf2ccdf7",
         "category": "football",
@@ -41,15 +71,74 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.552,
+        "score": 13.143,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
+      },
+      {
+        "id": "c2f969c378ab",
+        "category": "football",
+        "lang": "en",
+        "title": "Scottish roundup: Falkirk shock Celtic; Hibernian beat Hearts in semi-final",
+        "summary": "Pressure on Martin O’Neill after 2-0 defeat by Falkirk Hibs will face Rangers in Premier Sports Cup final Celtic slumped to a 2-0 defeat at Falkirk on Sunday to ramp up the scrutiny on manager Martin O’Neill after a run of three wins in 10 games. The…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/oct/31/rangers-aberdeen-scottish-league-cup-semi-final-match-report",
+        "publishedAt": "2026-11-01T17:28:54+00:00",
+        "subtopics": [
+          "Champions League",
+          "Europa League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/oct/31/rangers-aberdeen-scottish-league-cup-semi-final-match-report",
+            "publishedAt": "2026-11-01T17:28:54+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 12.597,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
+      },
+      {
+        "id": "a940ed142e86",
+        "category": "football",
+        "lang": "en",
+        "title": "Defeat for London City - but is Europe a real possibility?",
+        "summary": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-01T15:49:47+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-01T15:49:47+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 9.452,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "d7aa3880af4c",
         "category": "football",
         "lang": "en",
         "title": "Michael Carrick to stay in charge of Manchester United for Roma game",
-        "summary": "United 17th in Premier League after Chelsea defeat No change expected until international break Michael Carrick is set to remain in charge of Manchester United for Tuesday’s Champions League game against Roma at Old Trafford despite Saturday’s 2-0 loss at…",
+        "summary": "United 17th in Premier League after Chelsea defeat No change expected until international break Michael Carrick is poised to remain in charge of Manchester United for the Champions League game against Roma at Old Trafford on Tuesday despite the 2-0 defeat at…",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.theguardian.com/football/2026/nov/01/michael-carrick-stay-manager-manchester-united-roma-game",
@@ -71,8 +160,95 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.01,
+        "score": 8.423,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
+      },
+      {
+        "id": "006495615b63",
+        "category": "football",
+        "lang": "en",
+        "title": "WSL roundup: Arsenal stall despite Russo strike; Chelsea’s James suffers injury",
+        "summary": "Arsenal salvage late 1-1 draw at home against Aston Villa Chelsea beat Charlton 6-0 but England ace goes off early One shot, on target and in the back of the net, was all it took for Aston Villa to reopen the wound that Arsenal had been carefully trying to…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/01/wsl-roundup-arsenal-aston-villa-alessia-russo-renee-slegers",
+        "publishedAt": "2026-11-01T20:17:13+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/01/wsl-roundup-arsenal-aston-villa-alessia-russo-renee-slegers",
+            "publishedAt": "2026-11-01T20:17:13+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.862,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
+      },
+      {
+        "id": "6948c7b638b7",
+        "category": "football",
+        "lang": "en",
+        "title": "Arsenal move clear at the top with a rare win at Liverpool",
+        "summary": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead at the top of the Premier League table following an end-to-end match that leaves Liverpool frustrated to have taken nothing.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-01T20:00:18+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-01T20:00:18+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.834,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
+      },
+      {
+        "id": "37b916d294bb",
+        "category": "football",
+        "lang": "en",
+        "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
+        "summary": "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they ­accumulated over the course of last season. They headed back to London ­having made a statement.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
+        "publishedAt": "2026-11-01T18:44:48+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
+            "publishedAt": "2026-11-01T18:44:48+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.713,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "da68d7774bad",
@@ -101,9 +277,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.56,
+        "score": 7.312,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00",
         "transfer": "REPORTED"
+      },
+      {
+        "id": "8ba7c14f40b6",
+        "category": "football",
+        "lang": "en",
+        "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+        "summary": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-01T20:16:46+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-01T20:16:46+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.362,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "514bfec75f63",
@@ -131,8 +336,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.753,
+        "score": 6.343,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
+      },
+      {
+        "id": "41d9712d7056",
+        "category": "football",
+        "lang": "en",
+        "title": "Arsenal triumphant in long-awaited Anfield victory",
+        "summary": "FREE TO WATCH: Highlights from the Premier League match between Liverpool and Arsenal.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/watch/video/13606781/liverpool-0-1-arsenal-premier-league-highlights",
+        "publishedAt": "2026-11-01T18:34:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13606781/liverpool-0-1-arsenal-premier-league-highlights",
+            "publishedAt": "2026-11-01T18:34:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.196,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "3b5deb50596a",
@@ -160,43 +394,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.469,
+        "score": 6.126,
         "firstSeen": "2026-10-31T22:07:35.850987+00:00"
       },
       {
-        "id": "9c7a1c240c50",
+        "id": "0e18e3e2aa61",
         "category": "football",
         "lang": "en",
-        "title": "Kane misses Bayern penalty before late Dortmund goal earns draw",
-        "summary": "Harry Kane missed a penalty for Bayern Munich and was punished by Fabio Silva’s late equaliser as Borussia Dortmund earned a 2-2 draw in Der Klassiker.",
+        "title": "Should Premier League strugglers stick or twist as pressure on managers mounts? | Andrew Beasley",
+        "summary": "Unusually, all clubs in the top flight have the same manager with whom they began the season – but the first sacking may not be far away No Premier League manager has yet lost his job this season. In only three of the past 10 campaigns was November reached…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/ckpdg3eq06z5o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T23:05:55+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/01/michael-carrick-manchester-united-favourite-premier-league-sack-race",
+        "publishedAt": "2026-11-01T18:00:30+00:00",
         "subtopics": [
-          "Bundesliga",
-          "Results"
+          "Premier League",
+          "Upcoming"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/ckpdg3eq06z5o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-31T23:05:55+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/bayern-munich-vs-borussia-dortmund/report/563377",
-            "publishedAt": "2026-10-31T19:30:00+00:00",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/01/michael-carrick-manchester-united-favourite-premier-league-sack-race",
+            "publishedAt": "2026-11-01T18:00:30+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.09,
-        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
+        "isNew": true,
+        "score": 5.645,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "22da670591a9",
@@ -225,125 +453,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.626,
+        "score": 5.48,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "transfer": "RUMOUR"
-      },
-      {
-        "id": "4eeff8a62881",
-        "category": "football",
-        "lang": "en",
-        "title": "Brighton pick up first away league victory over Man City",
-        "summary": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T22:30:05+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-31T22:30:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.253,
-        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
-      },
-      {
-        "id": "7523f212373c",
-        "category": "football",
-        "lang": "en",
-        "title": "Evanilson scores again as Bournemouth beat Leeds",
-        "summary": "Forward Evanilson continues his fine goalscoring form by netting in a fourth Premier League match in a row to help Bournemouth defeat Leeds United at the Vitality Stadium.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T22:29:21+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-31T22:29:21+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.253,
-        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
-      },
-      {
-        "id": "d2aeba05317b",
-        "category": "football",
-        "lang": "en",
-        "title": "Are De Zerbi's Spurs finding elusive consistency?",
-        "summary": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T21:16:11+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-31T21:16:11+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.18,
-        "firstSeen": "2026-10-31T22:07:35.850987+00:00"
-      },
-      {
-        "id": "9f8ce24141fe",
-        "category": "football",
-        "lang": "en",
-        "title": "Sunderland's paradox - San Siro trip amid relegation battle",
-        "summary": "Sunderland were last season's surprise package in the Premier League, but this time they are struggling after Coventry handed them their sixth defeat.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T20:03:10+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-31T20:03:10+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.11,
-        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
         "id": "0707a650e6dd",
@@ -372,83 +484,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.977,
+        "score": 4.866,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
-        "id": "9522c36b47c5",
+        "id": "4eeff8a62881",
         "category": "football",
         "lang": "en",
-        "title": "Chelsea capitalise on second-half implosion to defeat 10-man Man Utd",
-        "summary": "FREE TO WATCH: Highlights from Chelsea’s match against Manchester United in the Premier League.",
+        "title": "Brighton pick up first away league victory over Man City",
+        "summary": "Brighton pick up their first away league victory at Manchester City, winning 1-0 to condemn City to a second successive Premier League defeat.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13606146/chelsea-2-0-manchester-united-premier-league-highlights",
-        "publishedAt": "2026-10-31T17:15:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13606146/chelsea-2-0-manchester-united-premier-league-highlights",
-            "publishedAt": "2026-10-31T17:15:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.961,
-        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
-      },
-      {
-        "id": "0fb870ec3a5e",
-        "category": "football",
-        "lang": "en",
-        "title": "Brighton condemn Man City to back-to-back PL defeats",
-        "summary": "Manchester City fell to back-to-back Premier League losses for the first time under Enzo Maresca after being undone by buoyant Brighton 1-0 at the Etihad.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13606301/manchester-city-0-1-brighton-premier-league-highlights",
-        "publishedAt": "2026-10-31T17:15:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13606301/manchester-city-0-1-brighton-premier-league-highlights",
-            "publishedAt": "2026-10-31T17:15:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/report/559531",
-            "publishedAt": "2026-10-31T17:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.961,
-        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
-      },
-      {
-        "id": "f4e01d3df9d4",
-        "category": "football",
-        "lang": "en",
-        "title": "Alonso praises Estevao response to lack of gametime",
-        "summary": "Chelsea manager Xabi Alonso praises the performance and response of winger Estevao in his side's 2-0 win over struggling Manchester United in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynzdpjnn9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T15:20:53+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-31T22:30:05+00:00",
         "subtopics": [
           "Premier League",
           "Results"
@@ -456,8 +504,8 @@
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cr5ynzdpjnn9o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-31T15:20:53+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-31T22:30:05+00:00",
             "tier": 2
           }
         ],
@@ -465,19 +513,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.868,
-        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
+        "score": 4.843,
+        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
-        "id": "a4cf4602365e",
+        "id": "7523f212373c",
         "category": "football",
         "lang": "en",
-        "title": "Carrick bemoans Man Utd defending in loss to Chelsea",
-        "summary": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat by Chelsea in the Premier League.",
+        "title": "Evanilson scores again as Bournemouth beat Leeds",
+        "summary": "Forward Evanilson continues his fine goalscoring form by netting in a fourth Premier League match in a row to help Bournemouth defeat Leeds United at the Vitality Stadium.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T15:13:43+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-31T22:29:21+00:00",
         "subtopics": [
           "Premier League",
           "Results"
@@ -485,8 +533,8 @@
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-31T15:13:43+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-31T22:29:21+00:00",
             "tier": 2
           }
         ],
@@ -494,57 +542,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.862,
-        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
+        "score": 4.843,
+        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
-        "id": "01c99750d5ec",
+        "id": "d2aeba05317b",
         "category": "football",
         "lang": "en",
-        "title": "PL Predictions: Can Liverpool catapult into the title race?",
-        "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action.",
+        "title": "Are De Zerbi's Spurs finding elusive consistency?",
+        "summary": "Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
-        "publishedAt": "2026-10-31T17:00:00+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-31T21:16:11+00:00",
         "subtopics": [
           "Premier League",
-          "Tables"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
-            "publishedAt": "2026-10-31T17:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.448,
-        "firstSeen": "2026-10-31T13:14:34.291377+00:00"
-      },
-      {
-        "id": "4771e42cf20b",
-        "category": "football",
-        "lang": "en",
-        "title": "AC Milan score three first-half goals to seal derby victory over Inter",
-        "summary": "Christian Pulisic, Adrien Rabiot and Diego Moreira score in the first-half to help AC Milan to a 3-1 victory over city rivals Inter Milan in the first Milan derby of the season in Serie A.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-10-31T21:58:09+00:00",
-        "subtopics": [
-          "Serie A",
           "Results"
         ],
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-10-31T21:58:09+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-31T21:16:11+00:00",
             "tier": 2
           }
         ],
@@ -552,11 +571,70 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.221,
+        "score": 4.787,
         "firstSeen": "2026-10-31T22:07:35.850987+00:00"
+      },
+      {
+        "id": "9f8ce24141fe",
+        "category": "football",
+        "lang": "en",
+        "title": "Sunderland's paradox - San Siro trip amid relegation battle",
+        "summary": "Sunderland were last season's surprise package in the Premier League, but this time they are struggling after Coventry handed them their sixth defeat.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-10-31T20:03:10+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cmrry892zpkro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-10-31T20:03:10+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.734,
+        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       }
     ],
     "news": [
+      {
+        "id": "87be62c3ba3e",
+        "category": "news",
+        "lang": "de",
+        "title": "FAQ: Was die neue Gebühr auf Sendungen aus Nicht-EU-Ländern bedeutet",
+        "summary": "Jährlich erreichen mehrere Milliarden Kleinpakete die EU. Um diese Flut einzudämmen, wird jetzt eine Gebühr von mindestens zwei Euro pro Sendung fällig.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html",
+        "publishedAt": "2026-11-01T16:43:44+00:00",
+        "subtopics": [
+          "EU",
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html",
+            "publishedAt": "2026-11-01T16:43:44+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.789,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
+      },
       {
         "id": "0a417c734eaa",
         "category": "news",
@@ -589,7 +667,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.229,
+        "score": 6.989,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -624,7 +702,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.913,
+        "score": 6.706,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
@@ -653,7 +731,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.836,
+        "score": 6.595,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -688,7 +766,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.617,
+        "score": 6.443,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -723,7 +801,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.545,
+        "score": 6.378,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -752,7 +830,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.472,
+        "score": 6.314,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -787,8 +865,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.438,
+        "score": 6.283,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
+      },
+      {
+        "id": "750d225ff580",
+        "category": "news",
+        "lang": "de",
+        "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
+        "summary": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
+        "publishedAt": "2026-11-01T20:27:02+00:00",
+        "subtopics": [
+          "Germany",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
+            "publishedAt": "2026-11-01T20:27:02+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.247,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "4dc1daa0f04e",
@@ -816,7 +923,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.396,
+        "score": 6.245,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -845,7 +952,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.381,
+        "score": 6.232,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -857,7 +964,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-        "publishedAt": "2026-11-01T13:29:56+00:00",
+        "publishedAt": "2026-11-01T14:46:12+00:00",
         "subtopics": [
           "Germany",
           "Protests"
@@ -866,7 +973,7 @@
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-            "publishedAt": "2026-11-01T13:29:56+00:00",
+            "publishedAt": "2026-11-01T14:46:12+00:00",
             "tier": 1
           }
         ],
@@ -874,95 +981,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.279,
+        "score": 6.008,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
-      },
-      {
-        "id": "4288ec068259",
-        "category": "news",
-        "lang": "de",
-        "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-        "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-        "publishedAt": "2026-11-01T13:07:16+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-            "publishedAt": "2026-11-01T13:07:16+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.262,
-        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
-      },
-      {
-        "id": "c55c61df8aad",
-        "category": "news",
-        "lang": "de",
-        "title": "\"Gen Z regelt\" will Demos fortsetzen",
-        "summary": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
-        "publishedAt": "2026-11-01T11:58:42+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
-            "publishedAt": "2026-11-01T11:58:42+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.212,
-        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
-      },
-      {
-        "id": "cf2292046f3a",
-        "category": "news",
-        "lang": "de",
-        "title": "Kampnagel: Start für 170-Millionen-Euro-Umbau",
-        "summary": "Mehr Fläche, ein neuer Saal und Proberäume: Die Hamburger Kulturfabrik Kampnagel wird umfangreich umgebaut.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/kampnagel-start-fuer-170-millionen-euro-umbau,kampnagel-134.html",
-        "publishedAt": "2026-10-30T18:54:05+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/kampnagel-start-fuer-170-millionen-euro-umbau,kampnagel-134.html",
-            "publishedAt": "2026-10-30T18:54:05+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.18,
-        "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
         "id": "375e0fa1a106",
@@ -996,7 +1016,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.127,
+        "score": 6.006,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       },
       {
@@ -1031,8 +1051,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.083,
+        "score": 5.966,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
+      },
+      {
+        "id": "4288ec068259",
+        "category": "news",
+        "lang": "de",
+        "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+        "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+        "publishedAt": "2026-11-01T13:07:16+00:00",
+        "subtopics": [
+          "Germany",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+            "publishedAt": "2026-11-01T13:07:16+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.943,
+        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
         "id": "6bba27900166",
@@ -1060,8 +1109,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.034,
+        "score": 5.923,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
+      },
+      {
+        "id": "c55c61df8aad",
+        "category": "news",
+        "lang": "de",
+        "title": "\"Gen Z regelt\" will Demos fortsetzen",
+        "summary": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+        "publishedAt": "2026-11-01T11:58:42+00:00",
+        "subtopics": [
+          "Germany",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+            "publishedAt": "2026-11-01T11:58:42+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.898,
+        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
         "id": "d348194815c1",
@@ -1095,7 +1173,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.944,
+        "score": 5.842,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1125,7 +1203,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.919,
+        "score": 5.82,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1154,7 +1232,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.776,
+        "score": 5.692,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1184,7 +1262,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.72,
+        "score": 5.643,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1219,7 +1297,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.698,
+        "score": 5.623,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
       },
       {
@@ -1248,37 +1326,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.632,
+        "score": 5.564,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
-      },
-      {
-        "id": "875ffd8c6afe",
-        "category": "news",
-        "lang": "de",
-        "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-        "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
-        "publishedAt": "2026-10-31T20:33:42+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
-            "publishedAt": "2026-10-31T20:33:42+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.615,
-        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
         "id": "3a202370b5ed",
@@ -1312,7 +1361,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.528,
+        "score": 5.471,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1347,7 +1396,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.528,
+        "score": 5.471,
         "firstSeen": "2026-10-27T12:55:00.387721+00:00"
       },
       {
@@ -1382,37 +1431,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.517,
+        "score": 5.462,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
-      },
-      {
-        "id": "e4cbc3170378",
-        "category": "news",
-        "lang": "de",
-        "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-        "summary": "Mehr als 400 ausgefallene Unterrichtsstunden, aber kein Anspruch auf eine Neubewertung des Abiturs: Die Klage eines ehemaligen Schülers aus Landau gegen das Land Rheinland-Pfalz blieb ohne Erfolg. Von Christoph Kehlbach.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-        "publishedAt": "2026-10-30T15:55:15+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-            "publishedAt": "2026-10-30T15:55:15+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.512,
-        "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
         "id": "0d255ea5e504",
@@ -1440,7 +1460,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.505,
+        "score": 5.45,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1469,29 +1489,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.474,
+        "score": 5.423,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
-        "id": "f149b7c6eac5",
+        "id": "875ffd8c6afe",
         "category": "news",
         "lang": "de",
-        "title": "Marktbericht: Zweifel am KI-Boom wachsen",
-        "summary": "US-Techkonzerne investieren schwindelerregende Summen in Künstliche Intelligenz - doch halten die Einnahmen mit? Weitere enttäuschende Bilanzen drücken die Technologiebörse Nasdaq ins Minus, was auch deutsche Anleger spüren.",
+        "title": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+        "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
-        "publishedAt": "2026-10-30T13:44:00+00:00",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+        "publishedAt": "2026-10-31T20:33:42+00:00",
         "subtopics": [
           "Germany",
-          "US",
-          "Tech & AI"
+          "Protests"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
-            "publishedAt": "2026-10-30T13:44:00+00:00",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+            "publishedAt": "2026-10-31T20:33:42+00:00",
             "tier": 1
           }
         ],
@@ -1499,8 +1518,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.463,
-        "firstSeen": "2026-10-30T13:45:57.029965+00:00"
+        "score": 5.366,
+        "firstSeen": "2026-10-31T20:56:03.924854+00:00"
+      },
+      {
+        "id": "e4cbc3170378",
+        "category": "news",
+        "lang": "de",
+        "title": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
+        "summary": "Mehr als 400 ausgefallene Unterrichtsstunden, aber kein Anspruch auf eine Neubewertung des Abiturs: Die Klage eines ehemaligen Schülers aus Landau gegen das Land Rheinland-Pfalz blieb ohne Erfolg. Von Christoph Kehlbach.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
+        "publishedAt": "2026-10-30T15:55:15+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
+            "publishedAt": "2026-10-30T15:55:15+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.349,
+        "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
         "id": "0d1ffed97b91",
@@ -1529,7 +1577,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.373,
+        "score": 5.333,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -1558,7 +1606,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.362,
+        "score": 5.323,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -1581,11 +1629,35 @@
             "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
             "publishedAt": "2026-10-26T15:07:22+00:00",
             "tier": 1
-          },
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.319,
+        "firstSeen": "2026-10-26T22:15:03.656954+00:00"
+      },
+      {
+        "id": "f149b7c6eac5",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: Zweifel am KI-Boom wachsen",
+        "summary": "US-Techkonzerne investieren schwindelerregende Summen in Künstliche Intelligenz - doch halten die Einnahmen mit? Weitere enttäuschende Bilanzen drücken die Technologiebörse Nasdaq ins Minus, was auch deutsche Anleger spüren.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
+        "publishedAt": "2026-10-30T13:44:00+00:00",
+        "subtopics": [
+          "Germany",
+          "US",
+          "Tech & AI"
+        ],
+        "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
-            "publishedAt": "2026-10-26T15:07:22+00:00",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-amazon-intel-100.html",
+            "publishedAt": "2026-10-30T13:44:00+00:00",
             "tier": 1
           }
         ],
@@ -1593,8 +1665,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.358,
-        "firstSeen": "2026-10-26T22:15:03.656954+00:00"
+        "score": 5.306,
+        "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
         "id": "a3de827f6024",
@@ -1622,42 +1694,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.342,
-        "firstSeen": "2026-10-30T12:03:30.245907+00:00"
-      },
-      {
-        "id": "edf2c57ddb84",
-        "category": "news",
-        "lang": "de",
-        "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
-        "summary": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
-        "publishedAt": "2026-10-30T07:24:20+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
-            "publishedAt": "2026-10-30T07:24:20+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html",
-            "publishedAt": "2026-10-30T07:24:20+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.332,
+        "score": 5.198,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       }
     ],
@@ -1690,7 +1727,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.956,
+        "score": 12.927,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1724,7 +1761,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.296,
+        "score": 9.273,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1755,7 +1792,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.659,
+        "score": 8.623,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1787,7 +1824,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.658,
+        "score": 7.585,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1825,7 +1862,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.658,
+        "score": 7.585,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1857,7 +1894,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.07,
+        "score": 7.019,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1888,7 +1925,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.606,
+        "score": 6.524,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1919,7 +1956,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.551,
+        "score": 6.519,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1950,7 +1987,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.659,
+        "score": 5.623,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1980,7 +2017,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.296,
+        "score": 5.273,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2010,7 +2047,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.869,
+        "score": 4.781,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2041,7 +2078,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.956,
+        "score": 3.895,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2071,7 +2108,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.184,
+        "score": 3.114,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2101,13 +2138,42 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.419,
+        "score": 2.34,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "7a06514023fd",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Kyle Kingsbury",
+        "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+        "publishedAt": "2026-11-01T16:49:04+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+            "publishedAt": "2026-11-01T16:49:04+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.292,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00",
+        "kind": "article"
+      },
       {
         "id": "dd35d009aad6",
         "category": "growth",
@@ -2133,9 +2199,47 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.91,
+        "score": 4.65,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00",
         "kind": "article"
+      },
+      {
+        "id": "51a3d246caa0",
+        "category": "growth",
+        "lang": "en",
+        "title": "What Happens When Everyone Can Build Software",
+        "summary": "In this episode of the Lightcone, the hosts sit down with Paul Copplestone, co-founder and CEO of Supabase. Since starting in the YC summer batch of 2020, the company has exploded to 13 million users and over 50 million databases under management.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
+        "publishedAt": "2026-10-30T14:30:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Leadership",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
+            "publishedAt": "2026-10-30T14:30:00+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.621,
+        "firstSeen": "2026-10-30T21:54:22.608604+00:00",
+        "kind": "video",
+        "video": {
+          "id": "vl7HiMdGfjo",
+          "thumbUrl": "https://i3.ytimg.com/vi/vl7HiMdGfjo/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
+          "channel": "Y Combinator"
+        }
       },
       {
         "id": "ad547968d473",
@@ -2168,47 +2272,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.871,
+        "score": 4.616,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
-      },
-      {
-        "id": "51a3d246caa0",
-        "category": "growth",
-        "lang": "en",
-        "title": "What Happens When Everyone Can Build Software",
-        "summary": "In this episode of the Lightcone, the hosts sit down with Paul Copplestone, co-founder and CEO of Supabase. Since starting in the YC summer batch of 2020, the company has exploded to 13 million users and over 50 million databases under management.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
-        "publishedAt": "2026-10-30T14:30:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Leadership",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
-            "publishedAt": "2026-10-30T14:30:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.78,
-        "firstSeen": "2026-10-30T21:54:22.608604+00:00",
-        "kind": "video",
-        "video": {
-          "id": "vl7HiMdGfjo",
-          "thumbUrl": "https://i3.ytimg.com/vi/vl7HiMdGfjo/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "e075a744bf8a",
@@ -2235,7 +2301,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.598,
+        "score": 4.458,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2271,7 +2337,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.465,
+        "score": 4.339,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2307,7 +2373,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.404,
+        "score": 4.285,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2343,7 +2409,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.336,
+        "score": 4.224,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2353,35 +2419,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=LI9NqE2iIqg",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "4e2c9c66b20a",
-        "category": "growth",
-        "lang": "en",
-        "title": "dbreunig/nesformer",
-        "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
-        "publishedAt": "2026-10-30T21:59:22+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
-            "publishedAt": "2026-10-30T21:59:22+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.155,
-        "firstSeen": "2026-10-30T22:44:56.163184+00:00",
-        "kind": "article"
       },
       {
         "id": "3de7638b9f3f",
@@ -2408,7 +2445,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.134,
+        "score": 4.077,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2444,7 +2481,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.107,
+        "score": 4.02,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2480,7 +2517,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.09,
+        "score": 4.004,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2490,6 +2527,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=DzblM1Mc-J8",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "4e2c9c66b20a",
+        "category": "growth",
+        "lang": "en",
+        "title": "dbreunig/nesformer",
+        "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+        "publishedAt": "2026-10-30T21:59:22+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+            "publishedAt": "2026-10-30T21:59:22+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.976,
+        "firstSeen": "2026-10-30T22:44:56.163184+00:00",
+        "kind": "article"
       },
       {
         "id": "1506271ed014",
@@ -2517,7 +2583,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.039,
+        "score": 3.959,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2526,6 +2592,42 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=3CDvfm9DYjw",
           "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "b6b0422f6262",
+        "category": "growth",
+        "lang": "en",
+        "title": "Are Your Dealbreakers Sabotaging Your Love Life? | Amy Chan | TED",
+        "summary": "Relationship expert Amy Chan believes we’re in a \"relationship recession,” fueled by modern daters constantly looking for what could go wrong. But what if your dealbreakers are the very thing keeping love out?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=SzNTvqvxswM",
+        "publishedAt": "2026-11-01T16:00:05+00:00",
+        "subtopics": [
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=SzNTvqvxswM",
+            "publishedAt": "2026-11-01T16:00:05+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.894,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00",
+        "kind": "video",
+        "video": {
+          "id": "SzNTvqvxswM",
+          "thumbUrl": "https://i4.ytimg.com/vi/SzNTvqvxswM/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=SzNTvqvxswM",
+          "channel": "TED"
         }
       },
       {
@@ -2554,7 +2656,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.933,
+        "score": 3.865,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2590,7 +2692,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.878,
+        "score": 3.816,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2600,36 +2702,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=vaKVoWc3TtY",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "28d1a96b6b9d",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: AI agent tracking and climate feedback loops",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-        "publishedAt": "2026-10-29T12:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-            "publishedAt": "2026-10-29T12:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.8,
-        "firstSeen": "2026-10-29T13:53:10.122046+00:00",
-        "kind": "article"
       },
       {
         "id": "bfbd5a70399b",
@@ -2657,7 +2729,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.784,
+        "score": 3.777,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2667,35 +2739,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=tu6tF-lVDJI",
           "channel": "TED"
         }
-      },
-      {
-        "id": "0c49eb4fc302",
-        "category": "growth",
-        "lang": "en",
-        "title": "We urgently need to monitor AI agents’ actions in real time",
-        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-        "publishedAt": "2026-10-29T10:11:12+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-            "publishedAt": "2026-10-29T10:11:12+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.771,
-        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
-        "kind": "article"
       },
       {
         "id": "e314fb61298d",
@@ -2723,7 +2766,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.763,
+        "score": 3.756,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -2760,7 +2803,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.742,
+        "score": 3.735,
         "firstSeen": "2026-10-25T20:20:02.669868+00:00",
         "kind": "video",
         "video": {
@@ -2770,6 +2813,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=46v8M4RsCzg",
           "channel": "TED"
         }
+      },
+      {
+        "id": "28d1a96b6b9d",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: AI agent tracking and climate feedback loops",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+        "publishedAt": "2026-10-29T12:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+            "publishedAt": "2026-10-29T12:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.692,
+        "firstSeen": "2026-10-29T13:53:10.122046+00:00",
+        "kind": "article"
       },
       {
         "id": "436a2b2fff60",
@@ -2797,7 +2870,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.683,
+        "score": 3.677,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2807,6 +2880,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=j11fPNKe5mY",
           "channel": "TED"
         }
+      },
+      {
+        "id": "0c49eb4fc302",
+        "category": "growth",
+        "lang": "en",
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+        "publishedAt": "2026-10-29T10:11:12+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+            "publishedAt": "2026-10-29T10:11:12+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.667,
+        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
+        "kind": "article"
       },
       {
         "id": "32e3919a0587",
@@ -2834,7 +2936,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.672,
+        "score": 3.546,
         "firstSeen": "2026-10-29T23:03:54.084294+00:00",
         "kind": "article"
       },
@@ -2865,9 +2967,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.593,
+        "score": 3.507,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
+      },
+      {
+        "id": "df1d9964d77e",
+        "category": "growth",
+        "lang": "en",
+        "title": "Robots Made In America",
+        "summary": "Robot foundation models are starting to transfer skills from one machine to another, which means the bottleneck is shifting to hardware. The U.S.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/7adYEc1XkEs",
+        "publishedAt": "2026-10-27T18:29:01+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/7adYEc1XkEs",
+            "publishedAt": "2026-10-27T18:29:01+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.48,
+        "firstSeen": "2026-10-27T21:46:41.367897+00:00",
+        "kind": "video",
+        "video": {
+          "id": "7adYEc1XkEs",
+          "thumbUrl": "https://i4.ytimg.com/vi/7adYEc1XkEs/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=7adYEc1XkEs",
+          "channel": "Y Combinator"
+        }
       },
       {
         "id": "a80dd20eaec8",
@@ -2895,28 +3033,29 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.575,
+        "score": 3.459,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "article"
       },
       {
-        "id": "502de87809f2",
+        "id": "e43b71c34e9b",
         "category": "growth",
         "lang": "en",
-        "title": "Quoting Ben Hylak",
-        "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course.",
+        "title": "The New Full-Stack Designer",
+        "summary": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to walk through his design process. He shows the admin redesign and Sidekick work his team recently shipped, a weekend project where…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-        "publishedAt": "2026-10-29T14:06:27+00:00",
+        "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
+        "publishedAt": "2026-10-26T14:00:10+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "Productivity & systems",
+          "Entrepreneurship"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-            "publishedAt": "2026-10-29T14:06:27+00:00",
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
+            "publishedAt": "2026-10-26T14:00:10+00:00",
             "tier": 3
           }
         ],
@@ -2924,9 +3063,16 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.53,
-        "firstSeen": "2026-10-29T22:23:32.987882+00:00",
-        "kind": "article"
+        "score": 3.455,
+        "firstSeen": "2026-10-26T22:15:03.656954+00:00",
+        "kind": "video",
+        "video": {
+          "id": "eojywvxqoLc",
+          "thumbUrl": "https://i2.ytimg.com/vi/eojywvxqoLc/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=eojywvxqoLc",
+          "channel": "Y Combinator"
+        }
       },
       {
         "id": "7f9e54d5ff79",
@@ -2955,7 +3101,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.5,
+        "score": 3.424,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
       },
@@ -2984,28 +3130,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.498,
+        "score": 3.423,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
       },
       {
-        "id": "df1d9964d77e",
+        "id": "502de87809f2",
         "category": "growth",
         "lang": "en",
-        "title": "Robots Made In America",
-        "summary": "Robot foundation models are starting to transfer skills from one machine to another, which means the bottleneck is shifting to hardware. The U.S.",
+        "title": "Quoting Ben Hylak",
+        "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.youtube.com/shorts/7adYEc1XkEs",
-        "publishedAt": "2026-10-27T18:29:01+00:00",
+        "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+        "publishedAt": "2026-10-29T14:06:27+00:00",
         "subtopics": [
-          "Entrepreneurship"
+          "AI & smart tools"
         ],
         "sources": [
           {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/7adYEc1XkEs",
-            "publishedAt": "2026-10-27T18:29:01+00:00",
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+            "publishedAt": "2026-10-29T14:06:27+00:00",
             "tier": 3
           }
         ],
@@ -3013,53 +3159,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.487,
-        "firstSeen": "2026-10-27T21:46:41.367897+00:00",
-        "kind": "video",
-        "video": {
-          "id": "7adYEc1XkEs",
-          "thumbUrl": "https://i4.ytimg.com/vi/7adYEc1XkEs/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=7adYEc1XkEs",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "e43b71c34e9b",
-        "category": "growth",
-        "lang": "en",
-        "title": "The New Full-Stack Designer",
-        "summary": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to walk through his design process. He shows the admin redesign and Sidekick work his team recently shipped, a weekend project where…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
-        "publishedAt": "2026-10-26T14:00:10+00:00",
-        "subtopics": [
-          "Productivity & systems",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
-            "publishedAt": "2026-10-26T14:00:10+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.462,
-        "firstSeen": "2026-10-26T22:15:03.656954+00:00",
-        "kind": "video",
-        "video": {
-          "id": "eojywvxqoLc",
-          "thumbUrl": "https://i2.ytimg.com/vi/eojywvxqoLc/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=eojywvxqoLc",
-          "channel": "Y Combinator"
-        }
+        "score": 3.419,
+        "firstSeen": "2026-10-29T22:23:32.987882+00:00",
+        "kind": "article"
       },
       {
         "id": "18ba7bbb90e1",
@@ -3086,7 +3188,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.402,
+        "score": 3.396,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -3124,7 +3226,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.327,
+        "score": 3.238,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       },
@@ -3153,7 +3255,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.249,
+        "score": 3.169,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
       },
@@ -3184,37 +3286,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.179,
+        "score": 3.106,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "f376eece8b40",
-        "category": "growth",
-        "lang": "en",
-        "title": "Game Boy Color on My Conference Badge",
-        "summary": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-        "publishedAt": "2026-10-27T19:34:18+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
-            "publishedAt": "2026-10-27T19:34:18+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.047,
-        "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "article"
       },
       {
@@ -3242,37 +3315,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.046,
+        "score": 3.039,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "73686718715a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Our climate models have a big, dangerous blind spot",
-        "summary": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-        "publishedAt": "2026-10-29T10:00:00+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-            "publishedAt": "2026-10-29T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.024,
-        "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       }
     ]
@@ -3311,7 +3355,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 29,
+      "items": 30,
       "error": null
     },
     {
@@ -3454,9 +3498,9 @@
     }
   ],
   "filteredOut": {
-    "football": 60,
-    "news": 68,
+    "football": 56,
+    "news": 67,
     "medical": 15,
-    "growth": 42
+    "growth": 41
   }
 }
