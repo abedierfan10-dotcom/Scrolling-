@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T21:38:22.114135+00:00",
+  "generatedAt": "2026-11-01T22:33:26.867091+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,8 +34,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.702,
+        "isNew": false,
+        "score": 13.618,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -71,7 +71,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.143,
+        "score": 13.1,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -100,8 +100,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 12.597,
+        "isNew": false,
+        "score": 12.515,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -129,8 +129,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 9.452,
+        "isNew": false,
+        "score": 9.375,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -160,7 +160,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.423,
+        "score": 8.363,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -188,8 +188,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.862,
+        "isNew": false,
+        "score": 7.773,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -217,8 +217,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.834,
+        "isNew": false,
+        "score": 7.746,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -226,7 +226,7 @@
         "category": "football",
         "lang": "en",
         "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
-        "summary": "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they ­accumulated over the course of last season. They headed back to London ­having made a statement.",
+        "summary": "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they accumulated over the course of last season. They headed back to London having made a statement.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
@@ -246,8 +246,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.713,
+        "isNew": false,
+        "score": 7.628,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -277,38 +277,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.312,
+        "score": 7.287,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00",
         "transfer": "REPORTED"
-      },
-      {
-        "id": "8ba7c14f40b6",
-        "category": "football",
-        "lang": "en",
-        "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
-        "summary": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-01T20:16:46+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-01T20:16:46+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.362,
-        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "514bfec75f63",
@@ -336,8 +307,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.343,
+        "score": 6.301,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
+      },
+      {
+        "id": "8ba7c14f40b6",
+        "category": "football",
+        "lang": "en",
+        "title": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+        "summary": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their first win in 14 years at Anfield - and open up a three-point lead at the top of the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-01T20:16:46+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-01T20:16:46+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.272,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "41d9712d7056",
@@ -364,8 +364,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.196,
+        "isNew": false,
+        "score": 6.112,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -394,7 +394,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.126,
+        "score": 6.09,
         "firstSeen": "2026-10-31T22:07:35.850987+00:00"
       },
       {
@@ -422,8 +422,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.645,
+        "isNew": false,
+        "score": 5.562,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -453,39 +453,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.48,
+        "score": 5.465,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "transfer": "RUMOUR"
-      },
-      {
-        "id": "0707a650e6dd",
-        "category": "football",
-        "lang": "en",
-        "title": "Roster rifts, police raids and Son’s uncertain future leave South Korea at a crossroads",
-        "summary": "After a disaster World Cup, the team have continued to spiral, with tensions high between young and older players and the captain’s standing in question Son Heung-min and Cristiano Ronaldo are iconic No 7s, Premier League legends and international…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min",
-        "publishedAt": "2026-10-30T09:00:49+00:00",
-        "subtopics": [
-          "World Cup",
-          "Premier League",
-          "Tables"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min",
-            "publishedAt": "2026-10-30T09:00:49+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.866,
-        "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
         "id": "4eeff8a62881",
@@ -513,7 +483,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.843,
+        "score": 4.801,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -542,7 +512,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.843,
+        "score": 4.801,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -571,7 +541,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.787,
+        "score": 4.747,
         "firstSeen": "2026-10-31T22:07:35.850987+00:00"
       },
       {
@@ -600,7 +570,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.734,
+        "score": 4.695,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       }
     ],
@@ -631,8 +601,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.789,
+        "isNew": false,
+        "score": 7.751,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -667,7 +637,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.989,
+        "score": 6.962,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -702,7 +672,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.706,
+        "score": 6.683,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
@@ -731,7 +701,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.595,
+        "score": 6.568,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -766,7 +736,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.443,
+        "score": 6.423,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -801,7 +771,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.378,
+        "score": 6.36,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -830,7 +800,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.314,
+        "score": 6.296,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -865,37 +835,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.283,
+        "score": 6.265,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
-      },
-      {
-        "id": "750d225ff580",
-        "category": "news",
-        "lang": "de",
-        "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
-        "summary": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-        "publishedAt": "2026-11-01T20:27:02+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
-            "publishedAt": "2026-11-01T20:27:02+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.247,
-        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "4dc1daa0f04e",
@@ -923,7 +864,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.245,
+        "score": 6.228,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
@@ -952,19 +893,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.232,
+        "score": 6.216,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       },
       {
-        "id": "32aa72249035",
+        "id": "750d225ff580",
         "category": "news",
         "lang": "de",
-        "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
-        "summary": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger.",
+        "title": "Ausschreitungen nach Protesten: Unterwanderung oder spontane Eskalation?",
+        "summary": "Verletzte und geplünderte Geschäfte - die Ausschreitungen nach den Protesten der Gen Z lösen Entsetzen aus. In Köln und Frankfurt wurden die Demos nach Einschätzung der Polizei unterwandert.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-        "publishedAt": "2026-11-01T14:46:12+00:00",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
+        "publishedAt": "2026-11-01T20:27:02+00:00",
         "subtopics": [
           "Germany",
           "Protests"
@@ -972,8 +913,8 @@
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
-            "publishedAt": "2026-11-01T14:46:12+00:00",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html",
+            "publishedAt": "2026-11-01T20:27:02+00:00",
             "tier": 1
           }
         ],
@@ -981,8 +922,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.008,
-        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
+        "score": 6.207,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "375e0fa1a106",
@@ -1016,8 +957,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.006,
+        "score": 5.992,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
+      },
+      {
+        "id": "32aa72249035",
+        "category": "news",
+        "lang": "de",
+        "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+        "summary": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
+        "publishedAt": "2026-11-01T14:46:12+00:00",
+        "subtopics": [
+          "Germany",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html",
+            "publishedAt": "2026-11-01T14:46:12+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.972,
+        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
         "id": "30fcbae03959",
@@ -1051,37 +1021,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.966,
+        "score": 5.953,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
-      },
-      {
-        "id": "4288ec068259",
-        "category": "news",
-        "lang": "de",
-        "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
-        "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-        "publishedAt": "2026-11-01T13:07:16+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-            "publishedAt": "2026-11-01T13:07:16+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.943,
-        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
         "id": "6bba27900166",
@@ -1109,8 +1050,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.923,
+        "score": 5.91,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
+      },
+      {
+        "id": "4288ec068259",
+        "category": "news",
+        "lang": "de",
+        "title": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+        "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+        "publishedAt": "2026-11-01T13:07:16+00:00",
+        "subtopics": [
+          "Germany",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+            "publishedAt": "2026-11-01T13:07:16+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.907,
+        "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
         "id": "c55c61df8aad",
@@ -1138,7 +1108,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.898,
+        "score": 5.863,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00"
       },
       {
@@ -1173,7 +1143,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.842,
+        "score": 5.831,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1203,7 +1173,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.82,
+        "score": 5.809,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1232,7 +1202,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.692,
+        "score": 5.683,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1262,7 +1232,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.643,
+        "score": 5.634,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1297,7 +1267,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.623,
+        "score": 5.614,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
       },
       {
@@ -1326,7 +1296,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.564,
+        "score": 5.556,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
       },
       {
@@ -1361,7 +1331,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.471,
+        "score": 5.465,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1396,7 +1366,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.471,
+        "score": 5.464,
         "firstSeen": "2026-10-27T12:55:00.387721+00:00"
       },
       {
@@ -1431,7 +1401,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.462,
+        "score": 5.455,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1460,7 +1430,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.45,
+        "score": 5.444,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       },
       {
@@ -1489,7 +1459,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.423,
+        "score": 5.417,
         "firstSeen": "2026-10-27T11:32:28.093000+00:00"
       },
       {
@@ -1518,7 +1488,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.366,
+        "score": 5.338,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -1547,7 +1517,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.349,
+        "score": 5.331,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00"
       },
       {
@@ -1577,7 +1547,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.333,
+        "score": 5.329,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -1606,7 +1576,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.323,
+        "score": 5.318,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -1635,7 +1605,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.319,
+        "score": 5.315,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00"
       },
       {
@@ -1665,7 +1635,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.306,
+        "score": 5.288,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
@@ -1694,7 +1664,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.198,
+        "score": 5.181,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00"
       }
     ],
@@ -1727,7 +1697,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.927,
+        "score": 12.924,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1761,7 +1731,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.273,
+        "score": 9.271,
         "firstSeen": "2026-10-15T12:23:28.936416+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1792,7 +1762,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.623,
+        "score": 8.619,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1824,7 +1794,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.585,
+        "score": 7.577,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1862,7 +1832,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.585,
+        "score": 7.577,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1894,39 +1864,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.019,
+        "score": 7.013,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "518ddb6cd4eb",
-        "category": "medical",
-        "lang": "en",
-        "title": "Carolina Breast Cancer Study Phase 4",
-        "summary": "The Carolina Breast Cancer Study, Phase 4 (CBCS4) is a prospective, single-arm observational study examining interactions between tumor biology, health access, and patient behavior study. CBCS4 builds on prior phases that examined molecular and epidemiologic…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07214610",
-        "publishedAt": "2026-10-30T00:00:00+00:00",
-        "subtopics": [
-          "Diagnostics & imaging",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07214610",
-            "publishedAt": "2026-10-30T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.524,
-        "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1956,8 +1895,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.519,
+        "score": 6.516,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "518ddb6cd4eb",
+        "category": "medical",
+        "lang": "en",
+        "title": "Carolina Breast Cancer Study Phase 4",
+        "summary": "The Carolina Breast Cancer Study, Phase 4 (CBCS4) is a prospective, single-arm observational study examining interactions between tumor biology, health access, and patient behavior study. CBCS4 builds on prior phases that examined molecular and epidemiologic…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07214610",
+        "publishedAt": "2026-10-30T00:00:00+00:00",
+        "subtopics": [
+          "Diagnostics & imaging",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07214610",
+            "publishedAt": "2026-10-30T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.514,
+        "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1987,7 +1957,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.623,
+        "score": 5.619,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2017,7 +1987,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.273,
+        "score": 5.271,
         "firstSeen": "2026-10-19T14:15:39.801648+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2047,7 +2017,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.781,
+        "score": 4.771,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2078,7 +2048,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.895,
+        "score": 3.887,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2108,7 +2078,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.114,
+        "score": 3.105,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2138,7 +2108,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.34,
+        "score": 2.331,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2169,8 +2139,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.292,
+        "isNew": false,
+        "score": 5.254,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00",
         "kind": "article"
       },
@@ -2199,7 +2169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.65,
+        "score": 4.621,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00",
         "kind": "article"
       },
@@ -2230,7 +2200,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.621,
+        "score": 4.603,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "kind": "video",
         "video": {
@@ -2272,7 +2242,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.616,
+        "score": 4.587,
         "firstSeen": "2026-10-19T11:59:37.400943+00:00",
         "kind": "article"
       },
@@ -2301,7 +2271,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.458,
+        "score": 4.443,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2337,7 +2307,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.339,
+        "score": 4.325,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2373,7 +2343,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.285,
+        "score": 4.272,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2409,7 +2379,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.224,
+        "score": 4.212,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2445,7 +2415,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.077,
+        "score": 4.07,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2481,7 +2451,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.02,
+        "score": 4.01,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2517,7 +2487,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.004,
+        "score": 3.995,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2553,7 +2523,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.976,
+        "score": 3.956,
         "firstSeen": "2026-10-30T22:44:56.163184+00:00",
         "kind": "article"
       },
@@ -2583,7 +2553,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.959,
+        "score": 3.95,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2618,8 +2588,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.894,
+        "isNew": false,
+        "score": 3.893,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00",
         "kind": "video",
         "video": {
@@ -2656,7 +2626,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.865,
+        "score": 3.857,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2692,7 +2662,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.816,
+        "score": 3.809,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2729,7 +2699,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.777,
+        "score": 3.776,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2766,7 +2736,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.756,
+        "score": 3.755,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -2840,7 +2810,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.692,
+        "score": 3.68,
         "firstSeen": "2026-10-29T13:53:10.122046+00:00",
         "kind": "article"
       },
@@ -2870,7 +2840,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.677,
+        "score": 3.676,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2906,7 +2876,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.667,
+        "score": 3.655,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       },
@@ -2936,7 +2906,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.546,
+        "score": 3.531,
         "firstSeen": "2026-10-29T23:03:54.084294+00:00",
         "kind": "article"
       },
@@ -2967,7 +2937,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.507,
+        "score": 3.498,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
       },
@@ -3008,36 +2978,6 @@
         }
       },
       {
-        "id": "a80dd20eaec8",
-        "category": "growth",
-        "lang": "en",
-        "title": "Building a multiplayer game world with autonomous Fable-class models",
-        "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-        "publishedAt": "2026-10-29T17:00:26+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-            "publishedAt": "2026-10-29T17:00:26+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.459,
-        "firstSeen": "2026-10-29T22:23:32.987882+00:00",
-        "kind": "article"
-      },
-      {
         "id": "e43b71c34e9b",
         "category": "growth",
         "lang": "en",
@@ -3063,7 +3003,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.455,
+        "score": 3.454,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -3073,6 +3013,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=eojywvxqoLc",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "a80dd20eaec8",
+        "category": "growth",
+        "lang": "en",
+        "title": "Building a multiplayer game world with autonomous Fable-class models",
+        "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+        "publishedAt": "2026-10-29T17:00:26+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+            "publishedAt": "2026-10-29T17:00:26+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.446,
+        "firstSeen": "2026-10-29T22:23:32.987882+00:00",
+        "kind": "article"
       },
       {
         "id": "7f9e54d5ff79",
@@ -3101,7 +3071,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.424,
+        "score": 3.416,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
       },
@@ -3130,7 +3100,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.423,
+        "score": 3.414,
         "firstSeen": "2026-10-28T13:43:54.052842+00:00",
         "kind": "article"
       },
@@ -3159,7 +3129,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.419,
+        "score": 3.406,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "article"
       },
@@ -3188,7 +3158,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.396,
+        "score": 3.395,
         "firstSeen": "2026-10-23T20:55:57.373175+00:00",
         "kind": "video",
         "video": {
@@ -3226,7 +3196,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.238,
+        "score": 3.228,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "kind": "article"
       },
@@ -3255,7 +3225,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.169,
+        "score": 3.159,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "article"
       },
@@ -3286,7 +3256,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.106,
+        "score": 3.098,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "article"
       },
@@ -3315,7 +3285,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.039,
+        "score": 3.038,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "article"
       }
@@ -3456,9 +3426,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3498,7 +3468,7 @@
     }
   ],
   "filteredOut": {
-    "football": 56,
+    "football": 57,
     "news": 67,
     "medical": 15,
     "growth": 41
