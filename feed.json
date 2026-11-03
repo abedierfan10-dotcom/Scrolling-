@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:33:04.792558+00:00",
+  "generatedAt": "2026-11-03T14:48:50.268381+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -33,8 +33,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.932,
+        "isNew": false,
+        "score": 11.828,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -62,7 +62,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.924,
+        "score": 11.82,
         "firstSeen": "2026-10-10T21:05:58.317689+00:00"
       },
       {
@@ -90,7 +90,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.97,
+        "score": 10.907,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00"
       },
       {
@@ -118,8 +118,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.8,
+        "isNew": false,
+        "score": 7.68,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -148,8 +148,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.682,
+        "score": 7.631,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
+      },
+      {
+        "id": "a940ed142e86",
+        "category": "football",
+        "lang": "en",
+        "title": "Defeat for London City - but is Europe a real possibility?",
+        "summary": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-01T15:49:47+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-01T15:49:47+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.587,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
         "id": "c0ad3cc30fe1",
@@ -182,8 +211,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.213,
+        "isNew": false,
+        "score": 7.088,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -218,7 +247,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.072,
+        "score": 6.996,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00"
       },
       {
@@ -248,7 +277,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.735,
+        "score": 6.66,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00"
       },
       {
@@ -277,7 +306,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.407,
+        "score": 6.347,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00"
       },
       {
@@ -306,7 +335,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.28,
+        "score": 6.225,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00",
         "transfer": "RUMOUR"
       },
@@ -336,7 +365,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.709,
+        "score": 5.679,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -365,7 +394,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.294,
+        "score": 5.217,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00"
       },
       {
@@ -394,7 +423,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.066,
+        "score": 4.999,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00"
       },
       {
@@ -423,7 +452,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.851,
+        "score": 4.793,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00"
       },
       {
@@ -452,7 +481,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.736,
+        "score": 4.683,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -481,11 +510,47 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.661,
+        "score": 3.633,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       }
     ],
     "news": [
+      {
+        "id": "f46a0aaba508",
+        "category": "news",
+        "lang": "de",
+        "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
+        "summary": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
+        "publishedAt": "2026-11-03T13:33:24+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
+            "publishedAt": "2026-11-03T13:33:24+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html",
+            "publishedAt": "2026-11-03T13:33:24+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.944,
+        "firstSeen": "2026-11-03T14:48:50.268381+00:00"
+      },
       {
         "id": "570bf9a941df",
         "category": "news",
@@ -511,8 +576,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.866,
+        "isNew": false,
+        "score": 7.813,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -547,8 +612,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.82,
+        "isNew": false,
+        "score": 7.767,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -583,8 +648,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.814,
+        "isNew": false,
+        "score": 7.762,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -618,8 +683,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.81,
+        "isNew": false,
+        "score": 7.757,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -647,9 +712,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.738,
+        "isNew": false,
+        "score": 7.687,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
+      },
+      {
+        "id": "7b4267f2da4b",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburg: Finanzsenator Dressel rechnet mit mehr Steuereinnahmen",
+        "summary": "Im Vergleich zur letzten Steuerschätzung im Mai erwartet die Finanzbehörde bis 2030 Mehreinnahmen in Höhe von rund 1,11 Milliarden Euro. SPD-Finanzsenator Andreas Dressel sieht trotzdem keine neuen Spielräume.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/schaetzung-hamburg-kann-mit-mehr-steuereinnahmen-rechnen,steuern-150.html",
+        "publishedAt": "2026-11-03T14:30:15+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/schaetzung-hamburg-kann-mit-mehr-steuereinnahmen-rechnen,steuern-150.html",
+            "publishedAt": "2026-11-03T14:30:15+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.586,
+        "firstSeen": "2026-11-03T14:48:50.268381+00:00"
       },
       {
         "id": "40316f63f920",
@@ -683,7 +777,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.261,
+        "score": 7.219,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00"
       },
       {
@@ -712,7 +806,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.26,
+        "score": 7.218,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00"
       },
       {
@@ -747,7 +841,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.213,
+        "score": 7.171,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -776,7 +870,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.145,
+        "score": 7.105,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00"
       },
       {
@@ -805,7 +899,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.09,
+        "score": 7.051,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -835,7 +929,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.034,
+        "score": 6.996,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -870,7 +964,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.022,
+        "score": 6.985,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -878,11 +972,11 @@
         "category": "news",
         "lang": "de",
         "title": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
-        "summary": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden.",
+        "summary": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten in Deutschland die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
-        "publishedAt": "2026-11-03T11:28:32+00:00",
+        "publishedAt": "2026-11-03T13:49:27+00:00",
         "subtopics": [
           "Germany",
           "Tech & AI"
@@ -891,15 +985,15 @@
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/wirtschaft/digitales/cyberangriffe-supermarkt-hacker-100.html",
-            "publishedAt": "2026-11-03T11:28:32+00:00",
+            "publishedAt": "2026-11-03T13:49:27+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.909,
+        "isNew": false,
+        "score": 6.956,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -927,8 +1021,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.81,
+        "isNew": false,
+        "score": 6.756,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -957,7 +1051,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.721,
+        "score": 6.682,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -985,9 +1079,37 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.684,
+        "isNew": false,
+        "score": 6.634,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
+      },
+      {
+        "id": "c3aa2f9c40fd",
+        "category": "news",
+        "lang": "de",
+        "title": "Nächste A7-Vollsperrung in Hamburg kommt Ende November",
+        "summary": "Ab dem 20. November wird die A7 in Hamburg erneut für ein Wochenende zwischen Hamburg-Heimfeld und Stellingen voll gesperrt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/naechste-a7-vollsperrung-in-hamburg-kommt-ende-november,a7-sperrung-102.html",
+        "publishedAt": "2026-11-03T14:38:40+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/naechste-a7-vollsperrung-in-hamburg-kommt-ende-november,a7-sperrung-102.html",
+            "publishedAt": "2026-11-03T14:38:40+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.592,
+        "firstSeen": "2026-11-03T14:48:50.268381+00:00"
       },
       {
         "id": "87be62c3ba3e",
@@ -1016,7 +1138,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.54,
+        "score": 6.511,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -1045,7 +1167,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.197,
+        "score": 6.156,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00"
       },
       {
@@ -1080,7 +1202,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.182,
+        "score": 6.142,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -1115,7 +1237,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.121,
+        "score": 6.081,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -1150,7 +1272,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.098,
+        "score": 6.078,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
       },
       {
@@ -1185,7 +1307,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.942,
+        "score": 5.925,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
@@ -1220,7 +1342,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.83,
+        "score": 5.796,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -1249,7 +1371,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.708,
+        "score": 5.695,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
       },
       {
@@ -1277,7 +1399,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.624,
+        "score": 5.586,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -1306,7 +1428,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.555,
+        "score": 5.545,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00"
       },
       {
@@ -1335,7 +1457,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.534,
+        "score": 5.524,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1364,7 +1486,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.465,
+        "score": 5.456,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1394,7 +1516,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.453,
+        "score": 5.444,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00"
       },
       {
@@ -1424,7 +1546,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.355,
+        "score": 5.348,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00"
       },
       {
@@ -1453,7 +1575,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.344,
+        "score": 5.337,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00"
       },
       {
@@ -1482,94 +1604,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.26,
-        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
-      },
-      {
-        "id": "a56b6dbcdbb4",
-        "category": "news",
-        "lang": "de",
-        "title": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
-        "summary": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt - auf weniger als fünf Prozent der Landesfläche.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-        "publishedAt": "2026-10-27T17:11:59+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-            "publishedAt": "2026-10-27T17:11:59+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.26,
-        "firstSeen": "2026-10-27T12:55:00.387721+00:00"
-      },
-      {
-        "id": "a74b312b0a64",
-        "category": "news",
-        "lang": "de",
-        "title": "Was die Israel-Wahl für Deutschland bedeutet",
-        "summary": "Die Wahl in Israel wird auch in Deutschland mit Spannung verfolgt. Trotz Kritik an Netanjahus Politik bleibt die Bundesregierung zurückhaltend.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html",
-        "publishedAt": "2026-10-27T15:52:06+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-israel-154.html",
-            "publishedAt": "2026-10-27T15:52:06+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
         "score": 5.255,
-        "firstSeen": "2026-10-27T21:46:41.367897+00:00"
-      },
-      {
-        "id": "0d255ea5e504",
-        "category": "news",
-        "lang": "de",
-        "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
-        "summary": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-        "publishedAt": "2026-10-27T14:12:19+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html",
-            "publishedAt": "2026-10-27T14:12:19+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.249,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00"
       }
     ],
@@ -1602,7 +1637,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.797,
+        "score": 12.793,
         "firstSeen": "2026-10-21T12:38:36.052031+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true,
@@ -1636,7 +1671,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.457,
+        "score": 8.452,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1667,8 +1702,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.247,
+        "isNew": false,
+        "score": 7.237,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1700,7 +1735,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.247,
+        "score": 7.237,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1732,7 +1767,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.782,
+        "score": 6.775,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1763,7 +1798,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.372,
+        "score": 6.368,
         "firstSeen": "2026-10-22T12:43:18.265463+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1794,7 +1829,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.142,
+        "score": 6.131,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1825,7 +1860,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.457,
+        "score": 5.452,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1855,7 +1890,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.371,
+        "score": 4.36,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1885,7 +1920,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.0,
+        "score": 2.983,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1915,7 +1950,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.788,
+        "score": 2.779,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1945,7 +1980,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 1.974,
+        "score": 1.963,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1976,8 +2011,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.783,
+        "isNew": false,
+        "score": 5.727,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "article"
       },
@@ -2005,8 +2040,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.677,
+        "isNew": false,
+        "score": 5.623,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "article"
       },
@@ -2036,7 +2071,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.493,
+        "score": 5.452,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00",
         "kind": "video",
         "video": {
@@ -2071,8 +2106,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.415,
+        "isNew": false,
+        "score": 5.366,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "article"
       },
@@ -2100,8 +2135,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.161,
+        "isNew": false,
+        "score": 5.111,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "article"
       },
@@ -2130,7 +2165,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.01,
+        "score": 4.968,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00",
         "kind": "article"
       },
@@ -2159,7 +2194,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.946,
+        "score": 4.9,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00",
         "kind": "article"
       },
@@ -2188,7 +2223,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.887,
+        "score": 4.848,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00",
         "kind": "article"
       },
@@ -2217,7 +2252,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.887,
+        "score": 4.848,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00",
         "kind": "article"
       },
@@ -2246,7 +2281,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.779,
+        "score": 4.742,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00",
         "kind": "article"
       },
@@ -2277,37 +2312,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.598,
+        "score": 4.559,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "7a06514023fd",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Kyle Kingsbury",
-        "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-        "publishedAt": "2026-11-01T16:49:04+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-            "publishedAt": "2026-11-01T16:49:04+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.042,
-        "firstSeen": "2026-11-01T21:38:22.114135+00:00",
         "kind": "article"
       },
       {
@@ -2337,7 +2343,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.029,
+        "score": 4.016,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "kind": "video",
         "video": {
@@ -2347,6 +2353,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "7a06514023fd",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Kyle Kingsbury",
+        "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+        "publishedAt": "2026-11-01T16:49:04+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+            "publishedAt": "2026-11-01T16:49:04+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.013,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00",
+        "kind": "article"
       },
       {
         "id": "e075a744bf8a",
@@ -2373,7 +2408,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.94,
+        "score": 3.928,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2409,7 +2444,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.878,
+        "score": 3.877,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00",
         "kind": "video",
         "video": {
@@ -2445,7 +2480,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.874,
+        "score": 3.863,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2481,7 +2516,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.863,
+        "score": 3.858,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2517,7 +2552,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.854,
+        "score": 3.853,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00",
         "kind": "video",
         "video": {
@@ -2553,7 +2588,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.844,
+        "score": 3.834,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2589,7 +2624,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.81,
+        "score": 3.801,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2626,7 +2661,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.742,
+        "score": 3.741,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2663,7 +2698,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.722,
+        "score": 3.721,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -2700,7 +2735,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.702,
+        "score": 3.701,
         "firstSeen": "2026-10-25T20:20:02.669868+00:00",
         "kind": "video",
         "video": {
@@ -2736,7 +2771,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.698,
+        "score": 3.69,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2772,7 +2807,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.689,
+        "score": 3.682,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2808,37 +2843,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.687,
+        "score": 3.665,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4c77a0dfd633",
-        "category": "growth",
-        "lang": "en",
-        "title": "datasette-llm 0.1a9",
-        "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-        "publishedAt": "2026-10-31T22:10:01+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-            "publishedAt": "2026-10-31T22:10:01+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.668,
-        "firstSeen": "2026-11-03T00:26:40.351668+00:00",
         "kind": "article"
       },
       {
@@ -2867,7 +2873,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.664,
+        "score": 3.657,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2877,6 +2883,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=3CDvfm9DYjw",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "4c77a0dfd633",
+        "category": "growth",
+        "lang": "en",
+        "title": "datasette-llm 0.1a9",
+        "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+        "publishedAt": "2026-10-31T22:10:01+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+            "publishedAt": "2026-10-31T22:10:01+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.646,
+        "firstSeen": "2026-11-03T00:26:40.351668+00:00",
+        "kind": "article"
       },
       {
         "id": "436a2b2fff60",
@@ -2904,7 +2939,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.646,
+        "score": 3.645,
         "firstSeen": "2026-10-22T21:09:16.601272+00:00",
         "kind": "video",
         "video": {
@@ -2941,7 +2976,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.612,
+        "score": 3.606,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -2976,8 +3011,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.586,
+        "isNew": false,
+        "score": 3.585,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -3013,7 +3048,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.585,
+        "score": 3.579,
         "firstSeen": "2026-10-28T12:02:18.938042+00:00",
         "kind": "video",
         "video": {
@@ -3049,7 +3084,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.445,
+        "score": 3.444,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -3086,7 +3121,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.421,
+        "score": 3.42,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -3122,7 +3157,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.315,
+        "score": 3.3,
         "firstSeen": "2026-10-30T22:44:56.163184+00:00",
         "kind": "article"
       }
@@ -3162,7 +3197,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 21,
+      "items": 22,
       "error": null
     },
     {
@@ -3305,9 +3340,9 @@
     }
   ],
   "filteredOut": {
-    "football": 62,
+    "football": 61,
     "news": 62,
     "medical": 18,
-    "growth": 38
+    "growth": 37
   }
 }
