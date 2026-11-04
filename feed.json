@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:43:07.431633+00:00",
+  "generatedAt": "2026-11-04T15:00:06.556431+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,8 +34,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 12.861,
+        "isNew": false,
+        "score": 12.78,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -65,7 +65,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.738,
+        "score": 12.663,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
@@ -95,35 +95,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.723,
-        "firstSeen": "2026-11-03T22:50:39.850589+00:00"
-      },
-      {
-        "id": "3c1d78713266",
-        "category": "football",
-        "lang": "en",
-        "title": "Aston Villa latest: 'Be ruthless and avoid mistakes,' says Emery after Barca",
-        "summary": "",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-        "publishedAt": "2026-11-03T22:54:00+00:00",
-        "subtopics": [
-          "Barcelona"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-            "publishedAt": "2026-11-03T22:54:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 11.293,
+        "score": 12.648,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
@@ -153,8 +125,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.292,
+        "score": 11.279,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
+      },
+      {
+        "id": "3c1d78713266",
+        "category": "football",
+        "lang": "en",
+        "title": "Aston Villa latest: 'Be ruthless and avoid mistakes,' says Emery after Barca",
+        "summary": "",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+        "publishedAt": "2026-11-03T22:54:00+00:00",
+        "subtopics": [
+          "Barcelona"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+            "publishedAt": "2026-11-03T22:54:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 11.215,
+        "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
         "id": "0ca56e6bf4cc",
@@ -182,8 +182,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 9.326,
+        "isNew": false,
+        "score": 9.203,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -217,8 +217,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.609,
+        "isNew": false,
+        "score": 8.486,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00",
         "transfer": "HIGHLY RELIABLE"
       },
@@ -249,8 +249,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.55,
+        "score": 8.483,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00"
+      },
+      {
+        "id": "3bf0f910a0af",
+        "category": "football",
+        "lang": "en",
+        "title": "Can miraculous Manchester United comeback save Michael Carrick? | Football Weekly video",
+        "summary": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Mark Langdon as Manchester United comeback from 2-0 down to beat Roma in the Champions League Continue reading...",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/video/2026/nov/04/can-miraculous-manchester-united-comeback-save-michael-carrick-football-weekly-video",
+        "publishedAt": "2026-11-04T13:30:58+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/video/2026/nov/04/can-miraculous-manchester-united-comeback-save-michael-carrick-football-weekly-video",
+            "publishedAt": "2026-11-04T13:30:58+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.849,
+        "firstSeen": "2026-11-04T15:00:06.556431+00:00"
       },
       {
         "id": "ba8ed3a70b96",
@@ -277,37 +306,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.7,
-        "firstSeen": "2026-11-04T13:43:07.431633+00:00"
-      },
-      {
-        "id": "884ca68b73d2",
-        "category": "football",
-        "lang": "en",
-        "title": "From Derby to Champions League - Brown's journey to face Reds",
-        "summary": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-04T08:58:24+00:00",
-        "subtopics": [
-          "Champions League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-04T08:58:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.044,
+        "isNew": false,
+        "score": 7.582,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -336,8 +336,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.011,
+        "score": 6.988,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
+      },
+      {
+        "id": "884ca68b73d2",
+        "category": "football",
+        "lang": "en",
+        "title": "From Derby to Champions League - Brown's journey to face Reds",
+        "summary": "Fenerbahce's Archie Brown on his unorthodox journey to Istanbul, the moment of madness against Galatasaray and what Liverpool can expect in Turkey on Wednesday evening.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-04T08:58:24+00:00",
+        "subtopics": [
+          "Champions League",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-04T08:58:24+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.933,
+        "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
         "id": "3a8010ccf524",
@@ -365,7 +394,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.826,
+        "score": 6.747,
         "firstSeen": "2026-11-03T23:50:10.729076+00:00"
       },
       {
@@ -395,7 +424,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.767,
+        "score": 6.69,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
@@ -424,7 +453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.339,
+        "score": 6.259,
         "firstSeen": "2026-11-03T23:50:10.729076+00:00"
       },
       {
@@ -453,7 +482,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.152,
+        "score": 6.08,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
@@ -482,7 +511,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.338,
+        "score": 5.323,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -511,7 +540,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.306,
+        "score": 5.293,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
       },
       {
@@ -539,8 +568,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.683,
+        "isNew": false,
+        "score": 4.566,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -569,37 +598,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.275,
+        "score": 4.241,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00"
-      },
-      {
-        "id": "a9024a7c9845",
-        "category": "football",
-        "lang": "en",
-        "title": "Arsenal end Anfield wait and Manchester United beaten again | Football Weekly – video",
-        "summary": "Max Rushden is joined by Barry Glendenning , Jonathan Wilson and John Brewin as Arsenal win at Anfield in the league for the first time in 14 years and go top of the Premier League Continue reading...",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/video/2026/nov/02/arsenal-end-anfield-wait-and-manchester-united-beaten-again-football-weekly-video",
-        "publishedAt": "2026-11-02T14:34:55+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/video/2026/nov/02/arsenal-end-anfield-wait-and-manchester-united-beaten-again-football-weekly-video",
-            "publishedAt": "2026-11-02T14:34:55+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.084,
-        "firstSeen": "2026-11-02T16:45:10.111773+00:00"
       },
       {
         "id": "672dba4efdfa",
@@ -627,7 +627,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.395,
+        "score": 3.334,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       }
     ],
@@ -664,8 +664,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.977,
+        "isNew": false,
+        "score": 7.92,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -694,8 +694,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.89,
+        "isNew": false,
+        "score": 7.835,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -730,8 +730,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.829,
+        "isNew": false,
+        "score": 7.775,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -765,8 +765,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.817,
+        "isNew": false,
+        "score": 7.764,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -800,8 +800,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.736,
+        "isNew": false,
+        "score": 7.684,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -813,7 +813,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.ndr.de/sport/legenden/Uwe-Seeler-HSV-Portraet-Legende-Idol,hsv1550.html",
-        "publishedAt": "2026-11-04T12:17:29+00:00",
+        "publishedAt": "2026-11-04T14:45:12+00:00",
         "subtopics": [
           "Hamburg",
           "Conflict"
@@ -822,7 +822,37 @@
           {
             "name": "NDR",
             "url": "https://www.ndr.de/sport/legenden/Uwe-Seeler-HSV-Portraet-Legende-Idol,hsv1550.html",
-            "publishedAt": "2026-11-04T12:17:29+00:00",
+            "publishedAt": "2026-11-04T14:45:12+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.589,
+        "firstSeen": "2026-11-04T13:43:07.431633+00:00"
+      },
+      {
+        "id": "d5cb6f00b8fe",
+        "category": "news",
+        "lang": "de",
+        "title": "US-Midterms: Wahlparty der \"Democrats abroad\" in Hamburg",
+        "summary": "Die Demokraten haben die Zwischenwahlen gewonnen. Große Freude deshalb auch bei den Anhängern, die in Norddeutschland leben.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/info/us-midterms-wahlparty-der-democrats-abroad-in-hamburg,ndrinfo-19182.html",
+        "publishedAt": "2026-11-04T14:25:22+00:00",
+        "subtopics": [
+          "Hamburg",
+          "US",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/info/us-midterms-wahlparty-der-democrats-abroad-in-hamburg,ndrinfo-19182.html",
+            "publishedAt": "2026-11-04T14:25:22+00:00",
             "tier": 1
           }
         ],
@@ -830,8 +860,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 7.537,
-        "firstSeen": "2026-11-04T13:43:07.431633+00:00"
+        "score": 7.574,
+        "firstSeen": "2026-11-04T15:00:06.556431+00:00"
       },
       {
         "id": "86aad9e66cbb",
@@ -858,8 +888,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.45,
+        "isNew": false,
+        "score": 7.396,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -888,7 +918,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.284,
+        "score": 7.233,
         "firstSeen": "2026-11-03T14:48:50.268381+00:00"
       },
       {
@@ -923,7 +953,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.179,
+        "score": 7.138,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
@@ -958,7 +988,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.139,
+        "score": 7.099,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
@@ -988,7 +1018,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.094,
+        "score": 7.054,
         "firstSeen": "2026-11-03T14:48:50.268381+00:00"
       },
       {
@@ -1017,7 +1047,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.0,
+        "score": 6.962,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -1053,37 +1083,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.968,
+        "score": 6.931,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
-      },
-      {
-        "id": "bbc39ceb50f0",
-        "category": "news",
-        "lang": "de",
-        "title": "Wohngeldreform könnte Bedürftige doppelt treffen",
-        "summary": "Die Bundesregierung plant eine Reform des Wohngelds, um mehrere Milliarden einzusparen. Ein Drittel der bisher Wohngeldberechtigten könnte den Anspruch auf Wohngeld verlieren.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
-        "publishedAt": "2026-11-04T12:01:12+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
-            "publishedAt": "2026-11-04T12:01:12+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.925,
-        "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
         "id": "cb62a0adee58",
@@ -1111,8 +1112,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.911,
+        "score": 6.874,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
+      },
+      {
+        "id": "bbc39ceb50f0",
+        "category": "news",
+        "lang": "de",
+        "title": "Wohngeldreform könnte Bedürftige doppelt treffen",
+        "summary": "Die Bundesregierung plant eine Reform des Wohngelds, um mehrere Milliarden einzusparen. Ein Drittel der bisher Wohngeldberechtigten könnte den Anspruch auf Wohngeld verlieren.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
+        "publishedAt": "2026-11-04T12:01:12+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html",
+            "publishedAt": "2026-11-04T12:01:12+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.87,
+        "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
         "id": "b511b8d57d9c",
@@ -1140,7 +1170,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.873,
+        "score": 6.83,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
@@ -1174,8 +1204,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.65,
+        "isNew": false,
+        "score": 6.6,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -1204,7 +1234,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.578,
+        "score": 6.548,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00"
       },
       {
@@ -1233,7 +1263,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.577,
+        "score": 6.547,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00"
       },
       {
@@ -1268,7 +1298,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.544,
+        "score": 6.515,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -1297,7 +1327,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.497,
+        "score": 6.469,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00"
       },
       {
@@ -1326,7 +1356,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.459,
+        "score": 6.431,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -1356,7 +1386,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.419,
+        "score": 6.393,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -1391,7 +1421,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.411,
+        "score": 6.385,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -1420,7 +1450,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.167,
+        "score": 6.125,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -1449,7 +1479,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.102,
+        "score": 6.063,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00"
       },
       {
@@ -1479,36 +1509,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.075,
+        "score": 6.054,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00"
-      },
-      {
-        "id": "aff05f303aa6",
-        "category": "news",
-        "lang": "de",
-        "title": "A7 in Hamburg und Elbtunnel werden Ende November wieder voll gesperrt",
-        "summary": "Ab dem 20. November wird die Autobahn 7 in Hamburg erneut für ein Wochenende zwischen Hamburg-Heimfeld und -Stellingen voll gesperrt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-werden-ende-november-wieder-voll-gesperrt,a7-sperrung-102.html",
-        "publishedAt": "2026-11-03T16:18:48+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-werden-ende-november-wieder-voll-gesperrt,a7-sperrung-102.html",
-            "publishedAt": "2026-11-03T16:18:48+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.782,
-        "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
         "id": "0a417c734eaa",
@@ -1542,8 +1544,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.766,
+        "score": 5.752,
         "firstSeen": "2026-10-31T20:56:03.924854+00:00"
+      },
+      {
+        "id": "aff05f303aa6",
+        "category": "news",
+        "lang": "de",
+        "title": "A7 in Hamburg und Elbtunnel werden Ende November wieder voll gesperrt",
+        "summary": "Ab dem 20. November wird die Autobahn 7 in Hamburg erneut für ein Wochenende zwischen Hamburg-Heimfeld und -Stellingen voll gesperrt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-werden-ende-november-wieder-voll-gesperrt,a7-sperrung-102.html",
+        "publishedAt": "2026-11-03T16:18:48+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/a7-und-elbtunnel-in-hamburg-werden-ende-november-wieder-voll-gesperrt,a7-sperrung-102.html",
+            "publishedAt": "2026-11-03T16:18:48+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.74,
+        "firstSeen": "2026-11-03T22:50:39.850589+00:00"
       },
       {
         "id": "661a4b07bcb5",
@@ -1577,7 +1607,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.658,
+        "score": 5.645,
         "firstSeen": "2026-10-31T11:37:54.527957+00:00"
       },
       {
@@ -1605,8 +1635,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.607,
+        "isNew": false,
+        "score": 5.556,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00"
       },
       {
@@ -1635,7 +1665,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.533,
+        "score": 5.504,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00"
       },
       {
@@ -1670,7 +1700,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.523,
+        "score": 5.494,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       },
       {
@@ -1699,43 +1729,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.494,
+        "score": 5.485,
         "firstSeen": "2026-10-30T13:45:57.029965+00:00"
-      },
-      {
-        "id": "846ce1cfcdc4",
-        "category": "news",
-        "lang": "de",
-        "title": "Massive Cyberattacke auf Linken-Abgeordnete in Berlin",
-        "summary": "Tausende Nachrichten binnen Minuten: Ein massiver Cyberagriff hat die Mail-Postfächer der Linken im Bundestag lahmgelegt. Wer hinter der Attacke steckt, ist noch unklar.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html",
-        "publishedAt": "2026-11-02T14:14:53+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html",
-            "publishedAt": "2026-11-02T14:14:53+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html",
-            "publishedAt": "2026-11-02T14:14:53+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.48,
-        "firstSeen": "2026-11-02T14:40:16.837760+00:00"
       }
     ],
     "medical": [
@@ -1764,8 +1759,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 8.503,
+        "isNew": false,
+        "score": 8.485,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1796,7 +1791,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.372,
+        "score": 8.367,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1828,7 +1823,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.072,
+        "score": 7.063,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1860,7 +1855,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.072,
+        "score": 7.063,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1892,7 +1887,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.66,
+        "score": 6.654,
         "firstSeen": "2026-10-26T12:10:56.817299+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1922,8 +1917,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.303,
+        "isNew": false,
+        "score": 6.285,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1954,7 +1949,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.945,
+        "score": 5.936,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1985,7 +1980,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.372,
+        "score": 5.367,
         "firstSeen": "2026-10-23T12:20:38.953881+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2016,7 +2011,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.009,
+        "score": 4.992,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2046,7 +2041,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.16,
+        "score": 4.149,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2076,7 +2071,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.695,
+        "score": 2.68,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2108,8 +2103,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.775,
+        "isNew": false,
+        "score": 5.719,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00",
         "kind": "article"
       },
@@ -2138,8 +2133,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.768,
+        "isNew": false,
+        "score": 5.712,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00",
         "kind": "article"
       },
@@ -2168,7 +2163,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.882,
+        "score": 4.842,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "article"
       },
@@ -2198,7 +2193,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.83,
+        "score": 4.801,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00",
         "kind": "video",
         "video": {
@@ -2234,7 +2229,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.808,
+        "score": 4.77,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "article"
       },
@@ -2265,7 +2260,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.688,
+        "score": 4.646,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "article"
       },
@@ -2294,7 +2289,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.625,
+        "score": 4.59,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "article"
       },
@@ -2323,7 +2318,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.357,
+        "score": 4.322,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "article"
       },
@@ -2352,7 +2347,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.342,
+        "score": 4.313,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00",
         "kind": "article"
       },
@@ -2381,7 +2376,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.257,
+        "score": 4.229,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00",
         "kind": "article"
       },
@@ -2410,7 +2405,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.257,
+        "score": 4.229,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00",
         "kind": "article"
       },
@@ -2439,7 +2434,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.207,
+        "score": 4.175,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00",
         "kind": "article"
       },
@@ -2468,7 +2463,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.181,
+        "score": 4.155,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00",
         "kind": "article"
       },
@@ -2499,7 +2494,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.964,
+        "score": 3.937,
         "firstSeen": "2026-11-02T14:40:16.837760+00:00",
         "kind": "article"
       },
@@ -2530,7 +2525,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.884,
+        "score": 3.883,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2566,7 +2561,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.878,
+        "score": 3.876,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2602,7 +2597,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.854,
+        "score": 3.852,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00",
         "kind": "video",
         "video": {
@@ -2638,7 +2633,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.83,
+        "score": 3.829,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00",
         "kind": "video",
         "video": {
@@ -2676,7 +2671,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.809,
+        "score": 3.799,
         "firstSeen": "2026-10-30T21:54:22.608604+00:00",
         "kind": "video",
         "video": {
@@ -2712,7 +2707,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.746,
+        "score": 3.738,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2749,7 +2744,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.722,
+        "score": 3.721,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -2786,7 +2781,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.702,
+        "score": 3.701,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -2822,7 +2817,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.7,
+        "score": 3.693,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "kind": "video",
         "video": {
@@ -2859,7 +2854,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.683,
+        "score": 3.682,
         "firstSeen": "2026-10-25T20:20:02.669868+00:00",
         "kind": "video",
         "video": {
@@ -2895,7 +2890,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.68,
+        "score": 3.672,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2931,7 +2926,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.656,
+        "score": 3.649,
         "firstSeen": "2026-10-29T22:23:32.987882+00:00",
         "kind": "video",
         "video": {
@@ -2967,7 +2962,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.577,
+        "score": 3.572,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -2977,35 +2972,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=KlHzPbZ6PNI",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "7a06514023fd",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Kyle Kingsbury",
-        "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-        "publishedAt": "2026-11-01T16:49:04+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-            "publishedAt": "2026-11-01T16:49:04+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.576,
-        "firstSeen": "2026-11-01T21:38:22.114135+00:00",
-        "kind": "article"
       },
       {
         "id": "cb806a8fe938",
@@ -3032,7 +2998,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.571,
+        "score": 3.566,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -3068,7 +3034,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.561,
+        "score": 3.56,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -3078,6 +3044,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "7a06514023fd",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Kyle Kingsbury",
+        "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+        "publishedAt": "2026-11-01T16:49:04+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+            "publishedAt": "2026-11-01T16:49:04+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.556,
+        "firstSeen": "2026-11-01T21:38:22.114135+00:00",
+        "kind": "article"
       },
       {
         "id": "1506271ed014",
@@ -3105,7 +3100,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.554,
+        "score": 3.549,
         "firstSeen": "2026-10-28T22:07:50.557016+00:00",
         "kind": "video",
         "video": {
@@ -3141,7 +3136,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.425,
+        "score": 3.424,
         "firstSeen": "2026-10-27T21:46:41.367897+00:00",
         "kind": "video",
         "video": {
@@ -3178,7 +3173,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.401,
+        "score": 3.4,
         "firstSeen": "2026-10-26T22:15:03.656954+00:00",
         "kind": "video",
         "video": {
@@ -3214,7 +3209,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.329,
+        "score": 3.313,
         "firstSeen": "2026-11-01T12:36:47.161772+00:00",
         "kind": "article"
       },
@@ -3243,7 +3238,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.315,
+        "score": 3.3,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00",
         "kind": "article"
       }
@@ -3283,7 +3278,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 19,
+      "items": 20,
       "error": null
     },
     {
