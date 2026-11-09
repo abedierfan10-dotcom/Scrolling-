@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:01:56.231317+00:00",
+  "generatedAt": "2026-11-09T17:03:55.022915+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,8 +34,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 14.188,
+        "isNew": false,
+        "score": 14.073,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -64,9 +64,61 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 12.761,
+        "isNew": false,
+        "score": 12.641,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
+      },
+      {
+        "id": "19b866a65154",
+        "category": "football",
+        "lang": "en",
+        "title": "What now for Man Utd and Carrick?",
+        "summary": "Under-pressure Manchester United boss Michael Carrick \"expects\" to stay on despite his side sitting in the relegation zone after Sunday's dramatic 4-4 home draw against Aston Villa.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13610134/manchester-united-the-key-questions-with-michael-carricks-future-still-up-in-the-air-at-old-trafford",
+        "publishedAt": "2026-11-09T15:00:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13610134/manchester-united-the-key-questions-with-michael-carricks-future-still-up-in-the-air-at-old-trafford",
+            "publishedAt": "2026-11-09T15:00:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-08T21:50:05+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13609927/michael-carrick-manchester-united-boss-expects-to-stay-on-despite-club-sitting-in-relegation-zone-after-aston-villa-draw",
+            "publishedAt": "2026-11-08T19:40:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": true,
+        "latestUpdate": "What now for Man Utd and Carrick?",
+        "earlier": [
+          {
+            "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
+            "source": "BBC Sport",
+            "publishedAt": "2026-11-08T21:50:05+00:00"
+          },
+          {
+            "title": "Man Utd in relegation zone but Carrick 'expects' to stay on",
+            "source": "Sky Sports",
+            "publishedAt": "2026-11-08T19:40:00+00:00"
+          }
+        ],
+        "isNew": false,
+        "score": 8.592,
+        "firstSeen": "2026-11-08T22:37:30.871356+00:00"
       },
       {
         "id": "fb9758fa8551",
@@ -94,8 +146,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.912,
+        "isNew": false,
+        "score": 7.714,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -123,29 +175,29 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.926,
+        "isNew": false,
+        "score": 6.727,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
-        "id": "b3dc08b9ba05",
+        "id": "efaaf675c454",
         "category": "football",
         "lang": "en",
-        "title": "‘I expect to move forward’: Carrick denies risk of Manchester United sack",
-        "summary": "‘Is there?’ manager retorts when told of talk over position Bizarre 4-4 draw with Villa leaves United in bottom three A tetchy Michael Carrick dismissed a suggestion he could resign as head coach for the good of the team after Sunday’s chaotic 4-4 draw with…",
+        "title": "Manchester United weighing up Michael Carrick sacking as Wilcox leads review",
+        "summary": "Carrick given time after Como and Bournemouth defeats Recommendation will be made to Sir Jim Ratcliffe Manchester United are deciding whether Michael Carrick should be sacked, with Jason Wilcox, the director of football, leading the review after the head…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
-        "publishedAt": "2026-11-08T21:40:36+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
+        "publishedAt": "2026-11-09T16:21:31+00:00",
         "subtopics": [
           "Premier League",
-          "Results"
+          "Tables"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
-            "publishedAt": "2026-11-08T21:40:36+00:00",
+            "url": "https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking",
+            "publishedAt": "2026-11-09T16:21:31+00:00",
             "tier": 2
           }
         ],
@@ -153,37 +205,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 6.642,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00"
-      },
-      {
-        "id": "19b866a65154",
-        "category": "football",
-        "lang": "en",
-        "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
-        "summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-08T21:50:05+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-08T21:50:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.151,
-        "firstSeen": "2026-11-08T22:37:30.871356+00:00"
+        "score": 5.927,
+        "firstSeen": "2026-11-09T17:03:55.022915+00:00"
       },
       {
         "id": "cb2be554c0fa",
@@ -211,7 +234,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.055,
+        "score": 4.949,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -240,7 +263,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.05,
+        "score": 4.944,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -269,7 +292,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.049,
+        "score": 4.944,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -298,7 +321,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.048,
+        "score": 4.943,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -327,8 +350,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.048,
+        "score": 4.942,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
+      },
+      {
+        "id": "a49191015820",
+        "category": "football",
+        "lang": "en",
+        "title": "Szoboszlai a doubt for Nations League conclusion",
+        "summary": "Liverpool midfielder Dominik Szoboszlai will undergo tests on a knee injury to ascertain his readiness to join up with the Hungarian national side for Nations League fixtures against Georgia and Northern Ireland.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-09T16:25:33+00:00",
+        "subtopics": [
+          "International",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-09T16:25:33+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.934,
+        "firstSeen": "2026-11-09T17:03:55.022915+00:00"
       },
       {
         "id": "1e5b4edd913b",
@@ -356,7 +408,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.987,
+        "score": 4.886,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -385,7 +437,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.862,
+        "score": 4.769,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -414,7 +466,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.86,
+        "score": 4.767,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -443,7 +495,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.55,
+        "score": 4.445,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -472,11 +524,75 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.532,
+        "score": 4.428,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       }
     ],
     "news": [
+      {
+        "id": "c8650c7ca78a",
+        "category": "news",
+        "lang": "de",
+        "title": "Zucker-, Plastik- und Stromsteuer: Die offenen Baustellen im Haushalt",
+        "summary": "Nachdem Finanzminister Klingbeil die Plastiksteuer angekündigt hatte, scheint jetzt wieder alles offen. Auch bei der Krypto- und Zuckersteuer ist offenbar alles im Fluss.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
+        "publishedAt": "2026-11-09T16:24:36+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
+            "publishedAt": "2026-11-09T16:24:36+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
+            "publishedAt": "2026-11-09T16:24:36+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.971,
+        "firstSeen": "2026-11-09T17:03:55.022915+00:00"
+      },
+      {
+        "id": "fe338a5b1593",
+        "category": "news",
+        "lang": "de",
+        "title": "Mobilfunkunternehmen Vodafone plant Abbau von 2.300 Stellen",
+        "summary": "Der Telekommunikationskonzern Vodafone muss sparen. In Deutschland soll nun rund jeder fünfte Job wegfallen - insgesamt 2.300 Stellen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+        "publishedAt": "2026-11-09T16:09:03+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+            "publishedAt": "2026-11-09T16:09:03+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.959,
+        "firstSeen": "2026-11-09T17:03:55.022915+00:00"
+      },
       {
         "id": "09a0499e046f",
         "category": "news",
@@ -537,7 +653,7 @@
           }
         ],
         "isNew": false,
-        "score": 7.99,
+        "score": 7.901,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -571,8 +687,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.988,
+        "isNew": false,
+        "score": 7.899,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -600,8 +716,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.76,
+        "isNew": false,
+        "score": 7.678,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -635,8 +751,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.745,
+        "isNew": false,
+        "score": 7.663,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -670,8 +786,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.734,
+        "isNew": false,
+        "score": 7.653,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -699,8 +815,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.597,
+        "isNew": false,
+        "score": 7.507,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -734,8 +850,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.547,
+        "isNew": false,
+        "score": 7.471,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -769,38 +885,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.53,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00"
-      },
-      {
-        "id": "da365aa32e49",
-        "category": "news",
-        "lang": "de",
-        "title": "So war der letzte verkaufsoffene Sonntag in diesem Jahr",
-        "summary": "Weihnachtshektik stand für die Menschen noch nicht auf dem Programm. Viele nutzten den Tag zum Bummeln durch die Innenstadt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-letzte-verkaufsoffene-sonntag-in-diesem-jahr,hamj-16312.html",
-        "publishedAt": "2026-11-09T06:53:52+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-letzte-verkaufsoffene-sonntag-in-diesem-jahr,hamj-16312.html",
-            "publishedAt": "2026-11-09T06:53:52+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 7.258,
-        "firstSeen": "2026-11-08T21:38:14.306170+00:00"
+        "score": 7.454,
+        "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
         "id": "b21829ab452a",
@@ -834,7 +921,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.251,
+        "score": 7.184,
+        "firstSeen": "2026-11-08T21:38:14.306170+00:00"
+      },
+      {
+        "id": "da365aa32e49",
+        "category": "news",
+        "lang": "de",
+        "title": "So war der letzte verkaufsoffene Sonntag in diesem Jahr",
+        "summary": "Weihnachtshektik stand für die Menschen noch nicht auf dem Programm. Viele nutzten den Tag zum Bummeln durch die Innenstadt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-letzte-verkaufsoffene-sonntag-in-diesem-jahr,hamj-16312.html",
+        "publishedAt": "2026-11-09T06:53:52+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/so-war-der-letzte-verkaufsoffene-sonntag-in-diesem-jahr,hamj-16312.html",
+            "publishedAt": "2026-11-09T06:53:52+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.179,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -863,7 +979,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.223,
+        "score": 7.157,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -891,8 +1007,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.184,
+        "isNew": false,
+        "score": 7.107,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -927,8 +1043,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.953,
+        "isNew": false,
+        "score": 6.865,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -962,8 +1078,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.943,
+        "isNew": false,
+        "score": 6.855,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -992,7 +1108,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.879,
+        "score": 6.823,
         "firstSeen": "2026-11-08T12:41:35.074377+00:00"
       },
       {
@@ -1027,7 +1143,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.741,
+        "score": 6.689,
         "firstSeen": "2026-11-08T12:41:35.074377+00:00"
       },
       {
@@ -1061,8 +1177,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.529,
+        "isNew": false,
+        "score": 6.453,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -1097,7 +1213,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.352,
+        "score": 6.312,
         "firstSeen": "2026-11-07T12:22:33.777144+00:00"
       },
       {
@@ -1132,7 +1248,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.122,
+        "score": 6.088,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00"
       },
       {
@@ -1167,7 +1283,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.059,
+        "score": 6.028,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00"
       },
       {
@@ -1196,7 +1312,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.982,
+        "score": 5.953,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00"
       },
       {
@@ -1226,7 +1342,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.972,
+        "score": 5.943,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00"
       },
       {
@@ -1261,7 +1377,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.947,
+        "score": 5.918,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00"
       },
       {
@@ -1291,7 +1407,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.944,
+        "score": 5.916,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00"
       },
       {
@@ -1327,7 +1443,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.942,
+        "score": 5.914,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00"
       },
       {
@@ -1356,8 +1472,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.886,
+        "score": 5.86,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00"
+      },
+      {
+        "id": "ccfc80522715",
+        "category": "news",
+        "lang": "de",
+        "title": "Hunderte fordern bei Demo Nachbesserungen der Pflegereform",
+        "summary": "Wohlfahrts- und Pflegeverbände protestierten in der Hamburger Innenstadt gegen das Vorhaben der Bundesregierung.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/hunderte-fordern-bei-demo-nachbesserungen-der-pflegereform,kurzehh-4848.html",
+        "publishedAt": "2026-11-09T15:21:35+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Protests"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/hunderte-fordern-bei-demo-nachbesserungen-der-pflegereform,kurzehh-4848.html",
+            "publishedAt": "2026-11-09T15:21:35+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.825,
+        "firstSeen": "2026-11-09T17:03:55.022915+00:00"
       },
       {
         "id": "3ee3910fdee5",
@@ -1391,38 +1536,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.767,
+        "score": 5.715,
         "firstSeen": "2026-11-08T12:41:35.074377+00:00"
-      },
-      {
-        "id": "3b130642f75e",
-        "category": "news",
-        "lang": "de",
-        "title": "Hamburgs Schulen wollen weg von Microsoft und Google",
-        "summary": "Die US-amerikanischen Software-Riesen sollen durch Nextcloud ersetzt werden, um Datenschutz und Unabhängigkeit zu stärken.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/hamburgs-schulen-wollen-weg-von-microsoft-und-google,schulehh-100.html",
-        "publishedAt": "2026-11-08T16:06:33+00:00",
-        "subtopics": [
-          "US",
-          "Hamburg",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/hamburgs-schulen-wollen-weg-von-microsoft-und-google,schulehh-100.html",
-            "publishedAt": "2026-11-08T16:06:33+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.733,
-        "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
         "id": "3cb4e1ae44da",
@@ -1451,7 +1566,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.709,
+        "score": 5.688,
         "firstSeen": "2026-11-05T15:06:09.834773+00:00"
       },
       {
@@ -1481,7 +1596,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.701,
+        "score": 5.68,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00"
       },
       {
@@ -1510,37 +1625,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.694,
+        "score": 5.673,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00"
       },
       {
-        "id": "db0b39bc6e4b",
+        "id": "3b130642f75e",
         "category": "news",
         "lang": "de",
-        "title": "Impftage in Hamburger Gesundheitsämtern",
-        "summary": "Die Erkältungszeit ist da und mit ihr auch die Grippe-Saison. In dieser Woche gibt es in den Gesundheitsämtern der Hamburger Bezirken deshalb Impfangebote.",
+        "title": "Hamburgs Schulen wollen weg von Microsoft und Google",
+        "summary": "Die US-amerikanischen Software-Riesen sollen durch Nextcloud ersetzt werden, um Datenschutz und Unabhängigkeit zu stärken.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/Grippe-Impftage-in-Hamburger-Gesundheitsaemtern-,impfen-300.html",
-        "publishedAt": "2026-11-09T10:01:31+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/hamburgs-schulen-wollen-weg-von-microsoft-und-google,schulehh-100.html",
+        "publishedAt": "2026-11-08T16:06:33+00:00",
         "subtopics": [
+          "US",
           "Hamburg",
-          "Healthcare"
+          "Tech & AI"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/Grippe-Impftage-in-Hamburger-Gesundheitsaemtern-,impfen-300.html",
-            "publishedAt": "2026-11-09T10:01:31+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/hamburgs-schulen-wollen-weg-von-microsoft-und-google,schulehh-100.html",
+            "publishedAt": "2026-11-08T16:06:33+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.685,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00"
+        "isNew": false,
+        "score": 5.669,
+        "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
         "id": "0c8a6dc1d36c",
@@ -1568,66 +1684,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.671,
+        "score": 5.651,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00"
-      },
-      {
-        "id": "fb048670aa6f",
-        "category": "news",
-        "lang": "de",
-        "title": "Suche nach mehrheitsfähiger Kandidatin: Merz und die Bundespräsidentinnen-Frage",
-        "summary": "Eine Frau soll es werden - so weit hat sich Kanzler Merz in der Bundespräsidenten-Frage festgelegt. Einige Namen kursieren, doch welche Kandidatin hätte genug Rückhalt?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html",
-        "publishedAt": "2026-11-05T03:21:38+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-wahl-kandidatinnen-100.html",
-            "publishedAt": "2026-11-05T03:21:38+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.604,
-        "firstSeen": "2026-11-05T13:55:33.610822+00:00"
-      },
-      {
-        "id": "0081169f2612",
-        "category": "news",
-        "lang": "de",
-        "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
-        "summary": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
-        "publishedAt": "2026-11-04T23:35:58+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html",
-            "publishedAt": "2026-11-04T23:35:58+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.571,
-        "firstSeen": "2026-11-04T23:09:24.201247+00:00"
       }
     ],
     "medical": [
@@ -1658,7 +1716,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.648,
+        "score": 7.629,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1690,7 +1748,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.648,
+        "score": 7.629,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1722,7 +1780,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.648,
+        "score": 7.629,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1759,7 +1817,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.43,
+        "score": 7.412,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1791,7 +1849,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.452,
+        "score": 6.444,
         "firstSeen": "2026-10-29T12:13:19.659477+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1823,7 +1881,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.452,
+        "score": 6.444,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1853,7 +1911,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.373,
+        "score": 5.354,
         "firstSeen": "2026-11-05T23:13:34.700342+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1884,9 +1942,41 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.247,
+        "score": 5.238,
         "firstSeen": "2026-10-30T12:03:30.245907+00:00",
         "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "e2252e9e2ac0",
+        "category": "medical",
+        "lang": "en",
+        "title": "FDA seeks input on telesurgery, autonomous robotics",
+        "summary": "The agency is inviting public comment on a new discussion paper as it prepares to shape policy covering robotic medical devices with autonomous or remote teleoperation functions.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/",
+        "publishedAt": "2026-11-09T15:47:04+00:00",
+        "subtopics": [
+          "Surgical robotics",
+          "Industry",
+          "Regulatory"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/",
+            "publishedAt": "2026-11-09T15:47:04+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.181,
+        "firstSeen": "2026-11-09T17:03:55.022915+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
@@ -1915,7 +2005,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.035,
+        "score": 5.02,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1945,13 +2035,51 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.299,
+        "score": 3.278,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "114a87c4fb99",
+        "category": "growth",
+        "lang": "en",
+        "title": "AI Brain Fry Is Real. Here’s What Leaders Can Do | Julie Bedard | TED",
+        "summary": "Workers everywhere are quietly redesigning their jobs around AI, boosting productivity but also creating new kinds of problems. AI advisor Julie Bedard thinks she has a fix.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=g3_TqjSLyLk",
+        "publishedAt": "2026-11-09T16:00:06+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems",
+          "Leadership"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=g3_TqjSLyLk",
+            "publishedAt": "2026-11-09T16:00:06+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.553,
+        "firstSeen": "2026-11-09T17:03:55.022915+00:00",
+        "kind": "video",
+        "video": {
+          "id": "g3_TqjSLyLk",
+          "thumbUrl": "https://i4.ytimg.com/vi/g3_TqjSLyLk/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=g3_TqjSLyLk",
+          "channel": "TED"
+        }
+      },
       {
         "id": "8f4e456eba74",
         "category": "growth",
@@ -1976,8 +2104,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.721,
+        "isNew": false,
+        "score": 5.634,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2005,8 +2133,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.711,
+        "isNew": false,
+        "score": 5.624,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2035,8 +2163,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.584,
+        "isNew": false,
+        "score": 5.501,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2065,7 +2193,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.398,
+        "score": 5.336,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2101,7 +2229,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.112,
+        "score": 5.067,
         "firstSeen": "2026-11-07T21:23:34.498309+00:00",
         "kind": "video",
         "video": {
@@ -2136,8 +2264,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.066,
+        "isNew": false,
+        "score": 4.99,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2166,8 +2294,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.062,
+        "isNew": false,
+        "score": 4.985,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2195,8 +2323,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.843,
+        "isNew": false,
+        "score": 4.774,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2227,7 +2355,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.768,
+        "score": 4.724,
         "firstSeen": "2026-11-07T21:23:34.498309+00:00",
         "kind": "video",
         "video": {
@@ -2265,7 +2393,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.876,
+        "score": 3.874,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2301,7 +2429,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.829,
+        "score": 3.827,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -2337,7 +2465,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.812,
+        "score": 3.81,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00",
         "kind": "video",
         "video": {
@@ -2373,7 +2501,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.799,
+        "score": 3.77,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00",
         "kind": "article"
       },
@@ -2404,7 +2532,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.768,
+        "score": 3.767,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2440,7 +2568,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.763,
+        "score": 3.761,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2476,7 +2604,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.742,
+        "score": 3.74,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00",
         "kind": "video",
         "video": {
@@ -2512,7 +2640,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.721,
+        "score": 3.72,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00",
         "kind": "video",
         "video": {
@@ -2548,46 +2676,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.562,
+        "score": 3.53,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "article"
-      },
-      {
-        "id": "a2ce3a9c2a73",
-        "category": "growth",
-        "lang": "en",
-        "title": "The $1B Company Fixing AI’s Software Bottleneck",
-        "summary": "Blacksmith (YC W24) is building a faster cloud for continuous integration (CI), helping developers test and ship code as AI coding tools generate more of it. As software production accelerates, testing and validation are becoming the new bottleneck.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
-        "publishedAt": "2026-11-02T16:29:13+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
-            "publishedAt": "2026-11-02T16:29:13+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.552,
-        "firstSeen": "2026-11-02T16:45:10.111773+00:00",
-        "kind": "video",
-        "video": {
-          "id": "NVzgt2AEvDg",
-          "thumbUrl": "https://i3.ytimg.com/vi/NVzgt2AEvDg/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "5d7c86fdb19b",
@@ -2615,7 +2706,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.529,
+        "score": 3.527,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -2625,35 +2716,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=NYGf--dBeHA",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "fc30c4308f3c",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-        "publishedAt": "2026-11-05T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-            "publishedAt": "2026-11-05T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.499,
-        "firstSeen": "2026-11-05T13:55:33.610822+00:00",
-        "kind": "article"
       },
       {
         "id": "5103e8eed7f5",
@@ -2682,7 +2744,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.483,
+        "score": 3.481,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -2692,6 +2754,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "fc30c4308f3c",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+        "publishedAt": "2026-11-05T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+            "publishedAt": "2026-11-05T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.478,
+        "firstSeen": "2026-11-05T13:55:33.610822+00:00",
+        "kind": "article"
       },
       {
         "id": "b2b96149e382",
@@ -2718,7 +2809,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.449,
+        "score": 3.447,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -2754,7 +2845,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.332,
+        "score": 3.317,
         "firstSeen": "2026-11-04T23:09:24.201247+00:00",
         "kind": "article"
       },
@@ -2783,7 +2874,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.247,
+        "score": 3.224,
         "firstSeen": "2026-11-05T23:13:34.700342+00:00",
         "kind": "article"
       },
@@ -2818,7 +2909,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.006,
+        "score": 2.991,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00",
         "kind": "article"
       },
@@ -2847,7 +2938,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.986,
+        "score": 2.984,
         "firstSeen": "2026-11-04T23:09:24.201247+00:00",
         "kind": "article"
       },
@@ -2876,7 +2967,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.905,
+        "score": 2.893,
         "firstSeen": "2026-11-04T23:09:24.201247+00:00",
         "kind": "article"
       },
@@ -2905,7 +2996,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.898,
+        "score": 2.886,
         "firstSeen": "2026-11-04T23:09:24.201247+00:00",
         "kind": "article"
       },
@@ -2940,7 +3031,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.889,
+        "score": 2.877,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00",
         "kind": "article"
       },
@@ -2968,8 +3059,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 2.861,
+        "isNew": false,
+        "score": 2.85,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -3000,7 +3091,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.86,
+        "score": 2.849,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "article"
       },
@@ -3029,7 +3120,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.805,
+        "score": 2.796,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "article"
       },
@@ -3059,7 +3150,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.702,
+        "score": 2.7,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "article"
       },
@@ -3089,7 +3180,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.66,
+        "score": 2.658,
         "firstSeen": "2026-11-03T14:48:50.268381+00:00",
         "kind": "article"
       }
@@ -3272,9 +3363,9 @@
     }
   ],
   "filteredOut": {
-    "football": 62,
+    "football": 58,
     "news": 62,
-    "medical": 19,
+    "medical": 18,
     "growth": 46
   }
 }
