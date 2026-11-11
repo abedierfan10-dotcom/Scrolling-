@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:29:12.042067+00:00",
+  "generatedAt": "2026-11-11T14:51:54.481403+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,9 +34,37 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 13.704,
+        "isNew": false,
+        "score": 13.578,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
+      },
+      {
+        "id": "e6f8bb9f7142",
+        "category": "football",
+        "lang": "en",
+        "title": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
+        "summary": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes Lifelong supporters of Barcelona football club will soon be able to cheer on the club from beyond the grave but, like everything else…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+        "publishedAt": "2026-11-11T14:30:15+00:00",
+        "subtopics": [
+          "Barcelona"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+            "publishedAt": "2026-11-11T14:30:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 12.463,
+        "firstSeen": "2026-11-11T14:51:54.481403+00:00"
       },
       {
         "id": "f62a20afe0c8",
@@ -65,7 +93,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.351,
+        "score": 11.335,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -94,7 +122,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.578,
+        "score": 9.528,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
       },
       {
@@ -123,84 +151,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.758,
-        "firstSeen": "2026-11-10T22:46:36.852490+00:00"
-      },
-      {
-        "id": "1a13f0fdf541",
-        "category": "football",
-        "lang": "en",
-        "title": "McTominay reveals he had heart ‘shocked’ two days before World Cup opener",
-        "summary": "Midfielder was in hospital before Scotland v Haiti ‘I had to get the shock on my heart,’ says McTominay Scott McTominay has revealed he was in hospital under sedation to have a “shock on my heart” just 48 hours before Scotland began their World Cup campaign…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
-        "publishedAt": "2026-11-10T19:54:51+00:00",
-        "subtopics": [
-          "World Cup",
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/10/mctominay-reveals-heart-treatment-two-days-before-scotlands-world-cup-opener",
-            "publishedAt": "2026-11-10T19:54:51+00:00",
-            "tier": 2
-          },
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-10T16:46:31+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13610728/scott-mctominay-scotland-midfielder-had-heart-shocked-two-days-before-world-cup-opener-against-haiti",
-            "publishedAt": "2026-11-10T16:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 8.23,
-        "firstSeen": "2026-11-10T22:46:36.852490+00:00"
-      },
-      {
-        "id": "0e1b80d744bb",
-        "category": "football",
-        "lang": "en",
-        "title": "Man City thrash Inter to claim first CL win of season",
-        "summary": "Manchester City kept their hopes of securing a Champions League top-four finish alive with a convincing comeback victory over Inter Milan.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-10T22:05:15+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-10T22:05:15+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/report/578260",
-            "publishedAt": "2026-11-09T21:55:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.558,
+        "score": 8.676,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
@@ -228,9 +179,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.9,
+        "isNew": false,
+        "score": 6.764,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
+      },
+      {
+        "id": "0e1b80d744bb",
+        "category": "football",
+        "lang": "en",
+        "title": "Man City thrash Inter to claim first CL win of season",
+        "summary": "Manchester City come from behind to beat Inter Milan in style for their first Champions League win of the season.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-10T22:05:15+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cwzd6d9zrlz7o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-10T22:05:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.675,
+        "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
         "id": "0250e3694350",
@@ -258,7 +238,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.641,
+        "score": 6.565,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
@@ -286,38 +266,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.993,
-        "firstSeen": "2026-11-11T13:29:12.042067+00:00"
-      },
-      {
-        "id": "2c062168e92b",
-        "category": "football",
-        "lang": "en",
-        "title": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
-        "summary": "Sage’s exit from Premier League club still not confirmed Manager’s potential return to France could benefit Palace Crystal Palace could avoid paying Pierre Sage significant compensation if he is reappointed by his former club, Lens, with the manager’s…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
-        "publishedAt": "2026-11-10T15:08:24+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
-            "publishedAt": "2026-11-10T15:08:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 4.881,
-        "firstSeen": "2026-11-10T22:46:36.852490+00:00"
+        "score": 5.876,
+        "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
         "id": "dc4eaffa6fc1",
@@ -344,12 +295,41 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.814,
+        "isNew": false,
+        "score": 4.706,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       }
     ],
     "news": [
+      {
+        "id": "ed0af5e68859",
+        "category": "news",
+        "lang": "de",
+        "title": "Wirtschaftsweise korrigieren Wachstumsprognose deutlich nach oben",
+        "summary": "Die Wirtschaft wächst wieder stärker - doch der Sachverständigenrat der Bundesregierung fordert harte Sparmaßnahmen. Und bringt eine Art \"Soli\" für Verteidigung ins Spiel.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+        "publishedAt": "2026-11-11T13:30:06+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html",
+            "publishedAt": "2026-11-11T13:30:06+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.94,
+        "firstSeen": "2026-11-11T14:51:54.481403+00:00"
+      },
       {
         "id": "99f97b57f4d5",
         "category": "news",
@@ -381,8 +361,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.964,
+        "isNew": false,
+        "score": 7.904,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -410,8 +390,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.891,
+        "isNew": false,
+        "score": 7.833,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -439,8 +419,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.854,
+        "isNew": false,
+        "score": 7.796,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -468,8 +448,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.836,
+        "isNew": false,
+        "score": 7.779,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -503,9 +483,38 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.813,
+        "isNew": false,
+        "score": 7.756,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
+      },
+      {
+        "id": "ea1454bd645d",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburg: Wiedereröffnung des Alsterpavillons",
+        "summary": "Ihr Großvater war der Architekt - Franziska Streb und ihr Vater sind dem Gebäude seit Generationen verbunden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/info/hamburg-wiedereroeffnung-des-alsterpavillons,ndrinfo-19458.html",
+        "publishedAt": "2026-11-11T14:33:12+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/info/hamburg-wiedereroeffnung-des-alsterpavillons,ndrinfo-19458.html",
+            "publishedAt": "2026-11-11T14:33:12+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.586,
+        "firstSeen": "2026-11-11T14:51:54.481403+00:00"
       },
       {
         "id": "5ca3285c041f",
@@ -516,7 +525,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.ndr.de/nachrichten/hamburg/gehaelter-was-hamburgs-staedtische-top-manager-verdienen,manager-108.html",
-        "publishedAt": "2026-11-11T11:24:21+00:00",
+        "publishedAt": "2026-11-11T13:36:46+00:00",
         "subtopics": [
           "Hamburg",
           "Business"
@@ -525,15 +534,15 @@
           {
             "name": "NDR",
             "url": "https://www.ndr.de/nachrichten/hamburg/gehaelter-was-hamburgs-staedtische-top-manager-verdienen,manager-108.html",
-            "publishedAt": "2026-11-11T11:24:21+00:00",
+            "publishedAt": "2026-11-11T13:36:46+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.509,
+        "isNew": false,
+        "score": 7.545,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -561,8 +570,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.205,
+        "isNew": false,
+        "score": 7.152,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -590,8 +599,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.205,
+        "isNew": false,
+        "score": 7.152,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -627,7 +636,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.167,
+        "score": 7.123,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
@@ -656,7 +665,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.059,
+        "score": 7.017,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
       },
       {
@@ -685,7 +694,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.053,
+        "score": 7.011,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
       },
       {
@@ -721,7 +730,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.011,
+        "score": 6.97,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
       },
       {
@@ -750,7 +759,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.984,
+        "score": 6.944,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
       },
       {
@@ -784,8 +793,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.781,
+        "isNew": false,
+        "score": 6.725,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -820,36 +829,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.654,
+        "score": 6.62,
         "firstSeen": "2026-11-10T01:08:00.074997+00:00"
       },
       {
-        "id": "c5fb441afe0e",
+        "id": "96abccb5a70a",
         "category": "news",
         "lang": "de",
-        "title": "Fahrbahnreparatur: A1 in Hamburg wird am Wochenende gesperrt",
+        "title": "A1 in Hamburg wird am Wochenende in einer Richtung gesperrt",
         "summary": "Die A1 muss von Samstagmorgen bis Sonntagabend Richtung Bremen voll gesperrt werden. Grund ist ein Fahrbahnschaden nahe der Norderelbbrücke.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/fahrbahnreparatur-a1-in-hamburg-wird-am-wochenende-gesperrt,aeins-168.html",
-        "publishedAt": "2026-11-11T13:20:27+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-am-wochenende-in-einer-richtung-gesperrt,aeins-168.html",
+        "publishedAt": "2026-11-11T14:13:37+00:00",
         "subtopics": [
           "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/fahrbahnreparatur-a1-in-hamburg-wird-am-wochenende-gesperrt,aeins-168.html",
-            "publishedAt": "2026-11-11T13:20:27+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-am-wochenende-in-einer-richtung-gesperrt,aeins-168.html",
+            "publishedAt": "2026-11-11T14:13:37+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.593,
-        "firstSeen": "2026-11-10T22:46:36.852490+00:00"
+        "isNew": true,
+        "score": 6.572,
+        "firstSeen": "2026-11-11T14:51:54.481403+00:00"
       },
       {
         "id": "c8650c7ca78a",
@@ -883,7 +892,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.534,
+        "score": 6.503,
         "firstSeen": "2026-11-09T17:03:55.022915+00:00"
       },
       {
@@ -912,7 +921,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.528,
+        "score": 6.497,
         "firstSeen": "2026-11-09T17:03:55.022915+00:00"
       },
       {
@@ -975,7 +984,7 @@
           }
         ],
         "isNew": false,
-        "score": 6.498,
+        "score": 6.468,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -1010,7 +1019,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.497,
+        "score": 6.466,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -1045,7 +1054,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.375,
+        "score": 6.347,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -1080,7 +1089,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.276,
+        "score": 6.25,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -1115,7 +1124,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.267,
+        "score": 6.242,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -1150,7 +1159,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.127,
+        "score": 6.104,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -1179,7 +1188,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.114,
+        "score": 6.091,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -1214,7 +1223,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.101,
+        "score": 6.059,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
       },
       {
@@ -1249,7 +1258,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.011,
+        "score": 5.97,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
       },
       {
@@ -1278,43 +1287,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.941,
+        "score": 5.922,
         "firstSeen": "2026-11-08T12:41:35.074377+00:00"
-      },
-      {
-        "id": "8ffdc4ea3446",
-        "category": "news",
-        "lang": "de",
-        "title": "Volkspetition gegen Kürzungen bei Schulen in Hamburg",
-        "summary": "Rund 40.000 Unterschriften gegen Kürzungen an Hamburgs Schulen hat eine Eltern-Initiative gesammelt und an Bürgerschaftspräsidentin Veit übergeben.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/volkspetition-gegen-kuerzungen-bei-schulen-uebergeben,petition-schulkuerzungen-100.html",
-        "publishedAt": "2026-11-11T13:08:16+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/volkspetition-gegen-kuerzungen-bei-schulen-uebergeben,petition-schulkuerzungen-100.html",
-            "publishedAt": "2026-11-11T13:08:16+00:00",
-            "tier": 1
-          },
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/gegen-kuerzungen-an-schulen-demo-zieht-durch-eimsbuettel,kurzehh-4862.html",
-            "publishedAt": "2026-11-10T20:29:47+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.884,
-        "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
         "id": "bc28cc179a27",
@@ -1348,7 +1322,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.872,
+        "score": 5.855,
         "firstSeen": "2026-11-08T12:41:35.074377+00:00"
       },
       {
@@ -1383,7 +1357,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.827,
+        "score": 5.79,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
       },
       {
@@ -1418,7 +1392,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.677,
+        "score": 5.664,
         "firstSeen": "2026-11-07T12:22:33.777144+00:00"
       },
       {
@@ -1453,7 +1427,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.562,
+        "score": 5.55,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00"
       },
       {
@@ -1488,44 +1462,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.531,
+        "score": 5.52,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00"
-      },
-      {
-        "id": "6a28a0affc03",
-        "category": "news",
-        "lang": "de",
-        "title": "Affäre von Nvidia-Chef Huang: Darum geht es beim Spionage-Verdacht",
-        "summary": "Der US-Chipkonzern Nvidia ermittelt gegen seinen Chef Jensen Huang wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin. Welche Vorwürfe konkret im Raum stehen - und welche Folgen sie haben könnten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
-        "publishedAt": "2026-11-09T13:58:03+00:00",
-        "subtopics": [
-          "US",
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
-            "publishedAt": "2026-11-09T13:58:03+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
-            "publishedAt": "2026-11-09T13:58:03+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.479,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       }
     ],
     "medical": [
@@ -1555,7 +1493,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.191,
+        "score": 11.174,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1605,7 +1543,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.191,
+        "score": 8.174,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1637,7 +1575,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.191,
+        "score": 8.174,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1669,7 +1607,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.247,
+        "score": 7.237,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1701,7 +1639,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.247,
+        "score": 7.237,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1733,7 +1671,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.247,
+        "score": 7.237,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1770,7 +1708,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.074,
+        "score": 7.064,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1801,7 +1739,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.198,
+        "score": 6.18,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1832,7 +1770,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.719,
+        "score": 4.711,
         "firstSeen": "2026-11-04T13:43:07.431633+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1864,7 +1802,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.591,
+        "score": 4.575,
         "firstSeen": "2026-11-09T17:03:55.022915+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1894,7 +1832,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.867,
+        "score": 2.855,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1927,7 +1865,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.779,
+        "score": 5.735,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
         "kind": "video",
         "video": {
@@ -1937,6 +1875,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=pTdvsfIMGes",
           "channel": "TED"
         }
+      },
+      {
+        "id": "b8560f9db8a9",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: preserving minds and weighing open AI risks",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+        "publishedAt": "2026-11-11T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+            "publishedAt": "2026-11-11T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.725,
+        "firstSeen": "2026-11-11T14:51:54.481403+00:00",
+        "kind": "article"
       },
       {
         "id": "114a87c4fb99",
@@ -1965,7 +1932,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.125,
+        "score": 5.094,
         "firstSeen": "2026-11-09T17:03:55.022915+00:00",
         "kind": "video",
         "video": {
@@ -2001,7 +1968,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.889,
+        "score": 4.847,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
@@ -2053,7 +2020,7 @@
           }
         ],
         "isNew": false,
-        "score": 4.818,
+        "score": 4.771,
         "firstSeen": "2026-11-03T00:26:40.351668+00:00",
         "kind": "article"
       },
@@ -2084,7 +2051,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.419,
+        "score": 4.38,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
@@ -2113,37 +2080,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.408,
+        "score": 4.376,
         "firstSeen": "2026-11-10T01:08:00.074997+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "6f6fff482120",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Prompting Claude Fable 5.2",
-        "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-        "publishedAt": "2026-11-10T05:34:14+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-            "publishedAt": "2026-11-10T05:34:14+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.366,
-        "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
       {
@@ -2171,7 +2109,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.358,
+        "score": 4.342,
         "firstSeen": "2026-11-07T21:23:34.498309+00:00",
         "kind": "video",
         "video": {
@@ -2207,7 +2145,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.351,
+        "score": 4.33,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2217,6 +2155,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=-XL2gClQ2gg",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "6f6fff482120",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Prompting Claude Fable 5.2",
+        "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+        "publishedAt": "2026-11-10T05:34:14+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+            "publishedAt": "2026-11-10T05:34:14+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.328,
+        "firstSeen": "2026-11-10T14:14:38.715347+00:00",
+        "kind": "article"
       },
       {
         "id": "da795f292411",
@@ -2243,7 +2210,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.35,
+        "score": 4.318,
         "firstSeen": "2026-11-10T01:08:00.074997+00:00",
         "kind": "article"
       },
@@ -2272,7 +2239,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.32,
+        "score": 4.283,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
@@ -2301,7 +2268,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.263,
+        "score": 4.234,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2330,7 +2297,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.258,
+        "score": 4.228,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2359,7 +2326,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.217,
+        "score": 4.182,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
         "kind": "article"
       },
@@ -2390,7 +2357,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.216,
+        "score": 4.181,
         "firstSeen": "2026-11-10T01:08:00.074997+00:00",
         "kind": "article"
       },
@@ -2420,7 +2387,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.194,
+        "score": 4.166,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2451,7 +2418,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.035,
+        "score": 4.02,
         "firstSeen": "2026-11-07T21:23:34.498309+00:00",
         "kind": "video",
         "video": {
@@ -2488,7 +2455,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.885,
+        "score": 3.884,
         "firstSeen": "2026-11-10T23:51:18.026954+00:00",
         "kind": "video",
         "video": {
@@ -2526,7 +2493,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.83,
+        "score": 3.829,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2534,6 +2501,78 @@
           "thumbUrl": "https://i4.ytimg.com/vi/on1L_jblaw8/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=on1L_jblaw8",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "a6199ded0c0c",
+        "category": "growth",
+        "lang": "en",
+        "title": "I Can’t Speak. Here’s How I Get People to Listen | Jessica Irwin | TED",
+        "summary": "Jessica Irwin is many things: a photographer, artist, author, performer. She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=84wVmiEl7Dg",
+        "publishedAt": "2026-11-06T16:01:00+00:00",
+        "subtopics": [
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=84wVmiEl7Dg",
+            "publishedAt": "2026-11-06T16:01:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.784,
+        "firstSeen": "2026-11-06T22:40:05.735370+00:00",
+        "kind": "video",
+        "video": {
+          "id": "84wVmiEl7Dg",
+          "thumbUrl": "https://i1.ytimg.com/vi/84wVmiEl7Dg/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=84wVmiEl7Dg",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "d9d471a2aa63",
+        "category": "growth",
+        "lang": "en",
+        "title": "We’re all less cult-proof than we would like to think #TEDTalks",
+        "summary": "Nobody joins a cult on purpose, says Sarah Edmondson, a former member of the infamous Nxivm cult and one of the three whistleblowers that led to its downfall. She explains how she got ensnared in this highly manipulative group — and then escaped it — and…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/SM3lUcU2Z2I",
+        "publishedAt": "2026-11-05T22:00:09+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/SM3lUcU2Z2I",
+            "publishedAt": "2026-11-05T22:00:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.768,
+        "firstSeen": "2026-11-06T13:41:02.401891+00:00",
+        "kind": "video",
+        "video": {
+          "id": "SM3lUcU2Z2I",
+          "thumbUrl": "https://i4.ytimg.com/vi/SM3lUcU2Z2I/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=SM3lUcU2Z2I",
           "channel": "TED"
         }
       },
@@ -2562,45 +2601,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.786,
+        "score": 3.76,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
-      },
-      {
-        "id": "a6199ded0c0c",
-        "category": "growth",
-        "lang": "en",
-        "title": "I Can’t Speak. Here’s How I Get People to Listen | Jessica Irwin | TED",
-        "summary": "Jessica Irwin is many things: a photographer, artist, author, performer. She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=84wVmiEl7Dg",
-        "publishedAt": "2026-11-06T16:01:00+00:00",
-        "subtopics": [
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=84wVmiEl7Dg",
-            "publishedAt": "2026-11-06T16:01:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.786,
-        "firstSeen": "2026-11-06T22:40:05.735370+00:00",
-        "kind": "video",
-        "video": {
-          "id": "84wVmiEl7Dg",
-          "thumbUrl": "https://i1.ytimg.com/vi/84wVmiEl7Dg/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=84wVmiEl7Dg",
-          "channel": "TED"
-        }
       },
       {
         "id": "6ee1dee33e4b",
@@ -2628,45 +2631,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.783,
+        "score": 3.757,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
-      },
-      {
-        "id": "d9d471a2aa63",
-        "category": "growth",
-        "lang": "en",
-        "title": "We’re all less cult-proof than we would like to think #TEDTalks",
-        "summary": "Nobody joins a cult on purpose, says Sarah Edmondson, a former member of the infamous Nxivm cult and one of the three whistleblowers that led to its downfall. She explains how she got ensnared in this highly manipulative group — and then escaped it — and…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/SM3lUcU2Z2I",
-        "publishedAt": "2026-11-05T22:00:09+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/SM3lUcU2Z2I",
-            "publishedAt": "2026-11-05T22:00:09+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.769,
-        "firstSeen": "2026-11-06T13:41:02.401891+00:00",
-        "kind": "video",
-        "video": {
-          "id": "SM3lUcU2Z2I",
-          "thumbUrl": "https://i4.ytimg.com/vi/SM3lUcU2Z2I/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=SM3lUcU2Z2I",
-          "channel": "TED"
-        }
       },
       {
         "id": "653536e4846f",
@@ -2695,7 +2662,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.728,
+        "score": 3.727,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2731,7 +2698,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.723,
+        "score": 3.722,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2767,7 +2734,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.703,
+        "score": 3.702,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00",
         "kind": "video",
         "video": {
@@ -2803,7 +2770,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.684,
+        "score": 3.683,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00",
         "kind": "video",
         "video": {
@@ -2839,7 +2806,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.674,
+        "score": 3.65,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       },
@@ -2869,7 +2836,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.486,
+        "score": 3.484,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -2907,7 +2874,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.442,
+        "score": 3.441,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -2943,7 +2910,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.409,
+        "score": 3.408,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -2979,37 +2946,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.301,
+        "score": 3.29,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "fc30c4308f3c",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-        "publishedAt": "2026-11-05T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-            "publishedAt": "2026-11-05T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.15,
-        "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "article"
       },
       {
@@ -3037,7 +2975,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.032,
+        "score": 3.021,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "article"
       },
@@ -3066,7 +3004,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.874,
+        "score": 2.866,
         "firstSeen": "2026-11-05T23:13:34.700342+00:00",
         "kind": "article"
       }
@@ -3106,7 +3044,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 24,
+      "items": 25,
       "error": null
     },
     {
@@ -3249,8 +3187,8 @@
     }
   ],
   "filteredOut": {
-    "football": 68,
-    "news": 59,
+    "football": 71,
+    "news": 60,
     "medical": 15,
     "growth": 42
   }
