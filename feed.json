@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T01:14:10.137396+00:00",
+  "generatedAt": "2026-11-12T14:33:23.049878+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,35 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "13cc0fdbe832",
+        "category": "football",
+        "lang": "en",
+        "title": "Spain boss denies Lamine Yamal gets 'special privileges'",
+        "summary": "Spain head coach Luis de la Fuente denies claims Lamine Yamal received \"special privileges\" after being allowed to join the national team later than the rest of the squad.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-12T11:31:54+00:00",
+        "subtopics": [
+          "Barcelona",
+          "International"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T11:31:54+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 12.201,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
       {
         "id": "ea780fa9b5f8",
         "category": "football",
@@ -35,8 +64,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.798,
+        "score": 12.133,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
+      },
+      {
+        "id": "7af6345e309f",
+        "category": "football",
+        "lang": "en",
+        "title": "How 'Barca way' continues despite big-name exits",
+        "summary": "Arsenal face a much-changed Barcelona in the Women's Champions League on Thursday - but how have the Spanish giants coped so well with losing key players?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-12T06:41:09+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Champions League"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c5vg23nmgp2yo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T06:41:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 11.783,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
         "id": "e6f8bb9f7142",
@@ -63,53 +121,30 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.567,
+        "score": 10.801,
         "firstSeen": "2026-11-11T14:51:54.481403+00:00"
-      },
-      {
-        "id": "81a07ad41858",
-        "category": "football",
-        "lang": "en",
-        "title": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
-        "summary": "On a very satisfying night for Manchester City, perhaps the most pleasing element was that they did not even need to call on Khadija ‘Bunny’ Shaw. While giving their talismanic striker some precious rest, Manchester City’s European campaign finally came…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
-        "publishedAt": "2026-11-10T22:05:43+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
-            "publishedAt": "2026-11-10T22:05:43+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 8.169,
-        "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
         "id": "d4ce3aabde1d",
         "category": "football",
         "lang": "en",
-        "title": "Tuchel committed to England - but plotting club return after Three Lions stint",
+        "title": "'Unfinished business' - Tuchel committed to England",
         "summary": "Thomas Tuchel revealed he has no release clause in his England contract but is committed to leading them until Euro 2028 at least - even if a big club comes calling.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13611191/thomas-tuchel-committed-to-england-until-euro-2028-but-keen-on-club-return-in-future",
-        "publishedAt": "2026-11-11T19:30:00+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-12T08:42:47+00:00",
         "subtopics": [
           "Euros",
           "Transfers"
         ],
         "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T08:42:47+00:00",
+            "tier": 2
+          },
           {
             "name": "Sky Sports",
             "url": "https://www.skysports.com/football/news/11095/13611191/thomas-tuchel-committed-to-england-until-euro-2028-but-keen-on-club-return-in-future",
@@ -121,9 +156,169 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.458,
+        "score": 8.249,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "transfer": "RUMOUR"
+      },
+      {
+        "id": "9e8694c4c4d3",
+        "category": "football",
+        "lang": "en",
+        "title": "Carrick sacked by Manchester United with team in Premier League relegation zone – live",
+        "summary": "⚽️ Head coach departs after one win in 11 games ⚽️ Carrick was latest fall guy for dysfunctional hierarchy ⚽️ Have any thoughts? Email John “ After going through the Moyes season ,” writes Hugh, “the dross football of Mourinho and Van Gaal, the moments-years…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
+        "publishedAt": "2026-11-12T14:22:08+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
+            "publishedAt": "2026-11-12T14:22:08+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.981,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "dc7e0391b942",
+        "category": "football",
+        "lang": "en",
+        "title": "Archive, 1990: Peter Shilton wins 125th cap making him England’s record appearance holder",
+        "summary": "9 July 1990: The goalkeeper’s 20-year international career ends at the Italia 90 World Cup Harry Kane is expected to break the record for England men’s appearances tonight against Croatia at Wembley in the Nations League, overtaking goalkeeper Peter…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/12/archive-1990-peter-shilton-wins-125th-cap-making-him-englands-record-appearance-holder",
+        "publishedAt": "2026-11-12T13:27:18+00:00",
+        "subtopics": [
+          "World Cup",
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/12/archive-1990-peter-shilton-wins-125th-cap-making-him-englands-record-appearance-holder",
+            "publishedAt": "2026-11-12T13:27:18+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.887,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "3dbf72550eb5",
+        "category": "football",
+        "lang": "en",
+        "title": "USA withdraw from U17 World Cup",
+        "summary": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a letter sent to players explaining…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-12T07:44:21+00:00",
+        "subtopics": [
+          "World Cup",
+          "International",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T07:44:21+00:00",
+            "tier": 2
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+            "publishedAt": "2026-11-11T21:54:46+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.668,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00"
+      },
+      {
+        "id": "d32c8e0423a0",
+        "category": "football",
+        "lang": "en",
+        "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
+        "summary": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by football Not many remember Japan’s bid for the 2022 World Cup, when the country finished the race with only two of the final 22 votes.…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
+        "publishedAt": "2026-11-12T08:00:13+00:00",
+        "subtopics": [
+          "World Cup",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
+            "publishedAt": "2026-11-12T08:00:13+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.39,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00",
+        "transfer": "RUMOUR"
+      },
+      {
+        "id": "28c80aebeadd",
+        "category": "football",
+        "lang": "en",
+        "title": "Crystal Palace sack Pierre Sage and in advanced talks to appoint Thomas Frank",
+        "summary": "Sage goes after 16 games with club bottom of table He is the favourite to take over at former club Lens Pierre Sage has been sacked as Crystal Palace’s manager after 16 games, with Thomas Frank in advanced talks to succeed him. The Frenchman, appointed in…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-crystal-palace-manager-thomas-frank",
+        "publishedAt": "2026-11-12T12:27:56+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/12/pierre-sage-sacked-crystal-palace-manager-thomas-frank",
+            "publishedAt": "2026-11-12T12:27:56+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-12T12:23:47+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.09,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
         "id": "363eb5f23197",
@@ -151,39 +346,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.416,
+        "score": 6.521,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "transfer": "REPORTED"
-      },
-      {
-        "id": "3dbf72550eb5",
-        "category": "football",
-        "lang": "en",
-        "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
-        "summary": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a letter sent to players explaining…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
-        "publishedAt": "2026-11-11T21:54:46+00:00",
-        "subtopics": [
-          "World Cup",
-          "International",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
-            "publishedAt": "2026-11-11T21:54:46+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.173,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00"
       },
       {
         "id": "0e1b80d744bb",
@@ -211,7 +376,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.169,
+        "score": 5.736,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
@@ -240,7 +405,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.092,
+        "score": 5.687,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
@@ -269,7 +434,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.928,
+        "score": 5.214,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -298,37 +463,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.158,
+        "score": 4.544,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
-      },
-      {
-        "id": "2c062168e92b",
-        "category": "football",
-        "lang": "en",
-        "title": "Crystal Palace could avoid significant compensation if Pierre Sage rejoins Lens",
-        "summary": "Sage’s exit from Premier League club still not confirmed Manager’s potential return to France could benefit Palace Crystal Palace could avoid paying Pierre Sage significant compensation if he is reappointed by his former club, Lens, with the manager’s…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
-        "publishedAt": "2026-11-10T15:08:24+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/10/pierre-sage-crystal-palace-premier-league-lens",
-            "publishedAt": "2026-11-10T15:08:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.418,
-        "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
         "id": "dc4eaffa6fc1",
@@ -356,11 +492,379 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.039,
+        "score": 3.469,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       }
     ],
     "news": [
+      {
+        "id": "513986a1ebf0",
+        "category": "news",
+        "lang": "de",
+        "title": "Nvidia-Chef Huang tritt nach Spionageaffäre zurück",
+        "summary": "Der Chef des weltgrößten Chipkonzerns Nvidia, Jensen Huang, tritt wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück. Seine Aufgaben übernehme vorübergehend die bisherige Finanzchefin Colette Kress, teilte der US-Konzern mit.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
+        "publishedAt": "2026-11-12T14:18:03+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-ruecktritt-100.html",
+            "publishedAt": "2026-11-12T14:18:03+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.989,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "b4dd9d699956",
+        "category": "news",
+        "lang": "de",
+        "title": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
+        "summary": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
+        "publishedAt": "2026-11-12T13:40:04+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
+            "publishedAt": "2026-11-12T13:40:04+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html",
+            "publishedAt": "2026-11-12T13:40:04+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.961,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "ddbaa1eeab88",
+        "category": "news",
+        "lang": "de",
+        "title": "DAX auf Rekordhoch - Anleger vertrauen deutscher Wachstumsstory",
+        "summary": "Die Hoffnung auf Frieden im Nahen Osten und gute Geschäftsaussichten der deutschen Unternehmen überzeugen viele Anleger. Manche Analysten sehen das als Nährboden für eine Jahresend-Rally beim DAX.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html",
+        "publishedAt": "2026-11-12T13:29:26+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html",
+            "publishedAt": "2026-11-12T13:29:26+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html",
+            "publishedAt": "2026-11-12T13:29:26+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.953,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "8f05469099a7",
+        "category": "news",
+        "lang": "de",
+        "title": "Neuausrichtung der Bundeszentrale für politische Bildung sorgt für Streit",
+        "summary": "Die Bundeszentrale für politische Bildung ist bekannt für den Wahl-O-Mat, Bildungsveranstaltungen und Info-Broschüren. Auf Weisung des Innenministeriums richtet sie sich neu aus.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-fuer-politische-bildung-ausrichtung-100.html",
+        "publishedAt": "2026-11-12T12:52:24+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-fuer-politische-bildung-ausrichtung-100.html",
+            "publishedAt": "2026-11-12T12:52:24+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-fuer-politische-bildung-ausrichtung-100.html",
+            "publishedAt": "2026-11-12T12:52:24+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.926,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "9836756d29c0",
+        "category": "news",
+        "lang": "de",
+        "title": "Warum immer mehr Menschen in die Schuldenfalle rutschen",
+        "summary": "Die Zahl überschuldeter Menschen in Deutschland steigt im zweiten Jahr in Folge. Auslöser einer finanziellen Notlage sind häufig Krankheit, Sucht, Unfälle oder Arbeitslosigkeit.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
+        "publishedAt": "2026-11-12T11:31:51+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
+            "publishedAt": "2026-11-12T11:31:51+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.868,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "eb7934d02eb5",
+        "category": "news",
+        "lang": "de",
+        "title": "Warum Minister beim Haushalt lieber pünktlich sind",
+        "summary": "Beim Haushalt 2027 sind noch viele Baustellen offen. Meist bis in die frühen Morgenstunden feilt der Haushaltsausschuss am Etat.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html",
+        "publishedAt": "2026-11-12T11:08:50+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html",
+            "publishedAt": "2026-11-12T11:08:50+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html",
+            "publishedAt": "2026-11-12T11:08:50+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.852,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "15a13901103c",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: DAX knackt 27.000 Punkte-Marke",
+        "summary": "An der Börse kann sich die Stimmung schnell drehen: Nach dem KI-Crash von vergangener Woche springt der DAX heute gleich zum Handelsstart wieder auf ein Rekordhoch. Zeitweise erreicht er sogar die Marke von 27.000 Punkten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
+        "publishedAt": "2026-11-12T09:55:48+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
+            "publishedAt": "2026-11-12T09:55:48+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.8,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "fdc47ead7613",
+        "category": "news",
+        "lang": "de",
+        "title": "Kompromisse beim Haushalt: Zufriedene SPD, Grummeln in der Union",
+        "summary": "Mit dem Haushaltskompromiss zeigt sich vor allem die SPD zufrieden. Sie konnte einige Kürzungen abwenden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html",
+        "publishedAt": "2026-11-12T09:43:29+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html",
+            "publishedAt": "2026-11-12T09:43:29+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-union-spd-102.html",
+            "publishedAt": "2026-11-12T09:43:29+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.792,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "72982523784f",
+        "category": "news",
+        "lang": "de",
+        "title": "Update Wirtschaft vom 12.11.2026",
+        "summary": "Wirtschaft vor acht vom 11.11.2026",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1682464.html",
+        "publishedAt": "2026-11-12T08:59:56+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1682464.html",
+            "publishedAt": "2026-11-12T08:59:56+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1682292.html",
+            "publishedAt": "2026-11-11T20:15:32+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.762,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "e30c61d2d79e",
+        "category": "news",
+        "lang": "de",
+        "title": "Worauf sich die Bundesregierung beim Haushalt geeinigt hat",
+        "summary": "Manches kommt gar nicht, anderes später: Kurz vor den wichtigen Beratungen des Haushaltsausschusses hat sich die Bundesregierung auf Kompromisse verständigt. Was wird nun aus Strom-, Zucker- und Plastiksteuer?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-haushalt-kompromisse-100.html",
+        "publishedAt": "2026-11-12T08:12:13+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-haushalt-kompromisse-100.html",
+            "publishedAt": "2026-11-12T08:12:13+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-haushalt-kompromisse-100.html",
+            "publishedAt": "2026-11-12T08:12:13+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-haushalt-kompromisse-100.html",
+            "publishedAt": "2026-11-12T08:12:13+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.729,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "aa808cb0d1ca",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburger Hafen: So will die HHLA konkurrenzfähig bleiben",
+        "summary": "Die HHLA hat mehrere Milliarden Euro in die Automatisierung gesteckt. Größte Herausforderung: Konkurrenzfähig im internationalen Vergleich bleiben.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/hhla-bald-wieder-auf-wachstumskurs,hamj-16426.html",
+        "publishedAt": "2026-11-12T12:49:31+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/hhla-bald-wieder-auf-wachstumskurs,hamj-16426.html",
+            "publishedAt": "2026-11-12T12:49:31+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.524,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00"
+      },
       {
         "id": "895c54ae6e39",
         "category": "news",
@@ -393,78 +897,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.91,
+        "score": 7.387,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00"
       },
       {
-        "id": "e38de4238ec6",
+        "id": "9ecc8097062e",
         "category": "news",
         "lang": "de",
-        "title": "Wirtschaft vor acht vom 11.11.2026",
-        "summary": "Wirtschaft vor acht vom 11.11.2026",
+        "title": "Hamburg kauft Drohnenabwehr für mehrere Millionen Euro",
+        "summary": "Das hat die Bürgerschaft bewilligt. Vor allem die Finanzierung der Kosten von rund vier Millionen Euro war in der Debatte umstritten.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1682292.html",
-        "publishedAt": "2026-11-11T20:15:32+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-kauft-drohnenabwehrsysteme-fuer-mehrere-millionen-euro,buergerschaft-208.html",
+        "publishedAt": "2026-11-12T04:30:43+00:00",
         "subtopics": [
-          "Germany",
-          "Economy"
+          "Hamburg",
+          "Conflict"
         ],
         "sources": [
           {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1682292.html",
-            "publishedAt": "2026-11-11T20:15:32+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1681826.html",
-            "publishedAt": "2026-11-11T09:09:42+00:00",
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-kauft-drohnenabwehrsysteme-fuer-mehrere-millionen-euro,buergerschaft-208.html",
+            "publishedAt": "2026-11-12T04:30:43+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.786,
-        "firstSeen": "2026-11-11T13:29:12.042067+00:00"
-      },
-      {
-        "id": "5eabf150ee4a",
-        "category": "news",
-        "lang": "de",
-        "title": "Marktbericht: DAX pirscht sich ans Rekordhoch heran",
-        "summary": "Im Handelsverlauf hatte es ausgesehen, als würde dem DAX die Luft ausgehen. Doch dann endet der Handelstag mit einem Index nahe am Rekordhoch.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-        "publishedAt": "2026-11-11T17:13:36+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-            "publishedAt": "2026-11-11T17:13:36+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
-            "publishedAt": "2026-11-11T17:13:36+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.663,
-        "firstSeen": "2026-11-11T13:29:12.042067+00:00"
+        "isNew": true,
+        "score": 7.183,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
         "id": "1b2c29ea7205",
@@ -498,7 +961,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.605,
+        "score": 7.136,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00"
       },
       {
@@ -521,13 +984,19 @@
             "url": "https://www.tagesschau.de/inland/steuerklassen-klingbeil-100.html",
             "publishedAt": "2026-11-11T15:24:38+00:00",
             "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/steuerklassen-klingbeil-100.html",
+            "publishedAt": "2026-11-11T15:24:38+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.592,
+        "score": 7.126,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00"
       },
       {
@@ -556,7 +1025,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.519,
+        "score": 7.066,
         "firstSeen": "2026-11-11T14:51:54.481403+00:00"
       },
       {
@@ -585,7 +1054,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.488,
+        "score": 7.041,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -614,7 +1083,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.428,
+        "score": 6.991,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
@@ -643,66 +1112,100 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.396,
+        "score": 6.965,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
-        "id": "aa808cb0d1ca",
+        "id": "b6f047da59a2",
         "category": "news",
         "lang": "de",
-        "title": "HHLA bald wieder auf Wachstumskurs",
-        "summary": "Die HHLA hat mehrere Milliarden Euro in die Automatisierung gesteckt. Größte Herausforderung: Konkurrenzfähig im internationalen Vergleich bleiben.",
+        "title": "Nvidia-Chef Huang verliert wegen Affären wohl seinen Job",
+        "summary": "Erst eine Affäre mit einer mutmaßlichen chinesischen Spionin - und dann auch noch mit einer ihm unterstellten Angestellten: Nun soll Nvidia-Chef Huang offenbar seines Amtes enthoben werden. Der Skandal hat den Chipgiganten bereits über eine Billion Dollar…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/hhla-bald-wieder-auf-wachstumskurs,hamj-16426.html",
-        "publishedAt": "2026-11-11T19:36:00+00:00",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html",
+        "publishedAt": "2026-11-12T09:38:52+00:00",
         "subtopics": [
-          "Hamburg",
-          "Markets"
+          "Germany",
+          "Tech & AI"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/hhla-bald-wieder-auf-wachstumskurs,hamj-16426.html",
-            "publishedAt": "2026-11-11T19:36:00+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html",
+            "publishedAt": "2026-11-12T09:38:52+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html",
+            "publishedAt": "2026-11-12T09:38:52+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.359,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00"
+        "isNew": true,
+        "score": 6.789,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
-        "id": "5ca3285c041f",
+        "id": "a95f50b66f6f",
         "category": "news",
         "lang": "de",
-        "title": "Gehälter: Was Hamburgs städtische Top-Manager verdienen",
-        "summary": "Die Spitzenmanager der großen städtischen Unternehmen in Hamburg haben auch 2025 gut verdient. Spitzenreiterin ist Ex-HHLA-Vorstandschefin Angela Titzrath.",
+        "title": "Was Experten raten: Wie es mit dem Jobwechsel klappen kann",
+        "summary": "Stellenstreichungen in der Industrie, Künstliche Intelligenz oder Unzufriedenheit können Gründe sein, sich beruflich neu zu orientieren. Doch was ist beim Jobwechsel zu beachten?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/gehaelter-was-hamburgs-staedtische-top-manager-verdienen,manager-108.html",
-        "publishedAt": "2026-11-11T13:36:46+00:00",
+        "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/jobwechsel-beruf-neuorientierung-100.html",
+        "publishedAt": "2026-11-12T07:29:46+00:00",
         "subtopics": [
-          "Hamburg",
-          "Business"
+          "Germany",
+          "Tech & AI"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/gehaelter-was-hamburgs-staedtische-top-manager-verdienen,manager-108.html",
-            "publishedAt": "2026-11-11T13:36:46+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/jobwechsel-beruf-neuorientierung-100.html",
+            "publishedAt": "2026-11-12T07:29:46+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.123,
-        "firstSeen": "2026-11-11T13:29:12.042067+00:00"
+        "isNew": true,
+        "score": 6.701,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
+      },
+      {
+        "id": "1f8d50030ecb",
+        "category": "news",
+        "lang": "de",
+        "title": "IG Metall plant 24-Stunden-Warnstreik im Norden",
+        "summary": "Die Gewerkschaft erhöht im Tarifkonflikt den Druck. Die Arbeitgeberseite spricht von einer überflüssigen Eskalation.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/schleswig-holstein/ig-metall-plant-24-stunden-warnstreik-im-norden,igmetall-170.html",
+        "publishedAt": "2026-11-12T13:04:19+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/schleswig-holstein/ig-metall-plant-24-stunden-warnstreik-im-norden,igmetall-170.html",
+            "publishedAt": "2026-11-12T13:04:19+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.534,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
         "id": "6e8010be1797",
@@ -737,7 +1240,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.819,
+        "score": 6.492,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00"
       },
       {
@@ -766,37 +1269,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.728,
+        "score": 6.418,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
-      },
-      {
-        "id": "cb80c1904bf9",
-        "category": "news",
-        "lang": "de",
-        "title": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
-        "summary": "Klagen gegen Impfstoffhersteller sind seit der Corona-Pandemie keine Seltenheit. Häufig wollen Versicherungen diese nicht unterstützen - wegen vermeintlich geringer Erfolgschancen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
-        "publishedAt": "2026-11-11T18:46:53+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
-            "publishedAt": "2026-11-11T18:46:53+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.725,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00"
       },
       {
         "id": "26dc67406dfa",
@@ -824,43 +1298,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.724,
+        "score": 6.414,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
-      },
-      {
-        "id": "91a1574b04a6",
-        "category": "news",
-        "lang": "de",
-        "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
-        "summary": "Einkommensgrenze, statt verkürzter Zahlung: Familienministerin Prien hat einen Gesetzentwurf zum Unterhaltsvorschuss vorgelegt. Elternteile, die nicht zahlen, sollen stärker in die Pflicht genommen werden - etwa mit Fahrverboten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
-        "publishedAt": "2026-11-11T18:01:47+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
-            "publishedAt": "2026-11-11T18:01:47+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
-            "publishedAt": "2026-11-11T18:01:47+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.695,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00"
       },
       {
         "id": "c1b3d8205dd4",
@@ -895,7 +1334,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.688,
+        "score": 6.385,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
       },
       {
@@ -924,8 +1363,72 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.666,
+        "score": 6.366,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00"
+      },
+      {
+        "id": "cb80c1904bf9",
+        "category": "news",
+        "lang": "de",
+        "title": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
+        "summary": "Klagen gegen Impfstoffhersteller sind seit der Corona-Pandemie keine Seltenheit. Häufig wollen Versicherungen diese nicht unterstützen - wegen vermeintlich geringer Erfolgschancen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
+        "publishedAt": "2026-11-11T18:46:53+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
+            "publishedAt": "2026-11-11T18:46:53+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.235,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00"
+      },
+      {
+        "id": "91a1574b04a6",
+        "category": "news",
+        "lang": "de",
+        "title": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
+        "summary": "Einkommensgrenze, statt verkürzter Zahlung: Familienministerin Prien hat einen Gesetzentwurf zum Unterhaltsvorschuss vorgelegt. Elternteile, die nicht zahlen, sollen stärker in die Pflicht genommen werden - etwa mit Fahrverboten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+        "publishedAt": "2026-11-11T18:01:47+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+            "publishedAt": "2026-11-11T18:01:47+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+            "publishedAt": "2026-11-11T18:01:47+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.21,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00"
       },
       {
         "id": "bc325cd28d7c",
@@ -959,43 +1462,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.388,
+        "score": 6.139,
         "firstSeen": "2026-11-10T01:08:00.074997+00:00"
-      },
-      {
-        "id": "f09a24ae8a00",
-        "category": "news",
-        "lang": "de",
-        "title": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
-        "summary": "Der Hype um Künstliche Intelligenz, E-Mobilität und Digitalisierung beschert Siemens Energy ein Rekordjahr. Und das soll nach Prognose des Energietechnik-Konzerns so weitergehen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
-        "publishedAt": "2026-11-11T08:23:39+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
-            "publishedAt": "2026-11-11T08:23:39+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
-            "publishedAt": "2026-11-11T08:23:39+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.335,
-        "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       },
       {
         "id": "c8650c7ca78a",
@@ -1029,7 +1497,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.288,
+        "score": 6.056,
         "firstSeen": "2026-11-09T17:03:55.022915+00:00"
       },
       {
@@ -1058,7 +1526,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.283,
+        "score": 6.052,
         "firstSeen": "2026-11-09T17:03:55.022915+00:00"
       },
       {
@@ -1093,12 +1561,6 @@
             "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
             "publishedAt": "2026-11-08T20:05:22+00:00",
             "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
-            "publishedAt": "2026-11-08T20:05:22+00:00",
-            "tier": 1
           }
         ],
         "developing": true,
@@ -1113,15 +1575,10 @@
             "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
             "source": "Tagesschau",
             "publishedAt": "2026-11-08T20:05:22+00:00"
-          },
-          {
-            "title": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
-            "source": "Tagesschau",
-            "publishedAt": "2026-11-08T20:05:22+00:00"
           }
         ],
         "isNew": false,
-        "score": 6.258,
+        "score": 6.032,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00"
       },
       {
@@ -1156,7 +1613,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.257,
+        "score": 6.031,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       },
       {
@@ -1191,342 +1648,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.155,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00"
-      },
-      {
-        "id": "96abccb5a70a",
-        "category": "news",
-        "lang": "de",
-        "title": "A1 in Hamburg wird am Wochenende in einer Richtung gesperrt",
-        "summary": "Die A1 muss von Samstagmorgen bis Sonntagabend Richtung Bremen voll gesperrt werden. Grund ist ein Fahrbahnschaden nahe der Norderelbbrücke.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-am-wochenende-in-einer-richtung-gesperrt,aeins-168.html",
-        "publishedAt": "2026-11-11T14:13:37+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-wird-am-wochenende-in-einer-richtung-gesperrt,aeins-168.html",
-            "publishedAt": "2026-11-11T14:13:37+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.147,
-        "firstSeen": "2026-11-11T14:51:54.481403+00:00"
-      },
-      {
-        "id": "8469ac3f9f8c",
-        "category": "news",
-        "lang": "de",
-        "title": "ARD-Umfrage: Was die Deutschen an der Demokratie kritisieren",
-        "summary": "Die Demokratie genießt breiten Rückhalt. Aber nur jeder Dritte ist der Meinung, dass sie in Deutschland gut funktioniert.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/sorge-um-demokratie-umfrage-100.html",
-        "publishedAt": "2026-11-09T04:01:12+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/sorge-um-demokratie-umfrage-100.html",
-            "publishedAt": "2026-11-09T04:01:12+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/sorge-um-demokratie-umfrage-100.html",
-            "publishedAt": "2026-11-09T04:01:12+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.071,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00"
-      },
-      {
-        "id": "c493dd51ea47",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundespräsidenten-Wahl: Merz bricht sein Schweigen und schlägt Aigner vor",
-        "summary": "Lange hatte er darüber nachgedacht und sich zurückgehalten - am Abend sprach sich Kanzler Merz dann für Ilse Aigner als Bundespräsidentin aus. Heute wollen beide offiziell vor die Presse treten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
-        "publishedAt": "2026-11-09T03:34:40+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
-            "publishedAt": "2026-11-09T03:34:40+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
-            "publishedAt": "2026-11-09T03:34:40+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.064,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00"
-      },
-      {
-        "id": "b21829ab452a",
-        "category": "news",
-        "lang": "de",
-        "title": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
-        "summary": "Viele junge Menschen fühlen sich politisch übergangen. Das liege auch daran, dass Pläne wie die Rentenreform nicht umgesetzt würden, sagt Winkel, Vorsitzender der Jungen Union, im Bericht aus Berlin.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
-        "publishedAt": "2026-11-08T19:43:02+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
-            "publishedAt": "2026-11-08T19:43:02+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
-            "publishedAt": "2026-11-08T19:43:02+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
         "score": 5.947,
-        "firstSeen": "2026-11-08T21:38:14.306170+00:00"
-      },
-      {
-        "id": "946106cc5807",
-        "category": "news",
-        "lang": "de",
-        "title": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
-        "summary": "Die FDP kämpft ums Überleben. Ihre letzte Chance dürften die Landtagswahlen kommendes Jahr sein.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
-        "publishedAt": "2026-11-08T18:53:14+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
-            "publishedAt": "2026-11-08T18:53:14+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.935,
-        "firstSeen": "2026-11-08T21:38:14.306170+00:00"
-      },
-      {
-        "id": "9fab136f44d6",
-        "category": "news",
-        "lang": "de",
-        "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
-        "summary": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
-        "publishedAt": "2026-11-08T07:35:33+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
-            "publishedAt": "2026-11-08T07:35:33+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.79,
-        "firstSeen": "2026-11-08T12:41:35.074377+00:00"
-      },
-      {
-        "id": "45b263c9a733",
-        "category": "news",
-        "lang": "de",
-        "title": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
-        "summary": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
-        "publishedAt": "2026-11-10T13:33:44+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
-            "publishedAt": "2026-11-10T13:33:44+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
-            "publishedAt": "2026-11-10T13:33:44+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.764,
-        "firstSeen": "2026-11-10T14:14:38.715347+00:00"
-      },
-      {
-        "id": "bc28cc179a27",
-        "category": "news",
-        "lang": "de",
-        "title": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
-        "summary": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
-        "publishedAt": "2026-11-08T02:28:44+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
-            "publishedAt": "2026-11-08T02:28:44+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
-            "publishedAt": "2026-11-08T02:28:44+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.732,
-        "firstSeen": "2026-11-08T12:41:35.074377+00:00"
-      },
-      {
-        "id": "78424f8f1967",
-        "category": "news",
-        "lang": "de",
-        "title": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
-        "summary": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
-        "publishedAt": "2026-11-10T10:36:17+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
-            "publishedAt": "2026-11-10T10:36:17+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
-            "publishedAt": "2026-11-10T10:36:17+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.688,
-        "firstSeen": "2026-11-10T14:14:38.715347+00:00"
-      },
-      {
-        "id": "bffdc7c85efe",
-        "category": "news",
-        "lang": "de",
-        "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
-        "summary": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-        "publishedAt": "2026-11-07T09:28:52+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-            "publishedAt": "2026-11-07T09:28:52+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html",
-            "publishedAt": "2026-11-07T09:28:52+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.569,
-        "firstSeen": "2026-11-07T12:22:33.777144+00:00"
+        "firstSeen": "2026-11-09T15:01:56.231317+00:00"
       }
     ],
     "medical": [
+      {
+        "id": "240778e6440f",
+        "category": "medical",
+        "lang": "en",
+        "title": "Safety and Feasibility of Robotic SP Nipple Sparing Mastectomy",
+        "summary": "This is a single arm, single-center, prospective clinical trial designed to track the peri, post-operative and oncologic outcomes when utilizing the da-Vinci single port (SP) robotic platform to perform robotic nipple sparing mastectomy (rNSM) and immediate…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT05245812",
+        "publishedAt": "2026-11-12T00:00:00+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Plastic surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT05245812",
+            "publishedAt": "2026-11-12T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 11.491,
+        "firstSeen": "2026-10-05T13:29:24.679791+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": true
+      },
       {
         "id": "82ada6c7ccd5",
         "category": "medical",
@@ -1553,20 +1711,83 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.05,
+        "score": 10.9,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
       },
       {
+        "id": "3a51bd3c46cd",
+        "category": "medical",
+        "lang": "en",
+        "title": "High-purity Magnesium (99.99%) Wire for Augmentation of ACL Reconstruction",
+        "summary": "Background: ACLR with autologous tendon graft is commonly used for the treatment of ACL injury. However, as the BTI healing is poor, this can lead to a failure rate of 5% in the first-year post-operation; a long and unpredictable rehabilitation period is…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT05983692",
+        "publishedAt": "2026-11-12T00:00:00+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Orthopaedics",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT05983692",
+            "publishedAt": "2026-11-12T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.491,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "7b3db2dd3abd",
+        "category": "medical",
+        "lang": "en",
+        "title": "Study Comparing Avance Nerve Graft and Autograft for Functional Recovery Following Mixed and Motor Peripheral Nerve Reconstruction",
+        "summary": "This is a multicenter, 1:1 randomized, prospective, comparative study in participants requiring reconstruction of a mixed or motor nerve in the upper extremity. This study will consist of a screening visit, an operative visit, and 9 post-operative follow-up…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07657182",
+        "publishedAt": "2026-11-12T00:00:00+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07657182",
+            "publishedAt": "2026-11-12T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 8.491,
+        "firstSeen": "2026-10-08T12:44:18.615278+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
         "id": "bba7d03c315d",
         "category": "medical",
         "lang": "en",
-        "title": "Prospective Case Series Evaluating the Efficacy and Safety of NeoThelium FT for Open Wounds",
-        "summary": "This is a randomized controlled crossover trial evaluating the efficacy of NeoThelium FT in conjunction with standard of care vs. standard of care alone in treating chronic open wounds.",
+        "title": "Prospective Case Series Evaluating the Efficacy and Safety of NeoThelium FT for Diabetic Foot Ulcers",
+        "summary": "This is a prospective case series evaluating the efficacy and safety of NeoThelium FT Amnion Skin Graft in the Mangement of Diabetic Foot Ulcers",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07041177",
+        "url": "https://clinicaltrials.gov/study/NCT07039396",
         "publishedAt": "2026-11-10T00:00:00+00:00",
         "subtopics": [
           "Wound care",
@@ -1576,13 +1797,7 @@
         "sources": [
           {
             "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07041177",
-            "publishedAt": "2026-11-10T00:00:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06918561",
+            "url": "https://clinicaltrials.gov/study/NCT07039396",
             "publishedAt": "2026-11-10T00:00:00+00:00",
             "tier": 2
           },
@@ -1594,7 +1809,7 @@
           },
           {
             "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07039396",
+            "url": "https://clinicaltrials.gov/study/NCT07041177",
             "publishedAt": "2026-11-10T00:00:00+00:00",
             "tier": 2
           }
@@ -1603,7 +1818,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.05,
+        "score": 7.9,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1635,30 +1850,61 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.05,
+        "score": 7.9,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
-        "id": "86b3dcd2880e",
+        "id": "b3cff832d4f3",
         "category": "medical",
         "lang": "en",
-        "title": "Effect Of Resistive Capactive Electrical Transfer Therapy In Difficult-to-heal Wounds",
-        "summary": "Difficult-to-heal wounds present imbalances in cytokine production, increases in MMP expression, high levels of apoptosis, and decreases in the proliferation of cells such as fibroblasts and keratinocytes, which are involved in tissue regeneration. CRET…",
+        "title": "Edaravone Dexborneol for Blood-Brain Barrier Repair in Acute Anterior Circulation Stroke",
+        "summary": "This multicenter randomized controlled trial evaluates the effect of edaravone dexborneol on blood-brain barrier repair in patients with acute anterior circulation large artery atherosclerotic ischemic stroke within 48 hours of onset. Patients are randomized…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT05953935",
-        "publishedAt": "2026-11-06T00:00:00+00:00",
+        "url": "https://clinicaltrials.gov/study/NCT07933692",
+        "publishedAt": "2026-11-12T00:00:00+00:00",
         "subtopics": [
-          "Wound care",
-          "Regenerative medicine",
+          "Diagnostics & imaging",
           "Clinical study"
         ],
         "sources": [
           {
             "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT05953935",
+            "url": "https://clinicaltrials.gov/study/NCT07933692",
+            "publishedAt": "2026-11-12T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.191,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "50b1ff4614dd",
+        "category": "medical",
+        "lang": "en",
+        "title": "Alveolar Ridge Reconstruction in Post-extraction Sites Using a Magnesium Resorbable Membrane. An Explorative Study",
+        "summary": "When a tooth is removed, the surrounding bone and gum tissue naturally shrink over time. This shrinkage can make it harder to place a dental implant later and may affect the appearance of the smile.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07646795",
+        "publishedAt": "2026-11-06T00:00:00+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Surgical products",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07646795",
             "publishedAt": "2026-11-06T00:00:00+00:00",
             "tier": 2
           }
@@ -1667,7 +1913,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.16,
+        "score": 7.066,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1699,30 +1945,30 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.16,
+        "score": 7.066,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
-        "id": "50b1ff4614dd",
+        "id": "86b3dcd2880e",
         "category": "medical",
         "lang": "en",
-        "title": "Alveolar Ridge Reconstruction in Post-extraction Sites Using a Magnesium Resorbable Membrane. An Explorative Study",
-        "summary": "When a tooth is removed, the surrounding bone and gum tissue naturally shrink over time. This shrinkage can make it harder to place a dental implant later and may affect the appearance of the smile.",
+        "title": "Effect Of Resistive Capactive Electrical Transfer Therapy In Difficult-to-heal Wounds",
+        "summary": "Difficult-to-heal wounds present imbalances in cytokine production, increases in MMP expression, high levels of apoptosis, and decreases in the proliferation of cells such as fibroblasts and keratinocytes, which are involved in tissue regeneration. CRET…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07646795",
+        "url": "https://clinicaltrials.gov/study/NCT05953935",
         "publishedAt": "2026-11-06T00:00:00+00:00",
         "subtopics": [
-          "Reconstructive surgery",
-          "Surgical products",
+          "Wound care",
+          "Regenerative medicine",
           "Clinical study"
         ],
         "sources": [
           {
             "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07646795",
+            "url": "https://clinicaltrials.gov/study/NCT05953935",
             "publishedAt": "2026-11-06T00:00:00+00:00",
             "tier": 2
           }
@@ -1731,24 +1977,23 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.16,
+        "score": 7.066,
         "firstSeen": "2026-11-06T14:44:19.438149+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
-        "id": "5cf08eb384d8",
+        "id": "bce9d8b9db29",
         "category": "medical",
         "lang": "en",
         "title": "SkinTE® for the Treatment of Wagner 1 Diabetic Foot Ulcers (COVER DFUS II)",
-        "summary": "The purpose of this EAP is to provide access to SkinTE® for patients with Wagner I Diabetic Foot Ulcers (DFUs). SkinTE® is an autologous investigational product created from a healthy full-thickness skin harvest.",
+        "summary": "The purpose of this study is to assess the safety and efficacy of SkinTE for treatment of Wagner grade 1 diabetic foot ulcers.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://clinicaltrials.gov/study/NCT06140303",
         "publishedAt": "2026-11-05T00:00:00+00:00",
         "subtopics": [
-          "Wound care",
-          "Clinical study"
+          "Wound care"
         ],
         "sources": [
           {
@@ -1756,20 +2001,44 @@
             "url": "https://clinicaltrials.gov/study/NCT06140303",
             "publishedAt": "2026-11-05T00:00:00+00:00",
             "tier": 2
-          },
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.913,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "a46d27302a23",
+        "category": "medical",
+        "lang": "en",
+        "title": "Evaluating the Efficacy of NeoThelium FT in the Treatment of Chronic Open Wounds",
+        "summary": "This is a randomized controlled crossover trial evaluating the efficacy of NeoThelium FT in conjunction with standard of care vs. standard of care alone in treating chronic open wounds.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT06918561",
+        "publishedAt": "2026-11-10T00:00:00+00:00",
+        "subtopics": [
+          "Wound care"
+        ],
+        "sources": [
           {
             "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07222540",
-            "publishedAt": "2026-11-04T00:00:00+00:00",
+            "url": "https://clinicaltrials.gov/study/NCT06918561",
+            "publishedAt": "2026-11-10T00:00:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.996,
-        "firstSeen": "2026-11-04T13:43:07.431633+00:00",
+        "isNew": true,
+        "score": 5.9,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1799,40 +2068,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.045,
+        "score": 5.883,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
         "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "e87b5a62117d",
-        "category": "medical",
-        "lang": "en",
-        "title": "Post Marketing Study of MagnetOs Easypack Putty Standalone Compared to Demineralized Bone Matrix or Fibers Mixed With Autograft in Patients Undergoing Posterolateral Lumbar Fusion",
-        "summary": "This is a phase IV post-marketing study for MagnetOs Easypack Putty. MagnetOs Easypack Putty is a synthetic bone graft extender product that is routinely used by surgeons as a treatment for patients with degenerative disc disease or spinal trauma undergoing…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT04679844",
-        "publishedAt": "2026-11-04T00:00:00+00:00",
-        "subtopics": [
-          "Orthopaedics",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT04679844",
-            "publishedAt": "2026-11-04T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.65,
-        "firstSeen": "2026-11-04T13:43:07.431633+00:00",
-        "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
       {
@@ -1862,7 +2100,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.456,
+        "score": 4.312,
         "firstSeen": "2026-11-09T17:03:55.022915+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1895,7 +2133,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.43,
+        "score": 5.101,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
         "kind": "video",
         "video": {
@@ -1905,6 +2143,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=pTdvsfIMGes",
           "channel": "TED"
         }
+      },
+      {
+        "id": "b8560f9db8a9",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: preserving minds and weighing open AI risks",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+        "publishedAt": "2026-11-11T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+            "publishedAt": "2026-11-11T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.856,
+        "firstSeen": "2026-11-11T14:51:54.481403+00:00",
+        "kind": "article"
       },
       {
         "id": "624a305adfa4",
@@ -1931,7 +2198,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.361,
+        "score": 4.847,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "article"
       },
@@ -1960,37 +2227,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.33,
+        "score": 4.821,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "b8560f9db8a9",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: preserving minds and weighing open AI risks",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-        "publishedAt": "2026-11-11T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-            "publishedAt": "2026-11-11T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.307,
-        "firstSeen": "2026-11-11T14:51:54.481403+00:00",
         "kind": "article"
       },
       {
@@ -2018,7 +2256,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.223,
+        "score": 4.733,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "article"
       },
@@ -2092,39 +2330,8 @@
           }
         ],
         "isNew": false,
-        "score": 5.167,
+        "score": 4.688,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "6734a79295b9",
-        "category": "growth",
-        "lang": "en",
-        "title": "Anthropic's IPO roadshow video",
-        "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-        "publishedAt": "2026-11-11T15:11:59+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-            "publishedAt": "2026-11-11T15:11:59+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.084,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "article"
       },
       {
@@ -2154,7 +2361,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.88,
+        "score": 4.65,
         "firstSeen": "2026-11-09T17:03:55.022915+00:00",
         "kind": "video",
         "video": {
@@ -2164,6 +2371,37 @@
           "watchUrl": "https://www.youtube.com/watch?v=g3_TqjSLyLk",
           "channel": "TED"
         }
+      },
+      {
+        "id": "6734a79295b9",
+        "category": "growth",
+        "lang": "en",
+        "title": "Anthropic's IPO roadshow video",
+        "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+        "publishedAt": "2026-11-11T15:11:59+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+            "publishedAt": "2026-11-11T15:11:59+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.619,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "article"
       },
       {
         "id": "5f7d32bf188e",
@@ -2190,7 +2428,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.554,
+        "score": 4.239,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
@@ -2219,7 +2457,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.236,
+        "score": 4.122,
         "firstSeen": "2026-11-07T21:23:34.498309+00:00",
         "kind": "video",
         "video": {
@@ -2255,7 +2493,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.183,
+        "score": 4.024,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2291,9 +2529,75 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.15,
+        "score": 3.908,
         "firstSeen": "2026-11-10T01:08:00.074997+00:00",
         "kind": "article"
+      },
+      {
+        "id": "da795f292411",
+        "category": "growth",
+        "lang": "en",
+        "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+        "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+        "publishedAt": "2026-11-09T17:05:43+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+            "publishedAt": "2026-11-09T17:05:43+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.867,
+        "firstSeen": "2026-11-10T01:08:00.074997+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "57be80d0e63e",
+        "category": "growth",
+        "lang": "en",
+        "title": "When a couple creates their own world together, love thrives #TEDTalks",
+        "summary": "Social psychologist Eli J. Finkel has spent decades studying what makes partnerships successful.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/dpYRzceuSsk",
+        "publishedAt": "2026-11-10T23:00:27+00:00",
+        "subtopics": [
+          "Psychology",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/dpYRzceuSsk",
+            "publishedAt": "2026-11-10T23:00:27+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.86,
+        "firstSeen": "2026-11-10T23:51:18.026954+00:00",
+        "kind": "video",
+        "video": {
+          "id": "dpYRzceuSsk",
+          "thumbUrl": "https://i1.ytimg.com/vi/dpYRzceuSsk/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=dpYRzceuSsk",
+          "channel": "TED"
+        }
       },
       {
         "id": "1afd9e573768",
@@ -2322,65 +2626,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.111,
-        "firstSeen": "2026-11-10T14:14:38.715347+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "da795f292411",
-        "category": "growth",
-        "lang": "en",
-        "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-        "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-        "publishedAt": "2026-11-09T17:05:43+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-            "publishedAt": "2026-11-09T17:05:43+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.101,
-        "firstSeen": "2026-11-10T01:08:00.074997+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "6f6fff482120",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Prompting Claude Fable 5.2",
-        "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-        "publishedAt": "2026-11-10T05:34:14+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-            "publishedAt": "2026-11-10T05:34:14+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.066,
+        "score": 3.822,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
@@ -2409,203 +2655,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.029,
+        "score": 3.808,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
-      },
-      {
-        "id": "aa9d06fdcfe1",
-        "category": "growth",
-        "lang": "en",
-        "title": "Yonkers Rises",
-        "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to:…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-        "publishedAt": "2026-11-10T03:53:04+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-            "publishedAt": "2026-11-10T03:53:04+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.028,
-        "firstSeen": "2026-11-10T14:14:38.715347+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "05bd9f0351a0",
-        "category": "growth",
-        "lang": "en",
-        "title": "Innovating with AI in the special chemicals industry",
-        "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-        "publishedAt": "2026-11-09T13:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-            "publishedAt": "2026-11-09T13:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.024,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "111b66d97ab0",
-        "category": "growth",
-        "lang": "en",
-        "title": "The climate case for AI has not been made",
-        "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered,…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-        "publishedAt": "2026-11-09T10:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-            "publishedAt": "2026-11-09T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.971,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "baaf713b11e3",
-        "category": "growth",
-        "lang": "en",
-        "title": "Locating the source of a mysterious beep with Claude",
-        "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-        "publishedAt": "2026-11-09T23:57:21+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Social skills"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-            "publishedAt": "2026-11-09T23:57:21+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.941,
-        "firstSeen": "2026-11-10T01:08:00.074997+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "9826921c92e5",
-        "category": "growth",
-        "lang": "en",
-        "title": "How To Build The Future: Paul Graham & Amjad Masad",
-        "summary": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a request in plain English, work through errors, provision its own infrastructure, and keep going until the software actually worked.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
-        "publishedAt": "2026-11-07T15:00:14+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Presentation & speaking",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
-            "publishedAt": "2026-11-07T15:00:14+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.917,
-        "firstSeen": "2026-11-07T21:23:34.498309+00:00",
-        "kind": "video",
-        "video": {
-          "id": "Q78dJ0vkWe8",
-          "thumbUrl": "https://i2.ytimg.com/vi/Q78dJ0vkWe8/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "57be80d0e63e",
-        "category": "growth",
-        "lang": "en",
-        "title": "When a couple creates their own world together, love thrives #TEDTalks",
-        "summary": "Social psychologist Eli J. Finkel has spent decades studying what makes partnerships successful.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/dpYRzceuSsk",
-        "publishedAt": "2026-11-10T23:00:27+00:00",
-        "subtopics": [
-          "Psychology",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/dpYRzceuSsk",
-            "publishedAt": "2026-11-10T23:00:27+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.873,
-        "firstSeen": "2026-11-10T23:51:18.026954+00:00",
-        "kind": "video",
-        "video": {
-          "id": "dpYRzceuSsk",
-          "thumbUrl": "https://i1.ytimg.com/vi/dpYRzceuSsk/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=dpYRzceuSsk",
-          "channel": "TED"
-        }
       },
       {
         "id": "b7ae15699d31",
@@ -2634,7 +2686,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.819,
+        "score": 3.807,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2644,6 +2696,102 @@
           "watchUrl": "https://www.youtube.com/watch?v=on1L_jblaw8",
           "channel": "TED"
         }
+      },
+      {
+        "id": "9826921c92e5",
+        "category": "growth",
+        "lang": "en",
+        "title": "How To Build The Future: Paul Graham & Amjad Masad",
+        "summary": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a request in plain English, work through errors, provision its own infrastructure, and keep going until the software actually worked.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
+        "publishedAt": "2026-11-07T15:00:14+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Presentation & speaking",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
+            "publishedAt": "2026-11-07T15:00:14+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.806,
+        "firstSeen": "2026-11-07T21:23:34.498309+00:00",
+        "kind": "video",
+        "video": {
+          "id": "Q78dJ0vkWe8",
+          "thumbUrl": "https://i2.ytimg.com/vi/Q78dJ0vkWe8/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "05bd9f0351a0",
+        "category": "growth",
+        "lang": "en",
+        "title": "Innovating with AI in the special chemicals industry",
+        "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+        "publishedAt": "2026-11-09T13:00:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+            "publishedAt": "2026-11-09T13:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.804,
+        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "6f6fff482120",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Prompting Claude Fable 5.2",
+        "summary": "Claude Fable 5.2 pays close attention to who owns the code it works on. In Anthropic’s testing on small coding tasks, the model tended to add to the existing structure when the prompt said nothing about ownership or presented the code base as someone else’s,…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+        "publishedAt": "2026-11-10T05:34:14+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+            "publishedAt": "2026-11-10T05:34:14+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.785,
+        "firstSeen": "2026-11-10T14:14:38.715347+00:00",
+        "kind": "article"
       },
       {
         "id": "a6199ded0c0c",
@@ -2670,7 +2818,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.775,
+        "score": 3.763,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -2680,6 +2828,65 @@
           "watchUrl": "https://www.youtube.com/watch?v=84wVmiEl7Dg",
           "channel": "TED"
         }
+      },
+      {
+        "id": "111b66d97ab0",
+        "category": "growth",
+        "lang": "en",
+        "title": "The climate case for AI has not been made",
+        "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered,…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+        "publishedAt": "2026-11-09T10:00:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+            "publishedAt": "2026-11-09T10:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.76,
+        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "aa9d06fdcfe1",
+        "category": "growth",
+        "lang": "en",
+        "title": "Yonkers Rises",
+        "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to:…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+        "publishedAt": "2026-11-10T03:53:04+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+            "publishedAt": "2026-11-10T03:53:04+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.753,
+        "firstSeen": "2026-11-10T14:14:38.715347+00:00",
+        "kind": "article"
       },
       {
         "id": "d9d471a2aa63",
@@ -2706,7 +2913,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.759,
+        "score": 3.747,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00",
         "kind": "video",
         "video": {
@@ -2744,7 +2951,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.718,
+        "score": 3.707,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2780,7 +2987,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.713,
+        "score": 3.702,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2816,7 +3023,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.693,
+        "score": 3.683,
         "firstSeen": "2026-11-02T16:45:10.111773+00:00",
         "kind": "video",
         "video": {
@@ -2826,6 +3033,37 @@
           "watchUrl": "https://www.youtube.com/watch?v=Gswo90kocHU",
           "channel": "TED"
         }
+      },
+      {
+        "id": "baaf713b11e3",
+        "category": "growth",
+        "lang": "en",
+        "title": "Locating the source of a mysterious beep with Claude",
+        "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping .",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+        "publishedAt": "2026-11-09T23:57:21+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication",
+          "Social skills"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+            "publishedAt": "2026-11-09T23:57:21+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.682,
+        "firstSeen": "2026-11-10T01:08:00.074997+00:00",
+        "kind": "article"
       },
       {
         "id": "b6b0422f6262",
@@ -2852,7 +3090,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.674,
+        "score": 3.664,
         "firstSeen": "2026-11-01T21:38:22.114135+00:00",
         "kind": "video",
         "video": {
@@ -2888,7 +3126,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.594,
+        "score": 3.581,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -2898,94 +3136,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "2382673acb37",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Web Is More Than Enough, by Paul Ford",
-        "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-        "publishedAt": "2026-11-09T04:32:33+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-            "publishedAt": "2026-11-09T04:32:33+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.579,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "6ee1dee33e4b",
-        "category": "growth",
-        "lang": "en",
-        "title": "Hide your slop PR descriptions behind <details><summary>",
-        "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
-        "publishedAt": "2026-11-09T04:25:05+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Decision-making"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
-            "publishedAt": "2026-11-09T04:25:05+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.577,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "3e62264ffb8e",
-        "category": "growth",
-        "lang": "en",
-        "title": "parse_number() as a SQLite extension: C vs Rust",
-        "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-        "publishedAt": "2026-11-08T22:26:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-            "publishedAt": "2026-11-08T22:26:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.486,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
-        "kind": "article"
       },
       {
         "id": "5d7c86fdb19b",
@@ -3013,7 +3163,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.475,
+        "score": 3.463,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -3051,7 +3201,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.432,
+        "score": 3.421,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -3061,6 +3211,101 @@
           "watchUrl": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "b2b96149e382",
+        "category": "growth",
+        "lang": "en",
+        "title": "Engineers Make Great Founders",
+        "summary": "A lot of what makes a great engineer also makes a great founder. Before starting Layers and BootLoop, Shivani Patel and Chris Markus worked at SpaceX, where they learned to take ideas from zero to one, solve hard problems, and own the outcome.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
+        "publishedAt": "2026-11-02T23:54:36+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
+            "publishedAt": "2026-11-02T23:54:36+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.389,
+        "firstSeen": "2026-11-03T13:33:04.792558+00:00",
+        "kind": "video",
+        "video": {
+          "id": "lqdc1MeyIfs",
+          "thumbUrl": "https://i1.ytimg.com/vi/lqdc1MeyIfs/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "2382673acb37",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Web Is More Than Enough, by Paul Ford",
+        "summary": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+        "publishedAt": "2026-11-09T04:32:33+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+            "publishedAt": "2026-11-09T04:32:33+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.385,
+        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "6ee1dee33e4b",
+        "category": "growth",
+        "lang": "en",
+        "title": "Hide your slop PR descriptions behind <details><summary>",
+        "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+        "publishedAt": "2026-11-09T04:25:05+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Decision-making"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+            "publishedAt": "2026-11-09T04:25:05+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.384,
+        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
+        "kind": "article"
       }
     ]
   },
@@ -3098,7 +3343,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 27,
+      "items": 34,
       "error": null
     },
     {
@@ -3241,9 +3486,9 @@
     }
   ],
   "filteredOut": {
-    "football": 67,
-    "news": 61,
-    "medical": 16,
+    "football": 59,
+    "news": 60,
+    "medical": 14,
     "growth": 37
   }
 }
