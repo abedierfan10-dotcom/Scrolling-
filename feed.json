@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:50:24.353992+00:00",
+  "generatedAt": "2026-11-15T13:22:54.947958+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,36 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "62c4a54463fb",
+        "category": "football",
+        "lang": "en",
+        "title": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+        "summary": "Head coach hits out at ‘lies’ as suggestions of preferential treatment for young star overshadow preparations for England game in Madrid From the London Palladium to Madrid’s Metropolitano, they’re all here. On Sunday night, the footballers who lifted the…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+        "publishedAt": "2026-11-14T08:00:40+00:00",
+        "subtopics": [
+          "Barcelona",
+          "World Cup",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/14/lamine-yamal-luis-de-la-fuente-spain-england-club-country",
+            "publishedAt": "2026-11-14T08:00:40+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 13.582,
+        "firstSeen": "2026-11-14T12:54:56.468812+00:00"
+      },
       {
         "id": "bc958902b6d2",
         "category": "football",
@@ -35,7 +65,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.516,
+        "score": 13.312,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00"
       },
       {
@@ -65,36 +95,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 13.141,
+        "score": 12.292,
         "firstSeen": "2026-11-14T13:54:07.821097+00:00"
-      },
-      {
-        "id": "7a9edda461ee",
-        "category": "football",
-        "lang": "en",
-        "title": "Raphinha AND Ancelotti sent off as Brazil beaten by Japan",
-        "summary": "",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-        "publishedAt": "2026-11-14T13:01:00+00:00",
-        "subtopics": [
-          "Barcelona"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip",
-            "publishedAt": "2026-11-14T13:01:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 11.633,
-        "firstSeen": "2026-11-14T21:55:52.450211+00:00"
       },
       {
         "id": "bfcad6ec1c8e",
@@ -122,8 +124,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.513,
+        "score": 11.31,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00"
+      },
+      {
+        "id": "c209873fdedd",
+        "category": "football",
+        "lang": "en",
+        "title": "How Spain's humble superstar Simon became world's best keeper",
+        "summary": "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-15T07:29:30+00:00",
+        "subtopics": [
+          "International",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-15T07:29:30+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.445,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00"
+      },
+      {
+        "id": "01fbe71c63ec",
+        "category": "football",
+        "lang": "en",
+        "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+        "summary": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-14T22:40:02+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-14T22:40:02+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.3,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00"
       },
       {
         "id": "72d3a6a96a9b",
@@ -150,8 +210,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.479,
+        "isNew": false,
+        "score": 4.298,
         "firstSeen": "2026-11-14T22:50:24.353992+00:00"
       },
       {
@@ -159,7 +219,7 @@
         "category": "football",
         "lang": "en",
         "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
-        "summary": "Portugal thrashed 4-1 at home to Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo following his retirement from…",
+        "summary": "Portugal thrashed 4-1 at home by Denmark Wales bottom of Group A4 after 3-1 loss Portugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo after his retirement from international…",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
@@ -179,8 +239,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.454,
+        "isNew": false,
+        "score": 4.283,
         "firstSeen": "2026-11-14T22:50:24.353992+00:00"
       },
       {
@@ -208,8 +268,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.372,
+        "isNew": false,
+        "score": 4.233,
         "firstSeen": "2026-11-14T22:50:24.353992+00:00"
       },
       {
@@ -237,39 +297,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.372,
-        "firstSeen": "2026-11-14T22:50:24.353992+00:00"
-      },
-      {
-        "id": "d32c8e0423a0",
-        "category": "football",
-        "lang": "en",
-        "title": "Less drama, more listening, but is Kozo Tashima the candidate to topple Infantino?",
-        "summary": "Japan FA honorary president is hoping a calmer approach that makes fewer unwelcome headlines for Fifa will be welcomed by football Not many remember Japan’s bid for the 2022 World Cup, when the country finished the race with only two of the final 22 votes.…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
-        "publishedAt": "2026-11-12T08:00:13+00:00",
-        "subtopics": [
-          "World Cup",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/12/fifa-kozo-tashima-seeks-change-of-tone",
-            "publishedAt": "2026-11-12T08:00:13+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 5.339,
-        "firstSeen": "2026-11-12T14:33:23.049878+00:00",
-        "transfer": "RUMOUR"
+        "score": 4.233,
+        "firstSeen": "2026-11-14T22:50:24.353992+00:00"
       },
       {
         "id": "48960d9e7882",
@@ -297,7 +327,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.161,
+        "score": 4.106,
         "firstSeen": "2026-11-14T21:55:52.450211+00:00"
       },
       {
@@ -326,7 +356,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.146,
+        "score": 4.097,
         "firstSeen": "2026-11-14T21:55:52.450211+00:00"
       },
       {
@@ -355,7 +385,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.126,
+        "score": 4.085,
         "firstSeen": "2026-11-14T21:55:52.450211+00:00"
       },
       {
@@ -384,66 +414,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.87,
+        "score": 3.129,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00"
-      },
-      {
-        "id": "c837ab2c5ab0",
-        "category": "football",
-        "lang": "en",
-        "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-        "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-13T22:11:27+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-13T22:11:27+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.775,
-        "firstSeen": "2026-11-13T23:11:54.338964+00:00"
-      },
-      {
-        "id": "6b355fe1c18e",
-        "category": "football",
-        "lang": "en",
-        "title": "McGinn double seals win for ragged Scotland",
-        "summary": "John McGinn's double rescued Scotland as they toiled to a 2-1 win over North Macedonia to keep their Nations League promotion hopes alive.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/scotland-vs-north-macedonia/report/554098",
-        "publishedAt": "2026-11-13T21:35:00+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/scotland-vs-north-macedonia/report/554098",
-            "publishedAt": "2026-11-13T21:35:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.748,
-        "firstSeen": "2026-11-13T23:11:54.338964+00:00"
       },
       {
         "id": "bd641d703c47",
@@ -471,11 +443,127 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.06,
+        "score": 2.838,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00"
       }
     ],
     "news": [
+      {
+        "id": "73b004b27897",
+        "category": "news",
+        "lang": "de",
+        "title": "Unfall in Barmbek-Nord: Rettungswagen stößt mit Pkw zusammen",
+        "summary": "Dabei wurden mehrere Menschen verletzt. Der Bereich rund um die Unfallstelle war längere Zeit gesperrt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/unfall-in-barmbek-nord-rettungswagen-stoesst-mit-pkw-zusammen,kurzehh-4900.html",
+        "publishedAt": "2026-11-15T09:08:40+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/unfall-in-barmbek-nord-rettungswagen-stoesst-mit-pkw-zusammen,kurzehh-4900.html",
+            "publishedAt": "2026-11-15T09:08:40+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.417,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00"
+      },
+      {
+        "id": "05b6c8bcbc6c",
+        "category": "news",
+        "lang": "de",
+        "title": "Elfjähriger vermisst: Hamburger Dom am Abend teilweise gesperrt",
+        "summary": "Das Kind ist auf Unterstützung angewiesen und war möglicherweise orientierungslos. In der Nacht wurde der Junge in einem Bus gefunden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/elfjaehriger-vermisst-hamburger-dom-am-abend-teilweise-gesperrt,dom-162.html",
+        "publishedAt": "2026-11-15T08:23:26+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/elfjaehriger-vermisst-hamburger-dom-am-abend-teilweise-gesperrt,dom-162.html",
+            "publishedAt": "2026-11-15T08:23:26+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.385,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00"
+      },
+      {
+        "id": "8ae7b8a24771",
+        "category": "news",
+        "lang": "de",
+        "title": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
+        "summary": "In rund einem Monat will sich der AfD-Politiker Siegmund in Sachsen-Anhalt zum Ministerpräsidenten wählen lassen. Viele Migranten überlegen, wegzuziehen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html",
+        "publishedAt": "2026-11-15T11:10:03+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html",
+            "publishedAt": "2026-11-15T11:10:03+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.903,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00"
+      },
+      {
+        "id": "31504eb4abbe",
+        "category": "news",
+        "lang": "de",
+        "title": "Haftanstalt: Gefangener attackiert Pflegekraft",
+        "summary": "Die Frau erlitt Schläge gegen den Kopf. Kollegen mussten einschreiten und konnten den Angriff beenden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/haftanstalt-gefangener-attackiert-pflegekraft,kurzehh-4908.html",
+        "publishedAt": "2026-11-15T11:09:32+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/haftanstalt-gefangener-attackiert-pflegekraft,kurzehh-4908.html",
+            "publishedAt": "2026-11-15T11:09:32+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.502,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00"
+      },
       {
         "id": "3d24a3e0b7d1",
         "category": "news",
@@ -508,7 +596,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.695,
+        "score": 7.17,
         "firstSeen": "2026-11-14T21:55:52.450211+00:00"
       },
       {
@@ -537,7 +625,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.606,
+        "score": 7.099,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00"
       },
       {
@@ -560,19 +648,13 @@
             "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
             "publishedAt": "2026-11-14T10:17:44+00:00",
             "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
-            "publishedAt": "2026-11-14T10:17:44+00:00",
-            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.489,
+        "score": 7.005,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00"
       },
       {
@@ -601,7 +683,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.482,
+        "score": 6.921,
         "firstSeen": "2026-11-14T13:54:07.821097+00:00"
       },
       {
@@ -630,7 +712,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.29,
+        "score": 6.844,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00"
       },
       {
@@ -665,7 +747,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.985,
+        "score": 6.599,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
       },
       {
@@ -700,7 +782,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.952,
+        "score": 6.572,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
       },
       {
@@ -752,7 +834,7 @@
           }
         ],
         "isNew": false,
-        "score": 6.897,
+        "score": 6.528,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00"
       },
       {
@@ -787,7 +869,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.887,
+        "score": 6.519,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00"
       },
       {
@@ -822,7 +904,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.823,
+        "score": 6.468,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
       },
       {
@@ -857,7 +939,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.818,
+        "score": 6.464,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
       },
       {
@@ -892,7 +974,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.799,
+        "score": 6.449,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
       },
       {
@@ -921,7 +1003,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.694,
+        "score": 6.365,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
       },
       {
@@ -950,94 +1032,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.644,
+        "score": 6.324,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
-      },
-      {
-        "id": "5acaacb11137",
-        "category": "news",
-        "lang": "de",
-        "title": "Die neue Gefahr durch Künstliche Intelligenz",
-        "summary": "Cyberkriminelle nutzen KI, um Angriffe zu automatisieren. Banken setzen die Technologie zur Abwehr ein.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
-        "publishedAt": "2026-11-14T13:31:48+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/digitales/ki-mehr-angriffe-banken-kunden-100.html",
-            "publishedAt": "2026-11-14T13:31:48+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.612,
-        "firstSeen": "2026-11-14T13:54:07.821097+00:00"
-      },
-      {
-        "id": "27267e8c38d4",
-        "category": "news",
-        "lang": "de",
-        "title": "Rucksack an Hamburger Außenalster gefunden: Suche bleibt erfolglos",
-        "summary": "Ein Rucksack und eine Jacke am Ufer lösten einen Großeinsatz aus. Gefunden wurde niemand, die Polizei sucht den Besitzer.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/rucksack-an-aussenalster-gefunden-suche-bleibt-erfolglos,kurzehh-4894.html",
-        "publishedAt": "2026-11-14T19:20:22+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/rucksack-an-aussenalster-gefunden-suche-bleibt-erfolglos,kurzehh-4894.html",
-            "publishedAt": "2026-11-14T19:20:22+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.448,
-        "firstSeen": "2026-11-14T12:54:56.468812+00:00"
-      },
-      {
-        "id": "9d363afb9528",
-        "category": "news",
-        "lang": "de",
-        "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
-        "summary": "Wer längere Wartezeiten als gesetzlich Versicherter vermeiden will, muss künftig Behandlungen auch aus der eigenen Tasche zahlen - so die Einschätzung des Kassenärzte-Chefs. Grund seien die kürzlich beschlossenen Honorarkürzungen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
-        "publishedAt": "2026-11-14T08:15:06+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
-            "publishedAt": "2026-11-14T08:15:06+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.415,
-        "firstSeen": "2026-11-14T12:54:56.468812+00:00"
       },
       {
         "id": "85a2636cc4bb",
@@ -1065,7 +1061,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.382,
+        "score": 6.113,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00"
       },
       {
@@ -1095,7 +1091,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.353,
+        "score": 6.09,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1131,7 +1127,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.332,
+        "score": 6.073,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00"
       },
       {
@@ -1166,7 +1162,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.281,
+        "score": 6.032,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1195,7 +1191,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.278,
+        "score": 6.029,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1230,7 +1226,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.266,
+        "score": 6.02,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1259,7 +1255,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.241,
+        "score": 6.0,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1294,7 +1290,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.234,
+        "score": 5.994,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1329,7 +1325,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.208,
+        "score": 5.973,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1364,27 +1360,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.181,
+        "score": 5.951,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
-        "id": "e8d0ffba474b",
+        "id": "9d363afb9528",
         "category": "news",
         "lang": "de",
-        "title": "S4 und Bahnsanierung: SPD und Grüne fürchten Verzug",
-        "summary": "Die Strecke Hamburg-Lübeck soll 2028 ein halbes Jahr gesperrt werden. Rot-Grün fordert, dass der S4-Bau davon profitiert.",
+        "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
+        "summary": "Wer längere Wartezeiten als gesetzlich Versicherter vermeiden will, muss künftig Behandlungen auch aus der eigenen Tasche zahlen - so die Einschätzung des Kassenärzte-Chefs. Grund seien die kürzlich beschlossenen Honorarkürzungen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/s4-und-bahnsanierung-spd-und-gruene-fuerchten-verzug,sbahn4-100.html",
-        "publishedAt": "2026-11-14T10:35:29+00:00",
+        "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+        "publishedAt": "2026-11-14T08:15:06+00:00",
         "subtopics": [
-          "Hamburg"
+          "Germany",
+          "Law & Policy"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/s4-und-bahnsanierung-spd-und-gruene-fuerchten-verzug,sbahn4-100.html",
-            "publishedAt": "2026-11-14T10:35:29+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+            "publishedAt": "2026-11-14T08:15:06+00:00",
             "tier": 1
           }
         ],
@@ -1392,7 +1389,35 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.1,
+        "score": 5.945,
+        "firstSeen": "2026-11-14T12:54:56.468812+00:00"
+      },
+      {
+        "id": "27267e8c38d4",
+        "category": "news",
+        "lang": "de",
+        "title": "Rucksack an Hamburger Außenalster gefunden: Suche bleibt erfolglos",
+        "summary": "Ein Rucksack und eine Jacke am Ufer lösten einen Großeinsatz aus. Gefunden wurde niemand, die Polizei sucht den Besitzer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/rucksack-an-aussenalster-gefunden-suche-bleibt-erfolglos,kurzehh-4894.html",
+        "publishedAt": "2026-11-14T19:20:22+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/rucksack-an-aussenalster-gefunden-suche-bleibt-erfolglos,kurzehh-4894.html",
+            "publishedAt": "2026-11-14T19:20:22+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.894,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00"
       },
       {
@@ -1427,36 +1452,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.033,
+        "score": 5.832,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00"
-      },
-      {
-        "id": "de082296cde5",
-        "category": "news",
-        "lang": "de",
-        "title": "A1 in Hamburg bis Sonntag in eine Richtung gesperrt",
-        "summary": "Die A1 ist noch bis Sonntagabend Richtung Bremen voll gesperrt. Grund ist ein Fahrbahnschaden nahe der Norderelbbrücke.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-seit-heute-morgen-in-eine-richtung-gesperrt,aeins-168.html",
-        "publishedAt": "2026-11-14T07:25:45+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a1-in-hamburg-seit-heute-morgen-in-eine-richtung-gesperrt,aeins-168.html",
-            "publishedAt": "2026-11-14T07:25:45+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.985,
-        "firstSeen": "2026-11-14T12:54:56.468812+00:00"
       },
       {
         "id": "1b2c29ea7205",
@@ -1490,7 +1487,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.925,
+        "score": 5.745,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00"
       },
       {
@@ -1519,7 +1516,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.92,
+        "score": 5.741,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00"
       },
       {
@@ -1548,7 +1545,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.894,
+        "score": 5.72,
         "firstSeen": "2026-11-11T14:51:54.481403+00:00"
       },
       {
@@ -1577,36 +1574,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.883,
-        "firstSeen": "2026-11-11T13:29:12.042067+00:00"
-      },
-      {
-        "id": "8d0a0b6a8223",
-        "category": "news",
-        "lang": "de",
-        "title": "Zahl der arbeitslosen Akademiker auf Höchststand",
-        "summary": "Ein Studium schützt nach wie vor gut vor Arbeitslosigkeit - doch die Wirtschaftslage und der Einsatz von Künstlicher Intelligenz ändern das. Vor allem jüngere Studienabsolventen sind von Arbeitslosigkeit betroffen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosigkeit-akademiker-rekord-100.html",
-        "publishedAt": "2026-11-11T10:07:28+00:00",
-        "subtopics": [
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/arbeitslosigkeit-akademiker-rekord-100.html",
-            "publishedAt": "2026-11-11T10:07:28+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.85,
+        "score": 5.711,
         "firstSeen": "2026-11-11T13:29:12.042067+00:00"
       }
     ],
@@ -1638,7 +1606,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.811,
+        "score": 10.664,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1688,7 +1656,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.078,
+        "score": 7.913,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1720,7 +1688,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.078,
+        "score": 7.913,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1752,7 +1720,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.078,
+        "score": 7.913,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1783,7 +1751,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.811,
+        "score": 7.664,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1815,7 +1783,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.811,
+        "score": 7.664,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1853,7 +1821,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.364,
+        "score": 7.248,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1885,7 +1853,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.364,
+        "score": 7.248,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1916,7 +1884,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.511,
+        "score": 6.364,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1946,7 +1914,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.778,
+        "score": 5.613,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1977,7 +1945,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.302,
+        "score": 5.177,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2007,13 +1975,86 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.229,
+        "score": 3.087,
         "firstSeen": "2026-11-12T15:42:57.127097+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "3e67f8c9a356",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Rise Of AI Coworkers",
+        "summary": "Lauren Tan and Roman Ugarte join this episode of the Lightcone to go in deep on how they built and deployed Grok Bot. They explain how automated tests and codebase guardrails help agents check their own work, why bots should earn broader access over time,…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
+        "publishedAt": "2026-11-14T23:21:16+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
+            "publishedAt": "2026-11-14T23:21:16+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.735,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00",
+        "kind": "video",
+        "video": {
+          "id": "y1-9yeYLJUo",
+          "thumbUrl": "https://i2.ytimg.com/vi/y1-9yeYLJUo/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "f9a3c449e598",
+        "category": "growth",
+        "lang": "en",
+        "title": "datasette-llm 0.1a11",
+        "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+        "publishedAt": "2026-11-14T23:59:28+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+            "publishedAt": "2026-11-14T23:59:28+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+            "publishedAt": "2026-11-04T15:26:02+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.958,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00",
+        "kind": "article"
+      },
       {
         "id": "5aa82c16125e",
         "category": "growth",
@@ -2040,7 +2081,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.249,
+        "score": 4.123,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
         "kind": "video",
         "video": {
@@ -2078,7 +2119,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.054,
+        "score": 3.966,
         "firstSeen": "2026-11-09T17:03:55.022915+00:00",
         "kind": "video",
         "video": {
@@ -2088,82 +2129,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=g3_TqjSLyLk",
           "channel": "TED"
         }
-      },
-      {
-        "id": "db8b36c17fea",
-        "category": "growth",
-        "lang": "en",
-        "title": "llm-gemini 0.37",
-        "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-        "publishedAt": "2026-11-12T22:55:19+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-            "publishedAt": "2026-11-12T22:55:19+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/llm/",
-            "publishedAt": "2026-11-11T17:19:52+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-            "publishedAt": "2026-11-10T20:09:44+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/3/llm/",
-            "publishedAt": "2026-11-03T21:41:42+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/2/llm/",
-            "publishedAt": "2026-11-02T23:49:30+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "llm-gemini 0.37",
-        "earlier": [
-          {
-            "title": "llm 0.37.2",
-            "source": "Simon Willison",
-            "publishedAt": "2026-11-11T17:19:52+00:00"
-          },
-          {
-            "title": "llm-gemini 0.36",
-            "source": "Simon Willison",
-            "publishedAt": "2026-11-10T20:09:44+00:00"
-          },
-          {
-            "title": "llm 0.37.1",
-            "source": "Simon Willison",
-            "publishedAt": "2026-11-03T21:41:42+00:00"
-          },
-          {
-            "title": "llm 0.37",
-            "source": "Simon Willison",
-            "publishedAt": "2026-11-02T23:49:30+00:00"
-          }
-        ],
-        "isNew": false,
-        "score": 3.97,
-        "firstSeen": "2026-11-03T00:26:40.351668+00:00",
-        "kind": "article"
       },
       {
         "id": "7d8093d0f61f",
@@ -2190,7 +2155,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.878,
+        "score": 3.863,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00",
         "kind": "video",
         "video": {
@@ -2226,7 +2191,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.868,
+        "score": 3.854,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00",
         "kind": "video",
         "video": {
@@ -2262,7 +2227,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.845,
+        "score": 3.831,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00",
         "kind": "video",
         "video": {
@@ -2299,7 +2264,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.806,
+        "score": 3.792,
         "firstSeen": "2026-11-10T23:51:18.026954+00:00",
         "kind": "video",
         "video": {
@@ -2337,7 +2302,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.756,
+        "score": 3.743,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2373,7 +2338,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.715,
+        "score": 3.703,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -2409,7 +2374,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.7,
+        "score": 3.689,
         "firstSeen": "2026-11-06T13:41:02.401891+00:00",
         "kind": "video",
         "video": {
@@ -2421,32 +2386,68 @@
         }
       },
       {
-        "id": "b8560f9db8a9",
+        "id": "9f0b516152c1",
         "category": "growth",
         "lang": "en",
-        "title": "The Download: preserving minds and weighing open AI risks",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still…",
+        "title": "llm-gemini 0.37",
+        "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-        "publishedAt": "2026-11-11T13:10:00+00:00",
+        "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+        "publishedAt": "2026-11-12T22:55:19+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "AI & smart tools",
+          "Productivity & systems",
+          "Entrepreneurship"
         ],
         "sources": [
           {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-            "publishedAt": "2026-11-11T13:10:00+00:00",
-            "tier": 2
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+            "publishedAt": "2026-11-12T22:55:19+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/llm/",
+            "publishedAt": "2026-11-11T17:19:52+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+            "publishedAt": "2026-11-10T20:09:44+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/3/llm/",
+            "publishedAt": "2026-11-03T21:41:42+00:00",
+            "tier": 3
           }
         ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.69,
-        "firstSeen": "2026-11-11T14:51:54.481403+00:00",
+        "developing": true,
+        "latestUpdate": "llm-gemini 0.37",
+        "earlier": [
+          {
+            "title": "llm 0.37.2",
+            "source": "Simon Willison",
+            "publishedAt": "2026-11-11T17:19:52+00:00"
+          },
+          {
+            "title": "llm-gemini 0.36",
+            "source": "Simon Willison",
+            "publishedAt": "2026-11-10T20:09:44+00:00"
+          },
+          {
+            "title": "llm 0.37.1",
+            "source": "Simon Willison",
+            "publishedAt": "2026-11-03T21:41:42+00:00"
+          }
+        ],
+        "isNew": true,
+        "score": 3.684,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
       },
       {
@@ -2476,7 +2477,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.663,
+        "score": 3.652,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2512,7 +2513,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.658,
+        "score": 3.647,
         "firstSeen": "2026-11-03T22:50:39.850589+00:00",
         "kind": "video",
         "video": {
@@ -2548,7 +2549,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.613,
+        "score": 3.552,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2558,6 +2559,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=-XL2gClQ2gg",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "b8560f9db8a9",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: preserving minds and weighing open AI risks",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+        "publishedAt": "2026-11-11T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+            "publishedAt": "2026-11-11T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.517,
+        "firstSeen": "2026-11-11T14:51:54.481403+00:00",
+        "kind": "article"
       },
       {
         "id": "9e8d69bf9f82",
@@ -2584,7 +2614,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.525,
+        "score": 3.511,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -2594,153 +2624,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "624a305adfa4",
-        "category": "growth",
-        "lang": "en",
-        "title": "Gemini Decisions API",
-        "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-        "publishedAt": "2026-11-11T22:03:25+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-            "publishedAt": "2026-11-11T22:03:25+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.516,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "53d5cdba12be",
-        "category": "growth",
-        "lang": "en",
-        "title": "aws-emulator",
-        "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-        "publishedAt": "2026-11-11T21:18:30+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-            "publishedAt": "2026-11-11T21:18:30+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.504,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "c5d1a9eb3383",
-        "category": "growth",
-        "lang": "en",
-        "title": "Browse tools.simonwillison.net by tag",
-        "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-        "publishedAt": "2026-11-11T18:42:50+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-            "publishedAt": "2026-11-11T18:42:50+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.466,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5f7d32bf188e",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-        "publishedAt": "2026-11-10T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-            "publishedAt": "2026-11-10T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.423,
-        "firstSeen": "2026-11-10T14:14:38.715347+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "6734a79295b9",
-        "category": "growth",
-        "lang": "en",
-        "title": "Anthropic's IPO roadshow video",
-        "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-        "publishedAt": "2026-11-11T15:11:59+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-            "publishedAt": "2026-11-11T15:11:59+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.417,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
-        "kind": "article"
       },
       {
         "id": "5d7c86fdb19b",
@@ -2768,7 +2651,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.415,
+        "score": 3.403,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -2806,7 +2689,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.376,
+        "score": 3.364,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -2842,7 +2725,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.346,
+        "score": 3.335,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -2852,6 +2735,153 @@
           "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "624a305adfa4",
+        "category": "growth",
+        "lang": "en",
+        "title": "Gemini Decisions API",
+        "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+        "publishedAt": "2026-11-11T22:03:25+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+            "publishedAt": "2026-11-11T22:03:25+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.318,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "53d5cdba12be",
+        "category": "growth",
+        "lang": "en",
+        "title": "aws-emulator",
+        "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+        "publishedAt": "2026-11-11T21:18:30+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+            "publishedAt": "2026-11-11T21:18:30+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.309,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "5f7d32bf188e",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+        "publishedAt": "2026-11-10T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+            "publishedAt": "2026-11-10T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.301,
+        "firstSeen": "2026-11-10T14:14:38.715347+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "c5d1a9eb3383",
+        "category": "growth",
+        "lang": "en",
+        "title": "Browse tools.simonwillison.net by tag",
+        "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+        "publishedAt": "2026-11-11T18:42:50+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+            "publishedAt": "2026-11-11T18:42:50+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.278,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "6734a79295b9",
+        "category": "growth",
+        "lang": "en",
+        "title": "Anthropic's IPO roadshow video",
+        "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+        "publishedAt": "2026-11-11T15:11:59+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+            "publishedAt": "2026-11-11T15:11:59+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.239,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "article"
       },
       {
         "id": "2969b0807146",
@@ -2878,8 +2908,98 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.279,
+        "score": 3.186,
         "firstSeen": "2026-11-10T01:08:00.074997+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "245deba2bfd0",
+        "category": "growth",
+        "lang": "en",
+        "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+        "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+        "publishedAt": "2026-11-13T10:00:00+00:00",
+        "subtopics": [
+          "Leadership",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+            "publishedAt": "2026-11-13T10:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.048,
+        "firstSeen": "2026-11-13T13:51:55.777485+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "50e8975de6fc",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: COP31’s climate challenge and the quest for immortality",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+        "publishedAt": "2026-11-12T13:10:00+00:00",
+        "subtopics": [
+          "Leadership",
+          "Persuasion & negotiation"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+            "publishedAt": "2026-11-12T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.028,
+        "firstSeen": "2026-11-12T14:33:23.049878+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "2ef828b51c4b",
+        "category": "growth",
+        "lang": "en",
+        "title": "What to know about this year’s UN climate talks",
+        "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+        "publishedAt": "2026-11-11T17:00:00+00:00",
+        "subtopics": [
+          "Leadership",
+          "Persuasion & negotiation"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+            "publishedAt": "2026-11-11T17:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.009,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "article"
       },
       {
@@ -2909,38 +3029,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.072,
+        "score": 2.961,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "245deba2bfd0",
-        "category": "growth",
-        "lang": "en",
-        "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-        "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-        "publishedAt": "2026-11-13T10:00:00+00:00",
-        "subtopics": [
-          "Leadership",
-          "Personal finance"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-            "publishedAt": "2026-11-13T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.062,
-        "firstSeen": "2026-11-13T13:51:55.777485+00:00",
         "kind": "article"
       },
       {
@@ -2968,38 +3058,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.056,
+        "score": 2.948,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "50e8975de6fc",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: COP31’s climate challenge and the quest for immortality",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-        "publishedAt": "2026-11-12T13:10:00+00:00",
-        "subtopics": [
-          "Leadership",
-          "Persuasion & negotiation"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-            "publishedAt": "2026-11-12T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.042,
-        "firstSeen": "2026-11-12T14:33:23.049878+00:00",
         "kind": "article"
       },
       {
@@ -3027,38 +3087,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.042,
+        "score": 2.937,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "2ef828b51c4b",
-        "category": "growth",
-        "lang": "en",
-        "title": "What to know about this year’s UN climate talks",
-        "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-        "publishedAt": "2026-11-11T17:00:00+00:00",
-        "subtopics": [
-          "Leadership",
-          "Persuasion & negotiation"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-            "publishedAt": "2026-11-11T17:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.022,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "article"
       },
       {
@@ -3086,7 +3116,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.012,
+        "score": 2.912,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
         "kind": "article"
       },
@@ -3117,7 +3147,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.011,
+        "score": 2.912,
         "firstSeen": "2026-11-10T01:08:00.074997+00:00",
         "kind": "article"
       },
@@ -3146,66 +3176,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.883,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "6ee1dee33e4b",
-        "category": "growth",
-        "lang": "en",
-        "title": "Hide your slop PR descriptions behind <details><summary>",
-        "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
-        "publishedAt": "2026-11-09T04:25:05+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Decision-making"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
-            "publishedAt": "2026-11-09T04:25:05+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.882,
-        "firstSeen": "2026-11-09T15:01:56.231317+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "3e62264ffb8e",
-        "category": "growth",
-        "lang": "en",
-        "title": "parse_number() as a SQLite extension: C vs Rust",
-        "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-        "publishedAt": "2026-11-08T22:26:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-            "publishedAt": "2026-11-08T22:26:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.85,
+        "score": 2.809,
         "firstSeen": "2026-11-09T15:01:56.231317+00:00",
         "kind": "article"
       }
@@ -3389,8 +3360,8 @@
   ],
   "filteredOut": {
     "football": 60,
-    "news": 55,
+    "news": 57,
     "medical": 14,
-    "growth": 42
+    "growth": 40
   }
 }
