@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T16:41:13.634126+00:00",
+  "generatedAt": "2026-11-17T01:29:51.969336+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,27 +34,29 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 16.623,
+        "score": 15.932,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
-        "id": "4c13056a55c0",
+        "id": "9d3b06aa55f6",
         "category": "football",
         "lang": "en",
-        "title": "Newcastle latest: Hall reaches 'new level' in battle with Lamine Yamal",
-        "summary": "",
+        "title": "Spain in pain as historic run ends but De la Fuente feels best is yet to come",
+        "summary": "While the head coach, players and Spanish press were magnanimous in defeat, there was pride mixed in with disappointment – and confidence the future is still bright “With every game, defeat gets closer,” Luis de la Fuente had said and on Sunday night it…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-        "publishedAt": "2026-11-16T08:30:00+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
+        "publishedAt": "2026-11-16T17:48:38+00:00",
         "subtopics": [
-          "Barcelona"
+          "Barcelona",
+          "World Cup",
+          "Results"
         ],
         "sources": [
           {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-            "publishedAt": "2026-11-16T08:30:00+00:00",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/16/luis-de-la-fuente-spain-england-nations-league",
+            "publishedAt": "2026-11-16T17:48:38+00:00",
             "tier": 2
           }
         ],
@@ -62,38 +64,96 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 11.758,
-        "firstSeen": "2026-11-16T16:41:13.634126+00:00"
+        "score": 13.297,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
-        "id": "d8bced3d8d83",
+        "id": "e264fe13c88b",
         "category": "football",
         "lang": "en",
-        "title": "Raphinha sees red as Brazil stunned by Japan while Argentina’s post-Messi era starts with defeat",
-        "summary": "Brazil loss in Singapore marred by unruly end to friendly Argentina beaten 2-1 by Uruguay in Buenos Aires Raphinha was sent off as Brazil crashed to a 3-2 defeat by Japan in their international friendly in Singapore. The Barcelona captain had been…",
+        "title": "Pochettino: I’d tell Guardiola to ‘take it’ if he’s offered US coaching job",
+        "summary": "As he prepares to depart for Manchester United, the outgoing US coach held court on a number of topics, including what he’d change about soccer in America Outgoing US head coach Mauricio Pochettino and former Manchester City head coach Pep Guardiola have a…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-        "publishedAt": "2026-11-14T13:07:33+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
+        "publishedAt": "2026-11-16T23:01:52+00:00",
         "subtopics": [
           "Barcelona",
-          "International",
-          "Results"
+          "Premier League"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark",
-            "publishedAt": "2026-11-14T13:07:33+00:00",
+            "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
+            "publishedAt": "2026-11-16T23:01:52+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 11.501,
-        "firstSeen": "2026-11-14T13:54:07.821097+00:00"
+        "isNew": true,
+        "score": 12.254,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
+      },
+      {
+        "id": "d83020aff923",
+        "category": "football",
+        "lang": "en",
+        "title": "‘We want to win it’: Tuchel says Nations League can set up England for Euro 2028 glory",
+        "summary": "Winning Nations League ‘the best preparation’ for Euros England to be seeded in Friday’s draw after Spain win Thomas Tuchel believes winning the Nations League would provide England with the springboard to Euro 2028 glory. The head coach watched his team…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/16/england-winning-nations-league-euro-2028-thomas-tuchel",
+        "publishedAt": "2026-11-16T19:00:51+00:00",
+        "subtopics": [
+          "Euros",
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/16/england-winning-nations-league-euro-2028-thomas-tuchel",
+            "publishedAt": "2026-11-16T19:00:51+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 8.895,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
+      },
+      {
+        "id": "e87573242209",
+        "category": "football",
+        "lang": "en",
+        "title": "Tuchel and England must learn lessons of history, Seville and Southgateism | Barney Ronay",
+        "summary": "Another 3-2 win in Spain brings the lure of a golden new hyper-future – but it did not pan out that way last time I may have the body of a weak and feeble German, but I have the heart and stomach of a manager of England. And I think it foul scorn that Spain…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/16/thomas-tuchel-england-must-learn-lessons-history-seville-gareth-southgate",
+        "publishedAt": "2026-11-16T20:02:09+00:00",
+        "subtopics": [
+          "Euros",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/16/thomas-tuchel-england-must-learn-lessons-history-seville-gareth-southgate",
+            "publishedAt": "2026-11-16T20:02:09+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.482,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
         "id": "c656354034f0",
@@ -121,16 +181,46 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.954,
+        "isNew": false,
+        "score": 7.175,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "transfer": "RUMOUR"
+      },
+      {
+        "id": "a2c1048b5312",
+        "category": "football",
+        "lang": "en",
+        "title": "Tyler: England have golden opportunity to win Euro 2028",
+        "summary": "Martin Tyler is more convinced than ever he will finally get the chance to commentate on England winning a major international trophy after watching Thomas Tuchel's side's 3-2 Uefa Nations League victory in Spain",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13612908/england-have-golden-opportunity-to-win-euro-2028-says-martin-tyler-as-legendary-commentator-reflects-on-50-year-career",
+        "publishedAt": "2026-11-16T15:45:00+00:00",
+        "subtopics": [
+          "Euros",
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13612908/england-have-golden-opportunity-to-win-euro-2028-says-martin-tyler-as-legendary-commentator-reflects-on-50-year-career",
+            "publishedAt": "2026-11-16T15:45:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.139,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
         "id": "457c4904a4b7",
         "category": "football",
         "lang": "en",
-        "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years",
+        "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
         "summary": "There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismissal of Qatar at the Abdullah bin Khalifa Stadium marked the first time the Socceroos had…",
         "needsSummary": true,
         "readMore": null,
@@ -152,7 +242,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.733,
+        "score": 7.013,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
@@ -181,9 +271,131 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.551,
+        "score": 6.879,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "transfer": "RUMOUR"
+      },
+      {
+        "id": "5ede9f6e7f7d",
+        "category": "football",
+        "lang": "en",
+        "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
+        "summary": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-16T22:36:26+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T22:36:26+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.214,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
+      },
+      {
+        "id": "626de7c21d19",
+        "category": "football",
+        "lang": "en",
+        "title": "Nations League: Wirtz doubles up as Germany rout Netherlands to top group",
+        "summary": "Jürgen Klopp’s side make statement with 5-0 triumph Dutch advance, Greece miss out despite win over Serbia Florian Wirtz scored twice as Germany delivered a 5-0 rout of the Netherlands in Berlin on Monday, reaching the Nations League quarter-finals as group…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/16/nations-league-roundup-germany-netherlands-greece-serbia",
+        "publishedAt": "2026-11-16T22:33:26+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/16/nations-league-roundup-germany-netherlands-greece-serbia",
+            "publishedAt": "2026-11-16T22:33:26+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.209,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
+      },
+      {
+        "id": "64d1b0e5372a",
+        "category": "football",
+        "lang": "en",
+        "title": "Watch as Scotland slump to 4-0 defeat in Switzerland",
+        "summary": "Watch the highlights as Scotland lose 4-0 to Switzerland in the Nations League in St Gallen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-16T22:14:34+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmp3e19v734wo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T22:14:34+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.179,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
+      },
+      {
+        "id": "3cc10243def7",
+        "category": "football",
+        "lang": "en",
+        "title": "Football Daily",
+        "summary": "Was England 3-2 Spain Tuchel's best win yet? And is Trafford primed to be new number one?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-16T21:14:00+00:00",
+        "subtopics": [
+          "International",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sounds/play/p0pnbcy5?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-16T21:14:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sounds/play/p0pn5rdk?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-15T23:16:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.087,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
         "id": "f8dd74606aad",
@@ -211,8 +423,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.133,
+        "score": 4.439,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
+      },
+      {
+        "id": "3854a52d53fe",
+        "category": "football",
+        "lang": "en",
+        "title": "Wales have a free hit against Ronaldo-less Portugal",
+        "summary": "The Cardiff City Stadium sold out very quickly when the Nations League fixtures threw up a Wales vs Portugal game for the final match of Group D.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13612984/wales-vs-portugal-no-cristiano-ronaldo-for-the-visitors-as-craig-bellamys-side-have-a-free-hit-in-final-nations-league-encounter",
+        "publishedAt": "2026-11-16T19:28:00+00:00",
+        "subtopics": [
+          "International",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13612984/wales-vs-portugal-no-cristiano-ronaldo-for-the-visitors-as-craig-bellamys-side-have-a-free-hit-in-final-nations-league-encounter",
+            "publishedAt": "2026-11-16T19:28:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.433,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
         "id": "c017959f6b8a",
@@ -240,95 +481,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.053,
+        "score": 4.38,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
-      },
-      {
-        "id": "84876c0427d7",
-        "category": "football",
-        "lang": "en",
-        "title": "Ten-man England hold on to claim famous win over Spain",
-        "summary": "England withstood a Spain fightback after Elliot Anderson's red card to secure a famous 3-2 victory and finish above the world champions at the top of their Nations League group.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/spain-vs-england/report/554117",
-        "publishedAt": "2026-11-15T21:45:00+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/spain-vs-england/report/554117",
-            "publishedAt": "2026-11-15T21:45:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.054,
-        "firstSeen": "2026-11-15T22:26:00.189860+00:00"
-      },
-      {
-        "id": "9c5891693048",
-        "category": "football",
-        "lang": "en",
-        "title": "Chapecoense air crash survivor wins promotion in final game",
-        "summary": "Alan Ruschel, one of six survivors in the 2016 plane crash that was carrying members of the Chapecoense team, wins promotion to Brazil‘s Serie A in his final match before retiring.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-15T17:10:24+00:00",
-        "subtopics": [
-          "Serie A",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/ckp8017p1e3go?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-15T17:10:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.826,
-        "firstSeen": "2026-11-15T22:26:00.189860+00:00"
-      },
-      {
-        "id": "2576bbfd3007",
-        "category": "football",
-        "lang": "en",
-        "title": "Why Northern Ireland won't focus on point they need in Hungary",
-        "summary": "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-15T16:04:45+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-15T16:04:45+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.777,
-        "firstSeen": "2026-11-15T22:26:00.189860+00:00"
       },
       {
         "id": "72d3a6a96a9b",
@@ -356,7 +510,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.197,
+        "score": 3.013,
         "firstSeen": "2026-11-14T22:50:24.353992+00:00"
       },
       {
@@ -385,7 +539,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.191,
+        "score": 3.009,
         "firstSeen": "2026-11-14T22:50:24.353992+00:00"
       },
       {
@@ -414,7 +568,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.122,
+        "score": 2.958,
         "firstSeen": "2026-11-14T21:55:52.450211+00:00"
       },
       {
@@ -443,11 +597,46 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.119,
+        "score": 2.956,
         "firstSeen": "2026-11-14T21:55:52.450211+00:00"
       }
     ],
     "news": [
+      {
+        "id": "357dcde4080c",
+        "category": "news",
+        "lang": "de",
+        "title": "Künstliche Intelligenz: Kalifornien verklagt OpenAI wegen Cyberangriffen",
+        "summary": "Der Generalstaatsanwalt von Kalifornien klagt OpenAI an - ein gefährliches Produkt ohne angemessene Sicherheitsverfahren oder Aufsicht habe das Unternehmen entwickelt und getestet. Von R.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+        "publishedAt": "2026-11-17T01:16:16+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+            "publishedAt": "2026-11-17T01:16:16+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html",
+            "publishedAt": "2026-11-17T01:16:16+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.99,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
+      },
       {
         "id": "8a334503bb4e",
         "category": "news",
@@ -474,7 +663,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.111,
+        "score": 7.802,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
@@ -486,7 +675,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-        "publishedAt": "2026-11-16T15:10:41+00:00",
+        "publishedAt": "2026-11-16T20:48:40+00:00",
         "subtopics": [
           "Germany",
           "US",
@@ -496,7 +685,7 @@
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html",
-            "publishedAt": "2026-11-16T15:10:41+00:00",
+            "publishedAt": "2026-11-16T20:48:40+00:00",
             "tier": 1
           }
         ],
@@ -504,7 +693,114 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.933,
+        "score": 7.798,
+        "firstSeen": "2026-11-16T14:38:43.770719+00:00"
+      },
+      {
+        "id": "6aa79bfd27dc",
+        "category": "news",
+        "lang": "de",
+        "title": "Abschiebezentrum geplant: Was steckt hinter den Ruanda-Plänen?",
+        "summary": "Abgelehnte Asylbewerber sollen in Zukunft nach Ruanda gebracht werden können - auch wenn sie keine Verbindung zu dem Land haben. Innenminister Dobrindt will das zusammen mit vier anderen EU-Staaten und Ruanda möglich machen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html",
+        "publishedAt": "2026-11-16T18:59:11+00:00",
+        "subtopics": [
+          "EU",
+          "Germany",
+          "Immigration"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html",
+            "publishedAt": "2026-11-16T18:59:11+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/ruanda-return-hub-abschiebezentrum-100.html",
+            "publishedAt": "2026-11-16T18:59:11+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.723,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00"
+      },
+      {
+        "id": "fe1f4b8b4138",
+        "category": "news",
+        "lang": "de",
+        "title": "Wirtschaft vor acht vom 16.11.2026",
+        "summary": "Wirtschaft vor acht vom 16.11.2026",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1684932.html",
+        "publishedAt": "2026-11-16T18:56:47+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1684932.html",
+            "publishedAt": "2026-11-16T18:56:47+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1684508.html",
+            "publishedAt": "2026-11-16T08:54:49+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.721,
+        "firstSeen": "2026-11-16T14:38:43.770719+00:00"
+      },
+      {
+        "id": "97d584b9ea16",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: DAX bleibt nahe Rekordhoch",
+        "summary": "Zum Wochenauftakt fällt der DAX moderat. Er bleibt aber nah an seinem Rekordhoch.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+        "publishedAt": "2026-11-16T17:21:14+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+            "publishedAt": "2026-11-16T17:21:14+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
+            "publishedAt": "2026-11-16T17:21:14+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.658,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
@@ -532,8 +828,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.92,
+        "isNew": false,
+        "score": 7.561,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00"
       },
       {
@@ -567,8 +863,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.856,
+        "isNew": false,
+        "score": 7.505,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00"
       },
       {
@@ -603,37 +899,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.831,
+        "score": 7.483,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
-      },
-      {
-        "id": "542e5b34a08a",
-        "category": "news",
-        "lang": "de",
-        "title": "Mario Vuskovic feiert Comeback bei HSV-Testspiel gegen Split",
-        "summary": "Vier Jahre war der Kroate wegen Dopings gesperrt. Nun durfte der Fanliebling wieder im Volksparkstadion einlaufen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/mario-vuskovic-feiert-comeback-bei-hsv-testspiel-gegen-split,hamj-16538.html",
-        "publishedAt": "2026-11-15T20:17:51+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/mario-vuskovic-feiert-comeback-bei-hsv-testspiel-gegen-split,hamj-16538.html",
-            "publishedAt": "2026-11-15T20:17:51+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.815,
-        "firstSeen": "2026-11-15T22:26:00.189860+00:00"
       },
       {
         "id": "cbd93206ecd0",
@@ -655,83 +922,13 @@
             "url": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html",
             "publishedAt": "2026-11-16T11:22:36+00:00",
             "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html",
-            "publishedAt": "2026-11-16T11:22:36+00:00",
-            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.772,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00"
-      },
-      {
-        "id": "97d584b9ea16",
-        "category": "news",
-        "lang": "de",
-        "title": "Marktbericht: Anleger bleiben vor Nvidia-Bilanz vorsichtig",
-        "summary": "Das Thema Nvidia bleibt auch in der neuen Woche aktuell: Bevor der Chipkonzern am Dienstag seine Bilanz vorstellt, könnten die Investoren zurückhaltend bleiben. Zum Wochenstart rührt sich der DAX bisher kaum.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
-        "publishedAt": "2026-11-16T09:58:43+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-rekordhoch-100.html",
-            "publishedAt": "2026-11-16T09:58:43+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.715,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00"
-      },
-      {
-        "id": "fe1f4b8b4138",
-        "category": "news",
-        "lang": "de",
-        "title": "Update Wirtschaft vom 16.11.2026",
-        "summary": "Wirtschaft vor acht vom 13.11.2026",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1684508.html",
-        "publishedAt": "2026-11-16T08:54:49+00:00",
-        "subtopics": [
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1684508.html",
-            "publishedAt": "2026-11-16T08:54:49+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1683484.html",
-            "publishedAt": "2026-11-13T19:05:55+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.672,
+        "score": 7.431,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
@@ -766,7 +963,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.641,
+        "score": 7.317,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
@@ -801,7 +998,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.59,
+        "score": 7.271,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
@@ -836,7 +1033,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.086,
+        "score": 6.83,
         "firstSeen": "2026-11-15T22:26:00.189860+00:00"
       },
       {
@@ -865,8 +1062,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.934,
+        "score": 6.696,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00"
+      },
+      {
+        "id": "fff5e3d00e44",
+        "category": "news",
+        "lang": "de",
+        "title": "Brand in Farmsen-Berne: Einsatzkräfte entdecken Frauenleiche",
+        "summary": "Bei einem Brand in Farmsen-Berne ist eine tote Frau entdeckt worden. Anwohnende hatten zuvor in einem Mehrfamilienhaus Rauch bemerkt und die Feuerwehr gerufen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/brand-in-farmsen-berne-einsatzkraefte-entdecken-frauenleiche,wohnungsbrand-162.html",
+        "publishedAt": "2026-11-16T20:33:19+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/brand-in-farmsen-berne-einsatzkraefte-entdecken-frauenleiche,wohnungsbrand-162.html",
+            "publishedAt": "2026-11-16T20:33:19+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.387,
+        "firstSeen": "2026-11-16T16:41:13.634126+00:00"
       },
       {
         "id": "1bc2d361fc3f",
@@ -900,36 +1125,72 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.64,
+        "score": 6.316,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
-        "id": "fff5e3d00e44",
+        "id": "3d24a3e0b7d1",
         "category": "news",
         "lang": "de",
-        "title": "Brand in Farmsen-Berne: Einsatzkräfte entdecken Frauenleiche",
-        "summary": "Bei einem Brand in Farmsen-Berne ist eine tote Frau entdeckt worden. Anwohnende hatten zuvor in einem Mehrfamilienhaus Rauch bemerkt und die Feuerwehr gerufen.",
+        "title": "Pläne für höhere Abzüge bei vorgezogener Rente",
+        "summary": "Die Einsparungen der Regierung treffen die Rentenversicherung mehr als geplant - und damit stellt sich die Frage, wie die Einbußen ausgeglichen werden können. Die CSU bringt nun höhere Abschläge bei Frührentnern ins Spiel.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/brand-in-farmsen-berne-einsatzkraefte-entdecken-frauenleiche,wohnungsbrand-162.html",
-        "publishedAt": "2026-11-16T16:15:31+00:00",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
+        "publishedAt": "2026-11-14T15:37:32+00:00",
         "subtopics": [
-          "Hamburg"
+          "Germany",
+          "Government"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/brand-in-farmsen-berne-einsatzkraefte-entdecken-frauenleiche,wohnungsbrand-162.html",
-            "publishedAt": "2026-11-16T16:15:31+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
+            "publishedAt": "2026-11-14T15:37:32+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
+            "publishedAt": "2026-11-14T15:37:32+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.581,
-        "firstSeen": "2026-11-16T16:41:13.634126+00:00"
+        "isNew": false,
+        "score": 6.268,
+        "firstSeen": "2026-11-14T21:55:52.450211+00:00"
+      },
+      {
+        "id": "5f3f530d07d6",
+        "category": "news",
+        "lang": "de",
+        "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+        "summary": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war groß.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+        "publishedAt": "2026-11-14T13:22:33+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+            "publishedAt": "2026-11-14T13:22:33+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.226,
+        "firstSeen": "2026-11-14T12:54:56.468812+00:00"
       },
       {
         "id": "8409b30895ed",
@@ -969,72 +1230,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.523,
+        "score": 6.213,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
-      },
-      {
-        "id": "3d24a3e0b7d1",
-        "category": "news",
-        "lang": "de",
-        "title": "Pläne für höhere Abzüge bei vorgezogener Rente",
-        "summary": "Die Einsparungen der Regierung treffen die Rentenversicherung mehr als geplant - und damit stellt sich die Frage, wie die Einbußen ausgeglichen werden können. Die CSU bringt nun höhere Abschläge bei Frührentnern ins Spiel.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
-        "publishedAt": "2026-11-14T15:37:32+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
-            "publishedAt": "2026-11-14T15:37:32+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
-            "publishedAt": "2026-11-14T15:37:32+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.446,
-        "firstSeen": "2026-11-14T21:55:52.450211+00:00"
-      },
-      {
-        "id": "5f3f530d07d6",
-        "category": "news",
-        "lang": "de",
-        "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
-        "summary": "Der bayerische Vize-Ministerpräsident und Freie-Wähler-Chef Aiwanger ist mit einem Trauerstaatsakt gewürdigt worden. Die Anteilnahme war groß.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
-        "publishedAt": "2026-11-14T13:22:33+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
-            "publishedAt": "2026-11-14T13:22:33+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.398,
-        "firstSeen": "2026-11-14T12:54:56.468812+00:00"
       },
       {
         "id": "854e25337898",
@@ -1068,7 +1265,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.335,
+        "score": 6.171,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00"
       },
       {
@@ -1097,37 +1294,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.228,
+        "score": 6.077,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00"
-      },
-      {
-        "id": "02e0a1ff0e03",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundesweites Gedenken zum Volkstrauertag - auch im Bundestag",
-        "summary": "Der Volkstrauertag ist kein gesetzlicher Feiertag, aber ein staatlicher Gedenktag. Im ganzen Land wird heute an Kriegsopfer erinnert.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/volkstrauertag-bundestag-104.html",
-        "publishedAt": "2026-11-15T15:24:11+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/volkstrauertag-bundestag-104.html",
-            "publishedAt": "2026-11-15T15:24:11+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.059,
-        "firstSeen": "2026-11-15T22:26:00.189860+00:00"
       },
       {
         "id": "a22573f6eb33",
@@ -1161,7 +1329,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.018,
+        "score": 5.893,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00"
       },
       {
@@ -1196,7 +1364,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.012,
+        "score": 5.888,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00"
       },
       {
@@ -1231,7 +1399,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.978,
+        "score": 5.858,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
       },
       {
@@ -1266,7 +1434,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.975,
+        "score": 5.856,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
       },
       {
@@ -1301,8 +1469,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.965,
+        "score": 5.847,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
+      },
+      {
+        "id": "02e0a1ff0e03",
+        "category": "news",
+        "lang": "de",
+        "title": "Bundesweites Gedenken zum Volkstrauertag - auch im Bundestag",
+        "summary": "Der Volkstrauertag ist kein gesetzlicher Feiertag, aber ein staatlicher Gedenktag. Im ganzen Land wird heute an Kriegsopfer erinnert.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/volkstrauertag-bundestag-104.html",
+        "publishedAt": "2026-11-15T15:24:11+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/volkstrauertag-bundestag-104.html",
+            "publishedAt": "2026-11-15T15:24:11+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.806,
+        "firstSeen": "2026-11-15T22:26:00.189860+00:00"
       },
       {
         "id": "6182f9b669f8",
@@ -1330,7 +1527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.909,
+        "score": 5.797,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
       },
       {
@@ -1359,36 +1556,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.882,
+        "score": 5.774,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00"
-      },
-      {
-        "id": "05b6c8bcbc6c",
-        "category": "news",
-        "lang": "de",
-        "title": "Elfjähriger vermisst: Hamburger Winterdom teilweise gesperrt",
-        "summary": "Nach einem Großeinsatz der Polizei wurde der verschwundene Junge in der Nacht zum Sonntag in einem Bus bei Reinbek gefunden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/elfjaehriger-vermisst-hamburger-dom-am-abend-teilweise-gesperrt,dom-162.html",
-        "publishedAt": "2026-11-15T19:39:11+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/elfjaehriger-vermisst-hamburger-dom-am-abend-teilweise-gesperrt,dom-162.html",
-            "publishedAt": "2026-11-15T19:39:11+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.794,
-        "firstSeen": "2026-11-15T13:22:54.947958+00:00"
       },
       {
         "id": "85a2636cc4bb",
@@ -1416,7 +1585,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.741,
+        "score": 5.65,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00"
       },
       {
@@ -1446,7 +1615,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.726,
+        "score": 5.637,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1482,7 +1651,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.715,
+        "score": 5.627,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00"
       },
       {
@@ -1517,7 +1686,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.687,
+        "score": 5.603,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1546,7 +1715,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.686,
+        "score": 5.601,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       },
       {
@@ -1581,7 +1750,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.679,
+        "score": 5.596,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00"
       }
     ],
@@ -1613,7 +1782,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.462,
+        "score": 11.344,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1645,7 +1814,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.415,
+        "score": 10.342,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1676,7 +1845,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.462,
+        "score": 8.344,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1708,7 +1877,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.462,
+        "score": 8.344,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1774,7 +1943,7 @@
           }
         ],
         "isNew": false,
-        "score": 7.632,
+        "score": 7.55,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1806,7 +1975,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.632,
+        "score": 7.55,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1838,7 +2007,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.632,
+        "score": 7.55,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1869,7 +2038,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.415,
+        "score": 7.342,
         "firstSeen": "2026-10-08T12:44:18.615278+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1901,7 +2070,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.415,
+        "score": 7.342,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1932,7 +2101,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.115,
+        "score": 6.042,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1968,7 +2137,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.632,
+        "score": 5.55,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1998,39 +2167,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.332,
+        "score": 5.25,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "c526a8d75fc6",
-        "category": "medical",
-        "lang": "en",
-        "title": "Danaher’s Cepheid business to lay off 67 people in California",
-        "summary": "The job cuts at Danaher’s molecular diagnostics subsidiary will take place by the end of the year and affect mostly scientists and engineers, according to a state filing.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/danahers-cepheid-business-to-lay-off-67-people-in-california/874389/",
-        "publishedAt": "2026-11-11T15:57:20+00:00",
-        "subtopics": [
-          "Diagnostics & imaging"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/danahers-cepheid-business-to-lay-off-67-people-in-california/874389/",
-            "publishedAt": "2026-11-11T15:57:20+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.848,
-        "firstSeen": "2026-11-12T15:42:57.127097+00:00",
-        "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
@@ -2059,8 +2198,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.592,
+        "isNew": false,
+        "score": 6.224,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2070,6 +2209,111 @@
           "watchUrl": "https://www.youtube.com/watch?v=0-C6SKjKek4",
           "channel": "TED"
         }
+      },
+      {
+        "id": "9ccf8665576a",
+        "category": "growth",
+        "lang": "en",
+        "title": "The open-source movement wants Jensen Huang back",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+        "publishedAt": "2026-11-16T18:38:47+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+            "publishedAt": "2026-11-16T18:38:47+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.509,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "9f0b516152c1",
+        "category": "growth",
+        "lang": "en",
+        "title": "llm 0.37.3",
+        "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/16/llm/",
+        "publishedAt": "2026-11-16T23:57:26+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/16/llm/",
+            "publishedAt": "2026-11-16T23:57:26+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+            "publishedAt": "2026-11-12T22:55:19+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/llm/",
+            "publishedAt": "2026-11-11T17:19:52+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+            "publishedAt": "2026-11-10T20:09:44+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+            "publishedAt": "2026-11-09T23:58:46+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": true,
+        "latestUpdate": "llm 0.37.3",
+        "earlier": [
+          {
+            "title": "llm-gemini 0.37",
+            "source": "Simon Willison",
+            "publishedAt": "2026-11-12T22:55:19+00:00"
+          },
+          {
+            "title": "llm 0.37.2",
+            "source": "Simon Willison",
+            "publishedAt": "2026-11-11T17:19:52+00:00"
+          },
+          {
+            "title": "llm-gemini 0.36",
+            "source": "Simon Willison",
+            "publishedAt": "2026-11-10T20:09:44+00:00"
+          },
+          {
+            "title": "llm-anthropic 0.31",
+            "source": "Simon Willison",
+            "publishedAt": "2026-11-09T23:58:46+00:00"
+          }
+        ],
+        "isNew": false,
+        "score": 5.432,
+        "firstSeen": "2026-11-15T13:22:54.947958+00:00",
+        "kind": "article"
       },
       {
         "id": "b2955c38ff71",
@@ -2095,8 +2339,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.773,
+        "isNew": false,
+        "score": 5.407,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "article"
       },
@@ -2125,7 +2369,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.64,
+        "score": 5.291,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -2134,15 +2378,13 @@
         "category": "growth",
         "lang": "en",
         "title": "The Rise Of AI Coworkers",
-        "summary": "Lauren Tan and Roman Ugarte join this episode of the Lightcone to go in deep on how they built and deployed Grok Bot. They explain how automated tests and codebase guardrails help agents check their own work, why bots should earn broader access over time,…",
+        "summary": "At SpaceXSI, Lauren Tan and Roman Ugarte are on the core team that took Grok Bot from first line of code to launch in seven weeks. It lets you spin up AI teammates with their own identities and logins, and they just keep working in the background.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
         "publishedAt": "2026-11-14T23:21:16+00:00",
         "subtopics": [
-          "AI & smart tools",
-          "Communication",
-          "Entrepreneurship"
+          "AI & smart tools"
         ],
         "sources": [
           {
@@ -2156,7 +2398,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.922,
+        "score": 4.723,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "video",
         "video": {
@@ -2192,7 +2434,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.84,
+        "score": 4.552,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -2227,16 +2469,16 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.817,
+        "score": 4.533,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
       {
-        "id": "42f4810ce572",
+        "id": "9ae934d441da",
         "category": "growth",
         "lang": "en",
         "title": "datasette-apps 0.4a0",
-        "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent .",
+        "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with…",
         "needsSummary": true,
         "readMore": null,
         "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
@@ -2250,20 +2492,14 @@
             "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
             "publishedAt": "2026-11-15T04:02:45+00:00",
             "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-            "publishedAt": "2026-11-04T00:29:36+00:00",
-            "tier": 3
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 4.239,
-        "firstSeen": "2026-11-04T23:09:24.201247+00:00",
+        "isNew": true,
+        "score": 4.025,
+        "firstSeen": "2026-11-17T01:29:51.969336+00:00",
         "kind": "article"
       },
       {
@@ -2291,7 +2527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.233,
+        "score": 4.02,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -2326,7 +2562,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.137,
+        "score": 3.936,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
       },
@@ -2356,7 +2592,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.948,
+        "score": 3.906,
         "firstSeen": "2026-11-10T22:46:36.852490+00:00",
         "kind": "video",
         "video": {
@@ -2392,8 +2628,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.899,
+        "isNew": false,
+        "score": 3.89,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2429,7 +2665,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.836,
+        "score": 3.828,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00",
         "kind": "video",
         "video": {
@@ -2465,7 +2701,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.827,
+        "score": 3.819,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00",
         "kind": "video",
         "video": {
@@ -2501,7 +2737,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.805,
+        "score": 3.797,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00",
         "kind": "video",
         "video": {
@@ -2538,7 +2774,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.767,
+        "score": 3.76,
         "firstSeen": "2026-11-10T23:51:18.026954+00:00",
         "kind": "video",
         "video": {
@@ -2576,7 +2812,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.72,
+        "score": 3.713,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2612,7 +2848,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.681,
+        "score": 3.674,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -2648,7 +2884,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.486,
+        "score": 3.478,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -2685,7 +2921,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.381,
+        "score": 3.374,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -2723,7 +2959,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.344,
+        "score": 3.337,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -2759,7 +2995,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.315,
+        "score": 3.309,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -2769,147 +3005,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "9f0b516152c1",
-        "category": "growth",
-        "lang": "en",
-        "title": "llm-gemini 0.37",
-        "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-        "publishedAt": "2026-11-12T22:55:19+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-            "publishedAt": "2026-11-12T22:55:19+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/llm/",
-            "publishedAt": "2026-11-11T17:19:52+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-            "publishedAt": "2026-11-10T20:09:44+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "llm-gemini 0.37",
-        "earlier": [
-          {
-            "title": "llm 0.37.2",
-            "source": "Simon Willison",
-            "publishedAt": "2026-11-11T17:19:52+00:00"
-          },
-          {
-            "title": "llm-gemini 0.36",
-            "source": "Simon Willison",
-            "publishedAt": "2026-11-10T20:09:44+00:00"
-          }
-        ],
-        "isNew": false,
-        "score": 3.289,
-        "firstSeen": "2026-11-15T13:22:54.947958+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "b8560f9db8a9",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: preserving minds and weighing open AI risks",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-        "publishedAt": "2026-11-11T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
-            "publishedAt": "2026-11-11T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.277,
-        "firstSeen": "2026-11-11T14:51:54.481403+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "624a305adfa4",
-        "category": "growth",
-        "lang": "en",
-        "title": "Gemini Decisions API",
-        "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-        "publishedAt": "2026-11-11T22:03:25+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-            "publishedAt": "2026-11-11T22:03:25+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.045,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "53d5cdba12be",
-        "category": "growth",
-        "lang": "en",
-        "title": "aws-emulator",
-        "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-        "publishedAt": "2026-11-11T21:18:30+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-            "publishedAt": "2026-11-11T21:18:30+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.039,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
-        "kind": "article"
       },
       {
         "id": "245deba2bfd0",
@@ -2937,37 +3032,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.022,
+        "score": 3.013,
         "firstSeen": "2026-11-13T13:51:55.777485+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "c5d1a9eb3383",
-        "category": "growth",
-        "lang": "en",
-        "title": "Browse tools.simonwillison.net by tag",
-        "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-        "publishedAt": "2026-11-11T18:42:50+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
-            "publishedAt": "2026-11-11T18:42:50+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.018,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "article"
       },
       {
@@ -2996,30 +3062,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.002,
+        "score": 2.994,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00",
         "kind": "article"
       },
       {
-        "id": "6734a79295b9",
+        "id": "624a305adfa4",
         "category": "growth",
         "lang": "en",
-        "title": "Anthropic's IPO roadshow video",
-        "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is…",
+        "title": "Gemini Decisions API",
+        "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-        "publishedAt": "2026-11-11T15:11:59+00:00",
+        "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+        "publishedAt": "2026-11-11T22:03:25+00:00",
         "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems",
-          "Entrepreneurship"
+          "AI & smart tools"
         ],
         "sources": [
           {
             "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-            "publishedAt": "2026-11-11T15:11:59+00:00",
+            "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+            "publishedAt": "2026-11-11T22:03:25+00:00",
             "tier": 3
           }
         ],
@@ -3027,7 +3091,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.992,
+        "score": 2.978,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "article"
       },
@@ -3057,7 +3121,96 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.984,
+        "score": 2.976,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "53d5cdba12be",
+        "category": "growth",
+        "lang": "en",
+        "title": "aws-emulator",
+        "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+        "publishedAt": "2026-11-11T21:18:30+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+            "publishedAt": "2026-11-11T21:18:30+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.973,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "c5d1a9eb3383",
+        "category": "growth",
+        "lang": "en",
+        "title": "Browse tools.simonwillison.net by tag",
+        "summary": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits left over before my weekly reset so I set it to work using tree-sitter to analyze…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+        "publishedAt": "2026-11-11T18:42:50+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+            "publishedAt": "2026-11-11T18:42:50+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.955,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "6734a79295b9",
+        "category": "growth",
+        "lang": "en",
+        "title": "Anthropic's IPO roadshow video",
+        "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+        "publishedAt": "2026-11-11T15:11:59+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Productivity & systems",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+            "publishedAt": "2026-11-11T15:11:59+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.932,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "article"
       },
@@ -3088,7 +3241,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.807,
+        "score": 2.769,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
@@ -3117,7 +3270,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.798,
+        "score": 2.762,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
@@ -3146,28 +3299,30 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.791,
+        "score": 2.755,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
       {
-        "id": "ac841c16ab1a",
+        "id": "26249e9088d9",
         "category": "growth",
         "lang": "en",
-        "title": "llm-anthropic 0.31",
-        "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis .",
+        "title": "The Gamble of Your Life",
+        "summary": "My late grandfather gambled away over $1 million during his lifetime. His wager of choice was horse racing.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-        "publishedAt": "2026-11-09T23:58:46+00:00",
+        "url": "https://ofdollarsanddata.com/the-gamble-of-your-life/",
+        "publishedAt": "2026-11-10T12:45:13+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "Presentation & speaking",
+          "Entrepreneurship",
+          "Business case studies"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-            "publishedAt": "2026-11-09T23:58:46+00:00",
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/the-gamble-of-your-life/",
+            "publishedAt": "2026-11-10T12:45:13+00:00",
             "tier": 3
           }
         ],
@@ -3175,39 +3330,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.774,
-        "firstSeen": "2026-11-10T22:46:36.852490+00:00",
+        "score": 2.651,
+        "firstSeen": "2026-11-10T14:14:38.715347+00:00",
         "kind": "article"
       },
       {
-        "id": "baaf713b11e3",
+        "id": "126aa063fc33",
         "category": "growth",
         "lang": "en",
-        "title": "Locating the source of a mysterious beep with Claude",
-        "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping .",
+        "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
+        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-        "publishedAt": "2026-11-09T23:57:21+00:00",
+        "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+        "publishedAt": "2026-10-15T10:09:45+00:00",
         "subtopics": [
-          "AI & smart tools",
+          "Productivity & systems",
           "Communication",
-          "Social skills"
+          "Presentation & speaking"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-            "publishedAt": "2026-11-09T23:57:21+00:00",
-            "tier": 3
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
+            "publishedAt": "2026-10-15T10:09:45+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Behavioral Scientist",
+            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
+            "publishedAt": "2026-10-06T22:08:36+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.774,
-        "firstSeen": "2026-11-10T01:08:00.074997+00:00",
+        "score": 2.563,
+        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       }
     ]
@@ -3246,7 +3407,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 25,
+      "items": 27,
       "error": null
     },
     {
@@ -3347,9 +3508,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError: HTTP Error 403: Forbidden"
+      "ok": true,
+      "items": 10,
+      "error": null
     },
     {
       "id": "onefutureuseful",
@@ -3389,9 +3550,9 @@
     }
   ],
   "filteredOut": {
-    "football": 64,
-    "news": 63,
-    "medical": 13,
-    "growth": 41
+    "football": 63,
+    "news": 61,
+    "medical": 14,
+    "growth": 42
   }
 }
