@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:10:34.976582+00:00",
+  "generatedAt": "2026-11-19T16:14:02.590127+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -32,8 +32,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.72,
+        "isNew": false,
+        "score": 11.64,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -63,7 +63,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.27,
+        "score": 11.26,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
@@ -92,7 +92,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.166,
+        "score": 10.106,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00"
       },
       {
@@ -121,8 +121,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.159,
+        "score": 10.099,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00"
+      },
+      {
+        "id": "a28ed875206a",
+        "category": "football",
+        "lang": "en",
+        "title": "Fifa sparks tension with demand for tax-free status in UK for Women’s World Cup",
+        "summary": "It also wants exchange-rate fees exemption for 2035 Fifa at loggerheads with UK’s four FAs and government Fifa is at loggerheads with the UK’s government and four Football Associations over the world governing body’s demands for tax-free status and…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
+        "publishedAt": "2026-11-19T16:00:06+00:00",
+        "subtopics": [
+          "World Cup",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
+            "publishedAt": "2026-11-19T16:00:06+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 9.476,
+        "firstSeen": "2026-11-19T16:14:02.590127+00:00",
+        "transfer": "RUMOUR"
       },
       {
         "id": "8aa9023b1e8d",
@@ -150,7 +180,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.565,
+        "score": 6.508,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00"
       },
       {
@@ -179,7 +209,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.199,
+        "score": 6.156,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "transfer": "RUMOUR"
       },
@@ -209,7 +239,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.168,
+        "score": 6.126,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "transfer": "REPORTED"
       },
@@ -238,8 +268,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.713,
+        "isNew": false,
+        "score": 5.615,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -269,7 +299,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.477,
+        "score": 5.46,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       },
       {
@@ -298,7 +328,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.442,
+        "score": 5.426,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       },
       {
@@ -326,8 +356,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.759,
+        "isNew": false,
+        "score": 4.732,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -356,7 +386,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.349,
+        "score": 4.301,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00"
       },
       {
@@ -385,7 +415,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.216,
+        "score": 3.191,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00"
       },
       {
@@ -414,7 +444,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.96,
+        "score": 2.943,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       },
       {
@@ -443,7 +473,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.815,
+        "score": 2.803,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
@@ -472,11 +502,103 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.519,
+        "score": 2.501,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       }
     ],
     "news": [
+      {
+        "id": "f2a8b0add3ac",
+        "category": "news",
+        "lang": "de",
+        "title": "Volkswagen will Nullrunden für zwei Jahre",
+        "summary": "Nullrunden, weniger Zulagen und Änderungen bei der Arbeitszeit - Volkswagen will harte Einschnitte in der anstehenden Tarifrunde durchsetzen. Die IG Metall wirft dem Konzern vor, mit dem \"Messer in den Rücken\" der Arbeitnehmer zu fallen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
+        "publishedAt": "2026-11-19T16:11:57+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
+            "publishedAt": "2026-11-19T16:11:57+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.998,
+        "firstSeen": "2026-11-19T16:14:02.590127+00:00"
+      },
+      {
+        "id": "82a5197e41dc",
+        "category": "news",
+        "lang": "de",
+        "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+        "summary": "Zum ersten Mal geht mit Anthropic ein maßgebliches KI-Unternehmen an den Markt. Der Börsengang wird der größte in der Geschichte.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+        "publishedAt": "2026-11-19T15:34:22+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+            "publishedAt": "2026-11-19T15:34:22+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
+            "publishedAt": "2026-11-19T15:34:22+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+            "publishedAt": "2026-11-19T06:44:41+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
+            "publishedAt": "2026-11-19T06:44:41+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": true,
+        "latestUpdate": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+        "earlier": [
+          {
+            "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
+            "source": "Tagesschau",
+            "publishedAt": "2026-11-19T15:34:22+00:00"
+          },
+          {
+            "title": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
+            "source": "Tagesschau",
+            "publishedAt": "2026-11-19T06:44:41+00:00"
+          },
+          {
+            "title": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
+            "source": "Tagesschau",
+            "publishedAt": "2026-11-19T06:44:41+00:00"
+          }
+        ],
+        "isNew": false,
+        "score": 7.971,
+        "firstSeen": "2026-11-19T15:10:34.976582+00:00"
+      },
       {
         "id": "945b85d1490a",
         "category": "news",
@@ -508,8 +630,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.902,
+        "isNew": false,
+        "score": 7.857,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -537,8 +659,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.824,
+        "isNew": false,
+        "score": 7.779,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -567,8 +689,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.758,
+        "isNew": false,
+        "score": 7.715,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -602,43 +724,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.728,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00"
-      },
-      {
-        "id": "82a5197e41dc",
-        "category": "news",
-        "lang": "de",
-        "title": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
-        "summary": "Zum ersten Mal geht mit Anthropic ein maßgebliches KI-Unternehmen an den Markt. Der Börsengang wird der größte in der Geschichte.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-        "publishedAt": "2026-11-19T06:44:41+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-            "publishedAt": "2026-11-19T06:44:41+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
-            "publishedAt": "2026-11-19T06:44:41+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.646,
+        "isNew": false,
+        "score": 7.685,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -666,8 +753,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.258,
+        "isNew": false,
+        "score": 7.217,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -702,7 +789,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.117,
+        "score": 7.084,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -737,7 +824,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.113,
+        "score": 7.08,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -766,7 +853,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.055,
+        "score": 7.023,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -795,7 +882,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.032,
+        "score": 7.0,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -824,7 +911,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.022,
+        "score": 6.991,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -859,7 +946,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.0,
+        "score": 6.968,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -894,7 +981,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.982,
+        "score": 6.951,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -923,43 +1010,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.945,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00"
-      },
-      {
-        "id": "fc7068d0d49c",
-        "category": "news",
-        "lang": "de",
-        "title": "Firmenporträt: Anthropics halsbrecherischer Aufstieg",
-        "summary": "Google schwor einst, nicht böse zu sein. OpenAI wolle KI fürs Gemeinwohl nutzen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
-        "publishedAt": "2026-11-19T13:30:31+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
-            "publishedAt": "2026-11-19T13:30:31+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
-            "publishedAt": "2026-11-19T13:30:31+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.926,
+        "isNew": false,
+        "score": 6.899,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -994,8 +1046,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.912,
+        "score": 6.882,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
+      },
+      {
+        "id": "fc7068d0d49c",
+        "category": "news",
+        "lang": "de",
+        "title": "Firmenporträt: Anthropics halsbrecherischer Aufstieg",
+        "summary": "Google schwor einst, nicht böse zu sein. OpenAI wolle KI fürs Gemeinwohl nutzen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
+        "publishedAt": "2026-11-19T13:30:31+00:00",
+        "subtopics": [
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
+            "publishedAt": "2026-11-19T13:30:31+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
+            "publishedAt": "2026-11-19T13:30:31+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.881,
+        "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
         "id": "c996a5c7b4c1",
@@ -1029,7 +1116,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.807,
+        "score": 6.778,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1058,7 +1145,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.804,
+        "score": 6.776,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1093,7 +1180,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.779,
+        "score": 6.751,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1121,8 +1208,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.595,
+        "isNew": false,
+        "score": 6.548,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1157,7 +1244,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.506,
+        "score": 6.483,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00"
       },
       {
@@ -1186,36 +1273,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.497,
+        "score": 6.468,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
-      },
-      {
-        "id": "db271e31783f",
-        "category": "news",
-        "lang": "de",
-        "title": "S-Bahn Hamburg: Sperrung der S1 wegen Brückenbauarbeiten am Berliner Tor",
-        "summary": "Die Linie S1 wird am nächsten und übernächsten Wochenende zwischen Berliner Tor und Barmbek gesperrt. Grund sind Bauarbeiten am Berliner Tor.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-hamburg-sperrung-der-s1-wegen-brueckenbauarbeiten-am-berliner-tor,s-bahn-180.html",
-        "publishedAt": "2026-11-19T11:35:58+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-hamburg-sperrung-der-s1-wegen-brueckenbauarbeiten-am-berliner-tor,s-bahn-180.html",
-            "publishedAt": "2026-11-19T11:35:58+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.444,
-        "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
         "id": "38950363706e",
@@ -1249,8 +1308,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.436,
+        "score": 6.413,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
+      },
+      {
+        "id": "db271e31783f",
+        "category": "news",
+        "lang": "de",
+        "title": "S-Bahn Hamburg: Sperrung der S1 wegen Brückenbauarbeiten am Berliner Tor",
+        "summary": "Die Linie S1 wird am nächsten und übernächsten Wochenende zwischen Berliner Tor und Barmbek gesperrt. Grund sind Bauarbeiten am Berliner Tor.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-hamburg-sperrung-der-s1-wegen-brueckenbauarbeiten-am-berliner-tor,s-bahn-180.html",
+        "publishedAt": "2026-11-19T11:35:58+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-hamburg-sperrung-der-s1-wegen-brueckenbauarbeiten-am-berliner-tor,s-bahn-180.html",
+            "publishedAt": "2026-11-19T11:35:58+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.4,
+        "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
         "id": "9d8288b580a8",
@@ -1277,7 +1364,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.413,
+        "score": 6.37,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1341,7 +1428,7 @@
           }
         ],
         "isNew": false,
-        "score": 6.391,
+        "score": 6.37,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
@@ -1376,7 +1463,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.342,
+        "score": 6.321,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       },
       {
@@ -1406,7 +1493,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.32,
+        "score": 6.299,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       },
       {
@@ -1435,7 +1522,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.23,
+        "score": 6.211,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       },
       {
@@ -1464,7 +1551,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.194,
+        "score": 6.175,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
@@ -1499,7 +1586,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.001,
+        "score": 5.985,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00"
       },
       {
@@ -1534,7 +1621,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.992,
+        "score": 5.976,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
@@ -1563,7 +1650,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.971,
+        "score": 5.956,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       },
       {
@@ -1592,36 +1679,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.925,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00"
-      },
-      {
-        "id": "4581f457f6f8",
-        "category": "news",
-        "lang": "de",
-        "title": "Missglückter Raketenstart: Amazon verliert 40 Satelliten",
-        "summary": "Techmilliardär Musks Starlink-Netzwerk dominiert, aber Amazon will ihm Konkurrenz machen. Nun muss das Unternehmen von Jeff Bezos aber einen Rückschlag hinnehmen - und der könnte langfristige Folgen haben.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
-        "publishedAt": "2026-11-16T06:48:12+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/technologie/rakete-amazon-satelliten-100.html",
-            "publishedAt": "2026-11-16T06:48:12+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.907,
+        "score": 5.911,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00"
       }
     ],
@@ -1653,7 +1711,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.647,
+        "score": 10.637,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1683,8 +1741,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 10.482,
+        "isNew": false,
+        "score": 10.468,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1716,7 +1774,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.909,
+        "score": 9.903,
         "firstSeen": "2026-10-05T13:29:24.679791+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1747,7 +1805,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.647,
+        "score": 7.637,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1779,7 +1837,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.647,
+        "score": 7.637,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1829,7 +1887,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.062,
+        "score": 7.055,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1861,7 +1919,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.062,
+        "score": 7.055,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1893,7 +1951,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.062,
+        "score": 7.055,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1924,7 +1982,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.893,
+        "score": 6.881,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1956,7 +2014,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.87,
+        "score": 6.857,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1987,7 +2045,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.609,
+        "score": 5.603,
         "firstSeen": "2026-11-12T14:33:23.049878+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2017,7 +2075,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.762,
+        "score": 4.755,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2047,7 +2105,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.182,
+        "score": 4.168,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2077,7 +2135,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.341,
+        "score": 3.326,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2108,8 +2166,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.293,
+        "isNew": false,
+        "score": 6.246,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "video",
         "video": {
@@ -2144,8 +2202,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.712,
+        "isNew": false,
+        "score": 5.666,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "article"
       },
@@ -2221,7 +2279,7 @@
           }
         ],
         "isNew": false,
-        "score": 4.893,
+        "score": 4.856,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
       },
@@ -2250,7 +2308,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.885,
+        "score": 4.852,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
@@ -2280,7 +2338,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.837,
+        "score": 4.805,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -2310,9 +2368,45 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.753,
+        "score": 4.723,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
+      },
+      {
+        "id": "5dcd7e36bc14",
+        "category": "growth",
+        "lang": "en",
+        "title": "How to Teach a Robot to Dance | David Dobáš | TED",
+        "summary": "Teaching a robot to dance, move or even stand up used to take countless hours of training. Now, by simply recording a video, you can teach a robot a new skill in a fraction of the time, says roboticist David Dobáš.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=0-C6SKjKek4",
+        "publishedAt": "2026-11-16T16:29:53+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=0-C6SKjKek4",
+            "publishedAt": "2026-11-16T16:29:53+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.632,
+        "firstSeen": "2026-11-16T16:41:13.634126+00:00",
+        "kind": "video",
+        "video": {
+          "id": "0-C6SKjKek4",
+          "thumbUrl": "https://i1.ytimg.com/vi/0-C6SKjKek4/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=0-C6SKjKek4",
+          "channel": "TED"
+        }
       },
       {
         "id": "4b4d48f19f03",
@@ -2345,45 +2439,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.662,
+        "score": 4.628,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
-      },
-      {
-        "id": "5dcd7e36bc14",
-        "category": "growth",
-        "lang": "en",
-        "title": "How to Teach a Robot to Dance | David Dobáš | TED",
-        "summary": "Teaching a robot to dance, move or even stand up used to take countless hours of training. Now, by simply recording a video, you can teach a robot a new skill in a fraction of the time, says roboticist David Dobáš.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=0-C6SKjKek4",
-        "publishedAt": "2026-11-16T16:29:53+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=0-C6SKjKek4",
-            "publishedAt": "2026-11-16T16:29:53+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.648,
-        "firstSeen": "2026-11-16T16:41:13.634126+00:00",
-        "kind": "video",
-        "video": {
-          "id": "0-C6SKjKek4",
-          "thumbUrl": "https://i1.ytimg.com/vi/0-C6SKjKek4/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=0-C6SKjKek4",
-          "channel": "TED"
-        }
       },
       {
         "id": "569017a70fd8",
@@ -2410,7 +2468,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.624,
+        "score": 4.591,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
@@ -2439,7 +2497,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.586,
+        "score": 4.553,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -2469,7 +2527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.147,
+        "score": 4.121,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -2500,7 +2558,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.141,
+        "score": 4.116,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -2530,7 +2588,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.005,
+        "score": 3.981,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -2560,7 +2618,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.884,
+        "score": 3.883,
         "firstSeen": "2026-11-19T00:55:15.585925+00:00",
         "kind": "video",
         "video": {
@@ -2596,7 +2654,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.868,
+        "score": 3.859,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "video",
         "video": {
@@ -2633,7 +2691,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.829,
+        "score": 3.828,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2669,7 +2727,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.771,
+        "score": 3.77,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00",
         "kind": "video",
         "video": {
@@ -2705,7 +2763,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.763,
+        "score": 3.762,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00",
         "kind": "video",
         "video": {
@@ -2741,7 +2799,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.742,
+        "score": 3.741,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00",
         "kind": "video",
         "video": {
@@ -2778,7 +2836,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.707,
+        "score": 3.706,
         "firstSeen": "2026-11-10T23:51:18.026954+00:00",
         "kind": "video",
         "video": {
@@ -2816,7 +2874,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.664,
+        "score": 3.663,
         "firstSeen": "2026-11-08T21:38:14.306170+00:00",
         "kind": "video",
         "video": {
@@ -2889,7 +2947,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.328,
+        "score": 3.327,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -2931,7 +2989,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.312,
+        "score": 3.299,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -2962,7 +3020,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.293,
+        "score": 3.292,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -2998,7 +3056,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.267,
+        "score": 3.266,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -3034,7 +3092,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.109,
+        "score": 3.1,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00",
         "kind": "article"
       },
@@ -3063,7 +3121,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.107,
+        "score": 3.098,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -3092,7 +3150,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.074,
+        "score": 3.065,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
       },
@@ -3100,7 +3158,7 @@
         "id": "5e198fff68c7",
         "category": "growth",
         "lang": "en",
-        "title": "Bing Gordon: In the Room With Bezos, Jobs, and Spielberg",
+        "title": "Bing Gordon: Learning From Bezos, Jobs, and Spielberg",
         "summary": "Bing Gordon is the former Chief Creative Officer of Electronic Arts and a partner at Kleiner Perkins. He served on Amazon’s board for more than a decade, a seat he earned after giving Jeff Bezos five ideas.",
         "needsSummary": true,
         "readMore": null,
@@ -3120,8 +3178,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 2.796,
+        "isNew": false,
+        "score": 2.794,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "article"
       },
@@ -3152,7 +3210,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.749,
+        "score": 2.748,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "kind": "article"
       },
@@ -3183,45 +3241,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.599,
+        "score": 2.598,
         "firstSeen": "2026-11-10T14:14:38.715347+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "126aa063fc33",
-        "category": "growth",
-        "lang": "en",
-        "title": "View the I-Frame vs. S-Frame Roundtable Discussion",
-        "summary": "Applied behavioral scientists believe their work can influence people’s lives for the better. But what is the most effective way to make that happen?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
-        "publishedAt": "2026-10-15T10:09:45+00:00",
-        "subtopics": [
-          "Productivity & systems",
-          "Communication",
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/view-the-i-frame-vs-s-frame-roundtable-discussion/",
-            "publishedAt": "2026-10-15T10:09:45+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Behavioral Scientist",
-            "url": "https://behavioralscientist.org/frontiers-a-roundtable-discussion-on-the-i-frame-vs-s-frame-debate/",
-            "publishedAt": "2026-10-06T22:08:36+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.538,
-        "firstSeen": "2026-10-07T12:34:32.938707+00:00",
         "kind": "article"
       },
       {
@@ -3250,7 +3271,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.507,
+        "score": 2.506,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "article"
       },
@@ -3282,6 +3303,36 @@
         "isNew": false,
         "score": 2.475,
         "firstSeen": "2026-11-03T14:48:50.268381+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "d15e979ec6ce",
+        "category": "growth",
+        "lang": "en",
+        "title": "Can You Count on Social Security in Retirement?",
+        "summary": "A few weeks ago, this tweet set off a firestorm on Twitter/X: JUST IN: 🇺🇸 US boomers overwhelmingly support higher taxes on younger workers to maintain current Social Security benefits, poll shows. After the usual boomer bashing, the conversation quickly…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://ofdollarsanddata.com/can-you-count-on-social-security-in-retirement/",
+        "publishedAt": "2026-10-27T11:45:50+00:00",
+        "subtopics": [
+          "Productivity & systems",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Of Dollars And Data",
+            "url": "https://ofdollarsanddata.com/can-you-count-on-social-security-in-retirement/",
+            "publishedAt": "2026-10-27T11:45:50+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.373,
+        "firstSeen": "2026-10-27T12:55:00.387721+00:00",
         "kind": "article"
       }
     ]
@@ -3320,7 +3371,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 31,
+      "items": 33,
       "error": null
     },
     {
@@ -3421,9 +3472,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 415: Unsupported Media Type"
     },
     {
       "id": "onefutureuseful",
@@ -3463,7 +3514,7 @@
     }
   ],
   "filteredOut": {
-    "football": 65,
+    "football": 64,
     "news": 67,
     "medical": 13,
     "growth": 46
