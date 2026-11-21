@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T00:33:14.404176+00:00",
+  "generatedAt": "2026-11-21T14:08:06.606322+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,7 +34,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.039,
+        "score": 11.648,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "transfer": "OFFICIAL"
       },
@@ -63,7 +63,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.197,
+        "score": 9.935,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -92,7 +92,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.023,
+        "score": 8.826,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00"
       },
       {
@@ -121,37 +121,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.233,
+        "score": 7.769,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       },
       {
-        "id": "ab343b67a935",
+        "id": "75bb026198f6",
         "category": "football",
         "lang": "en",
-        "title": "OL Lyonnes show their class to hit Arsenal’s ambitions for a top-four WCL finish",
-        "summary": "Arsenal’s hopes of earning automatic progression to the Champions League quarter-finals were dashed by OL Lyonnes, as the French side continued their statement form in Europe. Goals in either half from Jule Brand and Melchie Dumornay were the ­difference at…",
+        "title": "Bayern draw with Cologne as Kane picks up ankle injury",
+        "summary": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
-        "publishedAt": "2026-11-19T22:05:36+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-21T13:29:40+00:00",
         "subtopics": [
-          "Champions League",
-          "UCL status"
+          "Bundesliga",
+          "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
-            "publishedAt": "2026-11-19T22:05:36+00:00",
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T13:29:40+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.697,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00"
+        "isNew": true,
+        "score": 6.434,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
         "id": "b857fbc70dfb",
@@ -179,8 +179,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.141,
+        "score": 6.336,
         "firstSeen": "2026-11-20T15:52:31.042973+00:00"
+      },
+      {
+        "id": "06184e94bbb0",
+        "category": "football",
+        "lang": "en",
+        "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
+        "summary": "A combination of smart analytics, a young manager and players hand-picked for their particular skills has the Seagulls flying high They lined up in sky‑blue shirts, white shorts. A combined value of £327m.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
+        "publishedAt": "2026-11-21T06:00:52+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
+            "publishedAt": "2026-11-21T06:00:52+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.763,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
         "id": "c55e77722943",
@@ -208,66 +237,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.557,
+        "score": 5.595,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00"
-      },
-      {
-        "id": "03b329e78d51",
-        "category": "football",
-        "lang": "en",
-        "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
-        "summary": "England forward injured in Friday’s 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out for the next few months” with ankle ligament damage sustained in their 1-1 draw with…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-        "publishedAt": "2026-11-20T22:43:40+00:00",
-        "subtopics": [
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-            "publishedAt": "2026-11-20T22:43:40+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.316,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00"
-      },
-      {
-        "id": "1be482b5c896",
-        "category": "football",
-        "lang": "en",
-        "title": "What history tells us about the Premier League table after 10 games of a season",
-        "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegated The Premier League is about to enter the most intense phase of its season. After 10 rounds of fixtures across the past three months there…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-        "publishedAt": "2026-11-20T08:00:26+00:00",
-        "subtopics": [
-          "Premier League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-            "publishedAt": "2026-11-20T08:00:26+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.189,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
         "id": "8aa9023b1e8d",
@@ -295,28 +266,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.491,
+        "score": 5.306,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00"
       },
       {
-        "id": "3ee36b903efc",
+        "id": "03b329e78d51",
         "category": "football",
         "lang": "en",
-        "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
-        "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster against the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry The awarding of broadcast rights in the United States for this year’s World Cup was a…",
+        "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
+        "summary": "England forward injured in Friday’s 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out for the next few months” with ankle ligament damage sustained in their 1-1 draw with…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
-        "publishedAt": "2026-11-18T12:01:00+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+        "publishedAt": "2026-11-20T22:43:40+00:00",
         "subtopics": [
-          "World Cup",
-          "Transfers"
+          "Bundesliga",
+          "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
-            "publishedAt": "2026-11-18T12:01:00+00:00",
+            "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+            "publishedAt": "2026-11-20T22:43:40+00:00",
             "tier": 2
           }
         ],
@@ -324,9 +295,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.367,
-        "firstSeen": "2026-11-18T15:01:22.899485+00:00",
-        "transfer": "REPORTED"
+        "score": 5.257,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00"
       },
       {
         "id": "dbed9135318f",
@@ -354,7 +324,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.779,
+        "score": 4.298,
         "firstSeen": "2026-11-20T00:58:46.358472+00:00"
       },
       {
@@ -383,7 +353,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.07,
+        "score": 3.668,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       },
       {
@@ -412,7 +382,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.851,
+        "score": 3.531,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -441,11 +411,168 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.697,
+        "score": 3.247,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       }
     ],
     "news": [
+      {
+        "id": "c713313476fe",
+        "category": "news",
+        "lang": "de",
+        "title": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
+        "summary": "Der im Sommer verstorbene Klaus-Michael Kühne war einer der prägendsten Unternehmer der deutschen Nachkriegsgeschichte. Sein Umgang mit der Vergangenheit seines Imperiums war umstritten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
+        "publishedAt": "2026-11-21T12:36:54+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
+            "publishedAt": "2026-11-21T12:36:54+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
+            "publishedAt": "2026-11-21T12:36:54+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.933,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
+      },
+      {
+        "id": "ddb6c24dc07a",
+        "category": "news",
+        "lang": "de",
+        "title": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
+        "summary": "Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
+        "publishedAt": "2026-11-21T09:39:17+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
+            "publishedAt": "2026-11-21T09:39:17+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
+            "publishedAt": "2026-11-21T09:39:17+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.807,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
+      },
+      {
+        "id": "72b41ad445d9",
+        "category": "news",
+        "lang": "de",
+        "title": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
+        "summary": "Schweinehaltung in Deutschland ist ein Verlustgeschäft - Liquiditätshilfen in Höhe von 25 Millionen Euro sollen jetzt den Betrieben helfen. Doch das Notfallprogramm allein wird nicht ausreichen, warnen Landwirte und Opposition.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
+        "publishedAt": "2026-11-21T08:26:38+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
+            "publishedAt": "2026-11-21T08:26:38+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.756,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
+      },
+      {
+        "id": "620bd0d11cb4",
+        "category": "news",
+        "lang": "de",
+        "title": "FDP-Parteitag in Hamburg: Hoffnung trotz Wahlniederlagen",
+        "summary": "Die Hamburger Liberalen tagen in einer Schulaula in Barmbek. Die Spitze sieht bessere Zeiten kommen, Mitglieder üben Kritik.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/fdp-parteitag-in-hamburg-hoffnung-trotz-wahlniederlagen,fdp-384.html",
+        "publishedAt": "2026-11-21T12:30:10+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/fdp-parteitag-in-hamburg-hoffnung-trotz-wahlniederlagen,fdp-384.html",
+            "publishedAt": "2026-11-21T12:30:10+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.528,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
+      },
+      {
+        "id": "c3db824cce56",
+        "category": "news",
+        "lang": "de",
+        "title": "Handelsverband Nord rechnet mit gutem Weihnachtsgeschäft",
+        "summary": "Für November und Dezember erwartet der Verband in Hamburg ein Umsatzplus von 2,4 Prozent. Das wären 3,3 Milliarden Euro.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/handelsverband-nord-rechnet-mit-gutem-weihnachtsgeschaeft,weihnachten-584.html",
+        "publishedAt": "2026-11-21T08:05:25+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/handelsverband-nord-rechnet-mit-gutem-weihnachtsgeschaeft,weihnachten-584.html",
+            "publishedAt": "2026-11-21T08:05:25+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.342,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
+      },
       {
         "id": "aa6f0eb64681",
         "category": "news",
@@ -478,7 +605,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.77,
+        "score": 7.263,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
@@ -513,7 +640,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.693,
+        "score": 7.2,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
@@ -542,7 +669,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.655,
+        "score": 7.169,
         "firstSeen": "2026-11-20T15:52:31.042973+00:00"
       },
       {
@@ -571,7 +698,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.415,
+        "score": 6.9,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00"
       },
       {
@@ -606,7 +733,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.379,
+        "score": 6.871,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00"
       },
       {
@@ -658,7 +785,7 @@
           }
         ],
         "isNew": false,
-        "score": 6.873,
+        "score": 6.53,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -693,7 +820,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.854,
+        "score": 6.514,
         "firstSeen": "2026-11-19T16:14:02.590127+00:00"
       },
       {
@@ -716,20 +843,43 @@
             "url": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
             "publishedAt": "2026-11-19T12:57:07+00:00",
             "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
-            "publishedAt": "2026-11-19T12:57:07+00:00",
-            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.766,
+        "score": 6.443,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
+      },
+      {
+        "id": "ea44a611fcfc",
+        "category": "news",
+        "lang": "de",
+        "title": "Pfanni-Kloßteig: Gericht untersagt Nachhaltigkeitswerbung",
+        "summary": "Das Hamburger Landgericht hält den Hinweis \"nachhaltiger Anbau\" für irreführend. Unilever will das Urteil akzeptieren.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
+        "publishedAt": "2026-11-21T09:49:33+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
+            "publishedAt": "2026-11-21T09:49:33+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.414,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
         "id": "3915e5eba9be",
@@ -757,7 +907,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.718,
+        "score": 6.404,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -792,93 +942,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.605,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
-      },
-      {
-        "id": "9d8288b580a8",
-        "category": "news",
-        "lang": "de",
-        "title": "A7 in Hamburg und Elbtunnel übers Wochenende voll gesperrt",
-        "summary": "Bis Montag früh ist die Autobahn zwischen Hamburg-Stellingen und Heimfeld wegen Bauarbeiten gesperrt. Umleitungen sind ausgeschildert.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
-        "publishedAt": "2026-11-20T21:47:28+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
-            "publishedAt": "2026-11-20T21:47:28+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.479,
-        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
-      },
-      {
-        "id": "f31f31fff8b6",
-        "category": "news",
-        "lang": "de",
-        "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-        "summary": "Den Anfangshype konnte Anthropic am ersten Börsentag nicht ganz halten. Trotzdem ist die Aktie mit einem deutlichen Kursplus aus dem Handel gegangen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-        "publishedAt": "2026-11-20T08:16:20+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-            "publishedAt": "2026-11-20T08:16:20+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.354,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
-      },
-      {
-        "id": "656b9d0bc943",
-        "category": "news",
-        "lang": "de",
-        "title": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
-        "summary": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
-        "publishedAt": "2026-11-20T07:47:56+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
-            "publishedAt": "2026-11-20T07:47:56+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.338,
+        "score": 6.128,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
@@ -913,7 +977,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.289,
+        "score": 6.053,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -948,7 +1012,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.286,
+        "score": 6.051,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -977,7 +1041,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.237,
+        "score": 6.01,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1006,7 +1070,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.231,
+        "score": 6.005,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1041,7 +1105,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.217,
+        "score": 5.994,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1076,7 +1140,35 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.206,
+        "score": 5.985,
+        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
+      },
+      {
+        "id": "9d8288b580a8",
+        "category": "news",
+        "lang": "de",
+        "title": "A7 in Hamburg und Elbtunnel übers Wochenende voll gesperrt",
+        "summary": "Bis Montag früh ist die Autobahn zwischen Hamburg-Stellingen und Heimfeld wegen Bauarbeiten gesperrt. Umleitungen sind ausgeschildert.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
+        "publishedAt": "2026-11-20T21:47:28+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
+            "publishedAt": "2026-11-20T21:47:28+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.952,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1111,7 +1203,129 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.164,
+        "score": 5.951,
+        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
+      },
+      {
+        "id": "f31f31fff8b6",
+        "category": "news",
+        "lang": "de",
+        "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
+        "summary": "Den Anfangshype konnte Anthropic am ersten Börsentag nicht ganz halten. Trotzdem ist die Aktie mit einem deutlichen Kursplus aus dem Handel gegangen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
+        "publishedAt": "2026-11-20T08:16:20+00:00",
+        "subtopics": [
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
+            "publishedAt": "2026-11-20T08:16:20+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.924,
+        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
+      },
+      {
+        "id": "656b9d0bc943",
+        "category": "news",
+        "lang": "de",
+        "title": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
+        "summary": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
+        "publishedAt": "2026-11-20T07:47:56+00:00",
+        "subtopics": [
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
+            "publishedAt": "2026-11-20T07:47:56+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.91,
+        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
+      },
+      {
+        "id": "c996a5c7b4c1",
+        "category": "news",
+        "lang": "de",
+        "title": "Bundestagswahl 2025: Karlsruhe entscheidet über BSW-Wahlbeschwerde",
+        "summary": "Bei der Bundestagswahl 2025 fehlten dem BSW weniger als 10.000 Stimmen für den Einzug ins Parlament. Im Streit um eine Neuauszählung steht jetzt eine Entscheidung aus Karlsruhe an.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html",
+        "publishedAt": "2026-11-18T05:05:41+00:00",
+        "subtopics": [
+          "Germany",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html",
+            "publishedAt": "2026-11-18T05:05:41+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html",
+            "publishedAt": "2026-11-18T05:05:41+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.898,
+        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
+      },
+      {
+        "id": "f684abd53b82",
+        "category": "news",
+        "lang": "de",
+        "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
+        "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+        "publishedAt": "2026-11-18T04:02:36+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+            "publishedAt": "2026-11-18T04:02:36+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.884,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1146,78 +1360,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.143,
+        "score": 5.788,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00"
-      },
-      {
-        "id": "c996a5c7b4c1",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundestagswahl 2025: Karlsruhe entscheidet über BSW-Wahlbeschwerde",
-        "summary": "Bei der Bundestagswahl 2025 fehlten dem BSW weniger als 10.000 Stimmen für den Einzug ins Parlament. Im Streit um eine Neuauszählung steht jetzt eine Entscheidung aus Karlsruhe an.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html",
-        "publishedAt": "2026-11-18T05:05:41+00:00",
-        "subtopics": [
-          "Germany",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html",
-            "publishedAt": "2026-11-18T05:05:41+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/muss-bundestagswahl-neu-ausgezaehlt-werden-bsw-100.html",
-            "publishedAt": "2026-11-18T05:05:41+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.099,
-        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
-      },
-      {
-        "id": "f684abd53b82",
-        "category": "news",
-        "lang": "de",
-        "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
-        "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-        "publishedAt": "2026-11-18T04:02:36+00:00",
-        "subtopics": [
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-            "publishedAt": "2026-11-18T04:02:36+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
-            "publishedAt": "2026-11-18T04:02:36+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.082,
-        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
         "id": "16eae1369efb",
@@ -1251,7 +1395,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.917,
+        "score": 5.749,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00"
       },
       {
@@ -1286,7 +1430,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.874,
+        "score": 5.714,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       },
       {
@@ -1350,7 +1494,7 @@
           }
         ],
         "isNew": false,
-        "score": 5.847,
+        "score": 5.692,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
@@ -1385,131 +1529,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.817,
+        "score": 5.667,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
-      },
-      {
-        "id": "505e5d63bb64",
-        "category": "news",
-        "lang": "de",
-        "title": "KI-gestützter Cyberangriff auf EU-Kommission",
-        "summary": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
-        "publishedAt": "2026-11-19T13:56:39+00:00",
-        "subtopics": [
-          "EU",
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
-            "publishedAt": "2026-11-19T13:56:39+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.792,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00"
-      },
-      {
-        "id": "fc7068d0d49c",
-        "category": "news",
-        "lang": "de",
-        "title": "Firmenporträt: Anthropics halsbrecherischer Aufstieg",
-        "summary": "Google schwor einst, nicht böse zu sein. OpenAI wollte KI fürs Gemeinwohl nutzen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
-        "publishedAt": "2026-11-19T13:30:31+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
-            "publishedAt": "2026-11-19T13:30:31+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html",
-            "publishedAt": "2026-11-19T13:30:31+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.781,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00"
-      },
-      {
-        "id": "55201d06daf2",
-        "category": "news",
-        "lang": "de",
-        "title": "Protest von \"Gen Z regelt\": Eine zersplitterte Bewegung",
-        "summary": "Die Protestbewegung \"Gen Z regelt\" fordert von der Politik, viele verschiedene Lebens- und Gerechtigkeitsfragen für die junge Generation zu lösen. Hat sie damit Erfolg?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html",
-        "publishedAt": "2026-11-20T11:40:48+00:00",
-        "subtopics": [
-          "Germany",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html",
-            "publishedAt": "2026-11-20T11:40:48+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.777,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
-      },
-      {
-        "id": "73b4904e0e72",
-        "category": "news",
-        "lang": "de",
-        "title": "Gerichtssaal 237: Terrorprozess um Landshut-Entführung",
-        "summary": "Gerichtssaal 237: Terrorprozess um Landshut-Entführung",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ardsounds.de/episode/urn:ard:episode:64ab530ef8df5d84/",
-        "publishedAt": "2026-11-18T08:23:13+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ardsounds.de/episode/urn:ard:episode:64ab530ef8df5d84/",
-            "publishedAt": "2026-11-18T08:23:13+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.755,
-        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
         "id": "357dcde4080c",
@@ -1537,28 +1558,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.727,
+        "score": 5.594,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
-        "id": "d7af2f6e6591",
+        "id": "73b4904e0e72",
         "category": "news",
         "lang": "de",
-        "title": "Gen-Z-Proteste: Dafür gehen junge Hamburger auf die Straße",
-        "summary": "Jugendliche aus verschiedenen Gruppen organisieren sich im Rahmen der Gen-Z-Proteste für ihre Zukunft. Was treibt sie an?",
+        "title": "Gerichtssaal 237: Terrorprozess um Landshut-Entführung",
+        "summary": "Gerichtssaal 237: Terrorprozess um Landshut-Entführung",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/gen-z-proteste-dafuer-gehen-junge-hamburger-auf-die-strasse,genzjugendorganisiertsich-100.html",
-        "publishedAt": "2026-11-20T19:08:17+00:00",
+        "url": "https://www.ardsounds.de/episode/urn:ard:episode:64ab530ef8df5d84/",
+        "publishedAt": "2026-11-18T08:23:13+00:00",
         "subtopics": [
           "Hamburg",
-          "Protests"
+          "Law & Policy"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/gen-z-proteste-dafuer-gehen-junge-hamburger-auf-die-strasse,genzjugendorganisiertsich-100.html",
-            "publishedAt": "2026-11-20T19:08:17+00:00",
+            "url": "https://www.ardsounds.de/episode/urn:ard:episode:64ab530ef8df5d84/",
+            "publishedAt": "2026-11-18T08:23:13+00:00",
             "tier": 1
           }
         ],
@@ -1566,81 +1587,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.668,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00"
-      },
-      {
-        "id": "41f307b15d6c",
-        "category": "news",
-        "lang": "de",
-        "title": "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
-        "summary": "Der Schweriner Landtag hat Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig wiedergewählt. Das Parlament bestätigte die SPD-Politikerin für weitere fünf Jahre im Amt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html",
-        "publishedAt": "2026-11-16T13:23:01+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html",
-            "publishedAt": "2026-11-16T13:23:01+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html",
-            "publishedAt": "2026-11-16T13:23:01+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.609,
-        "firstSeen": "2026-11-16T16:41:13.634126+00:00"
-      },
-      {
-        "id": "519c97ac941e",
-        "category": "news",
-        "lang": "de",
-        "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
-        "summary": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
-        "publishedAt": "2026-11-16T12:46:45+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
-            "publishedAt": "2026-11-16T12:46:45+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html",
-            "publishedAt": "2026-11-16T12:46:45+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.603,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00"
+        "score": 5.543,
+        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       }
     ],
     "medical": [
+      {
+        "id": "a2bf3f164f09",
+        "category": "medical",
+        "lang": "en",
+        "title": "Acellular Dermal Matrix Investigation in Breast Reconstruction",
+        "summary": "Prospective, multi-center, dual-arm non-randomized clinical study in females undergoing a two-stage breast reconstruction using a pre-pectoral technique.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT06456554",
+        "publishedAt": "2026-11-16T00:00:00+00:00",
+        "subtopics": [
+          "Reconstructive surgery",
+          "Plastic surgery",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06456554",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 10.242,
+        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": true
+      },
       {
         "id": "1d81b637cae0",
         "category": "medical",
@@ -1673,40 +1656,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.356,
+        "score": 10.183,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": true
-      },
-      {
-        "id": "a2bf3f164f09",
-        "category": "medical",
-        "lang": "en",
-        "title": "Acellular Dermal Matrix Investigation in Breast Reconstruction",
-        "summary": "Prospective, multi-center, dual-arm non-randomized clinical study in females undergoing a two-stage breast reconstruction using a pre-pectoral technique.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT06456554",
-        "publishedAt": "2026-11-16T00:00:00+00:00",
-        "subtopics": [
-          "Reconstructive surgery",
-          "Plastic surgery",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06456554",
-            "publishedAt": "2026-11-16T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 10.35,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
       },
@@ -1736,7 +1687,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.058,
+        "score": 9.904,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1768,38 +1719,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.356,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "1d2ee4a52b19",
-        "category": "medical",
-        "lang": "en",
-        "title": "Modified Coronally Advanced Tunnel Technique Versus Vestibular Incision Subperiosteal Tunnel Access Technique With Volume Stable Collagen Matrix in RT3 Gingival Recession",
-        "summary": "This study aims to compare MCAT technique (supraperiosteal approach with coronal advancement of flap) with VISTA technique(subperiosteal approach with coronal advancement of flap), Further, it may be hypothesized that supraperiosteal placement of graft…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT06433986",
-        "publishedAt": "2026-11-20T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Reconstructive surgery"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06433986",
-            "publishedAt": "2026-11-20T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.356,
+        "score": 8.183,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1830,7 +1750,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.35,
+        "score": 7.242,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1862,8 +1782,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.35,
+        "score": 7.242,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "1d2ee4a52b19",
+        "category": "medical",
+        "lang": "en",
+        "title": "Modified Coronally Advanced Tunnel Technique Versus Vestibular Incision Subperiosteal Tunnel Access Technique With Volume Stable Collagen Matrix in RT3 Gingival Recession",
+        "summary": "This study aims to compare MCAT technique (supraperiosteal approach with coronal advancement of flap) with VISTA technique(subperiosteal approach with coronal advancement of flap), Further, it may be hypothesized that supraperiosteal placement of graft…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT06433986",
+        "publishedAt": "2026-11-20T00:00:00+00:00",
+        "subtopics": [
+          "Wound care",
+          "Reconstructive surgery"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT06433986",
+            "publishedAt": "2026-11-20T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.183,
+        "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1894,7 +1845,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.854,
+        "score": 6.779,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1926,7 +1877,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.854,
+        "score": 6.779,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1958,7 +1909,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.854,
+        "score": 6.779,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1989,7 +1940,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.558,
+        "score": 6.437,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2021,7 +1972,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.493,
+        "score": 6.357,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2052,7 +2003,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.381,
+        "score": 6.193,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2082,7 +2033,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.361,
+        "score": 5.175,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2118,7 +2069,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.854,
+        "score": 4.779,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2148,7 +2099,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.554,
+        "score": 4.479,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2179,7 +2130,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.186,
+        "score": 3.998,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2209,7 +2160,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.772,
+        "score": 3.624,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2239,7 +2190,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.922,
+        "score": 2.771,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2272,7 +2223,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.176,
+        "score": 5.65,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2309,66 +2260,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.532,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "81ce5b24dd89",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Ravi Vakil",
-        "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-        "publishedAt": "2026-11-20T19:21:49+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-            "publishedAt": "2026-11-20T19:21:49+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.277,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "b8e1839046bc",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Levent Alpöge",
-        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-        "publishedAt": "2026-11-20T16:30:48+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-            "publishedAt": "2026-11-20T16:30:48+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.162,
+        "score": 5.032,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -2397,7 +2289,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.121,
+        "score": 4.788,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "video",
         "video": {
@@ -2407,6 +2299,65 @@
           "watchUrl": "https://www.youtube.com/watch?v=lwfewYL7X0o",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "81ce5b24dd89",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Ravi Vakil",
+        "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+        "publishedAt": "2026-11-20T19:21:49+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+            "publishedAt": "2026-11-20T19:21:49+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.769,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "b8e1839046bc",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Levent Alpöge",
+        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+        "publishedAt": "2026-11-20T16:30:48+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+            "publishedAt": "2026-11-20T16:30:48+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.675,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "article"
       },
       {
         "id": "e486efe85b2a",
@@ -2433,7 +2384,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.671,
+        "score": 4.274,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "kind": "article"
       },
@@ -2462,38 +2413,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.572,
+        "score": 4.248,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4ba1303d2ee2",
-        "category": "growth",
-        "lang": "en",
-        "title": "PostgreSQL 19 Released",
-        "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-        "publishedAt": "2026-11-19T20:43:57+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-            "publishedAt": "2026-11-19T20:43:57+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.483,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "article"
       },
       {
@@ -2521,7 +2442,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.238,
+        "score": 4.121,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2529,6 +2450,146 @@
           "thumbUrl": "https://i1.ytimg.com/vi/0-C6SKjKek4/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=0-C6SKjKek4",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "4ba1303d2ee2",
+        "category": "growth",
+        "lang": "en",
+        "title": "PostgreSQL 19 Released",
+        "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+        "publishedAt": "2026-11-19T20:43:57+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+            "publishedAt": "2026-11-19T20:43:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.12,
+        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "2e01fe09c314",
+        "category": "growth",
+        "lang": "en",
+        "title": "Want Someone to Change? Ask This Question | Philip Jameson | TED",
+        "summary": "Why is it so hard to get someone to change? Leadership expert Philip Jameson has spent years watching people pitch smart ideas at work, only to be met with colleagues resistant to adjusting how things get done.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
+        "publishedAt": "2026-11-20T16:00:02+00:00",
+        "subtopics": [
+          "Presentation & speaking",
+          "Leadership"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
+            "publishedAt": "2026-11-20T16:00:02+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.877,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "video",
+        "video": {
+          "id": "VgOm8nqPlD4",
+          "thumbUrl": "https://i3.ytimg.com/vi/VgOm8nqPlD4/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "7ba936e2e34c",
+        "category": "growth",
+        "lang": "en",
+        "title": "How We’ll Actually Ditch Fossil Fuels — by the Numbers | Michael Liebreich | TED",
+        "summary": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
+        "publishedAt": "2026-11-19T16:00:15+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
+            "publishedAt": "2026-11-19T16:00:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.853,
+        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
+        "kind": "video",
+        "video": {
+          "id": "ACCnhY1fKoI",
+          "thumbUrl": "https://i2.ytimg.com/vi/ACCnhY1fKoI/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "387aa85e0ca9",
+        "category": "growth",
+        "lang": "en",
+        "title": "\"Deep listening” can help you form relationships across generations, cultures and divides #TEDTalks",
+        "summary": "Do you avoid talking to people you disagree with? Author and mediator Emily Kasriel thinks you should try it out.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/Q6MRUhfussk",
+        "publishedAt": "2026-11-19T00:00:32+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/Q6MRUhfussk",
+            "publishedAt": "2026-11-19T00:00:32+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.838,
+        "firstSeen": "2026-11-19T00:55:15.585925+00:00",
+        "kind": "video",
+        "video": {
+          "id": "Q6MRUhfussk",
+          "thumbUrl": "https://i2.ytimg.com/vi/Q6MRUhfussk/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=Q6MRUhfussk",
           "channel": "TED"
         }
       },
@@ -2557,7 +2618,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.069,
+        "score": 3.836,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
@@ -2587,9 +2648,46 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.04,
+        "score": 3.813,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
+      },
+      {
+        "id": "3888727964ed",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Couples Therapists Who Nearly Got Divorced | Harville Hendrix | TED",
+        "summary": "Couples therapists Harville Hendrix and Helen LaKelly Hunt spent decades teaching the world how to love well … even as their own marriage was falling apart. In this candid, funny talk, Hendrix recounts the yearlong experiment in listening that saved their…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
+        "publishedAt": "2026-11-16T16:00:15+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
+            "publishedAt": "2026-11-16T16:00:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.785,
+        "firstSeen": "2026-11-16T16:41:13.634126+00:00",
+        "kind": "video",
+        "video": {
+          "id": "bVh4r2YWK5M",
+          "thumbUrl": "https://i3.ytimg.com/vi/bVh4r2YWK5M/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
+          "channel": "TED"
+        }
       },
       {
         "id": "03692ec60cac",
@@ -2617,9 +2715,117 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.989,
+        "score": 3.771,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
+      },
+      {
+        "id": "7d8093d0f61f",
+        "category": "growth",
+        "lang": "en",
+        "title": "Turns out, your group chat might be more powerful than you think. #TEDTalks",
+        "summary": "Katie Paris quit her career in Washington, DC, to figure out how to make politics feel less like strangers shouting at each other and more like friends looking out for each other. In this practical talk, she reveals why conversations between real people can…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/EMjyOVI7gfc",
+        "publishedAt": "2026-11-14T01:00:22+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/EMjyOVI7gfc",
+            "publishedAt": "2026-11-14T01:00:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.73,
+        "firstSeen": "2026-11-14T12:54:56.468812+00:00",
+        "kind": "video",
+        "video": {
+          "id": "EMjyOVI7gfc",
+          "thumbUrl": "https://i2.ytimg.com/vi/EMjyOVI7gfc/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=EMjyOVI7gfc",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "8907954dd4b1",
+        "category": "growth",
+        "lang": "en",
+        "title": "What People Living in Democracies Take for Granted | Leopoldo López | TED",
+        "summary": "Activist Leopoldo López learned the true value of freedom in a solitary confinement cell, when someone else decided if he would eat or see sunlight. In this searching conversation, he explains why democracy is losing ground across the globe, the state of…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
+        "publishedAt": "2026-11-13T16:00:21+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
+            "publishedAt": "2026-11-13T16:00:21+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.722,
+        "firstSeen": "2026-11-13T23:11:54.338964+00:00",
+        "kind": "video",
+        "video": {
+          "id": "pSbcJV_o_ko",
+          "thumbUrl": "https://i1.ytimg.com/vi/pSbcJV_o_ko/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "b39a7ba76b88",
+        "category": "growth",
+        "lang": "en",
+        "title": "How Would You Design Your Dream City? | James Rojas | TED",
+        "summary": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
+        "publishedAt": "2026-11-12T16:00:32+00:00",
+        "subtopics": [
+          "Presentation & speaking"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
+            "publishedAt": "2026-11-12T16:00:32+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.702,
+        "firstSeen": "2026-11-12T23:09:39.024597+00:00",
+        "kind": "video",
+        "video": {
+          "id": "f5RqYHd2cBQ",
+          "thumbUrl": "https://i3.ytimg.com/vi/f5RqYHd2cBQ/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
+          "channel": "TED"
+        }
       },
       {
         "id": "9f0b516152c1",
@@ -2693,357 +2899,9 @@
           }
         ],
         "isNew": false,
-        "score": 3.956,
+        "score": 3.69,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
-      },
-      {
-        "id": "2e01fe09c314",
-        "category": "growth",
-        "lang": "en",
-        "title": "Want Someone to Change? Ask This Question | Philip Jameson | TED",
-        "summary": "Why is it so hard to get someone to change? Leadership expert Philip Jameson has spent years watching people pitch smart ideas at work, only to be met with colleagues resistant to adjusting how things get done.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
-        "publishedAt": "2026-11-20T16:00:02+00:00",
-        "subtopics": [
-          "Presentation & speaking",
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
-            "publishedAt": "2026-11-20T16:00:02+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.891,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "video",
-        "video": {
-          "id": "VgOm8nqPlD4",
-          "thumbUrl": "https://i3.ytimg.com/vi/VgOm8nqPlD4/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "7ba936e2e34c",
-        "category": "growth",
-        "lang": "en",
-        "title": "How We’ll Actually Ditch Fossil Fuels — by the Numbers | Michael Liebreich | TED",
-        "summary": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
-        "publishedAt": "2026-11-19T16:00:15+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
-            "publishedAt": "2026-11-19T16:00:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.867,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
-        "kind": "video",
-        "video": {
-          "id": "ACCnhY1fKoI",
-          "thumbUrl": "https://i2.ytimg.com/vi/ACCnhY1fKoI/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "387aa85e0ca9",
-        "category": "growth",
-        "lang": "en",
-        "title": "\"Deep listening” can help you form relationships across generations, cultures and divides #TEDTalks",
-        "summary": "Do you avoid talking to people you disagree with? Author and mediator Emily Kasriel thinks you should try it out.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/Q6MRUhfussk",
-        "publishedAt": "2026-11-19T00:00:32+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/Q6MRUhfussk",
-            "publishedAt": "2026-11-19T00:00:32+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.851,
-        "firstSeen": "2026-11-19T00:55:15.585925+00:00",
-        "kind": "video",
-        "video": {
-          "id": "Q6MRUhfussk",
-          "thumbUrl": "https://i2.ytimg.com/vi/Q6MRUhfussk/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=Q6MRUhfussk",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "4b4d48f19f03",
-        "category": "growth",
-        "lang": "en",
-        "title": "datasette-arrows 0.1a0",
-        "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-        "publishedAt": "2026-11-18T17:09:59+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-            "publishedAt": "2026-11-18T17:09:59+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-            "publishedAt": "2026-11-15T23:58:36+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.816,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "3888727964ed",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Couples Therapists Who Nearly Got Divorced | Harville Hendrix | TED",
-        "summary": "Couples therapists Harville Hendrix and Helen LaKelly Hunt spent decades teaching the world how to love well … even as their own marriage was falling apart. In this candid, funny talk, Hendrix recounts the yearlong experiment in listening that saved their…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
-        "publishedAt": "2026-11-16T16:00:15+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
-            "publishedAt": "2026-11-16T16:00:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.797,
-        "firstSeen": "2026-11-16T16:41:13.634126+00:00",
-        "kind": "video",
-        "video": {
-          "id": "bVh4r2YWK5M",
-          "thumbUrl": "https://i3.ytimg.com/vi/bVh4r2YWK5M/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "569017a70fd8",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Daniel Stenberg",
-        "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-        "publishedAt": "2026-11-18T15:58:27+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-            "publishedAt": "2026-11-18T15:58:27+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.793,
-        "firstSeen": "2026-11-18T16:06:37.157844+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "358ebcd58de3",
-        "category": "growth",
-        "lang": "en",
-        "title": "The PSF end-of-year fundraiser",
-        "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-        "publishedAt": "2026-11-18T14:44:48+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-            "publishedAt": "2026-11-18T14:44:48+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.769,
-        "firstSeen": "2026-11-18T15:01:22.899485+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "7d8093d0f61f",
-        "category": "growth",
-        "lang": "en",
-        "title": "Turns out, your group chat might be more powerful than you think. #TEDTalks",
-        "summary": "Katie Paris quit her career in Washington, DC, to figure out how to make politics feel less like strangers shouting at each other and more like friends looking out for each other. In this practical talk, she reveals why conversations between real people can…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/EMjyOVI7gfc",
-        "publishedAt": "2026-11-14T01:00:22+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/EMjyOVI7gfc",
-            "publishedAt": "2026-11-14T01:00:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.741,
-        "firstSeen": "2026-11-14T12:54:56.468812+00:00",
-        "kind": "video",
-        "video": {
-          "id": "EMjyOVI7gfc",
-          "thumbUrl": "https://i2.ytimg.com/vi/EMjyOVI7gfc/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=EMjyOVI7gfc",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "8907954dd4b1",
-        "category": "growth",
-        "lang": "en",
-        "title": "What People Living in Democracies Take for Granted | Leopoldo López | TED",
-        "summary": "Activist Leopoldo López learned the true value of freedom in a solitary confinement cell, when someone else decided if he would eat or see sunlight. In this searching conversation, he explains why democracy is losing ground across the globe, the state of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
-        "publishedAt": "2026-11-13T16:00:21+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
-            "publishedAt": "2026-11-13T16:00:21+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.734,
-        "firstSeen": "2026-11-13T23:11:54.338964+00:00",
-        "kind": "video",
-        "video": {
-          "id": "pSbcJV_o_ko",
-          "thumbUrl": "https://i1.ytimg.com/vi/pSbcJV_o_ko/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "b39a7ba76b88",
-        "category": "growth",
-        "lang": "en",
-        "title": "How Would You Design Your Dream City? | James Rojas | TED",
-        "summary": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
-        "publishedAt": "2026-11-12T16:00:32+00:00",
-        "subtopics": [
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
-            "publishedAt": "2026-11-12T16:00:32+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.714,
-        "firstSeen": "2026-11-12T23:09:39.024597+00:00",
-        "kind": "video",
-        "video": {
-          "id": "f5RqYHd2cBQ",
-          "thumbUrl": "https://i3.ytimg.com/vi/f5RqYHd2cBQ/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
-          "channel": "TED"
-        }
       },
       {
         "id": "57be80d0e63e",
@@ -3071,7 +2929,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.68,
+        "score": 3.67,
         "firstSeen": "2026-11-10T23:51:18.026954+00:00",
         "kind": "video",
         "video": {
@@ -3107,7 +2965,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.646,
+        "score": 3.582,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "video",
         "video": {
@@ -3115,6 +2973,135 @@
           "thumbUrl": "https://i2.ytimg.com/vi/y1-9yeYLJUo/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "4b4d48f19f03",
+        "category": "growth",
+        "lang": "en",
+        "title": "datasette-arrows 0.1a0",
+        "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+        "publishedAt": "2026-11-18T17:09:59+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+            "publishedAt": "2026-11-18T17:09:59+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+            "publishedAt": "2026-11-15T23:58:36+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.575,
+        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "569017a70fd8",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Daniel Stenberg",
+        "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+        "publishedAt": "2026-11-18T15:58:27+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+            "publishedAt": "2026-11-18T15:58:27+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.556,
+        "firstSeen": "2026-11-18T16:06:37.157844+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "358ebcd58de3",
+        "category": "growth",
+        "lang": "en",
+        "title": "The PSF end-of-year fundraiser",
+        "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+        "publishedAt": "2026-11-18T14:44:48+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+            "publishedAt": "2026-11-18T14:44:48+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.537,
+        "firstSeen": "2026-11-18T15:01:22.899485+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "9e8d69bf9f82",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Whistleblower Who Took on Theranos",
+        "summary": "With Theranos and Elizabeth Holmes back in the conversation, we’re revisiting one of the most remarkable firsthand accounts of what actually happened inside the company. Tyler Shultz joined Theranos fresh out of Stanford as a true believer in its mission.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+        "publishedAt": "2026-11-11T19:44:03+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+            "publishedAt": "2026-11-11T19:44:03+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.386,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "video",
+        "video": {
+          "id": "iXWSYlAX5Lg",
+          "thumbUrl": "https://i2.ytimg.com/vi/iXWSYlAX5Lg/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
           "channel": "Y Combinator"
         }
       },
@@ -3144,7 +3131,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.502,
+        "score": 3.319,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3175,75 +3162,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.499,
+        "score": 3.316,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
-      },
-      {
-        "id": "5b158888670a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-        "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-        "publishedAt": "2026-11-17T16:48:33+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-            "publishedAt": "2026-11-17T16:48:33+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.416,
-        "firstSeen": "2026-11-18T00:27:55.349481+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "9e8d69bf9f82",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Whistleblower Who Took on Theranos",
-        "summary": "With Theranos and Elizabeth Holmes back in the conversation, we’re revisiting one of the most remarkable firsthand accounts of what actually happened inside the company. Tyler Shultz joined Theranos fresh out of Stanford as a true believer in its mission.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
-        "publishedAt": "2026-11-11T19:44:03+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
-            "publishedAt": "2026-11-11T19:44:03+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.397,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
-        "kind": "video",
-        "video": {
-          "id": "iXWSYlAX5Lg",
-          "thumbUrl": "https://i2.ytimg.com/vi/iXWSYlAX5Lg/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "5d7c86fdb19b",
@@ -3271,7 +3192,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.304,
+        "score": 3.295,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -3309,7 +3230,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.271,
+        "score": 3.262,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -3319,6 +3240,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "5b158888670a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+        "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+        "publishedAt": "2026-11-17T16:48:33+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+            "publishedAt": "2026-11-17T16:48:33+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.248,
+        "firstSeen": "2026-11-18T00:27:55.349481+00:00",
+        "kind": "article"
       },
       {
         "id": "b2b96149e382",
@@ -3345,7 +3296,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.245,
+        "score": 3.237,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -3387,7 +3338,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.994,
+        "score": 2.904,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -3416,7 +3367,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.871,
+        "score": 2.803,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00",
         "kind": "article"
       },
@@ -3445,7 +3396,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.87,
+        "score": 2.802,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       }
@@ -3485,7 +3436,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 36,
+      "items": 31,
       "error": null
     },
     {
@@ -3628,8 +3579,8 @@
     }
   ],
   "filteredOut": {
-    "football": 65,
-    "news": 69,
+    "football": 61,
+    "news": 64,
     "medical": 9,
     "growth": 39
   }
