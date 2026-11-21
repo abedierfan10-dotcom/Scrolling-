@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:08:06.606322+00:00",
+  "generatedAt": "2026-11-21T15:01:57.528395+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -34,7 +34,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.648,
+        "score": 11.629,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "transfer": "OFFICIAL"
       },
@@ -63,7 +63,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.935,
+        "score": 9.921,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -92,8 +92,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.826,
+        "score": 8.816,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00"
+      },
+      {
+        "id": "d8ad7177efc3",
+        "category": "football",
+        "lang": "en",
+        "title": "Elliot Anderson ends Manchester City’s losing run but boos greet Fulham draw",
+        "summary": "Manchester City are living in Premier League purgatory, without a win in four but at least ended their three-game losing run against Fulham. As they await the fate of their much-publicised appeal after being found guilty of financial breaches, their form has…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
+        "publishedAt": "2026-11-21T14:34:03+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
+            "publishedAt": "2026-11-21T14:34:03+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.952,
+        "firstSeen": "2026-11-21T15:01:57.528395+00:00"
       },
       {
         "id": "0893a6ff085f",
@@ -121,7 +150,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.769,
+        "score": 7.746,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       },
       {
@@ -149,8 +178,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.434,
+        "isNew": false,
+        "score": 6.344,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -179,7 +208,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.336,
+        "score": 6.295,
         "firstSeen": "2026-11-20T15:52:31.042973+00:00"
       },
       {
@@ -207,8 +236,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.763,
+        "isNew": false,
+        "score": 5.693,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -237,7 +266,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.595,
+        "score": 5.546,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00"
       },
       {
@@ -266,7 +295,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.306,
+        "score": 5.297,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00"
       },
       {
@@ -295,7 +324,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.257,
+        "score": 5.203,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00"
       },
       {
@@ -324,7 +353,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.298,
+        "score": 4.274,
         "firstSeen": "2026-11-20T00:58:46.358472+00:00"
       },
       {
@@ -353,7 +382,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.668,
+        "score": 3.647,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       },
       {
@@ -382,8 +411,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.531,
+        "score": 3.515,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
+      },
+      {
+        "id": "57900f4b95bb",
+        "category": "football",
+        "lang": "en",
+        "title": "The tightest survival scrap for years? Why it's not too early to worry",
+        "summary": "The Premier League resumes on Saturday with Crystal Palace, Sunderland and Man Utd in the relegation zone. But is it too early to be worried?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-18T16:09:55+00:00",
+        "subtopics": [
+          "Premier League",
+          "Tables"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-18T16:09:55+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.256,
+        "firstSeen": "2026-11-18T23:51:05.895256+00:00"
       },
       {
         "id": "ce5ac8501269",
@@ -411,7 +469,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.247,
+        "score": 3.224,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       }
     ],
@@ -447,8 +505,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.933,
+        "isNew": false,
+        "score": 7.894,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -482,8 +540,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.807,
+        "isNew": false,
+        "score": 7.769,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -511,8 +569,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.756,
+        "isNew": false,
+        "score": 7.72,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -540,8 +598,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.528,
+        "isNew": false,
+        "score": 7.489,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -569,8 +627,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.342,
+        "isNew": false,
+        "score": 7.306,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -605,7 +663,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.263,
+        "score": 7.233,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
@@ -640,7 +698,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.2,
+        "score": 7.171,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
@@ -669,7 +727,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.169,
+        "score": 7.14,
         "firstSeen": "2026-11-20T15:52:31.042973+00:00"
       },
       {
@@ -698,7 +756,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.9,
+        "score": 6.869,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00"
       },
       {
@@ -733,7 +791,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.871,
+        "score": 6.84,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00"
       },
       {
@@ -785,7 +843,7 @@
           }
         ],
         "isNew": false,
-        "score": 6.53,
+        "score": 6.51,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -820,7 +878,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.514,
+        "score": 6.494,
         "firstSeen": "2026-11-19T16:14:02.590127+00:00"
       },
       {
@@ -849,37 +907,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.443,
+        "score": 6.424,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
-      },
-      {
-        "id": "ea44a611fcfc",
-        "category": "news",
-        "lang": "de",
-        "title": "Pfanni-Kloßteig: Gericht untersagt Nachhaltigkeitswerbung",
-        "summary": "Das Hamburger Landgericht hält den Hinweis \"nachhaltiger Anbau\" für irreführend. Unilever will das Urteil akzeptieren.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
-        "publishedAt": "2026-11-21T09:49:33+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
-            "publishedAt": "2026-11-21T09:49:33+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 6.414,
-        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
         "id": "3915e5eba9be",
@@ -907,8 +936,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.404,
+        "score": 6.385,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
+      },
+      {
+        "id": "ea44a611fcfc",
+        "category": "news",
+        "lang": "de",
+        "title": "Pfanni-Kloßteig: Gericht untersagt Nachhaltigkeitswerbung",
+        "summary": "Das Hamburger Landgericht hält den Hinweis \"nachhaltiger Anbau\" für irreführend. Unilever will das Urteil akzeptieren.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
+        "publishedAt": "2026-11-21T09:49:33+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
+            "publishedAt": "2026-11-21T09:49:33+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.376,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
         "id": "b4b7b57f1e19",
@@ -942,7 +1000,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.128,
+        "score": 6.1,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
@@ -977,7 +1035,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.053,
+        "score": 6.039,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -1012,7 +1070,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.051,
+        "score": 6.037,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -1041,7 +1099,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.01,
+        "score": 5.997,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1070,7 +1128,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.005,
+        "score": 5.992,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1105,7 +1163,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.994,
+        "score": 5.981,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1140,35 +1198,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.985,
-        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
-      },
-      {
-        "id": "9d8288b580a8",
-        "category": "news",
-        "lang": "de",
-        "title": "A7 in Hamburg und Elbtunnel übers Wochenende voll gesperrt",
-        "summary": "Bis Montag früh ist die Autobahn zwischen Hamburg-Stellingen und Heimfeld wegen Bauarbeiten gesperrt. Umleitungen sind ausgeschildert.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
-        "publishedAt": "2026-11-20T21:47:28+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
-            "publishedAt": "2026-11-20T21:47:28+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.952,
+        "score": 5.972,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1203,7 +1233,35 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.951,
+        "score": 5.938,
+        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
+      },
+      {
+        "id": "9d8288b580a8",
+        "category": "news",
+        "lang": "de",
+        "title": "A7 in Hamburg und Elbtunnel übers Wochenende voll gesperrt",
+        "summary": "Bis Montag früh ist die Autobahn zwischen Hamburg-Stellingen und Heimfeld wegen Bauarbeiten gesperrt. Umleitungen sind ausgeschildert.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
+        "publishedAt": "2026-11-20T21:47:28+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
+            "publishedAt": "2026-11-20T21:47:28+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.921,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1232,36 +1290,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.924,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
-      },
-      {
-        "id": "656b9d0bc943",
-        "category": "news",
-        "lang": "de",
-        "title": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
-        "summary": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
-        "publishedAt": "2026-11-20T07:47:56+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
-            "publishedAt": "2026-11-20T07:47:56+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.91,
+        "score": 5.898,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
@@ -1296,8 +1325,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.898,
+        "score": 5.886,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
+      },
+      {
+        "id": "656b9d0bc943",
+        "category": "news",
+        "lang": "de",
+        "title": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
+        "summary": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
+        "publishedAt": "2026-11-20T07:47:56+00:00",
+        "subtopics": [
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
+            "publishedAt": "2026-11-20T07:47:56+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.885,
+        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
         "id": "f684abd53b82",
@@ -1325,7 +1383,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.884,
+        "score": 5.873,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1360,7 +1418,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.788,
+        "score": 5.767,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       },
       {
@@ -1395,7 +1453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.749,
+        "score": 5.739,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00"
       },
       {
@@ -1430,7 +1488,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.714,
+        "score": 5.704,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       },
       {
@@ -1494,7 +1552,7 @@
           }
         ],
         "isNew": false,
-        "score": 5.692,
+        "score": 5.683,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
@@ -1529,7 +1587,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.667,
+        "score": 5.658,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       },
       {
@@ -1558,7 +1616,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.594,
+        "score": 5.586,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00"
       },
       {
@@ -1587,7 +1645,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.543,
+        "score": 5.531,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       }
     ],
@@ -1619,7 +1677,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.242,
+        "score": 10.235,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1656,7 +1714,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.183,
+        "score": 10.172,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1687,7 +1745,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.904,
+        "score": 9.894,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1719,7 +1777,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.183,
+        "score": 8.172,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1750,7 +1808,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.242,
+        "score": 7.235,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1782,7 +1840,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.242,
+        "score": 7.235,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1813,7 +1871,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.183,
+        "score": 7.172,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1845,7 +1903,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.779,
+        "score": 6.774,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1877,7 +1935,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.779,
+        "score": 6.774,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1909,7 +1967,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.779,
+        "score": 6.774,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1940,7 +1998,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.437,
+        "score": 6.43,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1972,7 +2030,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.357,
+        "score": 6.348,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2003,7 +2061,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.193,
+        "score": 6.181,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2033,7 +2091,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.175,
+        "score": 5.163,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2069,7 +2127,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.779,
+        "score": 4.774,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2099,7 +2157,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.479,
+        "score": 4.474,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2130,7 +2188,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.998,
+        "score": 3.986,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2160,7 +2218,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.624,
+        "score": 3.615,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2190,7 +2248,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.771,
+        "score": 2.762,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2223,7 +2281,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.65,
+        "score": 5.619,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2260,7 +2318,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.032,
+        "score": 5.002,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -2289,7 +2347,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.788,
+        "score": 4.768,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "video",
         "video": {
@@ -2326,7 +2384,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.769,
+        "score": 4.739,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -2355,7 +2413,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.675,
+        "score": 4.646,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -2384,7 +2442,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.274,
+        "score": 4.251,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "kind": "article"
       },
@@ -2413,7 +2471,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.248,
+        "score": 4.228,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "article"
       },
@@ -2442,7 +2500,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.121,
+        "score": 4.114,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2479,7 +2537,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.12,
+        "score": 4.099,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "article"
       },
@@ -2509,7 +2567,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.877,
+        "score": 3.876,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2545,7 +2603,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.853,
+        "score": 3.852,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "video",
         "video": {
@@ -2582,7 +2640,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.838,
+        "score": 3.837,
         "firstSeen": "2026-11-19T00:55:15.585925+00:00",
         "kind": "video",
         "video": {
@@ -2618,7 +2676,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.836,
+        "score": 3.823,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
@@ -2648,7 +2706,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.813,
+        "score": 3.799,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -2678,7 +2736,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.785,
+        "score": 3.784,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2715,7 +2773,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.771,
+        "score": 3.758,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -2744,7 +2802,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.73,
+        "score": 3.729,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00",
         "kind": "video",
         "video": {
@@ -2780,7 +2838,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.722,
+        "score": 3.721,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00",
         "kind": "video",
         "video": {
@@ -2899,7 +2957,7 @@
           }
         ],
         "isNew": false,
-        "score": 3.69,
+        "score": 3.674,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
       },
@@ -2929,7 +2987,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.67,
+        "score": 3.669,
         "firstSeen": "2026-11-10T23:51:18.026954+00:00",
         "kind": "video",
         "video": {
@@ -2965,7 +3023,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.582,
+        "score": 3.579,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "video",
         "video": {
@@ -3007,7 +3065,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.575,
+        "score": 3.561,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -3036,7 +3094,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.556,
+        "score": 3.542,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
@@ -3065,7 +3123,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.537,
+        "score": 3.523,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -3094,7 +3152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.386,
+        "score": 3.385,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -3131,7 +3189,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.319,
+        "score": 3.308,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3162,7 +3220,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.316,
+        "score": 3.305,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3192,7 +3250,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.295,
+        "score": 3.294,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -3230,7 +3288,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.262,
+        "score": 3.261,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -3267,7 +3325,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.248,
+        "score": 3.238,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3296,7 +3354,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.237,
+        "score": 3.236,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -3338,7 +3396,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.904,
+        "score": 2.898,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -3367,7 +3425,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.803,
+        "score": 2.799,
         "firstSeen": "2026-11-17T01:29:51.969336+00:00",
         "kind": "article"
       },
@@ -3396,7 +3454,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.802,
+        "score": 2.798,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       }
@@ -3579,7 +3637,7 @@
     }
   ],
   "filteredOut": {
-    "football": 61,
+    "football": 60,
     "news": 64,
     "medical": 9,
     "growth": 39
