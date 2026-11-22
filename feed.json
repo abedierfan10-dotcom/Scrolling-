@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T23:40:51.389875+00:00",
+  "generatedAt": "2026-11-22T13:58:38.344529+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,35 +8,6 @@
   },
   "tabs": {
     "football": [
-      {
-        "id": "188e0037656d",
-        "category": "football",
-        "lang": "en",
-        "title": "De Zerbi compares Williams-Barnett to Lamine Yamal - who is Spurs teen?",
-        "summary": "Tottenham boss Roberto De Zerbi was not surprised by a dazzling full-debut display from “special” talent Luca Williams-Barnett and compared the 18-year-old to Barcelona’s Lamine Yamal after Saturday’s 2-0 win over Ipswich.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13615058/luca-williams-barnett-tottenham-boss-roberto-de-zerbi-compares-teenager-to-lamine-yamal-after-ipswich-heroics",
-        "publishedAt": "2026-11-21T22:15:00+00:00",
-        "subtopics": [
-          "Barcelona",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13615058/luca-williams-barnett-tottenham-boss-roberto-de-zerbi-compares-teenager-to-lamine-yamal-after-ipswich-heroics",
-            "publishedAt": "2026-11-21T22:15:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 13.855,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
       {
         "id": "339b1161bf3a",
         "category": "football",
@@ -63,37 +34,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.466,
+        "score": 11.283,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "transfer": "OFFICIAL"
-      },
-      {
-        "id": "db2561ad9ebe",
-        "category": "football",
-        "lang": "en",
-        "title": "Vote for the first BBC Men's Footballer of the Year",
-        "summary": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-19T06:30:04+00:00",
-        "subtopics": [
-          "Barcelona"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-19T06:30:04+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 9.812,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
         "id": "c8e76342b925",
@@ -127,8 +70,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.439,
+        "score": 7.407,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+      },
+      {
+        "id": "667bdaf34313",
+        "category": "football",
+        "lang": "en",
+        "title": "Why Arsenal are behind in race for Champions League spots",
+        "summary": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T07:17:10+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-22T07:17:10+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.378,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+      },
+      {
+        "id": "2a3d56204f83",
+        "category": "football",
+        "lang": "en",
+        "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+        "summary": "Keeper close to tears at Newcastle after hurting shoulder Arsenal held 2-2, with Jaissle hailing ‘excellent’ display Arsenal were left sweating on the fitness of their goalkeeper David Raya after the Spaniard was forced off with a shoulder injury during the…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+        "publishedAt": "2026-11-21T21:48:21+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+            "publishedAt": "2026-11-21T21:48:21+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.711,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
         "id": "72b3902e65d6",
@@ -156,7 +157,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.688,
+        "score": 6.636,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -185,7 +186,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.64,
+        "score": 6.607,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -214,37 +215,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.638,
+        "score": 6.606,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "0893a6ff085f",
-        "category": "football",
-        "lang": "en",
-        "title": "Lyon outclass Arsenal for Champions League win",
-        "summary": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-19T22:56:07+00:00",
-        "subtopics": [
-          "Champions League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-19T22:56:07+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.552,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       },
       {
         "id": "d8ad7177efc3",
@@ -272,8 +244,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.186,
+        "score": 6.331,
         "firstSeen": "2026-11-21T15:01:57.528395+00:00"
+      },
+      {
+        "id": "ff6fb76cee56",
+        "category": "football",
+        "lang": "en",
+        "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
+        "summary": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T00:13:01+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-22T00:13:01+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.36,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+      },
+      {
+        "id": "14a55279d66f",
+        "category": "football",
+        "lang": "en",
+        "title": "I wish referee had opportunity to see 'handball' again - Hart",
+        "summary": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T00:08:13+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-22T00:08:13+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.355,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
         "id": "a06baa0efd0a",
@@ -295,54 +325,13 @@
             "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
             "publishedAt": "2026-11-21T19:59:17+00:00",
             "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13614873/bournemouth-2-0-nottingham-forest-premier-league-highlights",
-            "publishedAt": "2026-11-21T17:14:00+00:00",
-            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.939,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "ca34a74069ce",
-        "category": "football",
-        "lang": "en",
-        "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
-        "summary": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T19:59:02+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T19:59:02+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13614870/tottenham-hotspur-2-0-ipswich-town-premier-league-highlights",
-            "publishedAt": "2026-11-21T17:15:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.939,
+        "score": 5.106,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -350,7 +339,7 @@
         "category": "football",
         "lang": "en",
         "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-        "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. They move up to sixth in the Premier League.",
+        "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. Daniel Farke's side move up to sixth in the Premier League.",
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
@@ -371,7 +360,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.139,
+        "score": 5.106,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -400,7 +389,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.138,
+        "score": 5.106,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -429,57 +418,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.007,
+        "score": 5.026,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
-        "id": "3c09218df208",
+        "id": "1be482b5c896",
         "category": "football",
         "lang": "en",
-        "title": "Arsenal's winning run ended by Newcastle in thrilling draw",
-        "summary": "Arsenal's four-game winning Premier League run without conceding was ended by Newcastle in a frantic 2-2 draw.",
+        "title": "What history tells us about the Premier League table after 10 games of a season",
+        "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegated The Premier League is about to enter the most intense phase of its season. After 10 rounds of fixtures across the past three months there…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/newcastle-united-vs-arsenal/report/559552",
-        "publishedAt": "2026-11-21T18:00:00+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+        "publishedAt": "2026-11-20T08:00:26+00:00",
         "subtopics": [
           "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/newcastle-united-vs-arsenal/report/559552",
-            "publishedAt": "2026-11-21T18:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.963,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "b857fbc70dfb",
-        "category": "football",
-        "lang": "en",
-        "title": "Tom Brady in talks over buying Chelsea stake after Birmingham City exit",
-        "summary": "NFL legend was Chelsea guest at Club World Cup Brady has good relationship with Behdad Eghbali Tom Brady is in discussions about buying a small stake in Chelsea. The NFL legend sold a minority share in Birmingham City this month after three years, a move…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/20/tom-brady-chelsea-talks-stake-birmingham-city",
-        "publishedAt": "2026-11-20T14:50:09+00:00",
-        "subtopics": [
-          "World Cup",
-          "Results"
+          "Upcoming"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/20/tom-brady-chelsea-talks-stake-birmingham-city",
-            "publishedAt": "2026-11-20T14:50:09+00:00",
+            "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+            "publishedAt": "2026-11-20T08:00:26+00:00",
             "tier": 2
           }
         ],
@@ -487,37 +447,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.959,
-        "firstSeen": "2026-11-20T15:52:31.042973+00:00"
-      },
-      {
-        "id": "dbc0ae759ed9",
-        "category": "football",
-        "lang": "en",
-        "title": "Sunderland frustrate uninspiring Villa in goalless draw",
-        "summary": "Highlights from the Premier League match between Aston Villa and Sunderland.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13614863/aston-villa-0-0-sunderland-premier-league-highlights",
-        "publishedAt": "2026-11-21T17:15:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13614863/aston-villa-0-0-sunderland-premier-league-highlights",
-            "publishedAt": "2026-11-21T17:15:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.9,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+        "score": 4.961,
+        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
         "id": "40d3bd219c78",
@@ -545,7 +476,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.893,
+        "score": 4.957,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -574,7 +505,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.877,
+        "score": 4.947,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -603,66 +534,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.606,
+        "score": 4.782,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
-      },
-      {
-        "id": "1be482b5c896",
-        "category": "football",
-        "lang": "en",
-        "title": "What history tells us about the Premier League table after 10 games of a season",
-        "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegated The Premier League is about to enter the most intense phase of its season. After 10 rounds of fixtures across the past three months there…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-        "publishedAt": "2026-11-20T08:00:26+00:00",
-        "subtopics": [
-          "Premier League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-            "publishedAt": "2026-11-20T08:00:26+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.257,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
-      },
-      {
-        "id": "c55e77722943",
-        "category": "football",
-        "lang": "en",
-        "title": "Washington Spirit provide hope and joy in a city that badly needs it",
-        "summary": "Spirit’s run to the NWSL Championship final is in part based on a positive connection with fans at a time when DC is troubled in more ways than one In the moments after the Washington Spirit’s 2-1 semi-final victory over the Utah Royals last weekend, all of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it",
-        "publishedAt": "2026-11-20T19:56:49+00:00",
-        "subtopics": [
-          "International",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it",
-            "publishedAt": "2026-11-20T19:56:49+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.145,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00"
       },
       {
         "id": "06184e94bbb0",
@@ -690,7 +563,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.124,
+        "score": 4.489,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -719,7 +592,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.761,
+        "score": 4.268,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00"
       },
       {
@@ -748,40 +621,40 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.479,
+        "score": 3.292,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00"
-      },
+      }
+    ],
+    "news": [
       {
-        "id": "bce5dc21d4d8",
-        "category": "football",
-        "lang": "en",
-        "title": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
-        "summary": "Spain Under-21 striker admits the pace of the Premier League has surprised him but says he must stay calm over goal drought at Fulham The first thing Rita Hayworth’s great nephew says when he walks in is: “Sorry I’m late.” Gonzalo García is not late, but…",
+        "id": "4d5c25e374ee",
+        "category": "news",
+        "lang": "de",
+        "title": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+        "summary": "Antisemitismus so offen wie seit dem Holocaust nicht mehr: Bundesbeauftragte von Schnurbein warnt vor wachsendem Judenhass in Deutschland. Die \"AfD-Ideologie\" sei ein gefährlicher Angriff auf die Erinnerungskultur.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
-        "publishedAt": "2026-11-19T12:16:42+00:00",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+        "publishedAt": "2026-11-22T05:47:26+00:00",
         "subtopics": [
-          "Premier League",
-          "Tables"
+          "Germany",
+          "Conflict"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
-            "publishedAt": "2026-11-19T12:16:42+00:00",
-            "tier": 2
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+            "publishedAt": "2026-11-22T05:47:26+00:00",
+            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 3.381,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00"
-      }
-    ],
-    "news": [
+        "isNew": true,
+        "score": 7.656,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+      },
       {
         "id": "4f18d7d2e42a",
         "category": "news",
@@ -809,7 +682,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.853,
+        "score": 7.306,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -844,7 +717,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.673,
+        "score": 7.161,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -874,7 +747,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.637,
+        "score": 7.132,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -909,7 +782,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.545,
+        "score": 7.057,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -944,37 +817,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.435,
+        "score": 6.968,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
-      },
-      {
-        "id": "0e9082149999",
-        "category": "news",
-        "lang": "de",
-        "title": "Ihr Thema der Woche aus Hammerbrook",
-        "summary": "Stadtreporterin Anne Adams war in dem Hamburger Stadtteil unterwegs. Was hat die Menschen dort diese Woche bewegt?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-hammerbrook,hamj-16754.html",
-        "publishedAt": "2026-11-21T19:12:55+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-hammerbrook,hamj-16754.html",
-            "publishedAt": "2026-11-21T19:12:55+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.407,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
         "id": "72b41ad445d9",
@@ -1002,8 +846,72 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.391,
+        "score": 6.933,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
+      },
+      {
+        "id": "5a6b1495f0f7",
+        "category": "news",
+        "lang": "de",
+        "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
+        "summary": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+        "publishedAt": "2026-11-22T12:00:00+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+            "publishedAt": "2026-11-22T12:00:00+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+            "publishedAt": "2026-11-22T12:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.913,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+      },
+      {
+        "id": "0e9082149999",
+        "category": "news",
+        "lang": "de",
+        "title": "Ihr Thema der Woche aus Hammerbrook",
+        "summary": "Stadtreporterin Anne Adams war in dem Hamburger Stadtteil unterwegs. Was hat die Menschen dort diese Woche bewegt?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-hammerbrook,hamj-16754.html",
+        "publishedAt": "2026-11-21T19:12:55+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-hammerbrook,hamj-16754.html",
+            "publishedAt": "2026-11-21T19:12:55+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.869,
+        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
         "id": "620bd0d11cb4",
@@ -1031,36 +939,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.14,
-        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
-      },
-      {
-        "id": "c3db824cce56",
-        "category": "news",
-        "lang": "de",
-        "title": "Handelsverband Nord rechnet mit gutem Weihnachtsgeschäft",
-        "summary": "Für November und Dezember erwartet der Verband in Hamburg ein Umsatzplus von 2,4 Prozent. Das wären 3,3 Milliarden Euro.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/handelsverband-nord-rechnet-mit-gutem-weihnachtsgeschaeft,weihnachten-584.html",
-        "publishedAt": "2026-11-21T08:05:25+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/handelsverband-nord-rechnet-mit-gutem-weihnachtsgeschaeft,weihnachten-584.html",
-            "publishedAt": "2026-11-21T08:05:25+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.979,
+        "score": 6.653,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -1095,8 +974,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.963,
+        "score": 6.587,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
+      },
+      {
+        "id": "c3076cb0351d",
+        "category": "news",
+        "lang": "de",
+        "title": "Wi snackt Platt: Speeldeel, Truercafé un Spraakplaan Nedderdüütsch",
+        "summary": "Bi „Wi snackt Platt“ geiht dat dütmal üm twee ganz besünnere Froenslüüd: Anngret Timmann un Ina Kühn vun’t Truercafé in Kirchwarder. Denn wüllt wi ok noch Lust maken op de dree Wiehnachtskunzerten, mit de de Finkwarder Speeldeel in de tokamen Weken to…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
+        "publishedAt": "2026-11-21T09:45:24+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
+            "publishedAt": "2026-11-21T09:45:24+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.571,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
         "id": "226e12b8f367",
@@ -1130,8 +1038,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.909,
+        "score": 6.543,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
+      },
+      {
+        "id": "c3db824cce56",
+        "category": "news",
+        "lang": "de",
+        "title": "Handelsverband Nord rechnet mit gutem Weihnachtsgeschäft",
+        "summary": "Für November und Dezember erwartet der Verband in Hamburg ein Umsatzplus von 2,4 Prozent. Das wären 3,3 Milliarden Euro.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/handelsverband-nord-rechnet-mit-gutem-weihnachtsgeschaeft,weihnachten-584.html",
+        "publishedAt": "2026-11-21T08:05:25+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/handelsverband-nord-rechnet-mit-gutem-weihnachtsgeschaeft,weihnachten-584.html",
+            "publishedAt": "2026-11-21T08:05:25+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.523,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
         "id": "7734b69cda29",
@@ -1159,7 +1096,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.882,
+        "score": 6.521,
         "firstSeen": "2026-11-20T15:52:31.042973+00:00"
       },
       {
@@ -1189,7 +1126,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.738,
+        "score": 6.213,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -1218,8 +1155,65 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.57,
+        "score": 6.192,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00"
+      },
+      {
+        "id": "5c87da81c36e",
+        "category": "news",
+        "lang": "de",
+        "title": "Mausoleum Schröder auf Friedhof Ohlsdorf: Tote längst \"ausgezogen\"",
+        "summary": "Das Mausoleum wurde 1906 auf dem Ohlsdorfer Friedhof in Hamburg erbaut. Die denkmalgeschützte Grabanlage ist total marode.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/geschichte/schauplaetze/sogar-von-toten-verlassen-mausoleum-schroeder-in-ohlsdorf,mausoleum-100.html",
+        "publishedAt": "2026-11-22T04:00:00+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/geschichte/schauplaetze/sogar-von-toten-verlassen-mausoleum-schroeder-in-ohlsdorf,mausoleum-100.html",
+            "publishedAt": "2026-11-22T04:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.186,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+      },
+      {
+        "id": "5e31e23d9f9f",
+        "category": "news",
+        "lang": "de",
+        "title": "Next Generation: Maritime Familienbetriebe im Hamburger Hafen",
+        "summary": "Der Hafenkonzert-Podcast besucht maritime Familienbetriebe in Hamburg, in denen die jüngere Generation das Ruder übernommen hat - und fragt, wie der Übergang gelingt, was die Jüngeren anders machen und wie es sich anfühlt, plötzlich die Verantwortung zu…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
+        "publishedAt": "2026-11-20T16:00:08+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
+            "publishedAt": "2026-11-20T16:00:08+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.114,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
         "id": "82a5197e41dc",
@@ -1270,7 +1264,7 @@
           }
         ],
         "isNew": false,
-        "score": 6.328,
+        "score": 6.073,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1305,7 +1299,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.314,
+        "score": 6.062,
         "firstSeen": "2026-11-19T16:14:02.590127+00:00"
       },
       {
@@ -1334,7 +1328,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.252,
+        "score": 6.012,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1363,37 +1357,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.218,
+        "score": 5.985,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
-      },
-      {
-        "id": "ea44a611fcfc",
-        "category": "news",
-        "lang": "de",
-        "title": "Pfanni-Kloßteig: Gericht untersagt Nachhaltigkeitswerbung",
-        "summary": "Das Hamburger Landgericht hält den Hinweis \"nachhaltiger Anbau\" für irreführend. Unilever will das Urteil akzeptieren.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
-        "publishedAt": "2026-11-21T09:49:33+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
-            "publishedAt": "2026-11-21T09:49:33+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.041,
-        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
         "id": "f5daf9642a95",
@@ -1427,7 +1392,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.913,
+        "score": 5.738,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -1462,7 +1427,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.912,
+        "score": 5.737,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -1491,7 +1456,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.877,
+        "score": 5.709,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1520,7 +1485,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.872,
+        "score": 5.705,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1555,7 +1520,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.863,
+        "score": 5.697,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1590,43 +1555,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.855,
+        "score": 5.691,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
-      },
-      {
-        "id": "b4b7b57f1e19",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-        "summary": "Der Bundesrat will beim \"Startchancengesetz\" nachbessern. Für andere lebensnahe Vorhaben wie die \"Frühstartrente\", die Reform der Notfallversorgung oder die digitale Brieftasche gab die Länderkammer hingegen grünes Licht.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
-        "publishedAt": "2026-11-20T15:03:38+00:00",
-        "subtopics": [
-          "Germany",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
-            "publishedAt": "2026-11-20T15:03:38+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
-            "publishedAt": "2026-11-20T15:03:38+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.846,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
         "id": "5ae2299313cf",
@@ -1660,7 +1590,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.825,
+        "score": 5.667,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1695,7 +1625,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.779,
+        "score": 5.63,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1724,28 +1654,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.767,
+        "score": 5.62,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
-        "id": "ddd65b9eb641",
+        "id": "ea44a611fcfc",
         "category": "news",
         "lang": "de",
-        "title": "Fehlende Räume: Protestcamp der Pfadfinder in Hamburg",
-        "summary": "Mit einer Kundgebung sind Hamburgs Pfadfinderinnen und Pfadfinder auf dem Hammaburg-Platz auf die Straße gegangen. Ihr Problem: Mehreren Gruppen fehlt ein festes Heim.",
+        "title": "Pfanni-Kloßteig: Gericht untersagt Nachhaltigkeitswerbung",
+        "summary": "Das Hamburger Landgericht hält den Hinweis \"nachhaltiger Anbau\" für irreführend. Unilever will das Urteil akzeptieren.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Hamburg-Journal,hamj-16760.html",
-        "publishedAt": "2026-11-21T19:21:42+00:00",
+        "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
+        "publishedAt": "2026-11-21T09:49:33+00:00",
         "subtopics": [
           "Hamburg",
-          "Protests"
+          "Law & Policy"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/Hamburg-Journal,hamj-16760.html",
-            "publishedAt": "2026-11-21T19:21:42+00:00",
+            "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
+            "publishedAt": "2026-11-21T09:49:33+00:00",
             "tier": 1
           }
         ],
@@ -1753,95 +1683,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.713,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "c32deb1de27a",
-        "category": "news",
-        "lang": "de",
-        "title": "Hamburger Grüne: Proteste und Kritik auf Parteitag",
-        "summary": "Auf der Landesmitgliederversammlung der Grünen in Wilhelmsburg gab es viel Kritik an den Haushaltskürzungen des Senats - und Proteste gegen den Bau der A26-Ost.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/hamburger-gruene-proteste-und-kritik-auf-parteitag,gruene-576.html",
-        "publishedAt": "2026-11-21T18:44:01+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Protests"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/hamburger-gruene-proteste-und-kritik-auf-parteitag,gruene-576.html",
-            "publishedAt": "2026-11-21T18:44:01+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.687,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "f31f31fff8b6",
-        "category": "news",
-        "lang": "de",
-        "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-        "summary": "Den Anfangshype konnte Anthropic am ersten Börsentag nicht ganz halten. Trotzdem ist die Aktie mit einem deutlichen Kursplus aus dem Handel gegangen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-        "publishedAt": "2026-11-20T08:16:20+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
-            "publishedAt": "2026-11-20T08:16:20+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.669,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
-      },
-      {
-        "id": "656b9d0bc943",
-        "category": "news",
-        "lang": "de",
-        "title": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
-        "summary": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
-        "publishedAt": "2026-11-20T07:47:56+00:00",
-        "subtopics": [
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
-            "publishedAt": "2026-11-20T07:47:56+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.657,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
+        "score": 5.573,
+        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
         "id": "16eae1369efb",
@@ -1875,27 +1718,34 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.65,
+        "score": 5.525,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00"
       },
       {
-        "id": "9d8288b580a8",
+        "id": "38950363706e",
         "category": "news",
         "lang": "de",
-        "title": "A7 in Hamburg und Elbtunnel übers Wochenende voll gesperrt",
-        "summary": "Bis Montag früh ist die Autobahn zwischen Hamburg-Stellingen und Heimfeld wegen Bauarbeiten gesperrt. Umleitungen sind ausgeschildert.",
+        "title": "Die AfD entzweit sich am Begriff \"Remigration\"",
+        "summary": "Lange war sich die AfD zumindest bei ihrem Kernthema einig. Doch jetzt gibt es Streit über den Migrationskurs der Partei.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
-        "publishedAt": "2026-11-20T21:47:28+00:00",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/afd-remigration-streit-100.html",
+        "publishedAt": "2026-11-17T13:39:03+00:00",
         "subtopics": [
-          "Hamburg"
+          "Germany",
+          "Conflict"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/a7-in-hamburg-und-elbtunnel-am-wochenende-voll-gesperrt,a7-sperrung-102.html",
-            "publishedAt": "2026-11-20T21:47:28+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/afd-remigration-streit-100.html",
+            "publishedAt": "2026-11-17T13:39:03+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/afd-remigration-streit-100.html",
+            "publishedAt": "2026-11-17T13:39:03+00:00",
             "tier": 1
           }
         ],
@@ -1903,8 +1753,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.641,
-        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
+        "score": 5.501,
+        "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       }
     ],
     "medical": [
@@ -1935,7 +1785,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.171,
+        "score": 10.07,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1972,7 +1822,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.068,
+        "score": 9.906,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2003,7 +1853,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.802,
+        "score": 9.658,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -2035,7 +1885,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.068,
+        "score": 7.906,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2066,7 +1916,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.171,
+        "score": 7.07,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2098,7 +1948,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.171,
+        "score": 7.07,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2129,7 +1979,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.068,
+        "score": 6.906,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2161,7 +2011,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.729,
+        "score": 6.659,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2193,7 +2043,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.729,
+        "score": 6.659,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2225,7 +2075,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.729,
+        "score": 6.659,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2256,7 +2106,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.357,
+        "score": 6.243,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2288,7 +2138,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.266,
+        "score": 6.139,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2319,7 +2169,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.069,
+        "score": 5.893,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2349,7 +2199,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.051,
+        "score": 4.876,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2385,7 +2235,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.729,
+        "score": 4.659,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2415,7 +2265,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.429,
+        "score": 4.359,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2446,7 +2296,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.874,
+        "score": 3.697,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2476,7 +2326,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.526,
+        "score": 3.387,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2506,7 +2356,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.671,
+        "score": 2.529,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2537,8 +2387,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.57,
+        "isNew": false,
+        "score": 6.001,
         "firstSeen": "2026-11-21T23:40:51.389875+00:00",
         "kind": "video",
         "video": {
@@ -2575,7 +2425,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.339,
+        "score": 4.948,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2585,6 +2435,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=tgK-mPtgCCU",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "21bd1d482ae2",
+        "category": "growth",
+        "lang": "en",
+        "title": "Muru",
+        "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/21/muru/",
+        "publishedAt": "2026-11-21T23:56:28+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/21/muru/",
+            "publishedAt": "2026-11-21T23:56:28+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.934,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00",
+        "kind": "article"
       },
       {
         "id": "583b7a1c7413",
@@ -2612,7 +2492,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.736,
+        "score": 4.365,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -2641,7 +2521,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.591,
+        "score": 4.343,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "video",
         "video": {
@@ -2678,7 +2558,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.468,
+        "score": 4.091,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -2707,37 +2587,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.387,
+        "score": 4.025,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "195eb8806210",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-        "publishedAt": "2026-11-19T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-            "publishedAt": "2026-11-19T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.056,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "article"
       },
       {
@@ -2765,7 +2616,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.052,
+        "score": 3.965,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2773,6 +2624,219 @@
           "thumbUrl": "https://i1.ytimg.com/vi/0-C6SKjKek4/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=0-C6SKjKek4",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "c6b1daa8a71a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why Great Art Requires Risk | Alex Van Halen, David Lee Roth and Robert Vargas | TED",
+        "summary": "Van Halen drummer and co-founder Alex Van Halen and lead singer David Lee Roth sit down with visual artist Robert Vargas, who paints freehand murals up to twenty stories tall, to reveal the two-step recipe behind great art: do your homework, then break every…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
+        "publishedAt": "2026-11-21T16:00:05+00:00",
+        "subtopics": [
+          "Entrepreneurship",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
+            "publishedAt": "2026-11-21T16:00:05+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.877,
+        "firstSeen": "2026-11-21T22:43:44.186297+00:00",
+        "kind": "video",
+        "video": {
+          "id": "78C3_lu0blQ",
+          "thumbUrl": "https://i4.ytimg.com/vi/78C3_lu0blQ/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=78C3_lu0blQ",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "2e01fe09c314",
+        "category": "growth",
+        "lang": "en",
+        "title": "Want Someone to Change? Ask This Question | Philip Jameson | TED",
+        "summary": "Why is it so hard to get someone to change? Leadership expert Philip Jameson has spent years watching people pitch smart ideas at work, only to be met with colleagues resistant to adjusting how things get done.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
+        "publishedAt": "2026-11-20T16:00:02+00:00",
+        "subtopics": [
+          "Presentation & speaking",
+          "Leadership"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
+            "publishedAt": "2026-11-20T16:00:02+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.853,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "video",
+        "video": {
+          "id": "VgOm8nqPlD4",
+          "thumbUrl": "https://i3.ytimg.com/vi/VgOm8nqPlD4/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "7ba936e2e34c",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why Clean Energy Is an Unstoppable Force | Michael Liebreich | TED",
+        "summary": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
+        "publishedAt": "2026-11-19T16:00:15+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
+            "publishedAt": "2026-11-19T16:00:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.83,
+        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
+        "kind": "video",
+        "video": {
+          "id": "ACCnhY1fKoI",
+          "thumbUrl": "https://i2.ytimg.com/vi/ACCnhY1fKoI/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "195eb8806210",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+        "publishedAt": "2026-11-19T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+            "publishedAt": "2026-11-19T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.815,
+        "firstSeen": "2026-11-19T15:10:34.976582+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "387aa85e0ca9",
+        "category": "growth",
+        "lang": "en",
+        "title": "\"Deep listening” can help you form relationships across generations, cultures and divides #TEDTalks",
+        "summary": "Do you avoid talking to people you disagree with? Author and mediator Emily Kasriel thinks you should try it out.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/Q6MRUhfussk",
+        "publishedAt": "2026-11-19T00:00:32+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/Q6MRUhfussk",
+            "publishedAt": "2026-11-19T00:00:32+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.815,
+        "firstSeen": "2026-11-19T00:55:15.585925+00:00",
+        "kind": "video",
+        "video": {
+          "id": "Q6MRUhfussk",
+          "thumbUrl": "https://i2.ytimg.com/vi/Q6MRUhfussk/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=Q6MRUhfussk",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "3888727964ed",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Couples Therapists Who Nearly Got Divorced | Harville Hendrix | TED",
+        "summary": "Couples therapists Harville Hendrix and Helen LaKelly Hunt spent decades teaching the world how to love well … even as their own marriage was falling apart. In this candid, funny talk, Hendrix recounts the yearlong experiment in listening that saved their…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
+        "publishedAt": "2026-11-16T16:00:15+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
+            "publishedAt": "2026-11-16T16:00:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.764,
+        "firstSeen": "2026-11-16T16:41:13.634126+00:00",
+        "kind": "video",
+        "video": {
+          "id": "bVh4r2YWK5M",
+          "thumbUrl": "https://i3.ytimg.com/vi/bVh4r2YWK5M/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
           "channel": "TED"
         }
       },
@@ -2821,12 +2885,6 @@
             "url": "https://simonwillison.net/2026/Nov/11/llm/",
             "publishedAt": "2026-11-11T17:19:52+00:00",
             "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-            "publishedAt": "2026-11-10T20:09:44+00:00",
-            "tier": 3
           }
         ],
         "developing": true,
@@ -2851,15 +2909,10 @@
             "title": "llm 0.37.2",
             "source": "Simon Willison",
             "publishedAt": "2026-11-11T17:19:52+00:00"
-          },
-          {
-            "title": "llm-gemini 0.36",
-            "source": "Simon Willison",
-            "publishedAt": "2026-11-10T20:09:44+00:00"
           }
         ],
         "isNew": false,
-        "score": 4.044,
+        "score": 3.748,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
       },
@@ -2888,223 +2941,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.039,
+        "score": 3.744,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "kind": "article"
-      },
-      {
-        "id": "4ba1303d2ee2",
-        "category": "growth",
-        "lang": "en",
-        "title": "PostgreSQL 19 Released",
-        "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-        "publishedAt": "2026-11-19T20:43:57+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-            "publishedAt": "2026-11-19T20:43:57+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.906,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "c6b1daa8a71a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Why Great Art Requires Risk | Alex Van Halen, David Lee Roth and Robert Vargas | TED",
-        "summary": "Van Halen drummer and co-founder Alex Van Halen and lead singer David Lee Roth sit down with visual artist Robert Vargas, who paints freehand murals up to twenty stories tall, to reveal the two-step recipe behind great art: do your homework, then break every…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
-        "publishedAt": "2026-11-21T16:00:05+00:00",
-        "subtopics": [
-          "Entrepreneurship",
-          "Personal finance"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
-            "publishedAt": "2026-11-21T16:00:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.892,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00",
-        "kind": "video",
-        "video": {
-          "id": "78C3_lu0blQ",
-          "thumbUrl": "https://i4.ytimg.com/vi/78C3_lu0blQ/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=78C3_lu0blQ",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "2e01fe09c314",
-        "category": "growth",
-        "lang": "en",
-        "title": "Want Someone to Change? Ask This Question | Philip Jameson | TED",
-        "summary": "Why is it so hard to get someone to change? Leadership expert Philip Jameson has spent years watching people pitch smart ideas at work, only to be met with colleagues resistant to adjusting how things get done.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
-        "publishedAt": "2026-11-20T16:00:02+00:00",
-        "subtopics": [
-          "Presentation & speaking",
-          "Leadership"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
-            "publishedAt": "2026-11-20T16:00:02+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.868,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "video",
-        "video": {
-          "id": "VgOm8nqPlD4",
-          "thumbUrl": "https://i3.ytimg.com/vi/VgOm8nqPlD4/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "7ba936e2e34c",
-        "category": "growth",
-        "lang": "en",
-        "title": "Why Clean Energy Is an Unstoppable Force | Michael Liebreich | TED",
-        "summary": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
-        "publishedAt": "2026-11-19T16:00:15+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
-            "publishedAt": "2026-11-19T16:00:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.844,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
-        "kind": "video",
-        "video": {
-          "id": "ACCnhY1fKoI",
-          "thumbUrl": "https://i2.ytimg.com/vi/ACCnhY1fKoI/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "387aa85e0ca9",
-        "category": "growth",
-        "lang": "en",
-        "title": "\"Deep listening” can help you form relationships across generations, cultures and divides #TEDTalks",
-        "summary": "Do you avoid talking to people you disagree with? Author and mediator Emily Kasriel thinks you should try it out.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/Q6MRUhfussk",
-        "publishedAt": "2026-11-19T00:00:32+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/Q6MRUhfussk",
-            "publishedAt": "2026-11-19T00:00:32+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.828,
-        "firstSeen": "2026-11-19T00:55:15.585925+00:00",
-        "kind": "video",
-        "video": {
-          "id": "Q6MRUhfussk",
-          "thumbUrl": "https://i2.ytimg.com/vi/Q6MRUhfussk/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=Q6MRUhfussk",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "3888727964ed",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Couples Therapists Who Nearly Got Divorced | Harville Hendrix | TED",
-        "summary": "Couples therapists Harville Hendrix and Helen LaKelly Hunt spent decades teaching the world how to love well … even as their own marriage was falling apart. In this candid, funny talk, Hendrix recounts the yearlong experiment in listening that saved their…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
-        "publishedAt": "2026-11-16T16:00:15+00:00",
-        "subtopics": [
-          "Communication",
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
-            "publishedAt": "2026-11-16T16:00:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.776,
-        "firstSeen": "2026-11-16T16:41:13.634126+00:00",
-        "kind": "video",
-        "video": {
-          "id": "bVh4r2YWK5M",
-          "thumbUrl": "https://i3.ytimg.com/vi/bVh4r2YWK5M/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
-          "channel": "TED"
-        }
       },
       {
         "id": "7d8093d0f61f",
@@ -3131,7 +2970,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.722,
+        "score": 3.71,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00",
         "kind": "video",
         "video": {
@@ -3167,7 +3006,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.714,
+        "score": 3.703,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00",
         "kind": "video",
         "video": {
@@ -3177,35 +3016,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
           "channel": "TED"
         }
-      },
-      {
-        "id": "b832d435844d",
-        "category": "growth",
-        "lang": "en",
-        "title": "The AI Hype Index: AI is everywhere",
-        "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-        "publishedAt": "2026-11-18T14:42:44+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-            "publishedAt": "2026-11-18T14:42:44+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.699,
-        "firstSeen": "2026-11-18T16:06:37.157844+00:00",
-        "kind": "article"
       },
       {
         "id": "b39a7ba76b88",
@@ -3232,7 +3042,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.695,
+        "score": 3.683,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00",
         "kind": "video",
         "video": {
@@ -3242,6 +3052,65 @@
           "watchUrl": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
           "channel": "TED"
         }
+      },
+      {
+        "id": "4ba1303d2ee2",
+        "category": "growth",
+        "lang": "en",
+        "title": "PostgreSQL 19 Released",
+        "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+        "publishedAt": "2026-11-19T20:43:57+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+            "publishedAt": "2026-11-19T20:43:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.636,
+        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "b832d435844d",
+        "category": "growth",
+        "lang": "en",
+        "title": "The AI Hype Index: AI is everywhere",
+        "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+        "publishedAt": "2026-11-18T14:42:44+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+            "publishedAt": "2026-11-18T14:42:44+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.527,
+        "firstSeen": "2026-11-18T16:06:37.157844+00:00",
+        "kind": "article"
       },
       {
         "id": "62b49bc7f7ab",
@@ -3269,7 +3138,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.679,
+        "score": 3.51,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -3299,100 +3168,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.643,
-        "firstSeen": "2026-11-18T15:01:22.899485+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4b4d48f19f03",
-        "category": "growth",
-        "lang": "en",
-        "title": "datasette-arrows 0.1a0",
-        "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-        "publishedAt": "2026-11-18T17:09:59+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-            "publishedAt": "2026-11-18T17:09:59+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-            "publishedAt": "2026-11-15T23:58:36+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.433,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "569017a70fd8",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Daniel Stenberg",
-        "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-        "publishedAt": "2026-11-18T15:58:27+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
-            "publishedAt": "2026-11-18T15:58:27+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.416,
-        "firstSeen": "2026-11-18T16:06:37.157844+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "358ebcd58de3",
-        "category": "growth",
-        "lang": "en",
-        "title": "The PSF end-of-year fundraiser",
-        "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-        "publishedAt": "2026-11-18T14:44:48+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
-            "publishedAt": "2026-11-18T14:44:48+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.4,
+        "score": 3.481,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -3421,7 +3197,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.379,
+        "score": 3.367,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -3458,7 +3234,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.288,
+        "score": 3.278,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -3468,6 +3244,41 @@
           "watchUrl": "https://www.youtube.com/watch?v=NYGf--dBeHA",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "4b4d48f19f03",
+        "category": "growth",
+        "lang": "en",
+        "title": "datasette-arrows 0.1a0",
+        "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+        "publishedAt": "2026-11-18T17:09:59+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+            "publishedAt": "2026-11-18T17:09:59+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+            "publishedAt": "2026-11-15T23:58:36+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.254,
+        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
+        "kind": "article"
       },
       {
         "id": "5103e8eed7f5",
@@ -3496,7 +3307,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.256,
+        "score": 3.247,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -3506,6 +3317,64 @@
           "watchUrl": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "569017a70fd8",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Daniel Stenberg",
+        "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+        "publishedAt": "2026-11-18T15:58:27+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+            "publishedAt": "2026-11-18T15:58:27+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.241,
+        "firstSeen": "2026-11-18T16:06:37.157844+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "358ebcd58de3",
+        "category": "growth",
+        "lang": "en",
+        "title": "The PSF end-of-year fundraiser",
+        "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+        "publishedAt": "2026-11-18T14:44:48+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+            "publishedAt": "2026-11-18T14:44:48+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.227,
+        "firstSeen": "2026-11-18T15:01:22.899485+00:00",
+        "kind": "article"
       },
       {
         "id": "b2b96149e382",
@@ -3532,7 +3401,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.231,
+        "score": 3.222,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -3569,7 +3438,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.21,
+        "score": 3.074,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3600,7 +3469,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.208,
+        "score": 3.072,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3630,7 +3499,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.149,
+        "score": 3.025,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3665,28 +3534,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.85,
+        "score": 2.783,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
       {
-        "id": "9ae934d441da",
+        "id": "5e198fff68c7",
         "category": "growth",
         "lang": "en",
-        "title": "datasette-apps 0.4a0",
-        "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with…",
+        "title": "Bing Gordon: Learning From Bezos, Jobs, and Spielberg",
+        "summary": "Bing Gordon is the former Chief Creative Officer of Electronic Arts and a partner at Kleiner Perkins. He served on Amazon’s board for more than a decade, a seat he earned after giving Jeff Bezos five ideas.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-        "publishedAt": "2026-11-15T04:02:45+00:00",
+        "url": "https://fs.blog/knowledge-project-podcast/bing-gordon/",
+        "publishedAt": "2026-11-19T10:55:00+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "Relationships"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-            "publishedAt": "2026-11-15T04:02:45+00:00",
+            "name": "Farnam Street",
+            "url": "https://fs.blog/knowledge-project-podcast/bing-gordon/",
+            "publishedAt": "2026-11-19T10:55:00+00:00",
             "tier": 3
           }
         ],
@@ -3694,37 +3563,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.763,
-        "firstSeen": "2026-11-17T01:29:51.969336+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "16b4b3a7aa40",
-        "category": "growth",
-        "lang": "en",
-        "title": "datasette-agent 0.6a0",
-        "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-        "publishedAt": "2026-11-15T03:49:47+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-            "publishedAt": "2026-11-15T03:49:47+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.762,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
+        "score": 2.725,
+        "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "article"
       }
     ]
@@ -3763,7 +3603,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 35,
+      "items": 37,
       "error": null
     },
     {
@@ -3864,9 +3704,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "onefutureuseful",
@@ -3906,9 +3746,9 @@
     }
   ],
   "filteredOut": {
-    "football": 54,
-    "news": 64,
+    "football": 55,
+    "news": 71,
     "medical": 9,
-    "growth": 38
+    "growth": 41
   }
 }
