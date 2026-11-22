@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:59:38.538889+00:00",
+  "generatedAt": "2026-11-22T23:10:06.272390+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -9,60 +9,54 @@
   "tabs": {
     "football": [
       {
-        "id": "339b1161bf3a",
+        "id": "5409544caf30",
         "category": "football",
         "lang": "en",
-        "title": "Summer signings join Lionel Messi among MLS’s top earners: Takeaways from the league’s salary release",
-        "summary": "How much in player salaries did it take to earn a point in the 2026 MLS regular season? The latest batch of salaries lends some insight Lionel Messi has closer company at the top of MLS’s list of highest-paid players, thanks to another pair of former…",
+        "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
+        "summary": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
-        "publishedAt": "2026-11-19T18:01:17+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
+        "publishedAt": "2026-11-22T22:20:43+00:00",
         "subtopics": [
           "Barcelona",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/19/mls-salary-release-lionel-messi-spent-per-point",
-            "publishedAt": "2026-11-19T18:01:17+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 11.274,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
-        "transfer": "OFFICIAL"
-      },
-      {
-        "id": "c8e76342b925",
-        "category": "football",
-        "lang": "en",
-        "title": "Arsenal go six points clear after lively draw at Newcastle",
-        "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T19:59:35+00:00",
-        "subtopics": [
-          "Premier League",
+          "La Liga",
           "Results"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T19:59:35+00:00",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
+            "publishedAt": "2026-11-22T22:20:43+00:00",
             "tier": 2
-          },
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 13.915,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "e1098a4af2c1",
+        "category": "football",
+        "lang": "en",
+        "title": "Euro latest: Amorim's Milan win big after Barca's epic comeback",
+        "summary": "",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+        "publishedAt": "2026-11-21T21:00:00+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Results"
+        ],
+        "sources": [
           {
             "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13615004/newcastle-2-2-arsenal-premier-league-highlights",
-            "publishedAt": "2026-11-21T19:35:00+00:00",
+            "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+            "publishedAt": "2026-11-21T21:00:00+00:00",
             "tier": 2
           }
         ],
@@ -70,19 +64,19 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.351,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+        "score": 12.209,
+        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
       },
       {
-        "id": "667bdaf34313",
+        "id": "9042b293bba7",
         "category": "football",
         "lang": "en",
-        "title": "Why Arsenal are behind in race for Champions League spots",
-        "summary": "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?",
+        "title": "Spurs 'a match for anyone' as win at Man City boosts European hopes",
+        "summary": "Women's Champions League qualification may have seemed fanciful for Tottenham at the start of the season - but they are firmly in the mix after winning at Manchester City.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-22T07:17:10+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T16:25:35+00:00",
         "subtopics": [
           "Champions League",
           "Results"
@@ -90,17 +84,110 @@
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T07:17:10+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-22T16:25:35+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.296,
-        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+        "isNew": true,
+        "score": 9.374,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "9ae9777643ce",
+        "category": "football",
+        "lang": "en",
+        "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+        "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eighth minute onwards…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+        "publishedAt": "2026-11-22T18:35:14+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+            "publishedAt": "2026-11-22T18:35:14+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.559,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "b484384c59a1",
+        "category": "football",
+        "lang": "en",
+        "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+        "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T21:44:37+00:00",
+        "subtopics": [
+          "World Cup",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-22T21:44:37+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.355,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "b5afb116c987",
+        "category": "football",
+        "lang": "en",
+        "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
+        "summary": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls at any moment. Make no mistake about…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T19:59:38+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-22T19:59:38+00:00",
+            "tier": 2
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
+            "publishedAt": "2026-11-22T16:10:48+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.987,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
         "id": "2a3d56204f83",
@@ -128,37 +215,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.652,
+        "score": 6.244,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
-      },
-      {
-        "id": "72b3902e65d6",
-        "category": "football",
-        "lang": "en",
-        "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
-        "summary": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T20:30:50+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T20:30:50+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.579,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
         "id": "4b8470a31cf2",
@@ -186,7 +244,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.551,
+        "score": 6.168,
+        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+      },
+      {
+        "id": "c8e76342b925",
+        "category": "football",
+        "lang": "en",
+        "title": "Arsenal go six points clear after lively draw at Newcastle",
+        "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-21T19:59:35+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-21T19:59:35+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.168,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -215,8 +302,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.55,
+        "score": 6.167,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+      },
+      {
+        "id": "fb81b0e8ec72",
+        "category": "football",
+        "lang": "en",
+        "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+        "summary": "Nine days after playing for Greece in a nightmare 7-0 loss, keeper Konstantinos Tzolakis plays a pivotal role in Hull's Premier League win against Brighton.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T19:03:32+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-22T19:03:32+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.101,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "d1963ea385e1",
+        "category": "football",
+        "lang": "en",
+        "title": "Liverpool's fab four as they thrash 10-man Man Utd",
+        "summary": "FREE TO WATCH: Highlights from the Premier League match between Liverpool and Manchester United.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/watch/video/13615396/liverpool-4-0-manchester-united-premier-league-highlights",
+        "publishedAt": "2026-11-22T18:43:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13615396/liverpool-4-0-manchester-united-premier-league-highlights",
+            "publishedAt": "2026-11-22T18:43:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.07,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
         "id": "d8ad7177efc3",
@@ -244,37 +389,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.285,
+        "score": 5.967,
         "firstSeen": "2026-11-21T15:01:57.528395+00:00"
       },
       {
-        "id": "ff6fb76cee56",
+        "id": "004a257f1c06",
         "category": "football",
         "lang": "en",
-        "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
-        "summary": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
+        "title": "Late McBurnie double sees Hull stun in-form Brighton",
+        "summary": "FREE TO WATCH: Highlights from the Premier League match between Hull City and Brighton.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-22T00:13:01+00:00",
+        "url": "https://www.skysports.com/watch/video/13615325/hull-city-2-0-brighton-premier-league-highlights",
+        "publishedAt": "2026-11-22T16:31:00+00:00",
         "subtopics": [
           "Premier League",
           "Results"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T00:13:01+00:00",
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13615325/hull-city-2-0-brighton-premier-league-highlights",
+            "publishedAt": "2026-11-22T16:31:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.296,
-        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+        "isNew": true,
+        "score": 5.881,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
         "id": "14a55279d66f",
@@ -302,8 +447,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.291,
+        "score": 4.848,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+      },
+      {
+        "id": "1be482b5c896",
+        "category": "football",
+        "lang": "en",
+        "title": "What history tells us about the Premier League table after 10 games of a season",
+        "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegated The Premier League is about to enter the most intense phase of its season. After 10 rounds of fixtures across the past three months there…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+        "publishedAt": "2026-11-20T08:00:26+00:00",
+        "subtopics": [
+          "Premier League",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
+            "publishedAt": "2026-11-20T08:00:26+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.835,
+        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
         "id": "a06baa0efd0a",
@@ -331,7 +505,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.051,
+        "score": 4.667,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -360,7 +534,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.051,
+        "score": 4.667,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -389,7 +563,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.05,
+        "score": 4.667,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -418,37 +592,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.973,
+        "score": 4.609,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "1be482b5c896",
-        "category": "football",
-        "lang": "en",
-        "title": "What history tells us about the Premier League table after 10 games of a season",
-        "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegated The Premier League is about to enter the most intense phase of its season. After 10 rounds of fixtures across the past three months there…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-        "publishedAt": "2026-11-20T08:00:26+00:00",
-        "subtopics": [
-          "Premier League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-            "publishedAt": "2026-11-20T08:00:26+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.945,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
         "id": "40d3bd219c78",
@@ -476,7 +621,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.906,
+        "score": 4.559,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -505,127 +650,104 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.897,
+        "score": 4.552,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "75bb026198f6",
-        "category": "football",
-        "lang": "en",
-        "title": "Bayern draw with Cologne as Kane picks up ankle injury",
-        "summary": "England captain Harry Kane will be out \"for the next few months\" after undergoing surgery on torn ankle ligaments sustained during Bayern Munich's 1-1 Bundesliga draw with Cologne on Friday.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T13:29:40+00:00",
-        "subtopics": [
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T13:29:40+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.738,
-        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
-      },
-      {
-        "id": "06184e94bbb0",
-        "category": "football",
-        "lang": "en",
-        "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
-        "summary": "A combination of smart analytics, a young manager and players hand-picked for their particular skills has the Seagulls flying high They lined up in sky‑blue shirts, white shorts. A combined value of £327m.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
-        "publishedAt": "2026-11-21T06:00:52+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
-            "publishedAt": "2026-11-21T06:00:52+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.455,
-        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
-      },
-      {
-        "id": "03b329e78d51",
-        "category": "football",
-        "lang": "en",
-        "title": "Bayern Munich confirm Harry Kane ‘out for next few months’ with ankle injury",
-        "summary": "England forward injured in Friday’s 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out for the next few months” with ankle ligament damage sustained in their 1-1 draw with…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-        "publishedAt": "2026-11-20T22:43:40+00:00",
-        "subtopics": [
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
-            "publishedAt": "2026-11-20T22:43:40+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.241,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00"
-      },
-      {
-        "id": "bff4950898af",
-        "category": "football",
-        "lang": "en",
-        "title": "Sutton's predictions v world champion boxer Lauren Price",
-        "summary": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the BBC readers and AI, with his predictions for this weekend's Premier League fixtures.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-19T18:52:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-19T18:52:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.282,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       }
     ],
     "news": [
+      {
+        "id": "052380e2b3b0",
+        "category": "news",
+        "lang": "de",
+        "title": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
+        "summary": "Zwei Frauen sollen die Berliner FDP-Politikerin Preisler am Rande einer pro-palästinensischen Demonstration geschubst und getreten haben. Bundesfamilienministerin Prien kritisiert das scharf.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+        "publishedAt": "2026-11-22T17:36:50+00:00",
+        "subtopics": [
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+            "publishedAt": "2026-11-22T17:36:50+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+            "publishedAt": "2026-11-22T17:36:50+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.762,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "93838d49c7e8",
+        "category": "news",
+        "lang": "de",
+        "title": "HC Hamburg kassiert deutliche Pleite gegen Tabellenführer Magdeburg",
+        "summary": "Es war die neunte Saisonniederlage für die chancenlosen Hansestädter, die weiterhin tief im Abstiegskampf stecken.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/sport/handball/Handball-HC-Hamburg-SC-Magdeburg,hc-hamburg-handball-130.html",
+        "publishedAt": "2026-11-22T19:59:28+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/sport/handball/Handball-HC-Hamburg-SC-Magdeburg,hc-hamburg-handball-130.html",
+            "publishedAt": "2026-11-22T19:59:28+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.461,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "4bdf5985769e",
+        "category": "news",
+        "lang": "de",
+        "title": "Bundesliga: Werder Bremen mit Schützenfest im Nordderby gegen den HSV",
+        "summary": "Die Grün-Weißen feiern ein Schützenfest gegen den Erzrivalen. Umjubelter Held war Justin Njinmah, der zwei Tore erzielte.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/sport/fussball/njinmah-doppelpack-werder-bremen-deklassiert-hsv-im-nordderby,nordderby-226.html",
+        "publishedAt": "2026-11-22T19:55:58+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/sport/fussball/njinmah-doppelpack-werder-bremen-deklassiert-hsv-im-nordderby,nordderby-226.html",
+            "publishedAt": "2026-11-22T19:55:58+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.459,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
       {
         "id": "4d5c25e374ee",
         "category": "news",
@@ -652,7 +774,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.616,
+        "score": 7.316,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
@@ -682,7 +804,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.271,
+        "score": 7.011,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -717,7 +839,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.129,
+        "score": 6.885,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -747,7 +869,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.1,
+        "score": 6.859,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -782,7 +904,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.026,
+        "score": 6.794,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -817,7 +939,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.939,
+        "score": 6.717,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -846,7 +968,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.904,
+        "score": 6.686,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -881,37 +1003,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.869,
+        "score": 6.541,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
-        "id": "0e9082149999",
+        "id": "f947132bdfba",
         "category": "news",
         "lang": "de",
-        "title": "Ihr Thema der Woche aus Hammerbrook",
-        "summary": "Stadtreporterin Anne Adams war in dem Hamburger Stadtteil unterwegs. Was hat die Menschen dort diese Woche bewegt?",
+        "title": "Berliner Tor: Bauarbeiten unter Zeitdruck",
+        "summary": "Bürgerweide und Berlinertordamm sind zum wiederholten Male gesperrt. 46 Stahlträger müssen an diesem Wochenende eingehoben werden.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-hammerbrook,hamj-16754.html",
-        "publishedAt": "2026-11-21T19:12:55+00:00",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/berliner-tor-bauarbeiten-unter-zeitdruck,hamj-16764.html",
+        "publishedAt": "2026-11-22T18:45:32+00:00",
         "subtopics": [
-          "Hamburg",
-          "Conflict"
+          "Hamburg"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ihr-thema-der-woche-aus-hammerbrook,hamj-16754.html",
-            "publishedAt": "2026-11-21T19:12:55+00:00",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/berliner-tor-bauarbeiten-unter-zeitdruck,hamj-16764.html",
+            "publishedAt": "2026-11-22T18:45:32+00:00",
             "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.835,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+        "isNew": true,
+        "score": 6.409,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
         "id": "620bd0d11cb4",
@@ -939,7 +1060,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.623,
+        "score": 6.391,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -974,28 +1095,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.563,
+        "score": 6.384,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
-        "id": "c3076cb0351d",
+        "id": "5e8bc1286387",
         "category": "news",
         "lang": "de",
-        "title": "Wi snackt Platt: Speeldeel, Truercafé un Spraakplaan Nedderdüütsch",
-        "summary": "Bi „Wi snackt Platt“ geiht dat dütmal üm twee ganz besünnere Froenslüüd: Anngret Timmann un Ina Kühn vun’t Truercafé in Kirchwarder. Denn wüllt wi ok noch Lust maken op de dree Wiehnachtskunzerten, mit de de Finkwarder Speeldeel in de tokamen Weken to…",
+        "title": "Elbtower: Baufirma baut Kräne ab",
+        "summary": "Das Hessische Unternehmen \"Lupp\" hat begonnen, zwei Kräne zu demontieren und Vorrichtungen zur Betonverteilung zu entfernen.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
-        "publishedAt": "2026-11-21T09:45:24+00:00",
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/elbtower-baufirma-baut-kraene-ab,hamj-16664.html",
+        "publishedAt": "2026-11-21T11:19:38+00:00",
         "subtopics": [
           "Hamburg",
-          "Elections"
+          "Business"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
-            "publishedAt": "2026-11-21T09:45:24+00:00",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/elbtower-baufirma-baut-kraene-ab,hamj-16664.html",
+            "publishedAt": "2026-11-21T11:19:38+00:00",
             "tier": 1
           }
         ],
@@ -1003,8 +1124,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.542,
-        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+        "score": 6.36,
+        "firstSeen": "2026-11-20T00:14:56.801298+00:00"
       },
       {
         "id": "226e12b8f367",
@@ -1038,7 +1159,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.52,
+        "score": 6.346,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00"
       },
       {
@@ -1067,28 +1188,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.498,
+        "score": 6.327,
         "firstSeen": "2026-11-20T15:52:31.042973+00:00"
       },
       {
-        "id": "c3db824cce56",
+        "id": "c3076cb0351d",
         "category": "news",
         "lang": "de",
-        "title": "Handelsverband Nord rechnet mit gutem Weihnachtsgeschäft",
-        "summary": "Für November und Dezember erwartet der Verband in Hamburg ein Umsatzplus von 2,4 Prozent. Das wären 3,3 Milliarden Euro.",
+        "title": "Wi snackt Platt: Speeldeel, Truercafé un Spraakplaan Nedderdüütsch",
+        "summary": "Bi „Wi snackt Platt“ geiht dat dütmal üm twee ganz besünnere Froenslüüd: Anngret Timmann un Ina Kühn vun’t Truercafé in Kirchwarder. Denn wüllt wi ok noch Lust maken op de dree Wiehnachtskunzerten, mit de de Finkwarder Speeldeel in de tokamen Weken to…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/handelsverband-nord-rechnet-mit-gutem-weihnachtsgeschaeft,weihnachten-584.html",
-        "publishedAt": "2026-11-21T08:05:25+00:00",
+        "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
+        "publishedAt": "2026-11-21T09:45:24+00:00",
         "subtopics": [
           "Hamburg",
-          "Markets"
+          "Elections"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/handelsverband-nord-rechnet-mit-gutem-weihnachtsgeschaeft,weihnachten-584.html",
-            "publishedAt": "2026-11-21T08:05:25+00:00",
+            "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
+            "publishedAt": "2026-11-21T09:45:24+00:00",
             "tier": 1
           }
         ],
@@ -1096,123 +1217,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.494,
-        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
-      },
-      {
-        "id": "f269155fdb8a",
-        "category": "news",
-        "lang": "de",
-        "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-        "summary": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-        "publishedAt": "2026-11-21T17:32:19+00:00",
-        "subtopics": [
-          "US",
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-            "publishedAt": "2026-11-21T17:32:19+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.18,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "e57a9fc96f25",
-        "category": "news",
-        "lang": "de",
-        "title": "Bezirk Altona will Abriss von Wohnprojekt in Sülldorf",
-        "summary": "Der Arbeiter-Samariter-Bund will aus einer Flüchtlingsunterkunft ein Wohnprojekt für junge Leute machen. Doch der Bezirk Altona will die Häuser stattdessen abreißen lassen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/bezirk-altona-will-abriss-von-wohnprojekt-in-suelldorf,asb-112.html",
-        "publishedAt": "2026-11-20T19:24:49+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Immigration"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/bezirk-altona-will-abriss-von-wohnprojekt-in-suelldorf,asb-112.html",
-            "publishedAt": "2026-11-20T19:24:49+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.168,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00"
-      },
-      {
-        "id": "5c87da81c36e",
-        "category": "news",
-        "lang": "de",
-        "title": "Mausoleum Schröder auf Friedhof Ohlsdorf: Tote längst \"ausgezogen\"",
-        "summary": "Das Mausoleum wurde 1906 auf dem Ohlsdorfer Friedhof in Hamburg erbaut. Die denkmalgeschützte Grabanlage ist total marode.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/geschichte/schauplaetze/sogar-von-toten-verlassen-mausoleum-schroeder-in-ohlsdorf,mausoleum-100.html",
-        "publishedAt": "2026-11-22T04:00:00+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/geschichte/schauplaetze/sogar-von-toten-verlassen-mausoleum-schroeder-in-ohlsdorf,mausoleum-100.html",
-            "publishedAt": "2026-11-22T04:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.147,
-        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
-      },
-      {
-        "id": "5e31e23d9f9f",
-        "category": "news",
-        "lang": "de",
-        "title": "Next Generation: Maritime Familienbetriebe im Hamburger Hafen",
-        "summary": "Der Hafenkonzert-Podcast besucht maritime Familienbetriebe in Hamburg, in denen die jüngere Generation das Ruder übernommen hat - und fragt, wie der Übergang gelingt, was die Jüngeren anders machen und wie es sich anfühlt, plötzlich die Verantwortung zu…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
-        "publishedAt": "2026-11-20T16:00:08+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
-            "publishedAt": "2026-11-20T16:00:08+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.091,
+        "score": 6.319,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
@@ -1264,8 +1269,38 @@
           }
         ],
         "isNew": false,
-        "score": 6.057,
+        "score": 5.936,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
+      },
+      {
+        "id": "f269155fdb8a",
+        "category": "news",
+        "lang": "de",
+        "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+        "summary": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+        "publishedAt": "2026-11-21T17:32:19+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+            "publishedAt": "2026-11-21T17:32:19+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.93,
+        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
         "id": "f2a8b0add3ac",
@@ -1299,8 +1334,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.046,
+        "score": 5.926,
         "firstSeen": "2026-11-19T16:14:02.590127+00:00"
+      },
+      {
+        "id": "5e31e23d9f9f",
+        "category": "news",
+        "lang": "de",
+        "title": "Next Generation: Maritime Familienbetriebe im Hamburger Hafen",
+        "summary": "Der Hafenkonzert-Podcast besucht maritime Familienbetriebe in Hamburg, in denen die jüngere Generation das Ruder übernommen hat - und fragt, wie der Übergang gelingt, was die Jüngeren anders machen und wie es sich anfühlt, plötzlich die Verantwortung zu…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
+        "publishedAt": "2026-11-20T16:00:08+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
+            "publishedAt": "2026-11-20T16:00:08+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.92,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
         "id": "945b85d1490a",
@@ -1328,7 +1392,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.997,
+        "score": 5.883,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1357,8 +1421,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.97,
+        "score": 5.859,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
+      },
+      {
+        "id": "5c87da81c36e",
+        "category": "news",
+        "lang": "de",
+        "title": "Mausoleum Schröder auf Friedhof Ohlsdorf: Tote längst \"ausgezogen\"",
+        "summary": "Das Mausoleum wurde 1906 auf dem Ohlsdorfer Friedhof in Hamburg erbaut. Die denkmalgeschützte Grabanlage ist total marode.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/geschichte/schauplaetze/sogar-von-toten-verlassen-mausoleum-schroeder-in-ohlsdorf,mausoleum-100.html",
+        "publishedAt": "2026-11-22T04:00:00+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/geschichte/schauplaetze/sogar-von-toten-verlassen-mausoleum-schroeder-in-ohlsdorf,mausoleum-100.html",
+            "publishedAt": "2026-11-22T04:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.855,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
         "id": "f5daf9642a95",
@@ -1392,7 +1484,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.727,
+        "score": 5.644,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -1427,7 +1519,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.726,
+        "score": 5.643,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -1456,7 +1548,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.698,
+        "score": 5.618,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1485,7 +1577,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.695,
+        "score": 5.615,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1520,7 +1612,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.687,
+        "score": 5.608,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1555,7 +1647,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.681,
+        "score": 5.603,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1590,7 +1682,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.657,
+        "score": 5.582,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1625,7 +1717,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.62,
+        "score": 5.549,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1654,37 +1746,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.611,
+        "score": 5.541,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
-      },
-      {
-        "id": "ea44a611fcfc",
-        "category": "news",
-        "lang": "de",
-        "title": "Pfanni-Kloßteig: Gericht untersagt Nachhaltigkeitswerbung",
-        "summary": "Das Hamburger Landgericht hält den Hinweis \"nachhaltiger Anbau\" für irreführend. Unilever will das Urteil akzeptieren.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
-        "publishedAt": "2026-11-21T09:49:33+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/pfanni-klossteig-gericht-untersagt-nachhaltigkeitswerbung,kurzehh-4960.html",
-            "publishedAt": "2026-11-21T09:49:33+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.544,
-        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
         "id": "16eae1369efb",
@@ -1718,43 +1781,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.517,
+        "score": 5.458,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00"
-      },
-      {
-        "id": "38950363706e",
-        "category": "news",
-        "lang": "de",
-        "title": "Die AfD entzweit sich am Begriff \"Remigration\"",
-        "summary": "Lange war sich die AfD zumindest bei ihrem Kernthema einig. Doch jetzt gibt es Streit über den Migrationskurs der Partei.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/afd-remigration-streit-100.html",
-        "publishedAt": "2026-11-17T13:39:03+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/afd-remigration-streit-100.html",
-            "publishedAt": "2026-11-17T13:39:03+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/afd-remigration-streit-100.html",
-            "publishedAt": "2026-11-17T13:39:03+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.493,
-        "firstSeen": "2026-11-17T15:26:37.631808+00:00"
       }
     ],
     "medical": [
@@ -1785,7 +1813,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.063,
+        "score": 10.009,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1822,7 +1850,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.895,
+        "score": 9.808,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1853,7 +1881,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.649,
+        "score": 9.571,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1885,7 +1913,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.895,
+        "score": 7.808,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1916,7 +1944,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.063,
+        "score": 7.009,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1948,7 +1976,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.063,
+        "score": 7.009,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1979,7 +2007,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.895,
+        "score": 6.808,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2011,7 +2039,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.654,
+        "score": 6.616,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2043,7 +2071,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.654,
+        "score": 6.616,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2075,7 +2103,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.654,
+        "score": 6.616,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2106,7 +2134,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.236,
+        "score": 6.175,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2138,7 +2166,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.13,
+        "score": 6.061,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2169,7 +2197,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.881,
+        "score": 5.786,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2199,7 +2227,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.864,
+        "score": 4.77,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2235,7 +2263,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.654,
+        "score": 4.616,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2265,7 +2293,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.354,
+        "score": 4.316,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2296,7 +2324,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.685,
+        "score": 3.591,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2326,7 +2354,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.378,
+        "score": 3.303,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2356,7 +2384,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.519,
+        "score": 2.443,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2388,7 +2416,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.965,
+        "score": 5.694,
         "firstSeen": "2026-11-21T23:40:51.389875+00:00",
         "kind": "video",
         "video": {
@@ -2425,7 +2453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.923,
+        "score": 4.737,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2462,38 +2490,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.898,
+        "score": 4.623,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "583b7a1c7413",
-        "category": "growth",
-        "lang": "en",
-        "title": "The most misunderstood graph in AI just got a major update",
-        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-        "publishedAt": "2026-11-20T18:15:15+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Decision-making"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-            "publishedAt": "2026-11-20T18:15:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.342,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
       {
@@ -2521,7 +2519,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.328,
+        "score": 4.21,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "video",
         "video": {
@@ -2533,61 +2531,32 @@
         }
       },
       {
-        "id": "81ce5b24dd89",
+        "id": "583b7a1c7413",
         "category": "growth",
         "lang": "en",
-        "title": "Quoting Ravi Vakil",
-        "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI.",
+        "title": "The most misunderstood graph in AI just got a major update",
+        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-        "publishedAt": "2026-11-20T19:21:49+00:00",
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "publishedAt": "2026-11-20T18:15:15+00:00",
         "subtopics": [
           "AI & smart tools",
-          "Communication"
+          "Decision-making"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-            "publishedAt": "2026-11-20T19:21:49+00:00",
-            "tier": 3
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+            "publishedAt": "2026-11-20T18:15:15+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.067,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "b8e1839046bc",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Levent Alpöge",
-        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-        "publishedAt": "2026-11-20T16:30:48+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-            "publishedAt": "2026-11-20T16:30:48+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.002,
+        "score": 4.165,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -2616,7 +2585,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.96,
+        "score": 3.919,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2626,6 +2595,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=0-C6SKjKek4",
           "channel": "TED"
         }
+      },
+      {
+        "id": "81ce5b24dd89",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Ravi Vakil",
+        "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+        "publishedAt": "2026-11-20T19:21:49+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+            "publishedAt": "2026-11-20T19:21:49+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.888,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "article"
       },
       {
         "id": "c6b1daa8a71a",
@@ -2653,7 +2652,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.876,
+        "score": 3.868,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00",
         "kind": "video",
         "video": {
@@ -2690,7 +2689,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.852,
+        "score": 3.844,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2700,6 +2699,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
           "channel": "TED"
         }
+      },
+      {
+        "id": "b8e1839046bc",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Levent Alpöge",
+        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+        "publishedAt": "2026-11-20T16:30:48+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+            "publishedAt": "2026-11-20T16:30:48+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.83,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "article"
       },
       {
         "id": "7ba936e2e34c",
@@ -2726,7 +2754,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.829,
+        "score": 3.821,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "video",
         "video": {
@@ -2763,7 +2791,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.814,
+        "score": 3.806,
         "firstSeen": "2026-11-19T00:55:15.585925+00:00",
         "kind": "video",
         "video": {
@@ -2771,6 +2799,115 @@
           "thumbUrl": "https://i2.ytimg.com/vi/Q6MRUhfussk/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=Q6MRUhfussk",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "3888727964ed",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Couples Therapists Who Nearly Got Divorced | Harville Hendrix | TED",
+        "summary": "Couples therapists Harville Hendrix and Helen LaKelly Hunt spent decades teaching the world how to love well … even as their own marriage was falling apart. In this candid, funny talk, Hendrix recounts the yearlong experiment in listening that saved their…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
+        "publishedAt": "2026-11-16T16:00:15+00:00",
+        "subtopics": [
+          "Communication",
+          "Relationships"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
+            "publishedAt": "2026-11-16T16:00:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.756,
+        "firstSeen": "2026-11-16T16:41:13.634126+00:00",
+        "kind": "video",
+        "video": {
+          "id": "bVh4r2YWK5M",
+          "thumbUrl": "https://i3.ytimg.com/vi/bVh4r2YWK5M/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "7d8093d0f61f",
+        "category": "growth",
+        "lang": "en",
+        "title": "Turns out, your group chat might be more powerful than you think. #TEDTalks",
+        "summary": "Katie Paris quit her career in Washington, DC, to figure out how to make politics feel less like strangers shouting at each other and more like friends looking out for each other. In this practical talk, she reveals why conversations between real people can…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/EMjyOVI7gfc",
+        "publishedAt": "2026-11-14T01:00:22+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/shorts/EMjyOVI7gfc",
+            "publishedAt": "2026-11-14T01:00:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.702,
+        "firstSeen": "2026-11-14T12:54:56.468812+00:00",
+        "kind": "video",
+        "video": {
+          "id": "EMjyOVI7gfc",
+          "thumbUrl": "https://i2.ytimg.com/vi/EMjyOVI7gfc/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=EMjyOVI7gfc",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "8907954dd4b1",
+        "category": "growth",
+        "lang": "en",
+        "title": "What People Living in Democracies Take for Granted | Leopoldo López | TED",
+        "summary": "Activist Leopoldo López learned the true value of freedom in a solitary confinement cell, when someone else decided if he would eat or see sunlight. In this searching conversation, he explains why democracy is losing ground across the globe, the state of…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
+        "publishedAt": "2026-11-13T16:00:21+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
+            "publishedAt": "2026-11-13T16:00:21+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.695,
+        "firstSeen": "2026-11-13T23:11:54.338964+00:00",
+        "kind": "video",
+        "video": {
+          "id": "pSbcJV_o_ko",
+          "thumbUrl": "https://i1.ytimg.com/vi/pSbcJV_o_ko/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
           "channel": "TED"
         }
       },
@@ -2799,29 +2936,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.8,
+        "score": 3.685,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "article"
       },
       {
-        "id": "3888727964ed",
+        "id": "b39a7ba76b88",
         "category": "growth",
         "lang": "en",
-        "title": "The Couples Therapists Who Nearly Got Divorced | Harville Hendrix | TED",
-        "summary": "Couples therapists Harville Hendrix and Helen LaKelly Hunt spent decades teaching the world how to love well … even as their own marriage was falling apart. In this candid, funny talk, Hendrix recounts the yearlong experiment in listening that saved their…",
+        "title": "How Would You Design Your Dream City? | James Rojas | TED",
+        "summary": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
-        "publishedAt": "2026-11-16T16:00:15+00:00",
+        "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
+        "publishedAt": "2026-11-12T16:00:32+00:00",
         "subtopics": [
-          "Communication",
-          "Relationships"
+          "Presentation & speaking"
         ],
         "sources": [
           {
             "name": "TED",
-            "url": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
-            "publishedAt": "2026-11-16T16:00:15+00:00",
+            "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
+            "publishedAt": "2026-11-12T16:00:32+00:00",
             "tier": 2
           }
         ],
@@ -2829,14 +2965,14 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.763,
-        "firstSeen": "2026-11-16T16:41:13.634126+00:00",
+        "score": 3.676,
+        "firstSeen": "2026-11-12T23:09:39.024597+00:00",
         "kind": "video",
         "video": {
-          "id": "bVh4r2YWK5M",
-          "thumbUrl": "https://i3.ytimg.com/vi/bVh4r2YWK5M/hqdefault.jpg",
+          "id": "f5RqYHd2cBQ",
+          "thumbUrl": "https://i3.ytimg.com/vi/f5RqYHd2cBQ/hqdefault.jpg",
           "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
+          "watchUrl": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
           "channel": "TED"
         }
       },
@@ -2912,7 +3048,7 @@
           }
         ],
         "isNew": false,
-        "score": 3.729,
+        "score": 3.588,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
       },
@@ -2941,117 +3077,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.726,
+        "score": 3.585,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "kind": "article"
-      },
-      {
-        "id": "7d8093d0f61f",
-        "category": "growth",
-        "lang": "en",
-        "title": "Turns out, your group chat might be more powerful than you think. #TEDTalks",
-        "summary": "Katie Paris quit her career in Washington, DC, to figure out how to make politics feel less like strangers shouting at each other and more like friends looking out for each other. In this practical talk, she reveals why conversations between real people can…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/EMjyOVI7gfc",
-        "publishedAt": "2026-11-14T01:00:22+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/shorts/EMjyOVI7gfc",
-            "publishedAt": "2026-11-14T01:00:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.709,
-        "firstSeen": "2026-11-14T12:54:56.468812+00:00",
-        "kind": "video",
-        "video": {
-          "id": "EMjyOVI7gfc",
-          "thumbUrl": "https://i2.ytimg.com/vi/EMjyOVI7gfc/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=EMjyOVI7gfc",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "8907954dd4b1",
-        "category": "growth",
-        "lang": "en",
-        "title": "What People Living in Democracies Take for Granted | Leopoldo López | TED",
-        "summary": "Activist Leopoldo López learned the true value of freedom in a solitary confinement cell, when someone else decided if he would eat or see sunlight. In this searching conversation, he explains why democracy is losing ground across the globe, the state of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
-        "publishedAt": "2026-11-13T16:00:21+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
-            "publishedAt": "2026-11-13T16:00:21+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.702,
-        "firstSeen": "2026-11-13T23:11:54.338964+00:00",
-        "kind": "video",
-        "video": {
-          "id": "pSbcJV_o_ko",
-          "thumbUrl": "https://i1.ytimg.com/vi/pSbcJV_o_ko/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "b39a7ba76b88",
-        "category": "growth",
-        "lang": "en",
-        "title": "How Would You Design Your Dream City? | James Rojas | TED",
-        "summary": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
-        "publishedAt": "2026-11-12T16:00:32+00:00",
-        "subtopics": [
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
-            "publishedAt": "2026-11-12T16:00:32+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.683,
-        "firstSeen": "2026-11-12T23:09:39.024597+00:00",
-        "kind": "video",
-        "video": {
-          "id": "f5RqYHd2cBQ",
-          "thumbUrl": "https://i3.ytimg.com/vi/f5RqYHd2cBQ/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
-          "channel": "TED"
-        }
       },
       {
         "id": "4ba1303d2ee2",
@@ -3079,7 +3107,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.619,
+        "score": 3.491,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "article"
       },
@@ -3108,7 +3136,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.516,
+        "score": 3.434,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
@@ -3138,7 +3166,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.5,
+        "score": 3.42,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -3168,7 +3196,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.471,
+        "score": 3.394,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -3197,7 +3225,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.367,
+        "score": 3.36,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -3234,7 +3262,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.278,
+        "score": 3.272,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -3272,7 +3300,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.246,
+        "score": 3.241,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -3280,6 +3308,42 @@
           "thumbUrl": "https://i2.ytimg.com/vi/u-8KpXcPYCw/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "b2b96149e382",
+        "category": "growth",
+        "lang": "en",
+        "title": "Engineers Make Great Founders",
+        "summary": "A lot of what makes a great engineer also makes a great founder. Before starting Layers and BootLoop, Shivani Patel and Chris Markus worked at SpaceX, where they learned to take ideas from zero to one, solve hard problems, and own the outcome.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
+        "publishedAt": "2026-11-02T23:54:36+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
+            "publishedAt": "2026-11-02T23:54:36+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.217,
+        "firstSeen": "2026-11-03T13:33:04.792558+00:00",
+        "kind": "video",
+        "video": {
+          "id": "lqdc1MeyIfs",
+          "thumbUrl": "https://i1.ytimg.com/vi/lqdc1MeyIfs/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
           "channel": "Y Combinator"
         }
       },
@@ -3314,7 +3378,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.243,
+        "score": 3.158,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -3343,45 +3407,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.23,
+        "score": 3.146,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
-      },
-      {
-        "id": "b2b96149e382",
-        "category": "growth",
-        "lang": "en",
-        "title": "Engineers Make Great Founders",
-        "summary": "A lot of what makes a great engineer also makes a great founder. Before starting Layers and BootLoop, Shivani Patel and Chris Markus worked at SpaceX, where they learned to take ideas from zero to one, solve hard problems, and own the outcome.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
-        "publishedAt": "2026-11-02T23:54:36+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
-            "publishedAt": "2026-11-02T23:54:36+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.222,
-        "firstSeen": "2026-11-03T13:33:04.792558+00:00",
-        "kind": "video",
-        "video": {
-          "id": "lqdc1MeyIfs",
-          "thumbUrl": "https://i1.ytimg.com/vi/lqdc1MeyIfs/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "358ebcd58de3",
@@ -3408,7 +3436,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.216,
+        "score": 3.134,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -3438,7 +3466,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.066,
+        "score": 3.001,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3469,7 +3497,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.064,
+        "score": 2.999,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3499,7 +3527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.017,
+        "score": 2.958,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3534,7 +3562,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.779,
+        "score": 2.747,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -3563,7 +3591,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.724,
+        "score": 2.716,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "article"
       }
@@ -3603,7 +3631,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 37,
+      "items": 38,
       "error": null
     },
     {
@@ -3746,8 +3774,8 @@
     }
   ],
   "filteredOut": {
-    "football": 53,
-    "news": 71,
+    "football": 60,
+    "news": 70,
     "medical": 9,
     "growth": 41
   }
