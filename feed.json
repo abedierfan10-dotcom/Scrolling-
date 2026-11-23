@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:57:28.206737+00:00",
+  "generatedAt": "2026-11-23T17:15:48.630561+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -9,63 +9,63 @@
   "tabs": {
     "football": [
       {
-        "id": "5409544caf30",
+        "id": "1741beacf711",
         "category": "football",
         "lang": "en",
-        "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
-        "summary": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two…",
+        "title": "‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
+        "summary": "Country’s first World Cup since men’s 1966 edition in England Bid lists 22 stadiums as potential venues The UK is to host the 2035 Women’s World Cup, Fifa has confirmed. England, Northern Ireland, Scotland and Wales will stage the first World Cup hosted in…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
-        "publishedAt": "2026-11-22T22:20:43+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
+        "publishedAt": "2026-11-23T15:09:18+00:00",
         "subtopics": [
-          "Barcelona",
-          "La Liga",
+          "World Cup",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
+            "publishedAt": "2026-11-23T15:09:18+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 9.288,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00",
+        "transfer": "OFFICIAL"
+      },
+      {
+        "id": "1be1db02698b",
+        "category": "football",
+        "lang": "en",
+        "title": "Emery insists no change of plan for Aston Villa despite fears over Galatasaray surface",
+        "summary": "‘Hopefully the pitch will be as best as possible,’ says Villa manager Turkish champions had to move game on Saturday Unai Emery has insisted he will not alter his plans for Aston Villa’s Champions League game at ­Galatasaray on Tuesday night on account of…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/23/unai-emery-no-change-of-plan-aston-villa-galatasaray-surface",
+        "publishedAt": "2026-11-23T14:56:36+00:00",
+        "subtopics": [
+          "Champions League",
           "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
-            "publishedAt": "2026-11-22T22:20:43+00:00",
+            "url": "https://www.theguardian.com/football/2026/nov/23/unai-emery-no-change-of-plan-aston-villa-galatasaray-surface",
+            "publishedAt": "2026-11-23T14:56:36+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 13.837,
-        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
-      },
-      {
-        "id": "e1098a4af2c1",
-        "category": "football",
-        "lang": "en",
-        "title": "Euro latest: Amorim's Milan win big after Barca's epic comeback",
-        "summary": "",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-        "publishedAt": "2026-11-21T21:00:00+00:00",
-        "subtopics": [
-          "Barcelona",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-            "publishedAt": "2026-11-21T21:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 12.177,
-        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
+        "isNew": true,
+        "score": 9.268,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "9042b293bba7",
@@ -93,8 +93,183 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.31,
+        "score": 8.266,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "ab5b551cd643",
+        "category": "football",
+        "lang": "en",
+        "title": "When is the Euro 2028 qualifying draw?",
+        "summary": "Our Ask Me Anything team tell you all you need to know about the Euro 2028 qualifying draw.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T16:25:50+00:00",
+        "subtopics": [
+          "Euros",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T16:25:50+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.914,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "07e299969270",
+        "category": "football",
+        "lang": "en",
+        "title": "David Raya’s shoulder injury ‘not too serious’ and no surgery needed for Arsenal goalkeeper",
+        "summary": "No 1 to miss Dortmund game but could return for City clash ‘We were worried … he’s better than expected,’ says manager Mikel Arteta is hopeful the shoulder injury David Raya sustained at Newcastle is not too serious but confirmed the goalkeeper would miss…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
+        "publishedAt": "2026-11-23T15:13:56+00:00",
+        "subtopics": [
+          "Champions League",
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/david-raya-shoulder-injury-arsenal-surgery-mikel-arteta",
+            "publishedAt": "2026-11-23T15:13:56+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.796,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "24e57ecc2bc4",
+        "category": "football",
+        "lang": "en",
+        "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
+        "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T13:07:12+00:00",
+        "subtopics": [
+          "La Liga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T13:07:12+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.598,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "b484384c59a1",
+        "category": "football",
+        "lang": "en",
+        "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
+        "summary": "The United Kingdom will host a football World Cup for the first time since 1966.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T15:09:50+00:00",
+        "subtopics": [
+          "World Cup",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T15:09:50+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.289,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "865c185f8673",
+        "category": "football",
+        "lang": "en",
+        "title": "UK confirmed as 2035 Women's World Cup hosts - which stadiums will be used?",
+        "summary": "The UK has been confirmed as the host of the 2035 Women's World Cup.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
+        "publishedAt": "2026-11-23T15:05:00+00:00",
+        "subtopics": [
+          "World Cup",
+          "Upcoming"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13615555/womens-world-cup-uk-announced-as-2035-hosts-as-costa-rica-jamaica-mexico-and-usa-host-in-2031",
+            "publishedAt": "2026-11-23T15:05:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.281,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "be7281b9b824",
+        "category": "football",
+        "lang": "en",
+        "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+        "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-22T19:59:35+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-22T19:59:35+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.433,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "9ae9777643ce",
@@ -122,37 +297,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.49,
+        "score": 6.365,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
-        "id": "b484384c59a1",
+        "id": "81ec9cb4e88e",
         "category": "football",
         "lang": "en",
-        "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
-        "summary": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+        "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
+        "summary": "German giants’ treatment of midfielder has raised questions about how far the reputation of a family club still holds It was, on paper, a perfect Friday evening for Bayern to flex their muscles once again, in the chill of their intimidating Allianz Arena…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-22T21:44:37+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
+        "publishedAt": "2026-11-23T12:08:28+00:00",
         "subtopics": [
-          "World Cup",
-          "Upcoming"
+          "Bundesliga",
+          "Results"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T21:44:37+00:00",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
+            "publishedAt": "2026-11-23T12:08:28+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.278,
-        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+        "isNew": true,
+        "score": 6.011,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "b5afb116c987",
@@ -186,7 +361,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.914,
+        "score": 5.733,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
@@ -215,28 +390,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.21,
+        "score": 5.663,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
-        "id": "4b8470a31cf2",
+        "id": "d8ad7177efc3",
         "category": "football",
         "lang": "en",
-        "title": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
-        "summary": "Latest hire will depend on fresh faces and time to bed in at Old Trafford where the dugout churn is hardest to budge Everybody knows the pattern. Performances fade.",
+        "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
+        "summary": "Manchester City are living in Premier League purgatory, without a win in four, but at least against Fulham they ended a three-game losing run. As they await their fate after being found guilty of financial breaches, their form has slumped.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
-        "publishedAt": "2026-11-21T20:00:06+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
+        "publishedAt": "2026-11-21T14:34:03+00:00",
         "subtopics": [
-          "Champions League",
-          "UCL status"
+          "Premier League",
+          "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
-            "publishedAt": "2026-11-21T20:00:06+00:00",
+            "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
+            "publishedAt": "2026-11-21T14:34:03+00:00",
             "tier": 2
           }
         ],
@@ -244,66 +419,66 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.136,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+        "score": 5.516,
+        "firstSeen": "2026-11-21T15:01:57.528395+00:00"
       },
       {
-        "id": "c8e76342b925",
+        "id": "9a97b88d1812",
         "category": "football",
         "lang": "en",
-        "title": "Arsenal go six points clear after lively draw at Newcastle",
-        "summary": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
+        "title": "'We feel the pain': Pochettino on 4-0 defeat at Liverpool to start Manchester United era – video",
+        "summary": "Liverpool thrashed 10-man Manchester United 4-0 at Anfield on Sunday to climb to fourth in the Premier League. But the defeat left United 19th, only one point above bottom-placed Crystal Palace.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T19:59:35+00:00",
+        "url": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
+        "publishedAt": "2026-11-22T23:33:33+00:00",
         "subtopics": [
           "Premier League",
           "Results"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T19:59:35+00:00",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
+            "publishedAt": "2026-11-22T23:33:33+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.136,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+        "isNew": true,
+        "score": 5.122,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
-        "id": "d7063729719d",
+        "id": "c83ff608d3c8",
         "category": "football",
         "lang": "en",
-        "title": "Coventry beat Palace in Frank's first game after late own goal",
-        "summary": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
+        "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
+        "summary": "Italy’s new cover star enjoyed a ‘beautiful’ treble but could not celebrate it after his side threw away two-goal leads three times to draw 4-4 with Atalanta This ought to have been a magic moment for Pio Esposito. He had just scored his first Serie A…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T19:58:52+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
+        "publishedAt": "2026-11-23T13:18:20+00:00",
         "subtopics": [
-          "Premier League",
+          "Serie A",
           "Results"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T19:58:52+00:00",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
+            "publishedAt": "2026-11-23T13:18:20+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 6.136,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+        "isNew": true,
+        "score": 5.115,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "fb81b0e8ec72",
@@ -331,7 +506,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.031,
+        "score": 4.888,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
@@ -360,269 +535,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.001,
+        "score": 4.871,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
-      },
-      {
-        "id": "d8ad7177efc3",
-        "category": "football",
-        "lang": "en",
-        "title": "Elliot Anderson halts Manchester City’s losing run but boos greet Fulham draw",
-        "summary": "Manchester City are living in Premier League purgatory, without a win in four, but at least against Fulham they ended a three-game losing run. As they await their fate after being found guilty of financial breaches, their form has slumped.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
-        "publishedAt": "2026-11-21T14:34:03+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/21/manchester-city-fulham-premier-league-match-report",
-            "publishedAt": "2026-11-21T14:34:03+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.941,
-        "firstSeen": "2026-11-21T15:01:57.528395+00:00"
-      },
-      {
-        "id": "004a257f1c06",
-        "category": "football",
-        "lang": "en",
-        "title": "Late McBurnie double sees Hull stun in-form Brighton",
-        "summary": "FREE TO WATCH: Highlights from the Premier League match between Hull City and Brighton.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/watch/video/13615325/hull-city-2-0-brighton-premier-league-highlights",
-        "publishedAt": "2026-11-22T16:31:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13615325/hull-city-2-0-brighton-premier-league-highlights",
-            "publishedAt": "2026-11-22T16:31:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.817,
-        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
-      },
-      {
-        "id": "1be482b5c896",
-        "category": "football",
-        "lang": "en",
-        "title": "What history tells us about the Premier League table after 10 games of a season",
-        "summary": "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegated The Premier League is about to enter the most intense phase of its season. After 10 rounds of fixtures across the past three months there…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-        "publishedAt": "2026-11-20T08:00:26+00:00",
-        "subtopics": [
-          "Premier League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-            "publishedAt": "2026-11-20T08:00:26+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.826,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
-      },
-      {
-        "id": "14a55279d66f",
-        "category": "football",
-        "lang": "en",
-        "title": "I wish referee had opportunity to see 'handball' again - Hart",
-        "summary": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-22T00:08:13+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T00:08:13+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.812,
-        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
-      },
-      {
-        "id": "a06baa0efd0a",
-        "category": "football",
-        "lang": "en",
-        "title": "Evanilson strikes again as Bournemouth beat Forest",
-        "summary": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T19:59:17+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T19:59:17+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.636,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "3b5eb8dccb12",
-        "category": "football",
-        "lang": "en",
-        "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-        "summary": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge. Daniel Farke's side move up to sixth in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T19:59:13+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T19:59:13+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.636,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "c27935531935",
-        "category": "football",
-        "lang": "en",
-        "title": "Villa's home woes continue as Sunderland earn point",
-        "summary": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T19:58:56+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T19:58:56+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.636,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "f91c0c5bb6c2",
-        "category": "football",
-        "lang": "en",
-        "title": "'Officials can't use common sense' - was Rogers handball correct?",
-        "summary": "The decision to give Leeds a crucial penalty in their win at Chelsea reopens the Premier League handball debate around intent.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-21T18:30:22+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-21T18:30:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.579,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "40d3bd219c78",
-        "category": "football",
-        "lang": "en",
-        "title": "Evanilson and Kluivert sink Forest to earn Bournemouth ninth win in a row",
-        "summary": "Marco Rose saluted the in-form Evanilson after the Brazilian scored for a sixth Premier League game in a row to lift Bournemouth up to fourth place with a 2-0 win over Nottingham Forest. Evanilson’s brilliantly taken 19th-minute opener set his side on course…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
-        "publishedAt": "2026-11-21T17:10:24+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/21/bournemouth-nottingham-forest-premier-league-match-report",
-            "publishedAt": "2026-11-21T17:10:24+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.53,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
         "id": "8459bc42a6bf",
@@ -650,11 +564,227 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.523,
+        "score": 4.061,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       }
     ],
     "news": [
+      {
+        "id": "a0e30a95286b",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: Huang-Rückkehr lässt Aktienkurse steigen",
+        "summary": "Der DAX erholt sich von seinem jüngsten Kursrutsch zunächst nur zaghaft. Doch dann sorgt die Nachricht von der Rückkehr des Nvidia-Chefs für Kurssprünge bei KI-Werten und an den Börsen weltweit.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
+        "publishedAt": "2026-11-23T17:07:35+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
+            "publishedAt": "2026-11-23T17:07:35+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.994,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "c18c10731d6a",
+        "category": "news",
+        "lang": "de",
+        "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
+        "summary": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Wochen wegen eines Spionageskandals zurückgetreten.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+        "publishedAt": "2026-11-23T15:18:29+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+            "publishedAt": "2026-11-23T15:18:29+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.914,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "b5a3db055263",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
+        "summary": "Nach dem Kursrutsch beim DAX von 2.000 Punkten in gut einer Woche setzt eine Erholung ein. Doch sie steht auf wackligen Beinen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
+        "publishedAt": "2026-11-23T11:49:55+00:00",
+        "subtopics": [
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
+            "publishedAt": "2026-11-23T11:49:55+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
+            "publishedAt": "2026-11-23T11:49:55+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.767,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "aacf3445f026",
+        "category": "news",
+        "lang": "de",
+        "title": "Update Wirtschaft vom 23.11.2026",
+        "summary": "Wirtschaft vor acht vom 20.11.2026",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1688296.html",
+        "publishedAt": "2026-11-23T09:17:45+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1688296.html",
+            "publishedAt": "2026-11-23T09:17:45+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1687280.html",
+            "publishedAt": "2026-11-20T19:10:55+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.665,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "442ae3b71f1a",
+        "category": "news",
+        "lang": "de",
+        "title": "Welche Chancen und Risiken KI bei Bewerbungen bietet",
+        "summary": "Sowohl Bewerber als auch Unternehmen nutzen KI im Bewerbungsverfahren. So könnten sich in Zukunft Bewerbungsverfahren stark verändern.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bewerbung-mit-ki-chancen-risiken-100.html",
+        "publishedAt": "2026-11-23T05:31:19+00:00",
+        "subtopics": [
+          "Germany",
+          "Business"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/bewerbung-mit-ki-chancen-risiken-100.html",
+            "publishedAt": "2026-11-23T05:31:19+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.519,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "5d54b930996e",
+        "category": "news",
+        "lang": "de",
+        "title": "Private Spenden: Rund 1,3 Milliarden in Norddeutschland in 2022",
+        "summary": "Hamburg liegt mit durchschnittlich 1.088 Euro pro Spender über dem Bundesschnitt. Wie steht der restliche Norden da?",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/info/private-spenden-mehr-als-600-millionen-euro-in-niedersachsen,spenden-176.html",
+        "publishedAt": "2026-11-23T12:49:06+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/info/private-spenden-mehr-als-600-millionen-euro-in-niedersachsen,spenden-176.html",
+            "publishedAt": "2026-11-23T12:49:06+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.408,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "24c2bc0b8a9b",
+        "category": "news",
+        "lang": "de",
+        "title": "Wahl des Bundespräsidenten: Die Teilnehmer aus Hamburg",
+        "summary": "Nicht nur Politikprofis reisen zur Wahl der Nachfolge von Bundespräsident Steinmeier aus Hamburg nach Berlin.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/Wahl-des-Bundespraesidenten-Die-Teilnehmer-aus-Hamburg,bundesversammlung-132.html",
+        "publishedAt": "2026-11-23T06:06:23+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/Wahl-des-Bundespraesidenten-Die-Teilnehmer-aus-Hamburg,bundesversammlung-132.html",
+            "publishedAt": "2026-11-23T06:06:23+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.141,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
       {
         "id": "052380e2b3b0",
         "category": "news",
@@ -687,65 +817,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.73,
-        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
-      },
-      {
-        "id": "93838d49c7e8",
-        "category": "news",
-        "lang": "de",
-        "title": "HC Hamburg kassiert deutliche Pleite gegen Tabellenführer Magdeburg",
-        "summary": "Es war die neunte Saisonniederlage für die chancenlosen Hansestädter, die weiterhin tief im Abstiegskampf stecken.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/sport/handball/Handball-HC-Hamburg-SC-Magdeburg,hc-hamburg-handball-130.html",
-        "publishedAt": "2026-11-22T19:59:28+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/sport/handball/Handball-HC-Hamburg-SC-Magdeburg,hc-hamburg-handball-130.html",
-            "publishedAt": "2026-11-22T19:59:28+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.428,
-        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
-      },
-      {
-        "id": "4bdf5985769e",
-        "category": "news",
-        "lang": "de",
-        "title": "Bundesliga: Werder Bremen mit Schützenfest im Nordderby gegen den HSV",
-        "summary": "Die Grün-Weißen feiern ein Schützenfest gegen den Erzrivalen. Umjubelter Held war Justin Njinmah, der zwei Tore erzielte.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/sport/fussball/njinmah-doppelpack-werder-bremen-deklassiert-hsv-im-nordderby,nordderby-226.html",
-        "publishedAt": "2026-11-22T19:55:58+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/sport/fussball/njinmah-doppelpack-werder-bremen-deklassiert-hsv-im-nordderby,nordderby-226.html",
-            "publishedAt": "2026-11-22T19:55:58+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.426,
+        "score": 7.11,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
@@ -774,8 +846,74 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.289,
+        "score": 6.77,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+      },
+      {
+        "id": "232fd1df9a7d",
+        "category": "news",
+        "lang": "de",
+        "title": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
+        "summary": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, hatte offenbar mehr als ein Jahr lang Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes. Die Chinesin steht im Mittelpunkt des Skandals um den US-Chipkonzern.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
+        "publishedAt": "2026-11-23T09:56:20+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
+            "publishedAt": "2026-11-23T09:56:20+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html",
+            "publishedAt": "2026-11-23T09:56:20+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.69,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "f269155fdb8a",
+        "category": "news",
+        "lang": "de",
+        "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+        "summary": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+        "publishedAt": "2026-11-23T07:46:12+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+            "publishedAt": "2026-11-23T07:46:12+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.605,
+        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
         "id": "4f18d7d2e42a",
@@ -804,7 +942,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.988,
+        "score": 6.536,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -839,7 +977,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.863,
+        "score": 6.44,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -869,7 +1007,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.838,
+        "score": 6.42,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -904,8 +1042,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.773,
+        "score": 6.37,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
+      },
+      {
+        "id": "f947132bdfba",
+        "category": "news",
+        "lang": "de",
+        "title": "Berliner Tor: Bauarbeiten unter Zeitdruck",
+        "summary": "Bürgerweide und Berlinertordamm sind zum wiederholten Male gesperrt. 46 Stahlträger müssen an diesem Wochenende eingehoben werden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/berliner-tor-bauarbeiten-unter-zeitdruck,hamj-16764.html",
+        "publishedAt": "2026-11-23T11:22:07+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/berliner-tor-bauarbeiten-unter-zeitdruck,hamj-16764.html",
+            "publishedAt": "2026-11-23T11:22:07+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.348,
+        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
         "id": "ddb6c24dc07a",
@@ -927,19 +1093,13 @@
             "url": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
             "publishedAt": "2026-11-21T09:39:17+00:00",
             "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
-            "publishedAt": "2026-11-21T09:39:17+00:00",
-            "tier": 1
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.697,
+        "score": 6.311,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -968,7 +1128,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.666,
+        "score": 6.288,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -1003,193 +1163,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.511,
+        "score": 5.941,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
-      },
-      {
-        "id": "f947132bdfba",
-        "category": "news",
-        "lang": "de",
-        "title": "Berliner Tor: Bauarbeiten unter Zeitdruck",
-        "summary": "Bürgerweide und Berlinertordamm sind zum wiederholten Male gesperrt. 46 Stahlträger müssen an diesem Wochenende eingehoben werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/berliner-tor-bauarbeiten-unter-zeitdruck,hamj-16764.html",
-        "publishedAt": "2026-11-22T18:45:32+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/berliner-tor-bauarbeiten-unter-zeitdruck,hamj-16764.html",
-            "publishedAt": "2026-11-22T18:45:32+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.377,
-        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
-      },
-      {
-        "id": "620bd0d11cb4",
-        "category": "news",
-        "lang": "de",
-        "title": "FDP-Parteitag in Hamburg: Hoffnung trotz Wahlniederlagen",
-        "summary": "Die Hamburger Liberalen haben am Samstag in einer Schulaula in Barmbek getagt. Die Spitze sehe bessere Zeiten kommen, Mitglieder übten Kritik.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/fdp-parteitag-in-hamburg-hoffnung-trotz-wahlniederlagen,fdp-384.html",
-        "publishedAt": "2026-11-21T12:30:10+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/fdp-parteitag-in-hamburg-hoffnung-trotz-wahlniederlagen,fdp-384.html",
-            "publishedAt": "2026-11-21T12:30:10+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.37,
-        "firstSeen": "2026-11-21T14:08:06.606322+00:00"
-      },
-      {
-        "id": "aa6f0eb64681",
-        "category": "news",
-        "lang": "de",
-        "title": "Wirtschaft vor acht vom 20.11.2026",
-        "summary": "Wirtschaft vor acht vom 20.11.2026",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/video/video-1687280.html",
-        "publishedAt": "2026-11-20T19:10:55+00:00",
-        "subtopics": [
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1687280.html",
-            "publishedAt": "2026-11-20T19:10:55+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1686922.html",
-            "publishedAt": "2026-11-20T08:48:20+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.368,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
-      },
-      {
-        "id": "5e8bc1286387",
-        "category": "news",
-        "lang": "de",
-        "title": "Elbtower: Baufirma baut Kräne ab",
-        "summary": "Das Hessische Unternehmen \"Lupp\" hat begonnen, zwei Kräne zu demontieren und Vorrichtungen zur Betonverteilung zu entfernen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/elbtower-baufirma-baut-kraene-ab,hamj-16664.html",
-        "publishedAt": "2026-11-21T11:19:38+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/elbtower-baufirma-baut-kraene-ab,hamj-16664.html",
-            "publishedAt": "2026-11-21T11:19:38+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.339,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00"
-      },
-      {
-        "id": "226e12b8f367",
-        "category": "news",
-        "lang": "de",
-        "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
-        "summary": "An den Finanzmärkten rollt eine Verkaufswelle durch den vom Erfolg verwöhnten Technologiesektor. Der DAX folgt den Verlusten an der Wall Street und schließt mit dem höchsten Wochenminus seit Monaten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-        "publishedAt": "2026-11-20T17:17:33+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-            "publishedAt": "2026-11-20T17:17:33+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
-            "publishedAt": "2026-11-20T17:17:33+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.33,
-        "firstSeen": "2026-11-20T14:50:16.576699+00:00"
-      },
-      {
-        "id": "7734b69cda29",
-        "category": "news",
-        "lang": "de",
-        "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
-        "summary": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-        "publishedAt": "2026-11-20T16:20:16+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-            "publishedAt": "2026-11-20T16:20:16+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.311,
-        "firstSeen": "2026-11-20T15:52:31.042973+00:00"
       },
       {
         "id": "c3076cb0351d",
@@ -1217,7 +1192,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.299,
+        "score": 5.913,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
@@ -1243,33 +1218,16 @@
           },
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
-            "publishedAt": "2026-11-19T16:54:27+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
             "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
             "publishedAt": "2026-11-19T06:44:41+00:00",
             "tier": 1
           }
         ],
-        "developing": true,
-        "latestUpdate": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-        "earlier": [
-          {
-            "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-            "source": "Tagesschau",
-            "publishedAt": "2026-11-19T16:54:27+00:00"
-          },
-          {
-            "title": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
-            "source": "Tagesschau",
-            "publishedAt": "2026-11-19T06:44:41+00:00"
-          }
-        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
         "isNew": false,
-        "score": 5.925,
+        "score": 5.715,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1304,67 +1262,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.916,
+        "score": 5.708,
         "firstSeen": "2026-11-19T16:14:02.590127+00:00"
-      },
-      {
-        "id": "f269155fdb8a",
-        "category": "news",
-        "lang": "de",
-        "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-        "summary": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-        "publishedAt": "2026-11-21T17:32:19+00:00",
-        "subtopics": [
-          "US",
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-            "publishedAt": "2026-11-21T17:32:19+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.908,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "5e31e23d9f9f",
-        "category": "news",
-        "lang": "de",
-        "title": "Next Generation: Maritime Familienbetriebe im Hamburger Hafen",
-        "summary": "Der Hafenkonzert-Podcast besucht maritime Familienbetriebe in Hamburg, in denen die jüngere Generation das Ruder übernommen hat - und fragt, wie der Übergang gelingt, was die Jüngeren anders machen und wie es sich anfühlt, plötzlich die Verantwortung zu…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
-        "publishedAt": "2026-11-20T16:00:08+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
-            "publishedAt": "2026-11-20T16:00:08+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.905,
-        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
         "id": "945b85d1490a",
@@ -1392,7 +1291,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.872,
+        "score": 5.674,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1421,27 +1320,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.849,
+        "score": 5.656,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
-        "id": "5c87da81c36e",
+        "id": "5e31e23d9f9f",
         "category": "news",
         "lang": "de",
-        "title": "Mausoleum Schröder auf Friedhof Ohlsdorf: Tote längst \"ausgezogen\"",
-        "summary": "Das Mausoleum wurde 1906 auf dem Ohlsdorfer Friedhof in Hamburg erbaut. Die denkmalgeschützte Grabanlage ist total marode.",
+        "title": "Next Generation: Maritime Familienbetriebe im Hamburger Hafen",
+        "summary": "Der Hafenkonzert-Podcast besucht maritime Familienbetriebe in Hamburg, in denen die jüngere Generation das Ruder übernommen hat - und fragt, wie der Übergang gelingt, was die Jüngeren anders machen und wie es sich anfühlt, plötzlich die Verantwortung zu…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/geschichte/schauplaetze/sogar-von-toten-verlassen-mausoleum-schroeder-in-ohlsdorf,mausoleum-100.html",
-        "publishedAt": "2026-11-22T04:00:00+00:00",
+        "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
+        "publishedAt": "2026-11-20T16:00:08+00:00",
         "subtopics": [
-          "Hamburg"
+          "Hamburg",
+          "Business"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/geschichte/schauplaetze/sogar-von-toten-verlassen-mausoleum-schroeder-in-ohlsdorf,mausoleum-100.html",
-            "publishedAt": "2026-11-22T04:00:00+00:00",
+            "url": "https://www.ndr.de/903/next-generation-maritime-familienbetriebe-im-hamburger-hafen,audio-3608190.html",
+            "publishedAt": "2026-11-20T16:00:08+00:00",
             "tier": 1
           }
         ],
@@ -1449,7 +1349,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.829,
+        "score": 5.608,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
@@ -1484,7 +1384,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.636,
+        "score": 5.492,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -1519,8 +1419,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.635,
+        "score": 5.491,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
+      },
+      {
+        "id": "257c15b3c67e",
+        "category": "news",
+        "lang": "de",
+        "title": "Hamburg-Cranz: Feuerwehr rettet Frau aus brennendem Haus",
+        "summary": "Im Estebogen brannte eine Dachgeschosswohnung. Eine 70-Jährige kam mit einer Rauchgasvergiftung ins Krankenhaus.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-cranz-feuerwehr-rettet-frau-aus-brennendem-haus,kurzehh-4970.html",
+        "publishedAt": "2026-11-23T07:19:41+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Healthcare"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-cranz-feuerwehr-rettet-frau-aus-brennendem-haus,kurzehh-4970.html",
+            "publishedAt": "2026-11-23T07:19:41+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.488,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "b219b67e3fc2",
@@ -1548,7 +1477,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.611,
+        "score": 5.472,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1577,7 +1506,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.608,
+        "score": 5.47,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1612,7 +1541,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.601,
+        "score": 5.465,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1647,7 +1576,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.596,
+        "score": 5.46,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1682,7 +1611,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.575,
+        "score": 5.444,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1717,7 +1646,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.543,
+        "score": 5.42,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1746,43 +1675,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.535,
+        "score": 5.413,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
-      },
-      {
-        "id": "16eae1369efb",
-        "category": "news",
-        "lang": "de",
-        "title": "Showdown im Koalitionsausschuss: Bekommt der Kanzler seinen Willen?",
-        "summary": "Bei einem Koalitionsausschuss wird zurzeit nach Milliarden gesucht, um die Stromsteuer senken zu können. Zuvor hatte sich Kanzler Merz weit aus dem Fenster gelehnt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
-        "publishedAt": "2026-11-17T16:52:59+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
-            "publishedAt": "2026-11-17T16:52:59+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-stromsteuer-merz-100.html",
-            "publishedAt": "2026-11-17T16:52:59+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.453,
-        "firstSeen": "2026-11-18T00:27:55.349481+00:00"
       }
     ],
     "medical": [
@@ -1813,7 +1707,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.004,
+        "score": 9.897,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1822,11 +1716,11 @@
         "id": "1d81b637cae0",
         "category": "medical",
         "lang": "en",
-        "title": "Modified Platform Trial Assessing Multiple Umbilical Cord-based CAMPs and SOC v SOC Alone in the Treatment of Hard-to-Heal DFUs",
+        "title": "Modified Platform Trial Assessing Multiple Umbilical Cord-based CAMPs and SOC v SOC Alone in the Treatment of Hard-to-Heal VLUs",
         "summary": "The purpose of this study is to evaluate the efficacy of two dehydrated human umbilical cord-based medical devices, also defined as Cellular, Acellular, Matrix-like Products/skin substitutes, plus SOC versus SOC alone in achieving complete closure of…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07449975",
+        "url": "https://clinicaltrials.gov/study/NCT07449988",
         "publishedAt": "2026-11-20T00:00:00+00:00",
         "subtopics": [
           "Wound care",
@@ -1835,13 +1729,13 @@
         "sources": [
           {
             "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07449975",
+            "url": "https://clinicaltrials.gov/study/NCT07449988",
             "publishedAt": "2026-11-20T00:00:00+00:00",
             "tier": 2
           },
           {
             "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07449988",
+            "url": "https://clinicaltrials.gov/study/NCT07449975",
             "publishedAt": "2026-11-20T00:00:00+00:00",
             "tier": 2
           }
@@ -1850,7 +1744,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.799,
+        "score": 9.627,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1881,7 +1775,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.564,
+        "score": 9.411,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1913,39 +1807,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.799,
+        "score": 7.627,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "90341831ab48",
-        "category": "medical",
-        "lang": "en",
-        "title": "Influence of SUPRA SDRM on the Healing of Chronic Wounds",
-        "summary": "The goal of this clinical trial is to learn how SUPRA SDRM affects the healing of chronic wounds. SUPRA SDRM is a synthetic wound covering that slowly breaks down on the wound.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07939581",
-        "publishedAt": "2026-11-16T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07939581",
-            "publishedAt": "2026-11-16T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.004,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -1976,7 +1839,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.004,
+        "score": 6.897,
+        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
+        "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "90341831ab48",
+        "category": "medical",
+        "lang": "en",
+        "title": "Influence of SUPRA SDRM on the Healing of Chronic Wounds",
+        "summary": "The goal of this clinical trial is to learn how SUPRA SDRM affects the healing of chronic wounds. SUPRA SDRM is a synthetic wound covering that slowly breaks down on the wound.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://clinicaltrials.gov/study/NCT07939581",
+        "publishedAt": "2026-11-16T00:00:00+00:00",
+        "subtopics": [
+          "Wound care",
+          "Clinical study"
+        ],
+        "sources": [
+          {
+            "name": "ClinicalTrials.gov",
+            "url": "https://clinicaltrials.gov/study/NCT07939581",
+            "publishedAt": "2026-11-16T00:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.897,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2007,40 +1901,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.799,
+        "score": 6.627,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
-        "evidence": "peer_reviewed",
-        "matridermRelevant": false
-      },
-      {
-        "id": "1d0f68e85733",
-        "category": "medical",
-        "lang": "en",
-        "title": "Effect of Periodontitis on the Quality and Quantity of Leukocyte- and Platelet-Rich Fibrin (L-PRF)",
-        "summary": "Periodontitis is a chronic inflammatory disease that destroys the supporting tissues of the teeth and may also increase systemic inflammatory burden. Leukocyte- and platelet-rich fibrin (L-PRF) is an autologous blood-derived biomaterial widely used in…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://clinicaltrials.gov/study/NCT07693725",
-        "publishedAt": "2026-11-13T00:00:00+00:00",
-        "subtopics": [
-          "Wound care",
-          "Regenerative medicine",
-          "Clinical study"
-        ],
-        "sources": [
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT07693725",
-            "publishedAt": "2026-11-13T00:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.612,
-        "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
       },
@@ -2071,7 +1933,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.612,
+        "score": 6.537,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2103,7 +1965,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.612,
+        "score": 6.537,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2134,7 +1996,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.169,
+        "score": 6.048,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2166,7 +2028,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.055,
+        "score": 5.919,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2197,7 +2059,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.777,
+        "score": 5.59,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2227,7 +2089,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.762,
+        "score": 4.576,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2251,19 +2113,13 @@
             "url": "https://clinicaltrials.gov/study/NCT06938685",
             "publishedAt": "2026-11-13T00:00:00+00:00",
             "tier": 2
-          },
-          {
-            "name": "ClinicalTrials.gov",
-            "url": "https://clinicaltrials.gov/study/NCT06930768",
-            "publishedAt": "2026-11-13T00:00:00+00:00",
-            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.612,
+        "score": 4.537,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2293,7 +2149,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.312,
+        "score": 4.237,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2324,8 +2180,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.582,
+        "score": 3.394,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "evidence": "trade_press",
+        "matridermRelevant": false
+      },
+      {
+        "id": "d24060f2c039",
+        "category": "medical",
+        "lang": "en",
+        "title": "Smith + Nephew names new CFO",
+        "summary": "Nick Alexos will join the orthopedics company later this month after holding CFO roles at Univar Solutions and Dentsply Sirona.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/smith-nephew-names-new-cfo/875485/",
+        "publishedAt": "2026-11-23T16:28:15+00:00",
+        "subtopics": [
+          "Orthopaedics"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/smith-nephew-names-new-cfo/875485/",
+            "publishedAt": "2026-11-23T16:28:15+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.288,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       },
@@ -2354,7 +2240,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.296,
+        "score": 3.148,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2384,13 +2270,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.436,
+        "score": 2.285,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "74ad9bf923b8",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+        "publishedAt": "2026-11-23T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Decision-making"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+            "publishedAt": "2026-11-23T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.623,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00",
+        "kind": "article"
+      },
       {
         "id": "64a4281088c4",
         "category": "growth",
@@ -2416,7 +2332,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.669,
+        "score": 5.2,
         "firstSeen": "2026-11-21T23:40:51.389875+00:00",
         "kind": "video",
         "video": {
@@ -2426,6 +2342,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=QM5vh0ZKvZo",
           "channel": "TED"
         }
+      },
+      {
+        "id": "8cc270b18470",
+        "category": "growth",
+        "lang": "en",
+        "title": "Select Styling Specimens",
+        "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Claude Fable 5.2 build me this page showing all of the ways they can be styled:…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+        "publishedAt": "2026-11-22T19:45:06+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+            "publishedAt": "2026-11-22T19:45:06+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 4.678,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00",
+        "kind": "article"
       },
       {
         "id": "f567a8d8ffb2",
@@ -2453,7 +2398,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.721,
+        "score": 4.398,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2490,7 +2435,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.598,
+        "score": 4.122,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00",
         "kind": "article"
       },
@@ -2519,7 +2464,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.199,
+        "score": 3.995,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "video",
         "video": {
@@ -2528,6 +2473,43 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=lwfewYL7X0o",
           "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "c6b1daa8a71a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why Great Art Requires Risk | Alex Van Halen, David Lee Roth and Robert Vargas | TED",
+        "summary": "Van Halen drummer and co-founder Alex Van Halen and lead singer David Lee Roth sit down with visual artist Robert Vargas, who paints freehand murals up to twenty stories tall, to reveal the two-step recipe behind great art: do your homework, then break every…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
+        "publishedAt": "2026-11-21T16:00:05+00:00",
+        "subtopics": [
+          "Entrepreneurship",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
+            "publishedAt": "2026-11-21T16:00:05+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.85,
+        "firstSeen": "2026-11-21T22:43:44.186297+00:00",
+        "kind": "video",
+        "video": {
+          "id": "78C3_lu0blQ",
+          "thumbUrl": "https://i4.ytimg.com/vi/78C3_lu0blQ/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=78C3_lu0blQ",
+          "channel": "TED"
         }
       },
       {
@@ -2556,112 +2538,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.149,
+        "score": 3.843,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
-      },
-      {
-        "id": "5dcd7e36bc14",
-        "category": "growth",
-        "lang": "en",
-        "title": "How to Teach a Robot to Dance | David Dobáš | TED",
-        "summary": "Teaching a robot to dance, move or even stand up used to take countless hours of training. Now, by simply recording a video, you can teach a robot a new skill in a fraction of the time, says roboticist David Dobáš.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=0-C6SKjKek4",
-        "publishedAt": "2026-11-16T16:29:53+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=0-C6SKjKek4",
-            "publishedAt": "2026-11-16T16:29:53+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.915,
-        "firstSeen": "2026-11-16T16:41:13.634126+00:00",
-        "kind": "video",
-        "video": {
-          "id": "0-C6SKjKek4",
-          "thumbUrl": "https://i1.ytimg.com/vi/0-C6SKjKek4/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=0-C6SKjKek4",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "81ce5b24dd89",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Ravi Vakil",
-        "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-        "publishedAt": "2026-11-20T19:21:49+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-            "publishedAt": "2026-11-20T19:21:49+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.872,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "c6b1daa8a71a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Why Great Art Requires Risk | Alex Van Halen, David Lee Roth and Robert Vargas | TED",
-        "summary": "Van Halen drummer and co-founder Alex Van Halen and lead singer David Lee Roth sit down with visual artist Robert Vargas, who paints freehand murals up to twenty stories tall, to reveal the two-step recipe behind great art: do your homework, then break every…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
-        "publishedAt": "2026-11-21T16:00:05+00:00",
-        "subtopics": [
-          "Entrepreneurship",
-          "Personal finance"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
-            "publishedAt": "2026-11-21T16:00:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.867,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00",
-        "kind": "video",
-        "video": {
-          "id": "78C3_lu0blQ",
-          "thumbUrl": "https://i4.ytimg.com/vi/78C3_lu0blQ/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=78C3_lu0blQ",
-          "channel": "TED"
-        }
       },
       {
         "id": "2e01fe09c314",
@@ -2689,7 +2568,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.844,
+        "score": 3.827,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2725,7 +2604,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.82,
+        "score": 3.804,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "video",
         "video": {
@@ -2735,35 +2614,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
           "channel": "TED"
         }
-      },
-      {
-        "id": "b8e1839046bc",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Levent Alpöge",
-        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-        "publishedAt": "2026-11-20T16:30:48+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-            "publishedAt": "2026-11-20T16:30:48+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.815,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "article"
       },
       {
         "id": "387aa85e0ca9",
@@ -2791,7 +2641,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.805,
+        "score": 3.789,
         "firstSeen": "2026-11-19T00:55:15.585925+00:00",
         "kind": "video",
         "video": {
@@ -2828,7 +2678,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.755,
+        "score": 3.74,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2864,7 +2714,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.702,
+        "score": 3.688,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00",
         "kind": "video",
         "video": {
@@ -2900,7 +2750,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.694,
+        "score": 3.681,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00",
         "kind": "video",
         "video": {
@@ -2910,35 +2760,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
           "channel": "TED"
         }
-      },
-      {
-        "id": "195eb8806210",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-        "publishedAt": "2026-11-19T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-            "publishedAt": "2026-11-19T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.675,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00",
-        "kind": "article"
       },
       {
         "id": "b39a7ba76b88",
@@ -2965,7 +2786,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.675,
+        "score": 3.662,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00",
         "kind": "video",
         "video": {
@@ -2974,6 +2795,130 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
           "channel": "TED"
+        }
+      },
+      {
+        "id": "81ce5b24dd89",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Ravi Vakil",
+        "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+        "publishedAt": "2026-11-20T19:21:49+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+            "publishedAt": "2026-11-20T19:21:49+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.56,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "b8e1839046bc",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Levent Alpöge",
+        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+        "publishedAt": "2026-11-20T16:30:48+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+            "publishedAt": "2026-11-20T16:30:48+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.516,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "195eb8806210",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+        "publishedAt": "2026-11-19T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+            "publishedAt": "2026-11-19T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.476,
+        "firstSeen": "2026-11-19T15:10:34.976582+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "9e8d69bf9f82",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Whistleblower Who Took on Theranos",
+        "summary": "With Theranos and Elizabeth Holmes back in the conversation, we’re revisiting one of the most remarkable firsthand accounts of what actually happened inside the company. Tyler Shultz joined Theranos fresh out of Stanford as a true believer in its mission.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+        "publishedAt": "2026-11-11T19:44:03+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+            "publishedAt": "2026-11-11T19:44:03+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.347,
+        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
+        "kind": "video",
+        "video": {
+          "id": "iXWSYlAX5Lg",
+          "thumbUrl": "https://i2.ytimg.com/vi/iXWSYlAX5Lg/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+          "channel": "Y Combinator"
         }
       },
       {
@@ -3048,7 +2993,7 @@
           }
         ],
         "isNew": false,
-        "score": 3.576,
+        "score": 3.331,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
       },
@@ -3077,38 +3022,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.572,
+        "score": 3.329,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4ba1303d2ee2",
-        "category": "growth",
-        "lang": "en",
-        "title": "PostgreSQL 19 Released",
-        "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-        "publishedAt": "2026-11-19T20:43:57+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-            "publishedAt": "2026-11-19T20:43:57+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.479,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "article"
       },
       {
@@ -3136,7 +3051,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.427,
+        "score": 3.284,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
@@ -3166,8 +3081,75 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.412,
+        "score": 3.273,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "5d7c86fdb19b",
+        "category": "growth",
+        "lang": "en",
+        "title": "How Boom’s Biggest Crisis Became Its Biggest Opportunity",
+        "summary": "In this Social Radars episode we talk with Blake Scholl about one of the cleverest business model transformations in the history of startups: Boom's move into building gas turbines. When Rolls Royce pulled out as Boom's engine supplier, it seemed to many…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+        "publishedAt": "2026-11-06T16:00:09+00:00",
+        "subtopics": [
+          "Entrepreneurship",
+          "Business case studies"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+            "publishedAt": "2026-11-06T16:00:09+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.26,
+        "firstSeen": "2026-11-06T22:40:05.735370+00:00",
+        "kind": "video",
+        "video": {
+          "id": "NYGf--dBeHA",
+          "thumbUrl": "https://i3.ytimg.com/vi/NYGf--dBeHA/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "4ba1303d2ee2",
+        "category": "growth",
+        "lang": "en",
+        "title": "PostgreSQL 19 Released",
+        "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+        "publishedAt": "2026-11-19T20:43:57+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+            "publishedAt": "2026-11-19T20:43:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.257,
+        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "article"
       },
       {
@@ -3196,82 +3178,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.387,
+        "score": 3.254,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
-      },
-      {
-        "id": "9e8d69bf9f82",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Whistleblower Who Took on Theranos",
-        "summary": "With Theranos and Elizabeth Holmes back in the conversation, we’re revisiting one of the most remarkable firsthand accounts of what actually happened inside the company. Tyler Shultz joined Theranos fresh out of Stanford as a true believer in its mission.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
-        "publishedAt": "2026-11-11T19:44:03+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
-            "publishedAt": "2026-11-11T19:44:03+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.36,
-        "firstSeen": "2026-11-11T23:59:08.056619+00:00",
-        "kind": "video",
-        "video": {
-          "id": "iXWSYlAX5Lg",
-          "thumbUrl": "https://i2.ytimg.com/vi/iXWSYlAX5Lg/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "5d7c86fdb19b",
-        "category": "growth",
-        "lang": "en",
-        "title": "How Boom’s Biggest Crisis Became Its Biggest Opportunity",
-        "summary": "In this Social Radars episode we talk with Blake Scholl about one of the cleverest business model transformations in the history of startups: Boom's move into building gas turbines. When Rolls Royce pulled out as Boom's engine supplier, it seemed to many…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
-        "publishedAt": "2026-11-06T16:00:09+00:00",
-        "subtopics": [
-          "Entrepreneurship",
-          "Business case studies"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
-            "publishedAt": "2026-11-06T16:00:09+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.272,
-        "firstSeen": "2026-11-06T22:40:05.735370+00:00",
-        "kind": "video",
-        "video": {
-          "id": "NYGf--dBeHA",
-          "thumbUrl": "https://i3.ytimg.com/vi/NYGf--dBeHA/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=NYGf--dBeHA",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "5103e8eed7f5",
@@ -3300,7 +3209,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.24,
+        "score": 3.23,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -3336,7 +3245,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.216,
+        "score": 3.206,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -3346,6 +3255,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "2ccc08f42a13",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+        "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+        "publishedAt": "2026-11-23T11:00:00+00:00",
+        "subtopics": [
+          "Entrepreneurship",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+            "publishedAt": "2026-11-23T11:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 3.093,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00",
+        "kind": "article"
       },
       {
         "id": "4b4d48f19f03",
@@ -3378,7 +3317,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.15,
+        "score": 3.002,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -3407,7 +3346,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.138,
+        "score": 2.993,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
@@ -3436,7 +3375,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.127,
+        "score": 2.985,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -3466,7 +3405,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.995,
+        "score": 2.883,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3497,7 +3436,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.993,
+        "score": 2.881,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       },
@@ -3527,68 +3466,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.952,
+        "score": 2.85,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5e198fff68c7",
-        "category": "growth",
-        "lang": "en",
-        "title": "Bing Gordon: Learning From Bezos, Jobs, and Spielberg",
-        "summary": "Bing Gordon is the former Chief Creative Officer of Electronic Arts and a partner at Kleiner Perkins. He served on Amazon’s board for more than a decade, a seat he earned after giving Jeff Bezos five ideas.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://fs.blog/knowledge-project-podcast/bing-gordon/",
-        "publishedAt": "2026-11-19T10:55:00+00:00",
-        "subtopics": [
-          "Relationships"
-        ],
-        "sources": [
-          {
-            "name": "Farnam Street",
-            "url": "https://fs.blog/knowledge-project-podcast/bing-gordon/",
-            "publishedAt": "2026-11-19T10:55:00+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.716,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "43786a79ad31",
-        "category": "growth",
-        "lang": "en",
-        "title": "How Much Should You Have Saved for Retirement by Age?",
-        "summary": "One of the most common questions around saving for retirement is: Am I on track? While it's a good question to ask, there are a lot of factors that influence the answer.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://ofdollarsanddata.com/how-much-should-you-have-saved-for-retirement-by-age/",
-        "publishedAt": "2026-11-17T12:45:50+00:00",
-        "subtopics": [
-          "Productivity & systems",
-          "Personal finance",
-          "Persuasion & negotiation"
-        ],
-        "sources": [
-          {
-            "name": "Of Dollars And Data",
-            "url": "https://ofdollarsanddata.com/how-much-should-you-have-saved-for-retirement-by-age/",
-            "publishedAt": "2026-11-17T12:45:50+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.673,
-        "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "kind": "article"
       }
     ]
@@ -3627,7 +3506,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 38,
+      "items": 33,
       "error": null
     },
     {
@@ -3728,9 +3607,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "onefutureuseful",
@@ -3770,9 +3649,9 @@
     }
   ],
   "filteredOut": {
-    "football": 60,
-    "news": 70,
-    "medical": 9,
-    "growth": 42
+    "football": 61,
+    "news": 80,
+    "medical": 10,
+    "growth": 40
   }
 }
