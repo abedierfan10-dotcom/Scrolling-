@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T16:54:51.322543+00:00",
+  "generatedAt": "2026-11-24T18:33:38.859710+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,6 +8,36 @@
   },
   "tabs": {
     "football": [
+      {
+        "id": "b84ea9ae3694",
+        "category": "football",
+        "lang": "en",
+        "title": "Football Daily | The game’s gone: has fantasy football been ruined by AI gafferbots?",
+        "summary": "Sign up now! Sign up now!",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
+        "publishedAt": "2026-11-24T16:16:52+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Transfers"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/24/fpl-ruined-ai-football-daily-newsletter",
+            "publishedAt": "2026-11-24T16:16:52+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 15.272,
+        "firstSeen": "2026-11-24T18:33:38.859710+00:00",
+        "transfer": "RUMOUR"
+      },
       {
         "id": "4031d50d31fe",
         "category": "football",
@@ -33,8 +63,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 9.12,
+        "isNew": false,
+        "score": 8.974,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "transfer": "RUMOUR"
       },
@@ -63,8 +93,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.444,
+        "isNew": false,
+        "score": 7.308,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "transfer": "RUMOUR"
       },
@@ -94,50 +124,9 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.202,
-        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
-      },
-      {
-        "id": "de1e876a9689",
-        "category": "football",
-        "lang": "en",
-        "title": "Janelt scores stunner as Brentford beat 10-man Everton",
-        "summary": "It was a record-breaking occasion in more ways than one. David Moyes made history for Everton, edging clear of Harry Catterick by overseeing his 593rd game in charge of the club, but calamitous defending ruined the Scot’s evening and defeat to Brentford was…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-23T22:31:27+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-23T22:31:27+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/watch/video/13615838/brentford-4-0-everton-premier-league-highlights",
-            "publishedAt": "2026-11-23T22:21:00+00:00",
-            "tier": 2
-          },
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
-            "publishedAt": "2026-11-23T22:09:41+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
         "isNew": false,
-        "score": 6.684,
-        "firstSeen": "2026-11-24T03:45:02.125593+00:00"
+        "score": 7.079,
+        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
         "id": "0daee3b68aaf",
@@ -165,28 +154,34 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.346,
+        "score": 6.271,
         "firstSeen": "2026-11-23T18:55:07.521441+00:00"
       },
       {
-        "id": "ab5b551cd643",
+        "id": "de1e876a9689",
         "category": "football",
         "lang": "en",
-        "title": "When is the Euro 2028 qualifying draw?",
-        "summary": "Our Ask Me Anything team tell you all you need to know about the Euro 2028 qualifying draw.",
+        "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+        "summary": "It was a record-breaking occasion in more ways than one. David Moyes made history for Everton, edging clear of Harry Catterick by overseeing his 593rd game in charge of the club, but calamitous defending ruined the Scot’s evening and defeat to Brentford was…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-23T16:25:50+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T22:31:27+00:00",
         "subtopics": [
-          "Euros",
+          "Premier League",
           "Results"
         ],
         "sources": [
           {
             "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cklye3q3jvnwo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-23T16:25:50+00:00",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T22:31:27+00:00",
+            "tier": 2
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
+            "publishedAt": "2026-11-23T22:09:41+00:00",
             "tier": 2
           }
         ],
@@ -194,37 +189,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.282,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
-      },
-      {
-        "id": "24e57ecc2bc4",
-        "category": "football",
-        "lang": "en",
-        "title": "'You don't win 345 matches by defending' - Simeone breaks La Liga record",
-        "summary": "Diego Simeone records his 345th La Liga victory as Atletico Madrid manager to set a new mark.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-23T13:07:12+00:00",
-        "subtopics": [
-          "La Liga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c5pv9kkwn3y3o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-23T13:07:12+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.143,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+        "score": 5.796,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00"
       },
       {
         "id": "b484384c59a1",
@@ -252,7 +218,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.727,
+        "score": 5.659,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
@@ -281,7 +247,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.631,
+        "score": 5.596,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -310,36 +276,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.095,
-        "firstSeen": "2026-11-24T03:45:02.125593+00:00"
-      },
-      {
-        "id": "81311d8a8ee0",
-        "category": "football",
-        "lang": "en",
-        "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
-        "summary": "Keane Lewis-Potter’s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
-        "publishedAt": "2026-11-23T21:30:00+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
-            "publishedAt": "2026-11-23T21:30:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.029,
+        "score": 5.007,
         "firstSeen": "2026-11-24T03:45:02.125593+00:00"
       },
       {
@@ -368,7 +305,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.605,
+        "score": 4.543,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -397,7 +334,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.131,
+        "score": 4.096,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
@@ -426,11 +363,47 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.65,
+        "score": 3.586,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       }
     ],
     "news": [
+      {
+        "id": "6ed83bef97d2",
+        "category": "news",
+        "lang": "de",
+        "title": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
+        "summary": "Ist der Kurssprung der Nvidia-Aktie wegen der Rückkehr von Konzernchef Huang schon wieder abgehakt? Heute mehren sich jedenfalls die Zweifel.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+        "publishedAt": "2026-11-24T17:36:29+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+            "publishedAt": "2026-11-24T17:36:29+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+            "publishedAt": "2026-11-24T17:36:29+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.958,
+        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
+      },
       {
         "id": "99de679812ce",
         "category": "news",
@@ -462,8 +435,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.86,
+        "isNew": false,
+        "score": 7.791,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -491,8 +464,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.726,
+        "isNew": false,
+        "score": 7.66,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -526,43 +499,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.711,
-        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
-      },
-      {
-        "id": "6ed83bef97d2",
-        "category": "news",
-        "lang": "de",
-        "title": "Marktbericht: DAX nach Kursrausch zurück im Alltag",
-        "summary": "Nach der Euphorie zum Wochenstart fällt der DAX im frühen Handel zurück. War der Nvidia-Rausch nur ein Strohfeuer?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-        "publishedAt": "2026-11-24T09:31:50+00:00",
-        "subtopics": [
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-            "publishedAt": "2026-11-24T09:31:50+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html",
-            "publishedAt": "2026-11-24T09:31:50+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.688,
+        "isNew": false,
+        "score": 7.645,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -596,8 +534,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.659,
+        "isNew": false,
+        "score": 7.594,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -632,8 +570,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.624,
+        "isNew": false,
+        "score": 7.561,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -668,37 +606,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.616,
-        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
-      },
-      {
-        "id": "b84356c684aa",
-        "category": "news",
-        "lang": "de",
-        "title": "IG Metall setzt Warnstreiks fort - Airbus betroffen",
-        "summary": "Schwerpunkt des Arbeitskampfes war am Dienstag Airbus. Tausende Mitarbeitende legten die Arbeit in Finkenwerder nieder.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/ig-metall-warnstreiks-laufen-weiter-airbus-betroffen,kurzehh-4984.html",
-        "publishedAt": "2026-11-24T16:38:16+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/ig-metall-warnstreiks-laufen-weiter-airbus-betroffen,kurzehh-4984.html",
-            "publishedAt": "2026-11-24T16:38:16+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 7.588,
+        "isNew": false,
+        "score": 7.553,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -732,8 +641,37 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.581,
+        "isNew": false,
+        "score": 7.518,
+        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
+      },
+      {
+        "id": "b84356c684aa",
+        "category": "news",
+        "lang": "de",
+        "title": "IG Metall setzt Warnstreiks fort - Airbus betroffen",
+        "summary": "Schwerpunkt des Arbeitskampfes war am Dienstag Airbus. Tausende Mitarbeitende legten die Arbeit in Finkenwerder nieder.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/ig-metall-warnstreiks-laufen-weiter-airbus-betroffen,kurzehh-4984.html",
+        "publishedAt": "2026-11-24T16:38:16+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/ig-metall-warnstreiks-laufen-weiter-airbus-betroffen,kurzehh-4984.html",
+            "publishedAt": "2026-11-24T16:38:16+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.515,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -761,8 +699,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.577,
+        "isNew": false,
+        "score": 7.505,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -797,7 +735,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.357,
+        "score": 7.29,
         "firstSeen": "2026-11-24T03:45:02.125593+00:00"
       },
       {
@@ -833,7 +771,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.169,
+        "score": 7.117,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -868,37 +806,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.126,
-        "firstSeen": "2026-11-23T18:55:07.521441+00:00"
-      },
-      {
-        "id": "bd95b0dbbb0f",
-        "category": "news",
-        "lang": "de",
-        "title": "\"Ulknudel\" Helga Feddersen: Großes Herz und große Klappe",
-        "summary": "Vielen ist sie als \"Ulknudel\" in Erinnerung, doch sie war weit mehr als das. Am 24.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/geschichte/koepfe/todestag-von-helga-feddersen-grosses-herz-grosse-klappe,feddersen110.html",
-        "publishedAt": "2026-11-24T04:00:00+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/geschichte/koepfe/todestag-von-helga-feddersen-grosses-herz-grosse-klappe,feddersen110.html",
-            "publishedAt": "2026-11-24T04:00:00+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
         "score": 7.075,
-        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
+        "firstSeen": "2026-11-23T18:55:07.521441+00:00"
       },
       {
         "id": "b5a3db055263",
@@ -926,7 +835,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.946,
+        "score": 6.899,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -961,8 +870,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.909,
+        "isNew": false,
+        "score": 6.839,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -991,7 +900,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.772,
+        "score": 6.729,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -1019,8 +928,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.677,
+        "isNew": false,
+        "score": 6.607,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -1055,7 +964,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.484,
+        "score": 6.448,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
@@ -1084,7 +993,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.245,
+        "score": 6.214,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
@@ -1114,7 +1023,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.081,
+        "score": 6.054,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -1149,7 +1058,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.013,
+        "score": 5.988,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -1179,7 +1088,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.999,
+        "score": 5.975,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -1214,7 +1123,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.964,
+        "score": 5.941,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -1243,7 +1152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.922,
+        "score": 5.9,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -1272,7 +1181,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.906,
+        "score": 5.884,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -1308,7 +1217,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.892,
+        "score": 5.846,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -1338,7 +1247,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.832,
+        "score": 5.788,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -1367,7 +1276,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.524,
+        "score": 5.501,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
@@ -1402,7 +1311,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.503,
+        "score": 5.491,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1437,7 +1346,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.498,
+        "score": 5.486,
         "firstSeen": "2026-11-19T16:14:02.590127+00:00"
       },
       {
@@ -1466,37 +1375,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.474,
+        "score": 5.463,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
-      },
-      {
-        "id": "2a2882c269f2",
-        "category": "news",
-        "lang": "de",
-        "title": "Verbraucherzentrale: Stabsstelle Patientenbeteiligung vor dem Aus?",
-        "summary": "Wenn es um wichtige Gesundheitsthemen geht, sitzen oft auch Patientenvertreter mit am Verhandlungstisch. Ihre Arbeit könnte in Hamburg bald schwieriger werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/verbraucherzentrale-stabsstelle-patientenbeteiligung-vor-dem-aus,verbraucherzentrale-164.html",
-        "publishedAt": "2026-11-24T06:34:35+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/verbraucherzentrale-stabsstelle-patientenbeteiligung-vor-dem-aus,verbraucherzentrale-164.html",
-            "publishedAt": "2026-11-24T06:34:35+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.472,
-        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
         "id": "3915e5eba9be",
@@ -1524,8 +1404,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.461,
+        "score": 5.45,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
+      },
+      {
+        "id": "2a2882c269f2",
+        "category": "news",
+        "lang": "de",
+        "title": "Verbraucherzentrale: Stabsstelle Patientenbeteiligung vor dem Aus?",
+        "summary": "Wenn es um wichtige Gesundheitsthemen geht, sitzen oft auch Patientenvertreter mit am Verhandlungstisch. Ihre Arbeit könnte in Hamburg bald schwieriger werden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/verbraucherzentrale-stabsstelle-patientenbeteiligung-vor-dem-aus,verbraucherzentrale-164.html",
+        "publishedAt": "2026-11-24T06:34:35+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Healthcare"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/verbraucherzentrale-stabsstelle-patientenbeteiligung-vor-dem-aus,verbraucherzentrale-164.html",
+            "publishedAt": "2026-11-24T06:34:35+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.41,
+        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
         "id": "e167b8d46ab3",
@@ -1552,9 +1461,44 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.414,
+        "isNew": false,
+        "score": 5.353,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
+      },
+      {
+        "id": "f5daf9642a95",
+        "category": "news",
+        "lang": "de",
+        "title": "Einigung über Stromsteuersenkung: Die Koalition ist in eine neue Phase eingetreten",
+        "summary": "Union und SPD haben sich auf eine Senkung der Stromsteuer geeinigt. Doch die Verhandlungen liefen Teilnehmern zufolge teils ruppig.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
+        "publishedAt": "2026-11-18T15:45:55+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
+            "publishedAt": "2026-11-18T15:45:55+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
+            "publishedAt": "2026-11-18T15:45:55+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.338,
+        "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       }
     ],
     "medical": [
@@ -1591,7 +1535,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.459,
+        "score": 11.436,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1622,8 +1566,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 11.459,
+        "isNew": false,
+        "score": 11.436,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1660,7 +1604,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.413,
+        "score": 9.4,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1691,7 +1635,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.221,
+        "score": 9.209,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1723,7 +1667,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.413,
+        "score": 7.4,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1754,7 +1698,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.764,
+        "score": 6.756,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1786,7 +1730,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.764,
+        "score": 6.756,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1817,7 +1761,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.413,
+        "score": 6.4,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1848,7 +1792,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.899,
+        "score": 5.889,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1880,7 +1824,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.75,
+        "score": 5.739,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1909,8 +1853,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.48,
+        "isNew": false,
+        "score": 5.456,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1941,7 +1885,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.359,
+        "score": 5.344,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1971,7 +1915,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.346,
+        "score": 4.331,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2001,7 +1945,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.145,
+        "score": 4.139,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2032,7 +1976,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.162,
+        "score": 3.147,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2062,7 +2006,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.957,
+        "score": 2.936,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2092,13 +2036,50 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.098,
+        "score": 2.086,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
+      {
+        "id": "19ee9ec4a018",
+        "category": "growth",
+        "lang": "en",
+        "title": "The “Godfather of AI” on the Risks That Worry Him Most | Geoffrey Hinton | TED",
+        "summary": "Geoffrey Hinton helped create the neural networks behind today's AI, won a Nobel Prize for it — and has spent the years since warning about where it's headed. In conversation with journalist Nicholas Thompson, Hinton shares the AI risks he's worried about,…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=L8HdlknRkA4",
+        "publishedAt": "2026-11-24T18:00:35+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=L8HdlknRkA4",
+            "publishedAt": "2026-11-24T18:00:35+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.575,
+        "firstSeen": "2026-11-24T18:33:38.859710+00:00",
+        "kind": "video",
+        "video": {
+          "id": "L8HdlknRkA4",
+          "thumbUrl": "https://i1.ytimg.com/vi/L8HdlknRkA4/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=L8HdlknRkA4",
+          "channel": "TED"
+        }
+      },
       {
         "id": "7fe7068339a2",
         "category": "growth",
@@ -2125,8 +2106,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 6.216,
+        "isNew": false,
+        "score": 6.145,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "video",
         "video": {
@@ -2161,8 +2142,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.727,
+        "isNew": false,
+        "score": 5.656,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "article"
       },
@@ -2190,8 +2171,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.637,
+        "isNew": false,
+        "score": 5.569,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "article"
       },
@@ -2219,9 +2200,39 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.547,
+        "isNew": false,
+        "score": 5.481,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "f796e127a00b",
+        "category": "growth",
+        "lang": "en",
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+        "publishedAt": "2026-11-24T16:53:59+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Social skills"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+            "publishedAt": "2026-11-24T16:53:59+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.427,
+        "firstSeen": "2026-11-24T18:33:38.859710+00:00",
         "kind": "article"
       },
       {
@@ -2254,8 +2265,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 4.991,
+        "isNew": false,
+        "score": 4.93,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "article"
       },
@@ -2290,7 +2301,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.967,
+        "score": 4.907,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
@@ -2320,7 +2331,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.921,
+        "score": 4.869,
         "firstSeen": "2026-11-23T18:55:07.521441+00:00",
         "kind": "article"
       },
@@ -2349,7 +2360,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.821,
+        "score": 4.765,
         "firstSeen": "2026-11-24T03:45:02.125593+00:00",
         "kind": "article"
       },
@@ -2379,7 +2390,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.785,
+        "score": 4.737,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "kind": "article"
       },
@@ -2409,7 +2420,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.757,
+        "score": 4.702,
         "firstSeen": "2026-11-24T03:45:02.125593+00:00",
         "kind": "article"
       },
@@ -2438,7 +2449,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.725,
+        "score": 4.698,
         "firstSeen": "2026-11-21T23:40:51.389875+00:00",
         "kind": "video",
         "video": {
@@ -2475,7 +2486,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.072,
+        "score": 4.054,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2511,7 +2522,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.032,
+        "score": 3.995,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "kind": "article"
       },
@@ -2541,7 +2552,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.827,
+        "score": 3.826,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00",
         "kind": "video",
         "video": {
@@ -2578,7 +2589,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.805,
+        "score": 3.803,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2586,6 +2597,42 @@
           "thumbUrl": "https://i3.ytimg.com/vi/VgOm8nqPlD4/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "7ba936e2e34c",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why Clean Energy Is an Unstoppable Force | Michael Liebreich | TED",
+        "summary": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
+        "publishedAt": "2026-11-19T16:00:15+00:00",
+        "subtopics": [
+          "Communication"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
+            "publishedAt": "2026-11-19T16:00:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.781,
+        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
+        "kind": "video",
+        "video": {
+          "id": "ACCnhY1fKoI",
+          "thumbUrl": "https://i2.ytimg.com/vi/ACCnhY1fKoI/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
           "channel": "TED"
         }
       },
@@ -2614,7 +2661,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.789,
+        "score": 3.777,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "video",
         "video": {
@@ -2623,42 +2670,6 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=lwfewYL7X0o",
           "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "7ba936e2e34c",
-        "category": "growth",
-        "lang": "en",
-        "title": "Why Clean Energy Is an Unstoppable Force | Michael Liebreich | TED",
-        "summary": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
-        "publishedAt": "2026-11-19T16:00:15+00:00",
-        "subtopics": [
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
-            "publishedAt": "2026-11-19T16:00:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.782,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
-        "kind": "video",
-        "video": {
-          "id": "ACCnhY1fKoI",
-          "thumbUrl": "https://i2.ytimg.com/vi/ACCnhY1fKoI/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
-          "channel": "TED"
         }
       },
       {
@@ -2687,7 +2698,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.768,
+        "score": 3.767,
         "firstSeen": "2026-11-19T00:55:15.585925+00:00",
         "kind": "video",
         "video": {
@@ -2724,7 +2735,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.72,
+        "score": 3.719,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2760,7 +2771,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.669,
+        "score": 3.668,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00",
         "kind": "video",
         "video": {
@@ -2796,7 +2807,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.662,
+        "score": 3.661,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00",
         "kind": "video",
         "video": {
@@ -2804,42 +2815,6 @@
           "thumbUrl": "https://i1.ytimg.com/vi/pSbcJV_o_ko/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=pSbcJV_o_ko",
-          "channel": "TED"
-        }
-      },
-      {
-        "id": "b39a7ba76b88",
-        "category": "growth",
-        "lang": "en",
-        "title": "How Would You Design Your Dream City? | James Rojas | TED",
-        "summary": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects — and he's noticed that people of every age, income and background build strikingly similar places. Through play and…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
-        "publishedAt": "2026-11-12T16:00:32+00:00",
-        "subtopics": [
-          "Presentation & speaking"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
-            "publishedAt": "2026-11-12T16:00:32+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.644,
-        "firstSeen": "2026-11-12T23:09:39.024597+00:00",
-        "kind": "video",
-        "video": {
-          "id": "f5RqYHd2cBQ",
-          "thumbUrl": "https://i3.ytimg.com/vi/f5RqYHd2cBQ/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
           "channel": "TED"
         }
       },
@@ -2869,7 +2844,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.641,
+        "score": 3.613,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00",
         "kind": "article"
       },
@@ -2899,7 +2874,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.533,
+        "score": 3.516,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -2928,7 +2903,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.329,
+        "score": 3.328,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -2964,38 +2939,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.276,
+        "score": 3.264,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "81ce5b24dd89",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Ravi Vakil",
-        "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-        "publishedAt": "2026-11-20T19:21:49+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-            "publishedAt": "2026-11-20T19:21:49+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.246,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
       {
@@ -3024,7 +2969,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.245,
+        "score": 3.244,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -3036,23 +2981,24 @@
         }
       },
       {
-        "id": "b8e1839046bc",
+        "id": "81ce5b24dd89",
         "category": "growth",
         "lang": "en",
-        "title": "Quoting Levent Alpöge",
-        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
+        "title": "Quoting Ravi Vakil",
+        "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-        "publishedAt": "2026-11-20T16:30:48+00:00",
+        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+        "publishedAt": "2026-11-20T19:21:49+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "AI & smart tools",
+          "Communication"
         ],
         "sources": [
           {
             "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-            "publishedAt": "2026-11-20T16:30:48+00:00",
+            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+            "publishedAt": "2026-11-20T19:21:49+00:00",
             "tier": 3
           }
         ],
@@ -3060,7 +3006,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.215,
+        "score": 3.228,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -3091,7 +3037,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.215,
+        "score": 3.214,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -3101,6 +3047,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "b8e1839046bc",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Levent Alpöge",
+        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+        "publishedAt": "2026-11-20T16:30:48+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+            "publishedAt": "2026-11-20T16:30:48+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.197,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "article"
       },
       {
         "id": "b2b96149e382",
@@ -3187,8 +3162,8 @@
             "publishedAt": "2026-11-16T23:57:26+00:00"
           }
         ],
-        "isNew": true,
-        "score": 3.085,
+        "isNew": false,
+        "score": 3.071,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "article"
       },
@@ -3217,7 +3192,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.083,
+        "score": 3.069,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "kind": "article"
       },
@@ -3247,38 +3222,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.069,
+        "score": 3.068,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4ba1303d2ee2",
-        "category": "growth",
-        "lang": "en",
-        "title": "PostgreSQL 19 Released",
-        "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-        "publishedAt": "2026-11-19T20:43:57+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-            "publishedAt": "2026-11-19T20:43:57+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.032,
-        "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "article"
       }
     ]
@@ -3460,9 +3405,9 @@
     }
   ],
   "filteredOut": {
-    "football": 63,
-    "news": 82,
+    "football": 66,
+    "news": 84,
     "medical": 11,
-    "growth": 35
+    "growth": 34
   }
 }
