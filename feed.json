@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:55:07.521441+00:00",
+  "generatedAt": "2026-11-24T03:45:02.125593+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -8,36 +8,6 @@
   },
   "tabs": {
     "football": [
-      {
-        "id": "1741beacf711",
-        "category": "football",
-        "lang": "en",
-        "title": "‘Celebrate, inspire, unite’: UK confirmed as host of 2035 Women’s World Cup",
-        "summary": "Country’s first World Cup since men’s 1966 edition in England Bid lists 22 stadiums as potential venues The UK is to host the 2035 Women’s World Cup, Fifa has confirmed. England, Northern Ireland, Scotland and Wales will stage the first World Cup hosted in…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
-        "publishedAt": "2026-11-23T15:09:18+00:00",
-        "subtopics": [
-          "World Cup",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/23/uk-confirmed-hosts-2035-womens-world-cup-fifa",
-            "publishedAt": "2026-11-23T15:09:18+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 9.132,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00",
-        "transfer": "OFFICIAL"
-      },
       {
         "id": "1be1db02698b",
         "category": "football",
@@ -64,7 +34,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.113,
+        "score": 8.423,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -93,8 +63,49 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.196,
+        "score": 7.88,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "de1e876a9689",
+        "category": "football",
+        "lang": "en",
+        "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+        "summary": "It was a record-breaking occasion in more ways than one. David Moyes made history for Everton, edging clear of Harry Catterick by overseeing his 593rd game in charge of the club, but calamitous defending ruined the Scot’s evening and defeat to Brentford was…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T22:31:27+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T22:31:27+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13615838/brentford-4-0-everton-premier-league-highlights",
+            "publishedAt": "2026-11-23T22:21:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/brentford-everton-premier-league-match-report",
+            "publishedAt": "2026-11-23T22:09:41+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.602,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00"
       },
       {
         "id": "0daee3b68aaf",
@@ -121,8 +132,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.889,
+        "isNew": false,
+        "score": 7.126,
         "firstSeen": "2026-11-23T18:55:07.521441+00:00"
       },
       {
@@ -151,7 +162,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.752,
+        "score": 7.025,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -181,7 +192,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.64,
+        "score": 6.942,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -210,7 +221,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.453,
+        "score": 6.805,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -239,7 +250,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.133,
+        "score": 6.438,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
@@ -268,34 +279,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.126,
+        "score": 6.432,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
-        "id": "90a7cae8c7bf",
+        "id": "f79ec0a1168a",
         "category": "football",
         "lang": "en",
-        "title": "Brentford v Everton: Premier League – live",
-        "summary": "Minute-by-minute updates on the 8pm UK kick-off Haaland must be worried’: Moyes on Barry | Email Daniel Though the standard at the top of the Premier League reflects neither its spending or self-mythologising, the level below that is perhaps higher than in…",
+        "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+        "summary": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
-        "publishedAt": "2026-11-23T18:30:53+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-23T22:43:39+00:00",
         "subtopics": [
           "Premier League",
-          "Upcoming"
+          "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/live/2026/nov/23/brentford-v-everton-premier-league-live",
-            "publishedAt": "2026-11-23T18:30:53+00:00",
-            "tier": 2
-          },
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/brentford-vs-everton/live/559546",
-            "publishedAt": "2026-11-23T18:30:00+00:00",
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-23T22:43:39+00:00",
             "tier": 2
           }
         ],
@@ -303,8 +308,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 6.758,
-        "firstSeen": "2026-11-23T18:55:07.521441+00:00"
+        "score": 6.02,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00"
       },
       {
         "id": "be7281b9b824",
@@ -332,37 +337,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.353,
+        "score": 5.996,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
-        "id": "81ec9cb4e88e",
+        "id": "81311d8a8ee0",
         "category": "football",
         "lang": "en",
-        "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
-        "summary": "German giants’ treatment of midfielder has raised questions about how far the reputation of a family club still holds It was, on paper, a perfect Friday evening for Bayern to flex their muscles once again, in the chill of their intimidating Allianz Arena…",
+        "title": "Lewis-Potter scores twice as Brentford thump four past 10-man Everton",
+        "summary": "Keane Lewis-Potter’s first-half double set Brentford on their way to a comprehensive 4-0 Premier League win over 10-man Everton.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
-        "publishedAt": "2026-11-23T12:08:28+00:00",
+        "url": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
+        "publishedAt": "2026-11-23T21:30:00+00:00",
         "subtopics": [
-          "Bundesliga",
+          "Premier League",
           "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
-            "publishedAt": "2026-11-23T12:08:28+00:00",
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/brentford-vs-everton/report/559546",
+            "publishedAt": "2026-11-23T21:30:00+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 5.871,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+        "isNew": true,
+        "score": 5.915,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00"
       },
       {
         "id": "d8ad7177efc3",
@@ -390,8 +395,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.487,
+        "score": 5.359,
         "firstSeen": "2026-11-21T15:01:57.528395+00:00"
+      },
+      {
+        "id": "81ec9cb4e88e",
+        "category": "football",
+        "lang": "en",
+        "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
+        "summary": "German giants’ treatment of midfielder has raised questions about how far the reputation of a family club still holds It was, on paper, a perfect Friday evening for Bayern to flex their muscles once again, in the chill of their intimidating Allianz Arena…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
+        "publishedAt": "2026-11-23T12:08:28+00:00",
+        "subtopics": [
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
+            "publishedAt": "2026-11-23T12:08:28+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.245,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "9a97b88d1812",
@@ -419,36 +453,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.032,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
-      },
-      {
-        "id": "c83ff608d3c8",
-        "category": "football",
-        "lang": "en",
-        "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
-        "summary": "Italy’s new cover star enjoyed a ‘beautiful’ treble but could not celebrate it after his side threw away two-goal leads three times to draw 4-4 with Atalanta This ought to have been a magic moment for Pio Esposito. He had just scored his first Serie A…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
-        "publishedAt": "2026-11-23T13:18:20+00:00",
-        "subtopics": [
-          "Serie A",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
-            "publishedAt": "2026-11-23T13:18:20+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.969,
+        "score": 4.627,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -477,7 +482,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.853,
+        "score": 4.496,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
@@ -506,8 +511,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.81,
+        "score": 4.464,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "c83ff608d3c8",
+        "category": "football",
+        "lang": "en",
+        "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
+        "summary": "Italy’s new cover star enjoyed a ‘beautiful’ treble but could not celebrate it after his side threw away two-goal leads three times to draw 4-4 with Atalanta This ought to have been a magic moment for Pio Esposito. He had just scored his first Serie A…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
+        "publishedAt": "2026-11-23T13:18:20+00:00",
+        "subtopics": [
+          "Serie A",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
+            "publishedAt": "2026-11-23T13:18:20+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.317,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "40d3bd219c78",
@@ -535,11 +569,47 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.033,
+        "score": 3.892,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       }
     ],
     "news": [
+      {
+        "id": "c18c10731d6a",
+        "category": "news",
+        "lang": "de",
+        "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
+        "summary": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
+        "publishedAt": "2026-11-23T19:07:24+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html",
+            "publishedAt": "2026-11-23T19:07:24+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
+            "publishedAt": "2026-11-23T15:18:29+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.639,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
       {
         "id": "14bd94a893fc",
         "category": "news",
@@ -571,8 +641,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 7.95,
+        "isNew": false,
+        "score": 7.587,
         "firstSeen": "2026-11-23T18:55:07.521441+00:00"
       },
       {
@@ -607,37 +677,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.921,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
-      },
-      {
-        "id": "c18c10731d6a",
-        "category": "news",
-        "lang": "de",
-        "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
-        "summary": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Tagen wegen eines Spionageskandals zurückgetreten.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
-        "publishedAt": "2026-11-23T15:18:29+00:00",
-        "subtopics": [
-          "US",
-          "Germany",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
-            "publishedAt": "2026-11-23T15:18:29+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.843,
+        "score": 7.561,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -666,8 +706,43 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.7,
+        "score": 7.367,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "af83edb671c8",
+        "category": "news",
+        "lang": "de",
+        "title": "Baustart für Hamburgs neue Norderelbbrücke",
+        "summary": "Die Alte ist massiv in die Jahre gekommen. Für den Ersatz der maroden Stahlbrücke der A1 investiert der Bund rund 300 Millionen Euro.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/baustart-fuer-hamburgs-neue-norderelbbruecke,norderelbbruecke-134.html",
+        "publishedAt": "2026-11-23T20:19:55+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/baustart-fuer-hamburgs-neue-norderelbbruecke,norderelbbruecke-134.html",
+            "publishedAt": "2026-11-23T20:19:55+00:00",
+            "tier": 1
+          },
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/spatenstich-fuer-hamburgs-neue-norderelbbruecke,hamj-16800.html",
+            "publishedAt": "2026-11-23T19:00:07+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.286,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00"
       },
       {
         "id": "aacf3445f026",
@@ -701,8 +776,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.6,
+        "score": 7.28,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "92003e66ffb9",
+        "category": "news",
+        "lang": "de",
+        "title": "Uwe-Seeler-Preis für Niendorfer TSV und ESV Einigkeit Wilhelmsburg",
+        "summary": "Der Preis ist am Montagabend zum 40. Mal in Hamburg verliehen worden.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/uwe-seeler-preis-fuer-niendorfer-tsv-und-esv-einigkeit-wilhelmsburg,kurzehh-4982.html",
+        "publishedAt": "2026-11-23T19:59:08+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Markets"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/uwe-seeler-preis-fuer-niendorfer-tsv-und-esv-einigkeit-wilhelmsburg,kurzehh-4982.html",
+            "publishedAt": "2026-11-23T19:59:08+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.273,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00"
       },
       {
         "id": "442ae3b71f1a",
@@ -730,65 +834,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.458,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
-      },
-      {
-        "id": "5d54b930996e",
-        "category": "news",
-        "lang": "de",
-        "title": "Private Spenden: Rund 1,3 Milliarden in Norddeutschland in 2022",
-        "summary": "Hamburg liegt mit durchschnittlich 1.088 Euro pro Spender über dem Bundesschnitt. Wie steht der restliche Norden da?",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/info/private-spenden-mehr-als-600-millionen-euro-in-niedersachsen,spenden-176.html",
-        "publishedAt": "2026-11-23T12:49:06+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/info/private-spenden-mehr-als-600-millionen-euro-in-niedersachsen,spenden-176.html",
-            "publishedAt": "2026-11-23T12:49:06+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.34,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
-      },
-      {
-        "id": "24c2bc0b8a9b",
-        "category": "news",
-        "lang": "de",
-        "title": "Wahl des Bundespräsidenten: Die Teilnehmer aus Hamburg",
-        "summary": "Nicht nur Politikprofis reisen zur Wahl der Nachfolge von Bundespräsident Steinmeier aus Hamburg nach Berlin.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/Wahl-des-Bundespraesidenten-Die-Teilnehmer-aus-Hamburg,bundesversammlung-132.html",
-        "publishedAt": "2026-11-23T06:06:23+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/Wahl-des-Bundespraesidenten-Die-Teilnehmer-aus-Hamburg,bundesversammlung-132.html",
-            "publishedAt": "2026-11-23T06:06:23+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.079,
+        "score": 7.155,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
@@ -823,8 +869,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.059,
+        "score": 6.805,
         "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+      },
+      {
+        "id": "24c2bc0b8a9b",
+        "category": "news",
+        "lang": "de",
+        "title": "Wahl des Bundespräsidenten: Die Teilnehmer aus Hamburg",
+        "summary": "Nicht nur Politikprofis reisen zur Wahl der Nachfolge von Bundespräsident Steinmeier aus Hamburg nach Berlin.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/Wahl-des-Bundespraesidenten-Die-Teilnehmer-aus-Hamburg,bundesversammlung-132.html",
+        "publishedAt": "2026-11-23T06:06:23+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/Wahl-des-Bundespraesidenten-Die-Teilnehmer-aus-Hamburg,bundesversammlung-132.html",
+            "publishedAt": "2026-11-23T06:06:23+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.774,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "4d5c25e374ee",
@@ -852,8 +927,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.727,
+        "score": 6.514,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
+      },
+      {
+        "id": "4f18d7d2e42a",
+        "category": "news",
+        "lang": "de",
+        "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+        "summary": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+        "publishedAt": "2026-11-21T20:17:57+00:00",
+        "subtopics": [
+          "EU",
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+            "publishedAt": "2026-11-21T20:17:57+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.314,
+        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
         "id": "232fd1df9a7d",
@@ -888,68 +993,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.625,
+        "score": 6.301,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
-      },
-      {
-        "id": "f269155fdb8a",
-        "category": "news",
-        "lang": "de",
-        "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-        "summary": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-        "publishedAt": "2026-11-23T07:46:12+00:00",
-        "subtopics": [
-          "US",
-          "Germany",
-          "Tech & AI"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-            "publishedAt": "2026-11-23T07:46:12+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.541,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
-      },
-      {
-        "id": "4f18d7d2e42a",
-        "category": "news",
-        "lang": "de",
-        "title": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-        "summary": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
-        "publishedAt": "2026-11-21T20:17:57+00:00",
-        "subtopics": [
-          "EU",
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
-            "publishedAt": "2026-11-21T20:17:57+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.499,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
         "id": "3fefd4cbcfe1",
@@ -983,7 +1028,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.405,
+        "score": 6.232,
+        "firstSeen": "2026-11-21T22:43:44.186297+00:00"
+      },
+      {
+        "id": "f269155fdb8a",
+        "category": "news",
+        "lang": "de",
+        "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+        "summary": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+        "publishedAt": "2026-11-23T07:46:12+00:00",
+        "subtopics": [
+          "US",
+          "Germany",
+          "Tech & AI"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+            "publishedAt": "2026-11-23T07:46:12+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.228,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -1013,7 +1088,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.386,
+        "score": 6.215,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00"
       },
       {
@@ -1048,36 +1123,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.337,
+        "score": 6.172,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
-      },
-      {
-        "id": "f947132bdfba",
-        "category": "news",
-        "lang": "de",
-        "title": "Berliner Tor: Bauarbeiten unter Zeitdruck",
-        "summary": "Bürgerweide und Berlinertordamm sind zum wiederholten Male gesperrt. 46 Stahlträger müssen an diesem Wochenende eingehoben werden.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/berliner-tor-bauarbeiten-unter-zeitdruck,hamj-16764.html",
-        "publishedAt": "2026-11-23T11:22:07+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/berliner-tor-bauarbeiten-unter-zeitdruck,hamj-16764.html",
-            "publishedAt": "2026-11-23T11:22:07+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.281,
-        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
       },
       {
         "id": "ddb6c24dc07a",
@@ -1105,7 +1152,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.279,
+        "score": 6.122,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
       },
       {
@@ -1134,8 +1181,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.257,
+        "score": 6.102,
         "firstSeen": "2026-11-21T14:08:06.606322+00:00"
+      },
+      {
+        "id": "c3076cb0351d",
+        "category": "news",
+        "lang": "de",
+        "title": "Wi snackt Platt: Speeldeel, Truercafé un Spraakplaan Nedderdüütsch",
+        "summary": "Bi „Wi snackt Platt“ geiht dat dütmal üm twee ganz besünnere Froenslüüd: Anngret Timmann un Ina Kühn vun’t Truercafé in Kirchwarder. Denn wüllt wi ok noch Lust maken op de dree Wiehnachtskunzerten, mit de de Finkwarder Speeldeel in de tokamen Weken to…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
+        "publishedAt": "2026-11-21T09:45:24+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
+            "publishedAt": "2026-11-21T09:45:24+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.724,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
         "id": "5a6b1495f0f7",
@@ -1169,36 +1245,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.894,
-        "firstSeen": "2026-11-22T13:58:38.344529+00:00"
-      },
-      {
-        "id": "c3076cb0351d",
-        "category": "news",
-        "lang": "de",
-        "title": "Wi snackt Platt: Speeldeel, Truercafé un Spraakplaan Nedderdüütsch",
-        "summary": "Bi „Wi snackt Platt“ geiht dat dütmal üm twee ganz besünnere Froenslüüd: Anngret Timmann un Ina Kühn vun’t Truercafé in Kirchwarder. Denn wüllt wi ok noch Lust maken op de dree Wiehnachtskunzerten, mit de de Finkwarder Speeldeel in de tokamen Weken to…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
-        "publishedAt": "2026-11-21T09:45:24+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Elections"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/903/wi-snackt-platt-speeldeel-truercafe-un-nedderdueuetschsekretariat,audio-3606998.html",
-            "publishedAt": "2026-11-21T09:45:24+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.881,
+        "score": 5.66,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
@@ -1233,7 +1280,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.698,
+        "score": 5.612,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1268,7 +1315,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.69,
+        "score": 5.605,
         "firstSeen": "2026-11-19T16:14:02.590127+00:00"
       },
       {
@@ -1297,7 +1344,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.658,
+        "score": 5.577,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1326,7 +1373,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.64,
+        "score": 5.561,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00"
       },
       {
@@ -1355,7 +1402,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.584,
+        "score": 5.463,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00"
       },
       {
@@ -1390,7 +1437,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.48,
+        "score": 5.421,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -1425,7 +1472,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.479,
+        "score": 5.42,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00"
       },
       {
@@ -1454,7 +1501,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.461,
+        "score": 5.404,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1483,7 +1530,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.458,
+        "score": 5.402,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1518,7 +1565,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.453,
+        "score": 5.397,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1553,7 +1600,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.449,
+        "score": 5.394,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       },
       {
@@ -1588,37 +1635,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.433,
+        "score": 5.38,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
-      },
-      {
-        "id": "257c15b3c67e",
-        "category": "news",
-        "lang": "de",
-        "title": "Hamburg-Cranz: Feuerwehr rettet Frau aus brennendem Haus",
-        "summary": "Im Estebogen brannte eine Dachgeschosswohnung. Eine 70-Jährige kam mit einer Rauchgasvergiftung ins Krankenhaus.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-cranz-feuerwehr-rettet-frau-aus-brennendem-haus,kurzehh-4970.html",
-        "publishedAt": "2026-11-23T07:19:41+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Healthcare"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/hamburg-cranz-feuerwehr-rettet-frau-aus-brennendem-haus,kurzehh-4970.html",
-            "publishedAt": "2026-11-23T07:19:41+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.425,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "c996a5c7b4c1",
@@ -1652,7 +1670,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.41,
+        "score": 5.359,
+        "firstSeen": "2026-11-18T15:01:22.899485+00:00"
+      },
+      {
+        "id": "f684abd53b82",
+        "category": "news",
+        "lang": "de",
+        "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
+        "summary": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+        "publishedAt": "2026-11-18T04:02:36+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html",
+            "publishedAt": "2026-11-18T04:02:36+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.353,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00"
       }
     ],
@@ -1684,7 +1731,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.887,
+        "score": 9.836,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1721,7 +1768,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.611,
+        "score": 9.529,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1752,7 +1799,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.397,
+        "score": 9.324,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1784,7 +1831,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.611,
+        "score": 7.529,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1816,7 +1863,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.887,
+        "score": 6.836,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1847,7 +1894,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.887,
+        "score": 6.836,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1878,7 +1925,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.611,
+        "score": 6.529,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1910,7 +1957,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.531,
+        "score": 6.495,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1942,7 +1989,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.531,
+        "score": 6.495,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1973,7 +2020,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.037,
+        "score": 5.98,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2005,7 +2052,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.906,
+        "score": 5.842,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2036,37 +2083,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.573,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "evidence": "trade_press",
-        "matridermRelevant": false
-      },
-      {
-        "id": "f3687cc0e6d2",
-        "category": "medical",
-        "lang": "en",
-        "title": "Abbott starts trial of Encantor transcatheter aortic valve",
-        "summary": "The balloon-expandable system could complement Abbott’s existing self-expanding Navitor device.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.medtechdive.com/news/abbott-starts-trial-of-encantor-transcatheter-aortic-valve/875298/",
-        "publishedAt": "2026-11-20T15:00:00+00:00",
-        "subtopics": [
-          "Cardiovascular"
-        ],
-        "sources": [
-          {
-            "name": "MedTech Dive",
-            "url": "https://www.medtechdive.com/news/abbott-starts-trial-of-encantor-transcatheter-aortic-valve/875298/",
-            "publishedAt": "2026-11-20T15:00:00+00:00",
-            "tier": 5
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.559,
+        "score": 5.484,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2096,9 +2113,39 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.531,
+        "score": 4.495,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
+        "matridermRelevant": false
+      },
+      {
+        "id": "f3687cc0e6d2",
+        "category": "medical",
+        "lang": "en",
+        "title": "Abbott starts trial of Encantor transcatheter aortic valve",
+        "summary": "The balloon-expandable system could complement Abbott’s existing self-expanding Navitor device.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.medtechdive.com/news/abbott-starts-trial-of-encantor-transcatheter-aortic-valve/875298/",
+        "publishedAt": "2026-11-20T15:00:00+00:00",
+        "subtopics": [
+          "Cardiovascular"
+        ],
+        "sources": [
+          {
+            "name": "MedTech Dive",
+            "url": "https://www.medtechdive.com/news/abbott-starts-trial-of-encantor-transcatheter-aortic-valve/875298/",
+            "publishedAt": "2026-11-20T15:00:00+00:00",
+            "tier": 5
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.47,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "evidence": "trade_press",
         "matridermRelevant": false
       },
       {
@@ -2126,7 +2173,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.231,
+        "score": 4.195,
         "firstSeen": "2026-11-13T15:01:51.966532+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2157,7 +2204,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.377,
+        "score": 3.288,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2187,7 +2234,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.264,
+        "score": 3.137,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2217,7 +2264,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.135,
+        "score": 3.065,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2247,7 +2294,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.271,
+        "score": 2.199,
         "firstSeen": "2026-11-18T23:51:05.895256+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2279,9 +2326,68 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 5.742,
+        "isNew": false,
+        "score": 5.379,
         "firstSeen": "2026-11-23T18:55:07.521441+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "ef3910f6a7af",
+        "category": "growth",
+        "lang": "en",
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+        "publishedAt": "2026-11-23T23:40:49+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+            "publishedAt": "2026-11-23T23:40:49+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.324,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "b7fc35d5ccf0",
+        "category": "growth",
+        "lang": "en",
+        "title": "Ladybird's first alpha release",
+        "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+        "publishedAt": "2026-11-23T21:46:35+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+            "publishedAt": "2026-11-23T21:46:35+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.245,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00",
         "kind": "article"
       },
       {
@@ -2310,7 +2416,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.554,
+        "score": 5.215,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "kind": "article"
       },
@@ -2339,7 +2445,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.161,
+        "score": 4.968,
         "firstSeen": "2026-11-21T23:40:51.389875+00:00",
         "kind": "video",
         "video": {
@@ -2349,6 +2455,58 @@
           "watchUrl": "https://www.youtube.com/watch?v=QM5vh0ZKvZo",
           "channel": "TED"
         }
+      },
+      {
+        "id": "4b4d48f19f03",
+        "category": "growth",
+        "lang": "en",
+        "title": "datasette-charts 0.1a0",
+        "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+        "publishedAt": "2026-11-23T00:37:20+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+            "publishedAt": "2026-11-23T00:37:20+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+            "publishedAt": "2026-11-18T17:09:59+00:00",
+            "tier": 3
+          },
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+            "publishedAt": "2026-11-15T23:58:36+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": true,
+        "latestUpdate": "datasette-charts 0.1a0",
+        "earlier": [
+          {
+            "title": "datasette-arrows 0.1a0",
+            "source": "Simon Willison",
+            "publishedAt": "2026-11-18T17:09:59+00:00"
+          },
+          {
+            "title": "datasette-maplibre 0.1a0",
+            "source": "Simon Willison",
+            "publishedAt": "2026-11-15T23:58:36+00:00"
+          }
+        ],
+        "isNew": false,
+        "score": 4.504,
+        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
+        "kind": "article"
       },
       {
         "id": "8cc270b18470",
@@ -2375,7 +2533,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.625,
+        "score": 4.363,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "kind": "article"
       },
@@ -2405,7 +2563,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.371,
+        "score": 4.239,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2413,6 +2571,42 @@
           "thumbUrl": "https://i1.ytimg.com/vi/tgK-mPtgCCU/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=tgK-mPtgCCU",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "2b5c9a768212",
+        "category": "growth",
+        "lang": "en",
+        "title": "Jacob Coxon vs. Robin Hanson: Should We Slow Down AI?",
+        "summary": "Should governments intervene to substantially slow the progress of frontier AI? In the inaugural YC debate, Jacob Coxon, an ex-Anthropic and OpenAI researcher, faces off against Robin Hanson, an economist at GMU, about AI takeoff and what government…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+        "publishedAt": "2026-11-19T15:00:34+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+            "publishedAt": "2026-11-19T15:00:34+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.895,
+        "firstSeen": "2026-11-19T15:10:34.976582+00:00",
+        "kind": "video",
+        "video": {
+          "id": "lwfewYL7X0o",
+          "thumbUrl": "https://i1.ytimg.com/vi/lwfewYL7X0o/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=lwfewYL7X0o",
           "channel": "Y Combinator"
         }
       },
@@ -2442,45 +2636,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.083,
+        "score": 3.888,
         "firstSeen": "2026-11-22T13:58:38.344529+00:00",
         "kind": "article"
-      },
-      {
-        "id": "2b5c9a768212",
-        "category": "growth",
-        "lang": "en",
-        "title": "Jacob Coxon vs. Robin Hanson: Should We Slow Down AI?",
-        "summary": "Should governments intervene to substantially slow the progress of frontier AI? In the inaugural YC debate, Jacob Coxon, an ex-Anthropic and OpenAI researcher, faces off against Robin Hanson, an economist at GMU, about AI takeoff and what government…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-        "publishedAt": "2026-11-19T15:00:34+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-            "publishedAt": "2026-11-19T15:00:34+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.978,
-        "firstSeen": "2026-11-19T15:10:34.976582+00:00",
-        "kind": "video",
-        "video": {
-          "id": "lwfewYL7X0o",
-          "thumbUrl": "https://i1.ytimg.com/vi/lwfewYL7X0o/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "c6b1daa8a71a",
@@ -2508,7 +2666,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.848,
+        "score": 3.84,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00",
         "kind": "video",
         "video": {
@@ -2545,7 +2703,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.825,
+        "score": 3.817,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2555,36 +2713,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
           "channel": "TED"
         }
-      },
-      {
-        "id": "583b7a1c7413",
-        "category": "growth",
-        "lang": "en",
-        "title": "The most misunderstood graph in AI just got a major update",
-        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-        "publishedAt": "2026-11-20T18:15:15+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Decision-making"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-            "publishedAt": "2026-11-20T18:15:15+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.817,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "article"
       },
       {
         "id": "7ba936e2e34c",
@@ -2611,7 +2739,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.803,
+        "score": 3.794,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "video",
         "video": {
@@ -2648,7 +2776,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.788,
+        "score": 3.78,
         "firstSeen": "2026-11-19T00:55:15.585925+00:00",
         "kind": "video",
         "video": {
@@ -2685,7 +2813,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.738,
+        "score": 3.731,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2695,6 +2823,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=bVh4r2YWK5M",
           "channel": "TED"
         }
+      },
+      {
+        "id": "583b7a1c7413",
+        "category": "growth",
+        "lang": "en",
+        "title": "The most misunderstood graph in AI just got a major update",
+        "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "publishedAt": "2026-11-20T18:15:15+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Decision-making"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+            "publishedAt": "2026-11-20T18:15:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.692,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
+        "kind": "article"
       },
       {
         "id": "7d8093d0f61f",
@@ -2721,7 +2879,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.687,
+        "score": 3.68,
         "firstSeen": "2026-11-14T12:54:56.468812+00:00",
         "kind": "video",
         "video": {
@@ -2757,7 +2915,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.679,
+        "score": 3.673,
         "firstSeen": "2026-11-13T23:11:54.338964+00:00",
         "kind": "video",
         "video": {
@@ -2793,7 +2951,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.661,
+        "score": 3.654,
         "firstSeen": "2026-11-12T23:09:39.024597+00:00",
         "kind": "video",
         "video": {
@@ -2830,36 +2988,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.534,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "b8e1839046bc",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Levent Alpöge",
-        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-        "publishedAt": "2026-11-20T16:30:48+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
-            "publishedAt": "2026-11-20T16:30:48+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.491,
+        "score": 3.407,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
@@ -2888,8 +3017,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.46,
+        "score": 3.379,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "b8e1839046bc",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Levent Alpöge",
+        "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+        "publishedAt": "2026-11-20T16:30:48+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+            "publishedAt": "2026-11-20T16:30:48+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.369,
+        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       },
       {
@@ -2917,7 +3075,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.345,
+        "score": 3.339,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -2927,6 +3085,110 @@
           "watchUrl": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "5d7c86fdb19b",
+        "category": "growth",
+        "lang": "en",
+        "title": "How Boom’s Biggest Crisis Became Its Biggest Opportunity",
+        "summary": "In this Social Radars episode we talk with Blake Scholl about one of the cleverest business model transformations in the history of startups: Boom's move into building gas turbines. When Rolls Royce pulled out as Boom's engine supplier, it seemed to many…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+        "publishedAt": "2026-11-06T16:00:09+00:00",
+        "subtopics": [
+          "Entrepreneurship",
+          "Business case studies"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+            "publishedAt": "2026-11-06T16:00:09+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.254,
+        "firstSeen": "2026-11-06T22:40:05.735370+00:00",
+        "kind": "video",
+        "video": {
+          "id": "NYGf--dBeHA",
+          "thumbUrl": "https://i3.ytimg.com/vi/NYGf--dBeHA/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "5103e8eed7f5",
+        "category": "growth",
+        "lang": "en",
+        "title": "10 Habits PhDs Must Unlearn To Build a Startup | Startup School",
+        "summary": "Google, Anthropic, and Databricks were all started by founders with PhDs. But they’re the exceptions.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
+        "publishedAt": "2026-11-04T15:00:23+00:00",
+        "subtopics": [
+          "Entrepreneurship",
+          "Relationships",
+          "Behaviour change"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
+            "publishedAt": "2026-11-04T15:00:23+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.223,
+        "firstSeen": "2026-11-05T13:55:33.610822+00:00",
+        "kind": "video",
+        "video": {
+          "id": "u-8KpXcPYCw",
+          "thumbUrl": "https://i2.ytimg.com/vi/u-8KpXcPYCw/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
+          "channel": "Y Combinator"
+        }
+      },
+      {
+        "id": "b832d435844d",
+        "category": "growth",
+        "lang": "en",
+        "title": "The AI Hype Index: AI is everywhere",
+        "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+        "publishedAt": "2026-11-18T14:42:44+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+            "publishedAt": "2026-11-18T14:42:44+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.214,
+        "firstSeen": "2026-11-18T16:06:37.157844+00:00",
+        "kind": "article"
       },
       {
         "id": "9f0b516152c1",
@@ -2967,12 +3229,6 @@
             "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
             "publishedAt": "2026-11-12T22:55:19+00:00",
             "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/11/llm/",
-            "publishedAt": "2026-11-11T17:19:52+00:00",
-            "tier": 3
           }
         ],
         "developing": true,
@@ -2992,15 +3248,10 @@
             "title": "llm-gemini 0.37",
             "source": "Simon Willison",
             "publishedAt": "2026-11-12T22:55:19+00:00"
-          },
-          {
-            "title": "llm 0.37.2",
-            "source": "Simon Willison",
-            "publishedAt": "2026-11-11T17:19:52+00:00"
           }
         ],
         "isNew": false,
-        "score": 3.311,
+        "score": 3.211,
         "firstSeen": "2026-11-15T13:22:54.947958+00:00",
         "kind": "article"
       },
@@ -3029,37 +3280,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.309,
+        "score": 3.209,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "b832d435844d",
-        "category": "growth",
-        "lang": "en",
-        "title": "The AI Hype Index: AI is everywhere",
-        "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-        "publishedAt": "2026-11-18T14:42:44+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-            "publishedAt": "2026-11-18T14:42:44+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.273,
-        "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
       {
@@ -3088,29 +3310,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.262,
+        "score": 3.205,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
       {
-        "id": "5d7c86fdb19b",
+        "id": "b2b96149e382",
         "category": "growth",
         "lang": "en",
-        "title": "How Boom’s Biggest Crisis Became Its Biggest Opportunity",
-        "summary": "In this Social Radars episode we talk with Blake Scholl about one of the cleverest business model transformations in the history of startups: Boom's move into building gas turbines. When Rolls Royce pulled out as Boom's engine supplier, it seemed to many…",
+        "title": "Engineers Make Great Founders",
+        "summary": "A lot of what makes a great engineer also makes a great founder. Before starting Layers and BootLoop, Shivani Patel and Chris Markus worked at SpaceX, where they learned to take ideas from zero to one, solve hard problems, and own the outcome.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
-        "publishedAt": "2026-11-06T16:00:09+00:00",
+        "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
+        "publishedAt": "2026-11-02T23:54:36+00:00",
         "subtopics": [
-          "Entrepreneurship",
-          "Business case studies"
+          "Entrepreneurship"
         ],
         "sources": [
           {
             "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
-            "publishedAt": "2026-11-06T16:00:09+00:00",
+            "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
+            "publishedAt": "2026-11-02T23:54:36+00:00",
             "tier": 3
           }
         ],
@@ -3118,14 +3339,14 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.259,
-        "firstSeen": "2026-11-06T22:40:05.735370+00:00",
+        "score": 3.2,
+        "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
-          "id": "NYGf--dBeHA",
-          "thumbUrl": "https://i3.ytimg.com/vi/NYGf--dBeHA/hqdefault.jpg",
+          "id": "lqdc1MeyIfs",
+          "thumbUrl": "https://i1.ytimg.com/vi/lqdc1MeyIfs/hqdefault.jpg",
           "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+          "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
           "channel": "Y Combinator"
         }
       },
@@ -3155,83 +3376,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.239,
+        "score": 3.148,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "article"
-      },
-      {
-        "id": "5103e8eed7f5",
-        "category": "growth",
-        "lang": "en",
-        "title": "10 Habits PhDs Must Unlearn To Build a Startup | Startup School",
-        "summary": "Google, Anthropic, and Databricks were all started by founders with PhDs. But they’re the exceptions.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
-        "publishedAt": "2026-11-04T15:00:23+00:00",
-        "subtopics": [
-          "Entrepreneurship",
-          "Relationships",
-          "Behaviour change"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
-            "publishedAt": "2026-11-04T15:00:23+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.229,
-        "firstSeen": "2026-11-05T13:55:33.610822+00:00",
-        "kind": "video",
-        "video": {
-          "id": "u-8KpXcPYCw",
-          "thumbUrl": "https://i2.ytimg.com/vi/u-8KpXcPYCw/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
-          "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "b2b96149e382",
-        "category": "growth",
-        "lang": "en",
-        "title": "Engineers Make Great Founders",
-        "summary": "A lot of what makes a great engineer also makes a great founder. Before starting Layers and BootLoop, Shivani Patel and Chris Markus worked at SpaceX, where they learned to take ideas from zero to one, solve hard problems, and own the outcome.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
-        "publishedAt": "2026-11-02T23:54:36+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
-            "publishedAt": "2026-11-02T23:54:36+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.205,
-        "firstSeen": "2026-11-03T13:33:04.792558+00:00",
-        "kind": "video",
-        "video": {
-          "id": "lqdc1MeyIfs",
-          "thumbUrl": "https://i1.ytimg.com/vi/lqdc1MeyIfs/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "2ccc08f42a13",
@@ -3259,43 +3406,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.092,
+        "score": 3.083,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4b4d48f19f03",
-        "category": "growth",
-        "lang": "en",
-        "title": "datasette-arrows 0.1a0",
-        "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-        "publishedAt": "2026-11-18T17:09:59+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
-            "publishedAt": "2026-11-18T17:09:59+00:00",
-            "tier": 3
-          },
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
-            "publishedAt": "2026-11-15T23:58:36+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.99,
-        "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "kind": "article"
       },
       {
@@ -3323,7 +3435,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.981,
+        "score": 2.922,
         "firstSeen": "2026-11-18T16:06:37.157844+00:00",
         "kind": "article"
       },
@@ -3352,7 +3464,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.973,
+        "score": 2.915,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "kind": "article"
       },
@@ -3382,68 +3494,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.873,
-        "firstSeen": "2026-11-18T00:27:55.349481+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5cbc55e1b429",
-        "category": "growth",
-        "lang": "en",
-        "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-        "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol .",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-        "publishedAt": "2026-11-17T22:38:52+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Productivity & systems",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-            "publishedAt": "2026-11-17T22:38:52+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.872,
-        "firstSeen": "2026-11-18T00:27:55.349481+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "5b158888670a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-        "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-        "publishedAt": "2026-11-17T16:48:33+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-            "publishedAt": "2026-11-17T16:48:33+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 2.841,
+        "score": 2.827,
         "firstSeen": "2026-11-18T00:27:55.349481+00:00",
         "kind": "article"
       }
@@ -3483,7 +3534,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 33,
+      "items": 35,
       "error": null
     },
     {
@@ -3626,9 +3677,9 @@
     }
   ],
   "filteredOut": {
-    "football": 59,
-    "news": 78,
+    "football": 58,
+    "news": 79,
     "medical": 10,
-    "growth": 40
+    "growth": 38
   }
 }
