@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:44:48.092040+00:00",
+  "generatedAt": "2026-11-26T01:29:33.997780+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -9,10 +9,99 @@
   "tabs": {
     "football": [
       {
+        "id": "f7504f01eddb",
+        "category": "football",
+        "lang": "en",
+        "title": "Champions League: Lille comeback adds to Bayern woes, Gordon leads Barcelona rout",
+        "summary": "Lille 2-1 Bayern Munich, Sabah 1-4 Barcelona Malen penalty earns Roma 2-2 draw at PSG Bayern Munich endured their first defeat of the season on Wednesday, losing 2-1 at Lille in the Champions League as a tough week for the German giants worsened. Dayot…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+        "publishedAt": "2026-11-25T22:38:19+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+            "publishedAt": "2026-11-25T22:38:19+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 15.717,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
+        "id": "e1098a4af2c1",
+        "category": "football",
+        "lang": "en",
+        "title": "Gordon scores twice in Barca CL win as Bayern lose at Lille",
+        "summary": "",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+        "publishedAt": "2026-11-25T22:50:00+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+            "publishedAt": "2026-11-25T22:50:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 13.735,
+        "firstSeen": "2026-10-10T21:05:58.317689+00:00"
+      },
+      {
+        "id": "5d98f97dc196",
+        "category": "football",
+        "lang": "en",
+        "title": "Gordon stars in comfortable Barca win over Sabah",
+        "summary": "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-25T22:07:02+00:00",
+        "subtopics": [
+          "Barcelona",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-25T22:07:02+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 13.668,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
         "id": "ea6a7ed72d88",
         "category": "football",
         "lang": "en",
-        "title": "Guardiola says next coaching role will be with a national team amid USA links",
+        "title": "Pep Guardiola says next coaching role will be with a national team amid USA links",
         "summary": "Coach turned down Italy offer, needing ‘time for myself’ Pochettino says he’d tell Guardiola to take USMNT job Pep Guardiola has said he doesn’t know when he’ll return to football but that his next coaching role will be with a national team. In an interview…",
         "needsSummary": true,
         "readMore": null,
@@ -34,8 +123,101 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 12.146,
+        "score": 11.522,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
+      },
+      {
+        "id": "4fbadde3061d",
+        "category": "football",
+        "lang": "en",
+        "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
+        "summary": "Liverpool, from big money individuals to the collective, are building formidable momentum. On a bitterly cold night in Belgium, Andoni Iraola’s team delivered an accomplished away display to bring Club Brugge’s impressive run to a halt and step closer to…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+        "publishedAt": "2026-11-25T22:04:10+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+            "publishedAt": "2026-11-25T22:04:10+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/club-brugge-vs-liverpool/report/577679",
+            "publishedAt": "2026-11-25T21:50:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 10.464,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
+        "id": "b0a5aeb2c22f",
+        "category": "football",
+        "lang": "en",
+        "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
+        "summary": "Turkish side Fenerbahce defeat Shakhtar Donetsk in a close affair at Stamford Bridge to give their hopes of Champions League qualification a huge boost.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-25T23:16:18+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-25T23:16:18+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 9.777,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
+        "id": "c73df78b89fd",
+        "category": "football",
+        "lang": "en",
+        "title": "Martinez secures Inter win against Stuttgart",
+        "summary": "Lautaro Martinez comes off the bench to score as Inter Milan beat Stuttgart and boost their chances of reaching the Champions League knockout stages.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-25T23:02:15+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-25T23:02:15+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 9.755,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
       },
       {
         "id": "473e99ac3bf2",
@@ -63,40 +245,187 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 9.424,
+        "isNew": false,
+        "score": 8.735,
         "firstSeen": "2026-11-25T17:44:48.092040+00:00",
         "transfer": "RUMOUR"
       },
       {
-        "id": "4031d50d31fe",
+        "id": "1045f1426c54",
         "category": "football",
         "lang": "en",
-        "title": "‘I’m loving it at Brugge’: Freddie Potts on going from West Ham’s bench to Champions League",
-        "summary": "Midfielder is preparing to face Liverpool after leaving the club he loves and overcoming a tough start in Belgium In April Freddie Potts was absorbing the disappointment of being substituted at half-time during West Ham’s FA Cup quarter-final defeat by…",
+        "title": "Divots, howlers and bad decisions - dissecting Man Utd's draw in Lisbon",
+        "summary": "BBC Sport breaks down the chaos amid Manchester United's rollercoaster Champions League draw against Sporting in Lisbon.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/24/freddie-potts-brugge-champions-league-liverpool-west-ham",
-        "publishedAt": "2026-11-24T13:00:47+00:00",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-26T00:22:28+00:00",
         "subtopics": [
           "Champions League",
-          "Transfers"
+          "Results"
         ],
         "sources": [
           {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/24/freddie-potts-brugge-champions-league-liverpool-west-ham",
-            "publishedAt": "2026-11-24T13:00:47+00:00",
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cvrlg074ld74o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-26T00:22:28+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.606,
-        "firstSeen": "2026-11-24T16:54:51.322543+00:00",
-        "transfer": "RUMOUR"
+        "isNew": true,
+        "score": 7.886,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
+        "id": "79250b06e322",
+        "category": "football",
+        "lang": "en",
+        "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+        "summary": "Bayern Munich suffer their first defeat of the Champions League campaign as Lille find the net twice in three minutes in the second half, including a comical Aleksander Pavlovic own goal, to inflict a huge upset.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-25T22:24:57+00:00",
+        "subtopics": [
+          "Champions League",
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-25T22:24:57+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.696,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
+        "id": "acb83063332c",
+        "category": "football",
+        "lang": "en",
+        "title": "Isak scores twice as clinical Liverpool beat Brugge",
+        "summary": "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last Champions League match.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-25T22:12:19+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-25T22:12:19+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.676,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
+        "id": "7db2afbce7b9",
+        "category": "football",
+        "lang": "en",
+        "title": "Borussia Dortmund fight back to draw with Arsenal",
+        "summary": "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-25T22:05:57+00:00",
+        "subtopics": [
+          "Champions League",
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-25T22:05:57+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.667,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
+        "id": "958f423f3492",
+        "category": "football",
+        "lang": "en",
+        "title": "Real Madrid put in five-star second half to win against PSV",
+        "summary": "Jude Bellingham comes off the bench to score a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-25T22:05:45+00:00",
+        "subtopics": [
+          "La Liga",
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-25T22:05:45+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.666,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
+        "id": "635f90fdd926",
+        "category": "football",
+        "lang": "en",
+        "title": "Poch denied first Man Utd win by Lammens howler at Sporting",
+        "summary": "Mauricio Pochettino was denied a first victory as Manchester United head coach by a goalkeeping howler from Senne Lammens in an incident-packed 2-2 draw with Sporting in the Champions League as Youri Tielemans was sent off late on.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/sporting-lisbon-vs-manchester-united/report/577686",
+        "publishedAt": "2026-11-25T22:00:00+00:00",
+        "subtopics": [
+          "Champions League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/sporting-lisbon-vs-manchester-united/report/577686",
+            "publishedAt": "2026-11-25T22:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.657,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
       },
       {
         "id": "2a716fe814a4",
@@ -124,8 +453,44 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.993,
+        "score": 6.405,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
+      },
+      {
+        "id": "0480ca8a248d",
+        "category": "football",
+        "lang": "en",
+        "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
+        "summary": "‘Players are here for four years and can’t speak English’ Glasner has held talks with owner over January moves Nottingham Forest’s manager, Oliver Glasner, believes standards at the club were not good enough prior to his arrival as he questioned why some of…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
+        "publishedAt": "2026-11-25T21:17:34+00:00",
+        "subtopics": [
+          "Premier League",
+          "Europa League",
+          "Tables"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
+            "publishedAt": "2026-11-25T21:17:34+00:00",
+            "tier": 2
+          },
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-25T18:32:55+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.393,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
       },
       {
         "id": "74d2c7e55d72",
@@ -153,7 +518,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.581,
+        "score": 6.208,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00"
       },
       {
@@ -182,67 +547,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.557,
-        "firstSeen": "2026-11-25T01:52:24.422601+00:00"
-      },
-      {
-        "id": "68da07bba947",
-        "category": "football",
-        "lang": "en",
-        "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
-        "summary": "Arsenal’s sky-high standards are slipping. For the second time in four days, Mikel Arteta’s side found themselves a goal up at half-time and apparently coasting toward victory, only for their opponents to rouse themselves and earn a deserved draw.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
-        "publishedAt": "2026-11-24T22:01:50+00:00",
-        "subtopics": [
-          "La Liga",
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
-            "publishedAt": "2026-11-24T22:01:50+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.513,
-        "firstSeen": "2026-11-25T01:52:24.422601+00:00"
-      },
-      {
-        "id": "12391df58e38",
-        "category": "football",
-        "lang": "en",
-        "title": "Gul takes pain for buoyant Galatasaray to condemn Aston Villa to Champions League loss",
-        "summary": "This was Aston Villa’s third trip to Istanbul in the calendar year but, this time, they departed with different emotions. Unlike on the banks of the Bosphorus at Besiktas Park in May, the scene of their unforgettable Europa League triumph , or at Fenerbahce…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
-        "publishedAt": "2026-11-24T20:03:50+00:00",
-        "subtopics": [
-          "Champions League",
-          "Europa League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/24/galatasaray-aston-villa-champions-league-match-report",
-            "publishedAt": "2026-11-24T20:03:50+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.413,
+        "score": 6.189,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00"
       },
       {
@@ -271,7 +576,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.194,
+        "score": 5.559,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -300,37 +605,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.568,
+        "score": 5.434,
         "firstSeen": "2026-11-23T18:55:07.521441+00:00"
-      },
-      {
-        "id": "be7281b9b824",
-        "category": "football",
-        "lang": "en",
-        "title": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
-        "summary": "Mauricio Pochettino's reign as Manchester United head coach begins in desperate fashion as his team are thrashed by rivals Liverpool to remain in the Premier League relegation zone.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-22T19:59:35+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/c933g77knz00o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T19:59:35+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.266,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
         "id": "23021af13761",
@@ -358,7 +634,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.105,
+        "score": 4.727,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00"
       },
       {
@@ -387,7 +663,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.004,
+        "score": 4.649,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00"
       },
       {
@@ -416,28 +692,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.169,
+        "score": 4.011,
         "firstSeen": "2026-11-24T03:45:02.125593+00:00"
       },
       {
-        "id": "b5afb116c987",
+        "id": "81ec9cb4e88e",
         "category": "football",
         "lang": "en",
-        "title": "McBurnie stoppage-time double earns Hull win over 10-man Brighton",
-        "summary": "Oli McBurnie's stoppage-time double earns victory for Hull City against second-placed Brighton in the Premier League.",
+        "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
+        "summary": "German giants’ treatment of midfielder has raised questions about how far the reputation of a family club still holds It was, on paper, a perfect Friday evening for Bayern to flex their muscles once again, in the chill of their intimidating Allianz Arena…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-22T19:59:38+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
+        "publishedAt": "2026-11-23T12:08:28+00:00",
         "subtopics": [
-          "Premier League",
+          "Bundesliga",
           "Results"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/ck62pzzezqz2o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-22T19:59:38+00:00",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga",
+            "publishedAt": "2026-11-23T12:08:28+00:00",
             "tier": 2
           }
         ],
@@ -445,11 +721,145 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.766,
-        "firstSeen": "2026-11-22T23:10:06.272390+00:00"
+        "score": 3.856,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
+      },
+      {
+        "id": "c83ff608d3c8",
+        "category": "football",
+        "lang": "en",
+        "title": "Esposito emulates Vieri with Inter hat-trick but De Ketelaere haunts him again",
+        "summary": "Italy’s new cover star enjoyed a ‘beautiful’ treble but could not celebrate it after his side threw away two-goal leads three times to draw 4-4 with Atalanta This ought to have been a magic moment for Pio Esposito. He had just scored his first Serie A…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
+        "publishedAt": "2026-11-23T13:18:20+00:00",
+        "subtopics": [
+          "Serie A",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/23/pio-esposito-charles-de-ketelaere-inter-hat-trick-atalanta-serie-a",
+            "publishedAt": "2026-11-23T13:18:20+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 2.871,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       }
     ],
     "news": [
+      {
+        "id": "b89430f5733c",
+        "category": "news",
+        "lang": "de",
+        "title": "Wirtschaft vor acht vom 25.11.2026",
+        "summary": "Wirtschaft vor acht vom 25.11.2026",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/video/video-1689964.html",
+        "publishedAt": "2026-11-25T19:49:52+00:00",
+        "subtopics": [
+          "Germany",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/video/video-1689964.html",
+            "publishedAt": "2026-11-25T19:49:52+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1689580.html",
+            "publishedAt": "2026-11-25T09:43:37+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 7.758,
+        "firstSeen": "2026-11-25T16:44:02.264845+00:00"
+      },
+      {
+        "id": "fd36684d2584",
+        "category": "news",
+        "lang": "de",
+        "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
+        "summary": "Mehr Schutz vor Gewalt und Ausbeutung - Zwangsprostitution und Menschenhandel wirksamer bekämpfen: Die schwarz-rote Koalition will Prostitution neu regeln. Eine Expertenkommission empfiehlt nun strengere Regeln.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
+        "publishedAt": "2026-11-25T19:14:28+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
+            "publishedAt": "2026-11-25T19:14:28+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
+            "publishedAt": "2026-11-25T19:14:28+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.733,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
+      {
+        "id": "4352d7fc2aad",
+        "category": "news",
+        "lang": "de",
+        "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
+        "summary": "Im Bundestag wurde über den Haushalt 2027 debattiert. Darin auch enthalten: rund zwölf Milliarden Euro Ukraine-Hilfe.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
+        "publishedAt": "2026-11-25T18:10:19+00:00",
+        "subtopics": [
+          "Germany",
+          "Government"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
+            "publishedAt": "2026-11-25T18:10:19+00:00",
+            "tier": 1
+          },
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
+            "publishedAt": "2026-11-25T18:10:19+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.69,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
+      },
       {
         "id": "aeb18ebf8efb",
         "category": "news",
@@ -477,7 +887,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.98,
+        "score": 7.655,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -512,7 +922,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.931,
+        "score": 7.612,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -542,7 +952,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.893,
+        "score": 7.578,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -571,7 +981,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.838,
+        "score": 7.529,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -600,7 +1010,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.807,
+        "score": 7.501,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -629,7 +1039,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.785,
+        "score": 7.482,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -658,7 +1068,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.746,
+        "score": 7.447,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -693,7 +1103,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.711,
+        "score": 7.415,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -728,42 +1138,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.703,
-        "firstSeen": "2026-11-25T16:44:02.264845+00:00"
-      },
-      {
-        "id": "b89430f5733c",
-        "category": "news",
-        "lang": "de",
-        "title": "Update Wirtschaft vom 25.11.2026",
-        "summary": "Wirtschaft vor acht vom 24.11.2026",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1689580.html",
-        "publishedAt": "2026-11-25T09:43:37+00:00",
-        "subtopics": [
-          "Germany",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/multimedia/sendung/tagesschau24/boerselive/video-1689580.html",
-            "publishedAt": "2026-11-25T09:43:37+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/video/video-1689280.html",
-            "publishedAt": "2026-11-24T19:04:41+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.663,
+        "score": 7.409,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -792,7 +1167,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.627,
+        "score": 7.341,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -822,8 +1197,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.612,
+        "score": 7.327,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
+      },
+      {
+        "id": "981ca72d7944",
+        "category": "news",
+        "lang": "de",
+        "title": "Bürgerschaft: Für Haushalt 2027 fehlt eine Milliarde Euro",
+        "summary": "Laut SPD sei ein Sparzwang alternativlos, die CDU bemängelt die holzschnittartigen Einsparungen im Bildungsbereich.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/buergerschaft-fuer-haushalt-2027-fehlt-eine-milliarde-euro,hamj-16868.html",
+        "publishedAt": "2026-11-25T18:48:05+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Economy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/buergerschaft-fuer-haushalt-2027-fehlt-eine-milliarde-euro,hamj-16868.html",
+            "publishedAt": "2026-11-25T18:48:05+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.316,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
       },
       {
         "id": "d0cc09bed739",
@@ -857,7 +1261,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.54,
+        "score": 7.263,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -887,7 +1291,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.526,
+        "score": 7.251,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -916,70 +1320,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.499,
-        "firstSeen": "2026-11-25T16:44:02.264845+00:00"
-      },
-      {
-        "id": "16b67db7d4a8",
-        "category": "news",
-        "lang": "de",
-        "title": "Gewalt gegen Frauen: Hilfsangebote in Hamburg",
-        "summary": "Etwa 198.000 Frauen und Mädchen sowie 82.000 Männern und Jungen wurde im vergangenen Jahr häusliche Gewalt angetan - ein weiterer Anstieg, wie die Lagebilder des BKA zeigen. Besonders auffällig: Immer mehr Frauen werden zudem Opfer von digitaler Gewalt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/info/gewalt-gegen-frauen-hilfsangebote-in-hamburg,ndrinfo-20004.html",
-        "publishedAt": "2026-11-25T15:18:20+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/info/gewalt-gegen-frauen-hilfsangebote-in-hamburg,ndrinfo-20004.html",
-            "publishedAt": "2026-11-25T15:18:20+00:00",
-            "tier": 1
-          },
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/orange-day-aktionen-in-hamburg-zum-tag-gegen-gewalt-an-frauen,orangeday-172.html",
-            "publishedAt": "2026-11-25T14:30:05+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html",
-            "publishedAt": "2026-11-25T04:00:11+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-frauen-lagebericht-100.html",
-            "publishedAt": "2026-11-24T13:31:58+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": true,
-        "latestUpdate": "Gewalt gegen Frauen: Hilfsangebote in Hamburg",
-        "earlier": [
-          {
-            "title": "\"Orange Day\": Aktionen in Hamburg zum Tag gegen Gewalt an Frauen",
-            "source": "NDR",
-            "publishedAt": "2026-11-25T14:30:05+00:00"
-          },
-          {
-            "title": "Keine schnelle Lösung bei Gewalt gegen Frauen",
-            "source": "Tagesschau",
-            "publishedAt": "2026-11-25T04:00:11+00:00"
-          },
-          {
-            "title": "\"Zutiefst schockierend\" - Weiterer Anstieg bei Fällen von Gewalt gegen Frauen",
-            "source": "Tagesschau",
-            "publishedAt": "2026-11-24T13:31:58+00:00"
-          }
-        ],
-        "isNew": false,
-        "score": 7.293,
+        "score": 7.227,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1008,7 +1349,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.157,
+        "score": 6.879,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1037,7 +1378,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.141,
+        "score": 6.865,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1066,7 +1407,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.087,
+        "score": 6.86,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1101,7 +1442,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.977,
+        "score": 6.761,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -1130,7 +1471,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.884,
+        "score": 6.679,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -1165,7 +1506,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.873,
+        "score": 6.669,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -1195,7 +1536,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.813,
+        "score": 6.616,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -1225,7 +1566,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.808,
+        "score": 6.611,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       },
       {
@@ -1260,66 +1601,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.783,
+        "score": 6.589,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00"
-      },
-      {
-        "id": "51348c2e1bac",
-        "category": "news",
-        "lang": "de",
-        "title": "Ohnsorg-Theater: Annie Heger feiert plattdeutsche Weihnachten",
-        "summary": "Mit ihrem norddeutschen Charme hat sie das Ohnsorg-Publikum sofort um den Finger gewickelt. Überraschungsgast war Yared Dibaba.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ohnsorg-theater-annie-heger-feiert-plattdeutsche-weihnachten,hamj-16842.html",
-        "publishedAt": "2026-11-24T19:41:14+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/ohnsorg-theater-annie-heger-feiert-plattdeutsche-weihnachten,hamj-16842.html",
-            "publishedAt": "2026-11-24T19:41:14+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.761,
-        "firstSeen": "2026-11-25T01:52:24.422601+00:00"
-      },
-      {
-        "id": "18ebbcf5a7a1",
-        "category": "news",
-        "lang": "de",
-        "title": "Großes Interesse an der Kunstleihe in Harburg",
-        "summary": "Mehr als 400 Werke hat die Kunstleihe im Repertoire. Wer sich ein Bild ausleihen möchte, zahlt dafür sechs Euro im Vierteljahr.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/grosses-interesse-an-der-kunstleihe-in-harburg,hamj-16840.html",
-        "publishedAt": "2026-11-24T19:31:32+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/fernsehen/sendungen/hamburg_journal/grosses-interesse-an-der-kunstleihe-in-harburg,hamj-16840.html",
-            "publishedAt": "2026-11-24T19:31:32+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.755,
-        "firstSeen": "2026-11-25T01:52:24.422601+00:00"
       },
       {
         "id": "5e0f4402c1f6",
@@ -1353,36 +1636,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.735,
-        "firstSeen": "2026-11-25T16:44:02.264845+00:00"
-      },
-      {
-        "id": "5f7da75e9549",
-        "category": "news",
-        "lang": "de",
-        "title": "Wohnungswirtschaft: Überlastete Gerichte blockieren Wohnraum in Hamburg",
-        "summary": "Etwa nach dem Tod eines Mieters dauert es im Durchschnitt neun Monate bis Wohnungen wieder auf den Markt kommen. Aktuell stehen 750 Wohnungen leer.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/gerichtsueberlastung-blockiert-wohnraum-in-hamburg,nachlassgerichte-100.html",
-        "publishedAt": "2026-11-25T16:24:37+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Law & Policy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/gerichtsueberlastung-blockiert-wohnraum-in-hamburg,nachlassgerichte-100.html",
-            "publishedAt": "2026-11-25T16:24:37+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.541,
+        "score": 6.437,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1417,7 +1671,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.469,
+        "score": 6.309,
         "firstSeen": "2026-11-23T18:55:07.521441+00:00"
       },
       {
@@ -1429,7 +1683,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.ndr.de/nachrichten/hamburg/elbchaussee-wird-wieder-fuer-verkehr-geoeffnet,elbchaussee-112.html",
-        "publishedAt": "2026-11-25T14:04:15+00:00",
+        "publishedAt": "2026-11-25T18:22:02+00:00",
         "subtopics": [
           "Hamburg"
         ],
@@ -1437,7 +1691,7 @@
           {
             "name": "NDR",
             "url": "https://www.ndr.de/nachrichten/hamburg/elbchaussee-wird-wieder-fuer-verkehr-geoeffnet,elbchaussee-112.html",
-            "publishedAt": "2026-11-25T14:04:15+00:00",
+            "publishedAt": "2026-11-25T18:22:02+00:00",
             "tier": 1
           }
         ],
@@ -1445,7 +1699,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.44,
+        "score": 6.298,
+        "firstSeen": "2026-11-25T16:44:02.264845+00:00"
+      },
+      {
+        "id": "5f7da75e9549",
+        "category": "news",
+        "lang": "de",
+        "title": "Wohnungswirtschaft: Überlastete Gerichte blockieren Wohnraum in Hamburg",
+        "summary": "Etwa nach dem Tod eines Mieters dauert es im Durchschnitt neun Monate bis Wohnungen wieder auf den Markt kommen. Aktuell stehen 750 Wohnungen leer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/gerichtsueberlastung-blockiert-wohnraum-in-hamburg,nachlassgerichte-100.html",
+        "publishedAt": "2026-11-25T16:24:37+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/gerichtsueberlastung-blockiert-wohnraum-in-hamburg,nachlassgerichte-100.html",
+            "publishedAt": "2026-11-25T16:24:37+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.221,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1474,28 +1757,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.345,
+        "score": 6.198,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
-        "id": "61f6b277c535",
+        "id": "7d592606edb2",
         "category": "news",
         "lang": "de",
-        "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
-        "summary": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer.",
+        "title": "Keine schnelle Lösung bei Gewalt gegen Frauen",
+        "summary": "Der heutige Orange Day steht für eine Zukunft ohne Gewalt gegen Frauen. Doch die Realität sieht anders aus.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-        "publishedAt": "2026-11-25T17:37:52+00:00",
+        "url": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html",
+        "publishedAt": "2026-11-25T04:00:11+00:00",
         "subtopics": [
           "Germany",
-          "Healthcare"
+          "Law & Policy"
         ],
         "sources": [
           {
             "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
-            "publishedAt": "2026-11-25T17:37:52+00:00",
+            "url": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html",
+            "publishedAt": "2026-11-25T04:00:11+00:00",
             "tier": 1
           }
         ],
@@ -1503,8 +1786,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": true,
-        "score": 6.295,
-        "firstSeen": "2026-11-25T17:44:48.092040+00:00"
+        "score": 6.179,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
       },
       {
         "id": "442ae3b71f1a",
@@ -1532,27 +1815,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.224,
+        "score": 6.091,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00"
       },
       {
-        "id": "9b7424a652f3",
+        "id": "61f6b277c535",
         "category": "news",
         "lang": "de",
-        "title": "S-Bahn kollidiert mit Reh bei Fischbek",
-        "summary": "Der Unfall führte zu einer rund einstündigen Sperrung auf der Strecke zwischen Fischbek und Neu Wulmstorf.",
+        "title": "TK-Gesundheitsreport Weiblich, mittelalt, leistungsstark - öfter krank?",
+        "summary": "Im neuen Gesundheitsreport blickt die Techniker Krankenkasse auf die Situation von Frauen zwischen 35 und 55. Sie sind eine wichtige Gruppe von Arbeitnehmerinnen - und häufiger krank als gleichaltrige Männer.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-kollidiert-mit-reh-bei-neugraben,kurzehh-4996.html",
-        "publishedAt": "2026-11-25T06:18:30+00:00",
+        "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
+        "publishedAt": "2026-11-25T17:37:52+00:00",
         "subtopics": [
-          "Hamburg"
+          "Germany",
+          "Healthcare"
         ],
         "sources": [
           {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-kollidiert-mit-reh-bei-neugraben,kurzehh-4996.html",
-            "publishedAt": "2026-11-25T06:18:30+00:00",
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/wirtschaft/gesundheit-frauen-wechseljahre-arbeitsplatz-100.html",
+            "publishedAt": "2026-11-25T17:37:52+00:00",
             "tier": 1
           }
         ],
@@ -1560,8 +1844,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.13,
-        "firstSeen": "2026-11-25T16:44:02.264845+00:00"
+        "score": 5.969,
+        "firstSeen": "2026-11-25T17:44:48.092040+00:00"
       }
     ],
     "medical": [
@@ -1592,7 +1876,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.447,
+        "score": 11.344,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1630,7 +1914,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.139,
+        "score": 11.047,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1662,7 +1946,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.139,
+        "score": 11.047,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1699,7 +1983,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.215,
+        "score": 9.158,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1730,7 +2014,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 9.045,
+        "score": 8.994,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1761,7 +2045,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.447,
+        "score": 8.344,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1793,7 +2077,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.215,
+        "score": 7.158,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1824,7 +2108,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.641,
+        "score": 6.605,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1856,7 +2140,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.641,
+        "score": 6.605,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1887,7 +2171,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.458,
+        "score": 6.346,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -1918,7 +2202,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.215,
+        "score": 6.158,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1949,7 +2233,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.76,
+        "score": 5.72,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1981,7 +2265,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.594,
+        "score": 5.549,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2012,7 +2296,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.143,
+        "score": 5.081,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2042,7 +2326,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.135,
+        "score": 5.036,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2072,7 +2356,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.814,
+        "score": 3.716,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2103,7 +2387,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.946,
+        "score": 2.884,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2133,42 +2417,13 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.649,
+        "score": 2.561,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
       }
     ],
     "growth": [
-      {
-        "id": "2a99f168595c",
-        "category": "growth",
-        "lang": "en",
-        "title": "How data centers are driving a US natural-gas boom",
-        "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-        "publishedAt": "2026-11-25T17:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-            "publishedAt": "2026-11-25T17:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": true,
-        "score": 5.767,
-        "firstSeen": "2026-11-25T17:44:48.092040+00:00",
-        "kind": "article"
-      },
       {
         "id": "19ee9ec4a018",
         "category": "growth",
@@ -2195,7 +2450,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.707,
+        "score": 5.478,
         "firstSeen": "2026-11-24T18:33:38.859710+00:00",
         "kind": "video",
         "video": {
@@ -2205,6 +2460,64 @@
           "watchUrl": "https://www.youtube.com/watch?v=L8HdlknRkA4",
           "channel": "TED"
         }
+      },
+      {
+        "id": "2a99f168595c",
+        "category": "growth",
+        "lang": "en",
+        "title": "How data centers are driving a US natural-gas boom",
+        "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+        "publishedAt": "2026-11-25T17:00:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+            "publishedAt": "2026-11-25T17:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.444,
+        "firstSeen": "2026-11-25T17:44:48.092040+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "04a9805dfa55",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Scott Aaronson",
+        "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+        "publishedAt": "2026-11-25T23:26:32+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+            "publishedAt": "2026-11-25T23:26:32+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 5.41,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00",
+        "kind": "article"
       },
       {
         "id": "79a22f2e5650",
@@ -2233,7 +2546,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.602,
+        "score": 5.297,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "kind": "article"
       },
@@ -2262,7 +2575,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.473,
+        "score": 5.182,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "kind": "article"
       },
@@ -2293,7 +2606,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.315,
+        "score": 5.096,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "video",
         "video": {
@@ -2303,6 +2616,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=-ieJwYq4j-o",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "89344730bc5c",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: AI’s gas power boom and a consciousness reality check",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+        "publishedAt": "2026-11-24T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+            "publishedAt": "2026-11-24T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.547,
+        "firstSeen": "2026-11-24T16:54:51.322543+00:00",
+        "kind": "article"
       },
       {
         "id": "6ff348e652c9",
@@ -2331,37 +2673,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.771,
+        "score": 4.524,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "89344730bc5c",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: AI’s gas power boom and a consciousness reality check",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-        "publishedAt": "2026-11-24T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
-            "publishedAt": "2026-11-24T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.761,
-        "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "article"
       },
       {
@@ -2389,7 +2702,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.699,
+        "score": 4.492,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "article"
       },
@@ -2419,7 +2732,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.573,
+        "score": 4.347,
         "firstSeen": "2026-11-24T18:33:38.859710+00:00",
         "kind": "article"
       },
@@ -2448,7 +2761,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.377,
+        "score": 4.293,
         "firstSeen": "2026-11-21T23:40:51.389875+00:00",
         "kind": "video",
         "video": {
@@ -2485,7 +2798,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.265,
+        "score": 4.106,
         "firstSeen": "2026-11-23T18:55:07.521441+00:00",
         "kind": "article"
       },
@@ -2520,8 +2833,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.221,
+        "score": 4.034,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "74ad9bf923b8",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+        "publishedAt": "2026-11-23T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Decision-making"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+            "publishedAt": "2026-11-23T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 4.023,
+        "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "kind": "article"
       },
       {
@@ -2555,38 +2898,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.205,
+        "score": 4.019,
         "firstSeen": "2026-11-16T14:38:43.770719+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "74ad9bf923b8",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-        "publishedAt": "2026-11-23T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Decision-making"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-            "publishedAt": "2026-11-23T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.172,
-        "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "kind": "article"
       },
       {
@@ -2614,7 +2927,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.104,
+        "score": 3.93,
         "firstSeen": "2026-11-24T03:45:02.125593+00:00",
         "kind": "article"
       },
@@ -2644,7 +2957,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.059,
+        "score": 3.89,
         "firstSeen": "2026-11-24T03:45:02.125593+00:00",
         "kind": "article"
       },
@@ -2673,7 +2986,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.88,
+        "score": 3.872,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00",
         "kind": "video",
         "video": {
@@ -2710,7 +3023,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.878,
+        "score": 3.87,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00",
         "kind": "video",
         "video": {
@@ -2718,6 +3031,43 @@
           "thumbUrl": "https://i4.ytimg.com/vi/39-b_QsTfjU/hqdefault.jpg",
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=39-b_QsTfjU",
+          "channel": "TED"
+        }
+      },
+      {
+        "id": "c6b1daa8a71a",
+        "category": "growth",
+        "lang": "en",
+        "title": "Why Great Art Requires Risk | Alex Van Halen, David Lee Roth and Robert Vargas | TED",
+        "summary": "Van Halen drummer and co-founder Alex Van Halen and lead singer David Lee Roth sit down with visual artist Robert Vargas, who paints freehand murals up to twenty stories tall, to reveal the two-step recipe behind great art: do your homework, then break every…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
+        "publishedAt": "2026-11-21T16:00:05+00:00",
+        "subtopics": [
+          "Entrepreneurship",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "TED",
+            "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
+            "publishedAt": "2026-11-21T16:00:05+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.797,
+        "firstSeen": "2026-11-21T22:43:44.186297+00:00",
+        "kind": "video",
+        "video": {
+          "id": "78C3_lu0blQ",
+          "thumbUrl": "https://i4.ytimg.com/vi/78C3_lu0blQ/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=78C3_lu0blQ",
           "channel": "TED"
         }
       },
@@ -2747,7 +3097,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.834,
+        "score": 3.776,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2756,43 +3106,6 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=tgK-mPtgCCU",
           "channel": "Y Combinator"
-        }
-      },
-      {
-        "id": "c6b1daa8a71a",
-        "category": "growth",
-        "lang": "en",
-        "title": "Why Great Art Requires Risk | Alex Van Halen, David Lee Roth and Robert Vargas | TED",
-        "summary": "Van Halen drummer and co-founder Alex Van Halen and lead singer David Lee Roth sit down with visual artist Robert Vargas, who paints freehand murals up to twenty stories tall, to reveal the two-step recipe behind great art: do your homework, then break every…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
-        "publishedAt": "2026-11-21T16:00:05+00:00",
-        "subtopics": [
-          "Entrepreneurship",
-          "Personal finance"
-        ],
-        "sources": [
-          {
-            "name": "TED",
-            "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
-            "publishedAt": "2026-11-21T16:00:05+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.804,
-        "firstSeen": "2026-11-21T22:43:44.186297+00:00",
-        "kind": "video",
-        "video": {
-          "id": "78C3_lu0blQ",
-          "thumbUrl": "https://i4.ytimg.com/vi/78C3_lu0blQ/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=78C3_lu0blQ",
-          "channel": "TED"
         }
       },
       {
@@ -2821,7 +3134,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.782,
+        "score": 3.775,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2857,7 +3170,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.76,
+        "score": 3.754,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "video",
         "video": {
@@ -2894,7 +3207,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.746,
+        "score": 3.74,
         "firstSeen": "2026-11-19T00:55:15.585925+00:00",
         "kind": "video",
         "video": {
@@ -2931,7 +3244,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.7,
+        "score": 3.693,
         "firstSeen": "2026-11-16T16:41:13.634126+00:00",
         "kind": "video",
         "video": {
@@ -2967,7 +3280,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.638,
+        "score": 3.601,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "kind": "video",
         "video": {
@@ -3002,8 +3315,8 @@
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": true,
-        "score": 3.6,
+        "isNew": false,
+        "score": 3.592,
         "firstSeen": "2026-11-25T17:44:48.092040+00:00",
         "kind": "video",
         "video": {
@@ -3039,7 +3352,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.559,
+        "score": 3.443,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "kind": "article"
       },
@@ -3068,7 +3381,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.311,
+        "score": 3.306,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -3105,38 +3418,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.307,
+        "score": 3.252,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "21bd1d482ae2",
-        "category": "growth",
-        "lang": "en",
-        "title": "Muru",
-        "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/21/muru/",
-        "publishedAt": "2026-11-21T23:56:28+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/21/muru/",
-            "publishedAt": "2026-11-21T23:56:28+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.288,
-        "firstSeen": "2026-11-22T13:58:38.344529+00:00",
         "kind": "article"
       },
       {
@@ -3165,7 +3448,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.23,
+        "score": 3.225,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -3175,6 +3458,36 @@
           "watchUrl": "https://www.youtube.com/watch?v=NYGf--dBeHA",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "21bd1d482ae2",
+        "category": "growth",
+        "lang": "en",
+        "title": "Muru",
+        "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/21/muru/",
+        "publishedAt": "2026-11-21T23:56:28+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/21/muru/",
+            "publishedAt": "2026-11-21T23:56:28+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.203,
+        "firstSeen": "2026-11-22T13:58:38.344529+00:00",
+        "kind": "article"
       },
       {
         "id": "5103e8eed7f5",
@@ -3203,7 +3516,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.201,
+        "score": 3.196,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -3239,7 +3552,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.178,
+        "score": 3.174,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -3276,38 +3589,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.045,
+        "score": 3.037,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "81ce5b24dd89",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Ravi Vakil",
-        "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-        "publishedAt": "2026-11-20T19:21:49+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Communication"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
-            "publishedAt": "2026-11-20T19:21:49+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.015,
-        "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "article"
       }
     ]
@@ -3447,9 +3730,9 @@
     },
     {
       "id": "behavioral-scientist",
-      "ok": true,
-      "items": 10,
-      "error": null
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     },
     {
       "id": "onefutureuseful",
@@ -3489,9 +3772,9 @@
     }
   ],
   "filteredOut": {
-    "football": 61,
-    "news": 73,
+    "football": 59,
+    "news": 74,
     "medical": 10,
-    "growth": 35
+    "growth": 34
   }
 }
