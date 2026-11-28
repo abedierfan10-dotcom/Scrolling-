@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:45:08.255386+00:00",
+  "generatedAt": "2026-11-28T14:58:39.492873+00:00",
   "windowsDays": {
     "football": 3,
     "news": 7,
@@ -9,92 +9,63 @@
   "tabs": {
     "football": [
       {
-        "id": "8dae98b972aa",
+        "id": "ef4b25d4322f",
         "category": "football",
         "lang": "en",
-        "title": "Papers: Man Utd in running for Paz, but Champions League key",
-        "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+        "title": "Basque to the future: Andoni Iraola fired up for first Merseyside derby",
+        "summary": "Liverpool head coach sees parallels with Athletic v Sociedad derby as he comes up against his old foe David Moyes “I haven’t lived this derby,” Andoni Iraola acknowledged, and yet he already feels it. A former Athletic Bilbao captain coming up against an…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.skysports.com/football/news/11095/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
-        "publishedAt": "2026-11-27T23:00:00+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/28/andoni-iraola-first-merseyside-derby-liverpool-everton-premier-league",
+        "publishedAt": "2026-11-28T08:00:34+00:00",
         "subtopics": [
-          "Champions League",
-          "Transfers"
-        ],
-        "sources": [
-          {
-            "name": "Sky Sports",
-            "url": "https://www.skysports.com/football/news/11095/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk",
-            "publishedAt": "2026-11-27T23:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.727,
-        "firstSeen": "2026-11-28T01:01:11.902869+00:00",
-        "transfer": "RUMOUR"
-      },
-      {
-        "id": "36576ec7f946",
-        "category": "football",
-        "lang": "en",
-        "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
-        "summary": "Wesley Fofana, as a former Leicester player, might have expected the celebrating Nottingham Forest fans to give him a hard time. But, at the end of a week in which he invited opprobrium by making light of missing a penalty at Liverpool in an unsanctioned…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
-        "publishedAt": "2026-11-27T22:10:35+00:00",
-        "subtopics": [
-          "Premier League",
+          "La Liga",
           "Results"
         ],
         "sources": [
           {
             "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
-            "publishedAt": "2026-11-27T22:10:35+00:00",
+            "url": "https://www.theguardian.com/football/2026/nov/28/andoni-iraola-first-merseyside-derby-liverpool-everton-premier-league",
+            "publishedAt": "2026-11-28T08:00:34+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.65,
-        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
+        "isNew": true,
+        "score": 7.355,
+        "firstSeen": "2026-11-28T14:58:39.492873+00:00"
       },
       {
-        "id": "08e226514e79",
+        "id": "807b67b6cc7b",
         "category": "football",
         "lang": "en",
-        "title": "Head coach Slegers leaves Arsenal 18 months after Champions League win",
-        "summary": "Arsenal part company with head coach Renee Slegers by mutual consent after a disappointing start to the season.",
+        "title": "USWNT seal Women’s World Cup qualification with 8-0 win over El Salvador",
+        "summary": "US goes up 7-0 over El Salvador by half-time Win secures spot at 2027 World Cup and 2028 Olympics The United States’ place at a Women’s World Cup is treated as a foregone conclusion, but Friday’s all-or-nothing qualifier against El Salvador gave some reason…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-27T16:14:34+00:00",
+        "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
+        "publishedAt": "2026-11-28T04:14:42+00:00",
         "subtopics": [
-          "Champions League",
+          "World Cup",
+          "International",
           "Results"
         ],
         "sources": [
           {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/cmy49d5kpw78o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T16:14:34+00:00",
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/27/uswnt-el-salvador-womens-world-cup-qualifier",
+            "publishedAt": "2026-11-28T04:14:42+00:00",
             "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
-        "isNew": false,
-        "score": 7.156,
-        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
+        "isNew": true,
+        "score": 7.067,
+        "firstSeen": "2026-11-28T14:58:39.492873+00:00"
       },
       {
         "id": "473e99ac3bf2",
@@ -123,9 +94,73 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.918,
+        "score": 6.764,
         "firstSeen": "2026-11-25T17:44:48.092040+00:00",
         "transfer": "RUMOUR"
+      },
+      {
+        "id": "36576ec7f946",
+        "category": "football",
+        "lang": "en",
+        "title": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+        "summary": "Wesley Fofana, as a former Leicester player, might have expected the celebrating Nottingham Forest fans to give him a hard time. But, at the end of a week in which he invited opprobrium by making light of missing a penalty at Liverpool in an unsanctioned…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
+        "publishedAt": "2026-11-27T22:10:35+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
+            "publishedAt": "2026-11-27T22:10:35+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.674,
+        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
+      },
+      {
+        "id": "3d18adfda81c",
+        "category": "football",
+        "lang": "en",
+        "title": "Merson: Chelsea must beat Palace, but are the players behind Alonso?",
+        "summary": "Crystal Palace's Premier League visit to Stamford Bridge on Wednesday is one of the biggest matches Chelsea have had for a long time, according to Sky Sports' Paul Merson.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.skysports.com/football/news/11095/13617492/chelsea-must-beat-crystal-palace-but-are-the-players-behind-under-fire-boss-xabi-alonso-asks-paul-merson",
+        "publishedAt": "2026-11-28T13:31:00+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/football/news/11095/13617492/chelsea-must-beat-crystal-palace-but-are-the-players-behind-under-fire-boss-xabi-alonso-asks-paul-merson",
+            "publishedAt": "2026-11-28T13:31:00+00:00",
+            "tier": 2
+          },
+          {
+            "name": "Sky Sports",
+            "url": "https://www.skysports.com/watch/video/13617459/chelsea-latest-is-xabi-alonso-under-increasing-pressure-afgter-3-2-defeat-to-nottingham-forest",
+            "publishedAt": "2026-11-28T12:16:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.352,
+        "firstSeen": "2026-11-28T14:58:39.492873+00:00"
       },
       {
         "id": "8705632841bb",
@@ -153,184 +188,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.734,
+        "score": 6.095,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00",
         "transfer": "RUMOUR"
-      },
-      {
-        "id": "d81f1a6b8820",
-        "category": "football",
-        "lang": "en",
-        "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
-        "summary": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-27T22:47:57+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T22:47:57+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.208,
-        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
-      },
-      {
-        "id": "4c41caa11266",
-        "category": "football",
-        "lang": "en",
-        "title": "Chelsea must stick together in 'difficult moment' - Alonso",
-        "summary": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this season in the Premier League.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-27T22:45:22+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T22:45:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.204,
-        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
-      },
-      {
-        "id": "c489e8eccf10",
-        "category": "football",
-        "lang": "en",
-        "title": "Bremen fight back to earn draw in six-goal thriller",
-        "summary": "Bundesliga bottom side Borussia M'gladbach miss out on a much needed three points after surrendering a 3-1 lead at Werder Bremen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-27T22:37:16+00:00",
-        "subtopics": [
-          "Bundesliga",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T22:37:16+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.191,
-        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
-      },
-      {
-        "id": "ff4c08777d0d",
-        "category": "football",
-        "lang": "en",
-        "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
-        "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-27T22:30:22+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-27T22:30:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.18,
-        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
-      },
-      {
-        "id": "5ff84d1651ea",
-        "category": "football",
-        "lang": "en",
-        "title": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
-        "summary": "‘It’s only been done once and that’s what we want’ Arteta not being drawn on City’s financial charges Mikel Arteta has set Arsenal the ­target of emulating Manchester City by becoming only the second team in Premier League history to record 100 points in a…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
-        "publishedAt": "2026-11-27T22:30:22+00:00",
-        "subtopics": [
-          "Premier League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
-            "publishedAt": "2026-11-27T22:30:22+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.18,
-        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
-      },
-      {
-        "id": "bd6b346ef731",
-        "category": "football",
-        "lang": "en",
-        "title": "Reinildo error extends Sunderland woe as Jagiellonia grab Europa League draw",
-        "summary": "Jagiellonia Bialystok’s head coach, Adrian Siemieniec, claimed this trip to Wearside to face Premier League opposition represented one of the biggest highlights of a career in which he has already celebrated a Polish title. His players did everything to…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
-        "publishedAt": "2026-11-26T22:27:37+00:00",
-        "subtopics": [
-          "Premier League",
-          "Europa League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/26/sunderland-jagiellonia-bialystok-europa-league-match-report",
-            "publishedAt": "2026-11-26T22:27:37+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.163,
-        "firstSeen": "2026-11-27T01:26:56.355304+00:00"
       },
       {
         "id": "dc8073cc4809",
@@ -359,8 +219,153 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.151,
+        "score": 5.727,
         "firstSeen": "2026-11-27T01:26:56.355304+00:00"
+      },
+      {
+        "id": "d81f1a6b8820",
+        "category": "football",
+        "lang": "en",
+        "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
+        "summary": "Nottingham Forest head coach Oliver Glasnerpraises the perfomance of striker Igor Thiago impressive 3-2 home win against a struggling Chelsea in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-27T22:47:57+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-27T22:47:57+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.211,
+        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
+      },
+      {
+        "id": "4c41caa11266",
+        "category": "football",
+        "lang": "en",
+        "title": "Chelsea must stick together in 'difficult moment' - Alonso",
+        "summary": "Chelsea manager Xabi Alonso's calls for togetherness after his side fall to a third defeat in a row against a Nottingham Forest side that has struggled for form this season in the Premier League.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-27T22:45:22+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cq3dgpj5xn0do?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-27T22:45:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.208,
+        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
+      },
+      {
+        "id": "c489e8eccf10",
+        "category": "football",
+        "lang": "en",
+        "title": "Bremen fight back to earn draw in six-goal thriller",
+        "summary": "Bundesliga bottom side Borussia M'gladbach miss out on a much needed three points after surrendering a 3-1 lead at Werder Bremen.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-27T22:37:16+00:00",
+        "subtopics": [
+          "Bundesliga",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm0qjlq19qw3o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-27T22:37:16+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.2,
+        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
+      },
+      {
+        "id": "ff4c08777d0d",
+        "category": "football",
+        "lang": "en",
+        "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+        "summary": "Igor Jesus' stunning volley and two goals from Morgan Gibbs-White help Nottingham Forest beat a struggling Chelsea side, who lose their third Premier League game in a row.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+        "publishedAt": "2026-11-27T22:30:22+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss",
+            "publishedAt": "2026-11-27T22:30:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.193,
+        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
+      },
+      {
+        "id": "5ff84d1651ea",
+        "category": "football",
+        "lang": "en",
+        "title": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
+        "summary": "‘It’s only been done once and that’s what we want’ Arteta not being drawn on City’s financial charges Mikel Arteta has set Arsenal the ­target of emulating Manchester City by becoming only the second team in Premier League history to record 100 points in a…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
+        "publishedAt": "2026-11-27T22:30:22+00:00",
+        "subtopics": [
+          "Premier League",
+          "Results"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/football/2026/nov/27/arteta-sets-arsenal-100-point-premier-league-target-to-emulate-manchester-city",
+            "publishedAt": "2026-11-27T22:30:22+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 5.193,
+        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
       },
       {
         "id": "2df1afbb9bf1",
@@ -388,14 +393,14 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.146,
+        "score": 5.172,
         "firstSeen": "2026-11-28T01:01:11.902869+00:00"
       },
       {
         "id": "8f2c94753f46",
         "category": "football",
         "lang": "en",
-        "title": "'You're not welcome here' - Chelsea fans turn on Fofana",
+        "title": "'You're not welcome here' - fans turn on Fofana as Chelsea lose again",
         "summary": "Chelsea defender Wesley Fofana is booed by his own fans during the Premier League defeat at Nottingham Forest after a controversial interview.",
         "needsSummary": true,
         "readMore": null,
@@ -417,155 +422,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.091,
+        "score": 5.137,
         "firstSeen": "2026-11-28T01:01:11.902869+00:00"
-      },
-      {
-        "id": "4baa997c2c60",
-        "category": "football",
-        "lang": "en",
-        "title": "No drums, no tifo … no point? The impact of Palace’s missing Holmesdale Fanatics",
-        "summary": "Crystal Palace’s influential supporters’ group disbanded 24 hours before their first home game this season – and Selhurst Park has not been the same since Simon Teesdale could not help feeling mixed emotions when his beloved Crystal Palace won the Conference…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
-        "publishedAt": "2026-11-26T08:00:50+00:00",
-        "subtopics": [
-          "Premier League",
-          "Europa League",
-          "Results"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/26/no-drums-no-tifo-no-point-the-impact-of-palaces-missing-holmesdale-fanatics",
-            "publishedAt": "2026-11-26T08:00:50+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.704,
-        "firstSeen": "2026-11-26T16:17:57.340537+00:00"
-      },
-      {
-        "id": "11781e11b102",
-        "category": "football",
-        "lang": "en",
-        "title": "Referee being 'drunk' claims are 'entirely unfounded'",
-        "summary": "A referee who was replaced at half-time of an Asian Football Confederation (AFC) Champions League Two match denies he was drunk during the fixture.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
-        "publishedAt": "2026-11-26T19:19:49+00:00",
-        "subtopics": [
-          "Champions League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "BBC Sport",
-            "url": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
-            "publishedAt": "2026-11-26T19:19:49+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.543,
-        "firstSeen": "2026-11-27T01:26:56.355304+00:00"
-      },
-      {
-        "id": "2a716fe814a4",
-        "category": "football",
-        "lang": "en",
-        "title": "‘It threw me off my bowling a bit’: Isobel Goodwin living dream after England callup",
-        "summary": "London City striker, who was playing tenpin bowling when Wiegman called, says her journey has not been easy Not many phone calls are important enough to justify Isobel Goodwin missing her turn in a game of tenpin bowling. The England head coach ringing to…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
-        "publishedAt": "2026-11-25T12:24:49+00:00",
-        "subtopics": [
-          "World Cup",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/25/isobel-goodwin-england-callup-london-city-lionesses-bowling",
-            "publishedAt": "2026-11-25T12:24:49+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.857,
-        "firstSeen": "2026-11-25T16:44:02.264845+00:00"
-      },
-      {
-        "id": "42eb8c3d4652",
-        "category": "football",
-        "lang": "en",
-        "title": "French and Bulgarian presidents condemn violence at Marseille v Levski Europa League game",
-        "summary": "Emmanuel Macron: incidents had ‘no place in sport’ Nazi salutes alleged among Levski Sofia fans The presidents of France and Bulgaria have condemned violence that broke out at a Europa League fixture between Marseille and Levski Sofia in the Stade Vélodrome.…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/27/french-bulgarian-presidents-emmanuel-macron-iliana-iotova-condemn-violence-marseille-levski-sofia-europa-league",
-        "publishedAt": "2026-11-27T13:58:00+00:00",
-        "subtopics": [
-          "Europa League",
-          "Upcoming"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/27/french-bulgarian-presidents-emmanuel-macron-iliana-iotova-condemn-violence-marseille-levski-sofia-europa-league",
-            "publishedAt": "2026-11-27T13:58:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.992,
-        "firstSeen": "2026-11-27T16:03:13.044839+00:00"
-      },
-      {
-        "id": "0480ca8a248d",
-        "category": "football",
-        "lang": "en",
-        "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
-        "summary": "‘Players are here for four years and can’t speak English’ Glasner has held talks with owner over January moves Nottingham Forest’s manager, Oliver Glasner, believes standards at the club were not good enough before his arrival as he questioned why some of…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
-        "publishedAt": "2026-11-25T21:17:34+00:00",
-        "subtopics": [
-          "Premier League",
-          "Europa League",
-          "Tables"
-        ],
-        "sources": [
-          {
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
-            "publishedAt": "2026-11-25T21:17:34+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.485,
-        "firstSeen": "2026-11-26T01:29:33.997780+00:00"
       }
     ],
     "news": [
@@ -578,7 +436,7 @@
         "needsSummary": true,
         "readMore": null,
         "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
-        "publishedAt": "2026-11-27T23:35:35+00:00",
+        "publishedAt": "2026-11-28T14:40:47+00:00",
         "subtopics": [
           "Germany",
           "Government"
@@ -587,13 +445,13 @@
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
-            "publishedAt": "2026-11-27T23:35:35+00:00",
+            "publishedAt": "2026-11-28T14:40:47+00:00",
             "tier": 1
           },
           {
             "name": "Tagesschau",
             "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
-            "publishedAt": "2026-11-27T23:35:35+00:00",
+            "publishedAt": "2026-11-28T14:40:47+00:00",
             "tier": 1
           }
         ],
@@ -601,8 +459,95 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.905,
+        "score": 7.987,
         "firstSeen": "2026-11-28T01:01:11.902869+00:00"
+      },
+      {
+        "id": "64b26d17e864",
+        "category": "news",
+        "lang": "de",
+        "title": "Drama in Dresden! St. Pauli gibt Auswärtsdreier spät aus der Hand",
+        "summary": "In einer verrückten Zweitliga-Partie war der Kiezclub die bessere Mannschaft und sah wie der verdiente Sieger aus, wurde in der Nachspielzeit aber brutal bestraft.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/sport/fussball/drama-in-dresden-fc-st-pauli-gibt-auswaertsdreier-spaet-aus-der-hand,pauli-730.html",
+        "publishedAt": "2026-11-28T14:20:25+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/sport/fussball/drama-in-dresden-fc-st-pauli-gibt-auswaertsdreier-spaet-aus-der-hand,pauli-730.html",
+            "publishedAt": "2026-11-28T14:20:25+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.572,
+        "firstSeen": "2026-11-28T14:58:39.492873+00:00"
+      },
+      {
+        "id": "b0f22aea6ba6",
+        "category": "news",
+        "lang": "de",
+        "title": "In Bremen aus Psychiatrie geflohen: Straftäter in Hamburg gefasst",
+        "summary": "Der 49-Jährige war Anfang November aus dem Klinikum Bremen-Ost entwichen. Möglicherweise hatte er dabei einen Schlüssel.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/in-bremen-geflohener-straftaeter-gefasst-ausbrecher-wird-verlegt,bremen-566.html",
+        "publishedAt": "2026-11-28T09:16:14+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Conflict"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/in-bremen-geflohener-straftaeter-gefasst-ausbrecher-wird-verlegt,bremen-566.html",
+            "publishedAt": "2026-11-28T09:16:14+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.356,
+        "firstSeen": "2026-11-28T14:58:39.492873+00:00"
+      },
+      {
+        "id": "23eae8785b60",
+        "category": "news",
+        "lang": "de",
+        "title": "Freundschaft vor Familie: Was jungen Menschen in der Krise hilft",
+        "summary": "Eine #NDRfragt-Umfrage zur mentalen Gesundheit zeigt, was Kinder und Jugendliche stresst und stärkt - und was Generationen denken.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/ndrfragt/freundschaft-vor-familie-was-jungen-menschen-in-der-krise-hilft,mentalegesundheit-112.html",
+        "publishedAt": "2026-11-28T05:00:00+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Elections"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/ndrfragt/freundschaft-vor-familie-was-jungen-menschen-in-der-krise-hilft,mentalegesundheit-112.html",
+            "publishedAt": "2026-11-28T05:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 7.186,
+        "firstSeen": "2026-11-28T14:58:39.492873+00:00"
       },
       {
         "id": "c09635db1190",
@@ -637,7 +582,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.654,
+        "score": 7.18,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -672,7 +617,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.615,
+        "score": 7.148,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -707,7 +652,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.516,
+        "score": 7.066,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -742,7 +687,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.509,
+        "score": 7.061,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -778,7 +723,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.494,
+        "score": 7.048,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -813,7 +758,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.415,
+        "score": 6.983,
         "firstSeen": "2026-11-27T01:26:56.355304+00:00"
       },
       {
@@ -848,7 +793,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.415,
+        "score": 6.983,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -877,7 +822,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.413,
+        "score": 6.982,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -906,7 +851,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.372,
+        "score": 6.948,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -941,7 +886,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.335,
+        "score": 6.918,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -976,8 +921,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.263,
+        "score": 6.859,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
+      },
+      {
+        "id": "037a16c3d623",
+        "category": "news",
+        "lang": "de",
+        "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+        "summary": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+        "publishedAt": "2026-11-28T10:11:40+00:00",
+        "subtopics": [
+          "Germany",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "Tagesschau",
+            "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+            "publishedAt": "2026-11-28T10:11:40+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.794,
+        "firstSeen": "2026-11-28T14:58:39.492873+00:00"
       },
       {
         "id": "4143bd6ff6f1",
@@ -1011,65 +985,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.177,
-        "firstSeen": "2026-11-27T16:03:13.044839+00:00"
-      },
-      {
-        "id": "2c01665eeaba",
-        "category": "news",
-        "lang": "de",
-        "title": "Boy-Gobert-Preisträger Oscar Hoppe im Porträt",
-        "summary": "Fast schon war Hoppe die Lust am Theater vergangen, aber ein Stück am Ernst Deutsch Theater Hamburg entflammte seine Leidenschaft wieder. Nun wird er ausgezeichnet.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/kultur/buehne/portraets/eine-aufstiegsgeschichte-boy-gobert-preis-fuer-oscar-hoppe,oscarhoppe-108.html",
-        "publishedAt": "2026-11-27T14:03:28+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Conflict"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/kultur/buehne/portraets/eine-aufstiegsgeschichte-boy-gobert-preis-fuer-oscar-hoppe,oscarhoppe-108.html",
-            "publishedAt": "2026-11-27T14:03:28+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.121,
-        "firstSeen": "2026-11-27T16:03:13.044839+00:00"
-      },
-      {
-        "id": "743ab9ec9626",
-        "category": "news",
-        "lang": "de",
-        "title": "Arbeitsmarkt im November: Nicht überall weniger Arbeitslose im Norden",
-        "summary": "Bundesweit ist die Arbeitslosen-Zahl im Vergleich zum Vormonat leicht gesunken. Im Norden gilt das nur für Niedersachsen und Hamburg.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/info/kaum-entspannung-auf-dem-arbeitsmarkt-im-norden,arbeitsmarkt-november-104.html",
-        "publishedAt": "2026-11-27T12:30:47+00:00",
-        "subtopics": [
-          "Hamburg",
-          "Economy"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/info/kaum-entspannung-auf-dem-arbeitsmarkt-im-norden,arbeitsmarkt-november-104.html",
-            "publishedAt": "2026-11-27T12:30:47+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 7.064,
+        "score": 6.788,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
@@ -1099,28 +1015,28 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.046,
+        "score": 6.681,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
-        "id": "61dbb35ae66b",
+        "id": "2c01665eeaba",
         "category": "news",
         "lang": "de",
-        "title": "HHLA-Aktie verschwindet von der Börse",
-        "summary": "Die Stadt Hamburg und die Reederei MSC wollten den Terminalbetreiber schon länger privat führen. Das Ziel haben sie nun erreicht.",
+        "title": "Boy-Gobert-Preisträger Oscar Hoppe im Porträt",
+        "summary": "Fast schon war Hoppe die Lust am Theater vergangen, aber ein Stück am Ernst Deutsch Theater Hamburg entflammte seine Leidenschaft wieder. Nun wird er ausgezeichnet.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/hhla-aktie-verschwindet-von-der-boerse,kurzehh-5016.html",
-        "publishedAt": "2026-11-27T09:31:04+00:00",
+        "url": "https://www.ndr.de/kultur/buehne/portraets/eine-aufstiegsgeschichte-boy-gobert-preis-fuer-oscar-hoppe,oscarhoppe-108.html",
+        "publishedAt": "2026-11-27T14:03:28+00:00",
         "subtopics": [
           "Hamburg",
-          "Markets"
+          "Conflict"
         ],
         "sources": [
           {
             "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/hhla-aktie-verschwindet-von-der-boerse,kurzehh-5016.html",
-            "publishedAt": "2026-11-27T09:31:04+00:00",
+            "url": "https://www.ndr.de/kultur/buehne/portraets/eine-aufstiegsgeschichte-boy-gobert-preis-fuer-oscar-hoppe,oscarhoppe-108.html",
+            "publishedAt": "2026-11-27T14:03:28+00:00",
             "tier": 1
           }
         ],
@@ -1128,8 +1044,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.956,
-        "firstSeen": "2026-11-28T01:01:11.902869+00:00"
+        "score": 6.67,
+        "firstSeen": "2026-11-27T16:03:13.044839+00:00"
+      },
+      {
+        "id": "4bde9c683dcb",
+        "category": "news",
+        "lang": "de",
+        "title": "Seegerichtshof in Hamburg: Briten dürfen Öl bei Falklandinseln fördern",
+        "summary": "Argentinien hatte sich an den Seegerichtshof gewandt und einen vorläufigen Stopp beantragt, ist damit aber nun bei dem UN-Gericht in der Hansestadt gescheitert.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/seegerichtshof-in-hamburg-grossbritannien-darf-oel-foerdern,seegerichtshof-128.html",
+        "publishedAt": "2026-11-28T14:43:13+00:00",
+        "subtopics": [
+          "Hamburg",
+          "Law & Policy"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/seegerichtshof-in-hamburg-grossbritannien-darf-oel-foerdern,seegerichtshof-128.html",
+            "publishedAt": "2026-11-28T14:43:13+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.589,
+        "firstSeen": "2026-11-28T14:58:39.492873+00:00"
       },
       {
         "id": "cf72a09dcede",
@@ -1158,7 +1103,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.779,
+        "score": 6.461,
         "firstSeen": "2026-11-26T16:17:57.340537+00:00"
       },
       {
@@ -1187,7 +1132,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.752,
+        "score": 6.439,
         "firstSeen": "2026-11-26T16:17:57.340537+00:00"
       },
       {
@@ -1217,7 +1162,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.687,
+        "score": 6.386,
         "firstSeen": "2026-11-26T16:17:57.340537+00:00"
       },
       {
@@ -1246,7 +1191,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.685,
+        "score": 6.384,
         "firstSeen": "2026-11-26T16:17:57.340537+00:00"
       },
       {
@@ -1275,8 +1220,36 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.683,
+        "score": 6.382,
         "firstSeen": "2026-11-26T16:17:57.340537+00:00"
+      },
+      {
+        "id": "994768a9e308",
+        "category": "news",
+        "lang": "de",
+        "title": "S-Bahn Hamburg: S1 wieder übers Wochenende gesperrt",
+        "summary": "Die Linie S1 ist bis Montagmorgen erneut zwischen Berliner Tor und Barmbek unterbrochen. Gute Nachrichten gibt es für Fahrgäste der U3 und der S7.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-hamburg-s1-wieder-uebers-wochenende-gesperrt,s-bahn-180.html",
+        "publishedAt": "2026-11-28T08:23:30+00:00",
+        "subtopics": [
+          "Hamburg"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-hamburg-s1-wieder-uebers-wochenende-gesperrt,s-bahn-180.html",
+            "publishedAt": "2026-11-28T08:23:30+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 6.32,
+        "firstSeen": "2026-11-27T16:03:13.044839+00:00"
       },
       {
         "id": "a07960ad3d6e",
@@ -1305,8 +1278,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.519,
+        "score": 6.248,
         "firstSeen": "2026-11-26T16:17:57.340537+00:00"
+      },
+      {
+        "id": "b10647c207aa",
+        "category": "news",
+        "lang": "de",
+        "title": "9/11-Attentäter wohnten in Hamburg in \"Terror-WG\" - Motassadeq verhaftet",
+        "summary": "Die Anschläge vom 11. September 2001 in den USA erschütterten die ganze Welt.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.ndr.de/geschichte/chronologie/9-11-terror-in-usa-motassadeq-wird-in-hamburg-gefasst,elfterseptember174.html",
+        "publishedAt": "2026-11-28T04:00:00+00:00",
+        "subtopics": [
+          "Hamburg",
+          "US"
+        ],
+        "sources": [
+          {
+            "name": "NDR",
+            "url": "https://www.ndr.de/geschichte/chronologie/9-11-terror-in-usa-motassadeq-wird-in-hamburg-gefasst,elfterseptember174.html",
+            "publishedAt": "2026-11-28T04:00:00+00:00",
+            "tier": 1
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": true,
+        "score": 6.148,
+        "firstSeen": "2026-11-28T14:58:39.492873+00:00"
       },
       {
         "id": "fd36684d2584",
@@ -1340,7 +1342,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.333,
+        "score": 6.095,
         "firstSeen": "2026-11-26T01:29:33.997780+00:00"
       },
       {
@@ -1375,7 +1377,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.312,
+        "score": 6.078,
         "firstSeen": "2026-11-26T01:29:33.997780+00:00"
       },
       {
@@ -1410,7 +1412,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.274,
+        "score": 6.046,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1439,7 +1441,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.22,
+        "score": 6.002,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1468,7 +1470,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.193,
+        "score": 5.98,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1503,7 +1505,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.178,
+        "score": 5.967,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
       },
       {
@@ -1538,165 +1540,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.175,
+        "score": 5.965,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00"
-      },
-      {
-        "id": "d0cc09bed739",
-        "category": "news",
-        "lang": "de",
-        "title": "Heftiger Schlagabtausch bei Generaldebatte erwartet",
-        "summary": "Kanzler Merz im Fokus: Bei der Haushaltswoche im Bundestag wird heute der Etat des Kanzleramts verhandelt. Traditionell eine Gelegenheit für die Opposition, mit der Regierung abzurechnen.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-150.html",
-        "publishedAt": "2026-11-25T06:32:57+00:00",
-        "subtopics": [
-          "Germany",
-          "Government"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-150.html",
-            "publishedAt": "2026-11-25T06:32:57+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-150.html",
-            "publishedAt": "2026-11-25T06:32:57+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.104,
-        "firstSeen": "2026-11-25T16:44:02.264845+00:00"
-      },
-      {
-        "id": "cb8b38d2fa89",
-        "category": "news",
-        "lang": "de",
-        "title": "11KM-Podcast: Abschiebezentren in Ruanda: Die nächste Stufe der EU-Asylpolitik",
-        "summary": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html",
-        "publishedAt": "2026-11-25T06:11:51+00:00",
-        "subtopics": [
-          "Germany",
-          "EU",
-          "Immigration"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html",
-            "publishedAt": "2026-11-25T06:11:51+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 6.098,
-        "firstSeen": "2026-11-25T16:44:02.264845+00:00"
-      },
-      {
-        "id": "99de679812ce",
-        "category": "news",
-        "lang": "de",
-        "title": "\"GTA VI\": Arbeitskampf hinter dem größten Videospiel der Welt",
-        "summary": "Elf Jahre arbeitete Jordan Garland für das \"GTA\"-Studio Rockstar Games, dann wurde er plötzlich entlassen. Als Grund vermutet er seine Mitgliedschaft in einer Gewerkschaft.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/gta-6-104.html",
-        "publishedAt": "2026-11-24T13:42:43+00:00",
-        "subtopics": [
-          "Germany",
-          "Business"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/wirtschaft/unternehmen/gta-6-104.html",
-            "publishedAt": "2026-11-24T13:42:43+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.859,
-        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
-      },
-      {
-        "id": "994768a9e308",
-        "category": "news",
-        "lang": "de",
-        "title": "S-Bahn Hamburg: S1 wieder übers Wochenende gesperrt",
-        "summary": "Die Linie S1 wird am Wochenende erneut zwischen Berliner Tor und Barmbek unterbrochen. Gute Nachrichten gibt es für Fahrgäste der U3 und der S7.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-hamburg-s1-wieder-uebers-wochenende-gesperrt,s-bahn-180.html",
-        "publishedAt": "2026-11-27T06:40:12+00:00",
-        "subtopics": [
-          "Hamburg"
-        ],
-        "sources": [
-          {
-            "name": "NDR",
-            "url": "https://www.ndr.de/nachrichten/hamburg/s-bahn-hamburg-s1-wieder-uebers-wochenende-gesperrt,s-bahn-180.html",
-            "publishedAt": "2026-11-27T06:40:12+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.858,
-        "firstSeen": "2026-11-27T16:03:13.044839+00:00"
-      },
-      {
-        "id": "e1a0ea874952",
-        "category": "news",
-        "lang": "de",
-        "title": "Debatte über Arzttermine: Führt der Sparkurs zur Drei-Klassen-Medizin?",
-        "summary": "Der Bund kürzt den Gesundheitsetat um sechs Milliarden Euro. Doch wer gesetzlich versichert ist, wartet schon jetzt länger auf Facharzttermine.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.tagesschau.de/inland/innenpolitik/arzt-termine-krankenkassen-patienten-100.html",
-        "publishedAt": "2026-11-24T10:06:17+00:00",
-        "subtopics": [
-          "Germany",
-          "Markets"
-        ],
-        "sources": [
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/arzt-termine-krankenkassen-patienten-100.html",
-            "publishedAt": "2026-11-24T10:06:17+00:00",
-            "tier": 1
-          },
-          {
-            "name": "Tagesschau",
-            "url": "https://www.tagesschau.de/inland/innenpolitik/arzt-termine-krankenkassen-patienten-100.html",
-            "publishedAt": "2026-11-24T10:06:17+00:00",
-            "tier": 1
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 5.814,
-        "firstSeen": "2026-11-24T16:54:51.322543+00:00"
       }
     ],
     "medical": [
@@ -1733,7 +1578,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.34,
+        "score": 11.173,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1765,7 +1610,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 11.34,
+        "score": 11.173,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1797,7 +1642,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.781,
+        "score": 10.649,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1829,7 +1674,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 10.547,
+        "score": 10.43,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1866,7 +1711,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.847,
+        "score": 8.775,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1897,7 +1742,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 8.719,
+        "score": 8.654,
         "firstSeen": "2026-11-19T15:10:34.976582+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": true
@@ -1928,7 +1773,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 7.781,
+        "score": 7.649,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1960,7 +1805,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.847,
+        "score": 6.775,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -1990,7 +1835,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 6.04,
+        "score": 5.873,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2021,7 +1866,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.847,
+        "score": 5.775,
         "firstSeen": "2026-11-20T14:50:16.576699+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2052,7 +1897,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.74,
+        "score": 5.598,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2083,7 +1928,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.503,
+        "score": 5.452,
         "firstSeen": "2026-11-17T15:26:37.631808+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2115,7 +1960,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 5.304,
+        "score": 5.247,
         "firstSeen": "2026-11-18T15:01:22.899485+00:00",
         "evidence": "peer_reviewed",
         "matridermRelevant": false
@@ -2146,7 +1991,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.745,
+        "score": 4.666,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2176,7 +2021,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.496,
+        "score": 4.369,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2206,7 +2051,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.18,
+        "score": 3.054,
         "firstSeen": "2026-11-25T16:44:02.264845+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2237,7 +2082,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.547,
+        "score": 2.468,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2267,7 +2112,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.08,
+        "score": 1.967,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "evidence": "trade_press",
         "matridermRelevant": false
@@ -2345,37 +2190,8 @@
           }
         ],
         "isNew": false,
-        "score": 5.421,
+        "score": 4.899,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "a085d574d697",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: Better bionic hands and AI’s natural-gas boom",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
-        "publishedAt": "2026-11-26T13:10:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
-            "publishedAt": "2026-11-26T13:10:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.541,
-        "firstSeen": "2026-11-26T16:17:57.340537+00:00",
         "kind": "article"
       },
       {
@@ -2404,7 +2220,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.516,
+        "score": 4.352,
         "firstSeen": "2026-11-24T18:33:38.859710+00:00",
         "kind": "video",
         "video": {
@@ -2416,32 +2232,31 @@
         }
       },
       {
-        "id": "069f94445fa0",
+        "id": "a085d574d697",
         "category": "growth",
         "lang": "en",
-        "title": "Quoting Jack Despain Zhou",
-        "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude.",
+        "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
-        "publishedAt": "2026-11-26T15:09:31+00:00",
+        "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+        "publishedAt": "2026-11-26T13:10:00+00:00",
         "subtopics": [
-          "AI & smart tools",
-          "Presentation & speaking"
+          "AI & smart tools"
         ],
         "sources": [
           {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
-            "publishedAt": "2026-11-26T15:09:31+00:00",
-            "tier": 3
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+            "publishedAt": "2026-11-26T13:10:00+00:00",
+            "tier": 2
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.293,
+        "score": 4.23,
         "firstSeen": "2026-11-26T16:17:57.340537+00:00",
         "kind": "article"
       },
@@ -2472,7 +2287,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.176,
+        "score": 4.019,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "video",
         "video": {
@@ -2484,150 +2299,33 @@
         }
       },
       {
-        "id": "2a99f168595c",
+        "id": "069f94445fa0",
         "category": "growth",
         "lang": "en",
-        "title": "How data centers are driving a US natural-gas boom",
-        "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right.",
+        "title": "Quoting Jack Despain Zhou",
+        "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude.",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-        "publishedAt": "2026-11-25T17:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-            "publishedAt": "2026-11-25T17:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.089,
-        "firstSeen": "2026-11-25T17:44:48.092040+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "7fcbebbe6634",
-        "category": "growth",
-        "lang": "en",
-        "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
-        "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
-        "publishedAt": "2026-11-26T06:08:25+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
-            "publishedAt": "2026-11-26T06:08:25+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.068,
-        "firstSeen": "2026-11-26T16:17:57.340537+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "4faaa3acd738",
-        "category": "growth",
-        "lang": "en",
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough).",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
-        "publishedAt": "2026-11-26T05:08:46+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
-            "publishedAt": "2026-11-26T05:08:46+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 4.045,
-        "firstSeen": "2026-11-26T16:17:57.340537+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "79a22f2e5650",
-        "category": "growth",
-        "lang": "en",
-        "title": "The Download: AI swamping open records, and firefighting for permafrost",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-        "publishedAt": "2026-11-25T13:10:00+00:00",
+        "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+        "publishedAt": "2026-11-26T15:09:31+00:00",
         "subtopics": [
           "AI & smart tools",
-          "Entrepreneurship",
-          "Personal finance"
+          "Presentation & speaking"
         ],
         "sources": [
           {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
-            "publishedAt": "2026-11-25T13:10:00+00:00",
-            "tier": 2
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+            "publishedAt": "2026-11-26T15:09:31+00:00",
+            "tier": 3
           }
         ],
         "developing": false,
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 4.018,
-        "firstSeen": "2026-11-25T16:44:02.264845+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "b0deea04c96b",
-        "category": "growth",
-        "lang": "en",
-        "title": "AI is straining America’s open records systems",
-        "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-        "publishedAt": "2026-11-25T10:00:00+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "MIT Technology Review",
-            "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
-            "publishedAt": "2026-11-25T10:00:00+00:00",
-            "tier": 2
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.962,
-        "firstSeen": "2026-11-25T16:44:02.264845+00:00",
+        "score": 3.973,
+        "firstSeen": "2026-11-26T16:17:57.340537+00:00",
         "kind": "article"
       },
       {
@@ -2655,7 +2353,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.938,
+        "score": 3.877,
         "firstSeen": "2026-11-21T23:40:51.389875+00:00",
         "kind": "video",
         "video": {
@@ -2665,35 +2363,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=QM5vh0ZKvZo",
           "channel": "TED"
         }
-      },
-      {
-        "id": "04a9805dfa55",
-        "category": "growth",
-        "lang": "en",
-        "title": "Quoting Scott Aaronson",
-        "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
-        "publishedAt": "2026-11-25T23:26:32+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
-            "publishedAt": "2026-11-25T23:26:32+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.919,
-        "firstSeen": "2026-11-26T01:29:33.997780+00:00",
-        "kind": "article"
       },
       {
         "id": "2d8c2436e585",
@@ -2720,7 +2389,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.89,
+        "score": 3.876,
         "firstSeen": "2026-11-27T17:08:01.829317+00:00",
         "kind": "video",
         "video": {
@@ -2730,6 +2399,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=Zsc9B3-1kTI",
           "channel": "TED"
         }
+      },
+      {
+        "id": "2a99f168595c",
+        "category": "growth",
+        "lang": "en",
+        "title": "How data centers are driving a US natural-gas boom",
+        "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+        "publishedAt": "2026-11-25T17:00:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+            "publishedAt": "2026-11-25T17:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.859,
+        "firstSeen": "2026-11-25T17:44:48.092040+00:00",
+        "kind": "article"
       },
       {
         "id": "4ac6edca26ca",
@@ -2756,7 +2454,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.866,
+        "score": 3.852,
         "firstSeen": "2026-11-26T16:17:57.340537+00:00",
         "kind": "video",
         "video": {
@@ -2792,7 +2490,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.824,
+        "score": 3.812,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00",
         "kind": "video",
         "video": {
@@ -2829,7 +2527,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.823,
+        "score": 3.81,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00",
         "kind": "video",
         "video": {
@@ -2839,6 +2537,124 @@
           "watchUrl": "https://www.youtube.com/watch?v=39-b_QsTfjU",
           "channel": "TED"
         }
+      },
+      {
+        "id": "79a22f2e5650",
+        "category": "growth",
+        "lang": "en",
+        "title": "The Download: AI swamping open records, and firefighting for permafrost",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+        "publishedAt": "2026-11-25T13:10:00+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Entrepreneurship",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+            "publishedAt": "2026-11-25T13:10:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.8,
+        "firstSeen": "2026-11-25T16:44:02.264845+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "7fcbebbe6634",
+        "category": "growth",
+        "lang": "en",
+        "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+        "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+        "publishedAt": "2026-11-26T06:08:25+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+            "publishedAt": "2026-11-26T06:08:25+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.788,
+        "firstSeen": "2026-11-26T16:17:57.340537+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "4faaa3acd738",
+        "category": "growth",
+        "lang": "en",
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "summary": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough).",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+        "publishedAt": "2026-11-26T05:08:46+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+            "publishedAt": "2026-11-26T05:08:46+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.769,
+        "firstSeen": "2026-11-26T16:17:57.340537+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "b0deea04c96b",
+        "category": "growth",
+        "lang": "en",
+        "title": "AI is straining America’s open records systems",
+        "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+        "publishedAt": "2026-11-25T10:00:00+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+            "publishedAt": "2026-11-25T10:00:00+00:00",
+            "tier": 2
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.754,
+        "firstSeen": "2026-11-25T16:44:02.264845+00:00",
+        "kind": "article"
       },
       {
         "id": "c6b1daa8a71a",
@@ -2866,7 +2682,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.753,
+        "score": 3.742,
         "firstSeen": "2026-11-21T22:43:44.186297+00:00",
         "kind": "video",
         "video": {
@@ -2903,7 +2719,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.733,
+        "score": 3.722,
         "firstSeen": "2026-11-20T23:38:13.507722+00:00",
         "kind": "video",
         "video": {
@@ -2939,7 +2755,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.713,
+        "score": 3.702,
         "firstSeen": "2026-11-20T00:14:56.801298+00:00",
         "kind": "video",
         "video": {
@@ -2976,7 +2792,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.7,
+        "score": 3.689,
         "firstSeen": "2026-11-19T00:55:15.585925+00:00",
         "kind": "video",
         "video": {
@@ -2985,6 +2801,71 @@
           "duration": null,
           "watchUrl": "https://www.youtube.com/watch?v=Q6MRUhfussk",
           "channel": "TED"
+        }
+      },
+      {
+        "id": "04a9805dfa55",
+        "category": "growth",
+        "lang": "en",
+        "title": "Quoting Scott Aaronson",
+        "summary": "It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+        "publishedAt": "2026-11-25T23:26:32+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+            "publishedAt": "2026-11-25T23:26:32+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.665,
+        "firstSeen": "2026-11-26T01:29:33.997780+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "770fdcb15a4d",
+        "category": "growth",
+        "lang": "en",
+        "title": "Startup School Europe 2027!",
+        "summary": "Startup School is coming to the UK! Hear from Paul Graham, Garry Tan, and founders like James Hawkins from PostHog, Philip Johnston from Starcloud, and Hiroki Takeuchi from GoCardless.",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://www.youtube.com/shorts/8gOkTwEHTP8",
+        "publishedAt": "2026-11-25T17:19:05+00:00",
+        "subtopics": [
+          "Entrepreneurship"
+        ],
+        "sources": [
+          {
+            "name": "Y Combinator",
+            "url": "https://www.youtube.com/shorts/8gOkTwEHTP8",
+            "publishedAt": "2026-11-25T17:19:05+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.53,
+        "firstSeen": "2026-11-25T17:44:48.092040+00:00",
+        "kind": "video",
+        "video": {
+          "id": "8gOkTwEHTP8",
+          "thumbUrl": "https://i1.ytimg.com/vi/8gOkTwEHTP8/hqdefault.jpg",
+          "duration": null,
+          "watchUrl": "https://www.youtube.com/watch?v=8gOkTwEHTP8",
+          "channel": "Y Combinator"
         }
       },
       {
@@ -3012,7 +2893,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.652,
+        "score": 3.5,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "article"
       },
@@ -3041,45 +2922,9 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.625,
+        "score": 3.478,
         "firstSeen": "2026-11-24T16:54:51.322543+00:00",
         "kind": "article"
-      },
-      {
-        "id": "770fdcb15a4d",
-        "category": "growth",
-        "lang": "en",
-        "title": "Startup School Europe 2027!",
-        "summary": "Startup School is coming to the UK! Hear from Paul Graham, Garry Tan, and founders like James Hawkins from PostHog, Philip Johnston from Starcloud, and Hiroki Takeuchi from GoCardless.",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://www.youtube.com/shorts/8gOkTwEHTP8",
-        "publishedAt": "2026-11-25T17:19:05+00:00",
-        "subtopics": [
-          "Entrepreneurship"
-        ],
-        "sources": [
-          {
-            "name": "Y Combinator",
-            "url": "https://www.youtube.com/shorts/8gOkTwEHTP8",
-            "publishedAt": "2026-11-25T17:19:05+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.543,
-        "firstSeen": "2026-11-25T17:44:48.092040+00:00",
-        "kind": "video",
-        "video": {
-          "id": "8gOkTwEHTP8",
-          "thumbUrl": "https://i1.ytimg.com/vi/8gOkTwEHTP8/hqdefault.jpg",
-          "duration": null,
-          "watchUrl": "https://www.youtube.com/watch?v=8gOkTwEHTP8",
-          "channel": "Y Combinator"
-        }
       },
       {
         "id": "6ff348e652c9",
@@ -3108,38 +2953,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.487,
+        "score": 3.311,
         "firstSeen": "2026-11-25T01:52:24.422601+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "f796e127a00b",
-        "category": "growth",
-        "lang": "en",
-        "title": "GPT 6.2 Astra Solves a Historical Mystery",
-        "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-        "publishedAt": "2026-11-24T16:53:59+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Social skills"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
-            "publishedAt": "2026-11-24T16:53:59+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.401,
-        "firstSeen": "2026-11-24T18:33:38.859710+00:00",
         "kind": "article"
       },
       {
@@ -3167,7 +2982,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.273,
+        "score": 3.264,
         "firstSeen": "2026-11-11T23:59:08.056619+00:00",
         "kind": "video",
         "video": {
@@ -3179,23 +2994,24 @@
         }
       },
       {
-        "id": "f3349335f15c",
+        "id": "f796e127a00b",
         "category": "growth",
         "lang": "en",
-        "title": "datasette-agent 0.7a1",
-        "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other…",
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an…",
         "needsSummary": true,
         "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
-        "publishedAt": "2026-11-24T03:45:57+00:00",
+        "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+        "publishedAt": "2026-11-24T16:53:59+00:00",
         "subtopics": [
-          "AI & smart tools"
+          "AI & smart tools",
+          "Social skills"
         ],
         "sources": [
           {
             "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
-            "publishedAt": "2026-11-24T03:45:57+00:00",
+            "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+            "publishedAt": "2026-11-24T16:53:59+00:00",
             "tier": 3
           }
         ],
@@ -3203,37 +3019,8 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.241,
-        "firstSeen": "2026-11-26T16:17:57.340537+00:00",
-        "kind": "article"
-      },
-      {
-        "id": "ef3910f6a7af",
-        "category": "growth",
-        "lang": "en",
-        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-        "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
-        "publishedAt": "2026-11-23T23:40:49+00:00",
-        "subtopics": [
-          "AI & smart tools"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
-            "publishedAt": "2026-11-23T23:40:49+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.197,
-        "firstSeen": "2026-11-24T03:45:02.125593+00:00",
+        "score": 3.24,
+        "firstSeen": "2026-11-24T18:33:38.859710+00:00",
         "kind": "article"
       },
       {
@@ -3262,7 +3049,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.197,
+        "score": 3.189,
         "firstSeen": "2026-11-06T22:40:05.735370+00:00",
         "kind": "video",
         "video": {
@@ -3272,36 +3059,6 @@
           "watchUrl": "https://www.youtube.com/watch?v=NYGf--dBeHA",
           "channel": "Y Combinator"
         }
-      },
-      {
-        "id": "b7fc35d5ccf0",
-        "category": "growth",
-        "lang": "en",
-        "title": "Ladybird's first alpha release",
-        "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz…",
-        "needsSummary": true,
-        "readMore": null,
-        "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
-        "publishedAt": "2026-11-23T21:46:35+00:00",
-        "subtopics": [
-          "AI & smart tools",
-          "Personal finance"
-        ],
-        "sources": [
-          {
-            "name": "Simon Willison",
-            "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
-            "publishedAt": "2026-11-23T21:46:35+00:00",
-            "tier": 3
-          }
-        ],
-        "developing": false,
-        "latestUpdate": null,
-        "earlier": [],
-        "isNew": false,
-        "score": 3.178,
-        "firstSeen": "2026-11-24T03:45:02.125593+00:00",
-        "kind": "article"
       },
       {
         "id": "5103e8eed7f5",
@@ -3330,7 +3087,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.169,
+        "score": 3.162,
         "firstSeen": "2026-11-05T13:55:33.610822+00:00",
         "kind": "video",
         "video": {
@@ -3366,7 +3123,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.148,
+        "score": 3.142,
         "firstSeen": "2026-11-03T13:33:04.792558+00:00",
         "kind": "video",
         "video": {
@@ -3376,6 +3133,35 @@
           "watchUrl": "https://www.youtube.com/watch?v=lqdc1MeyIfs",
           "channel": "Y Combinator"
         }
+      },
+      {
+        "id": "f3349335f15c",
+        "category": "growth",
+        "lang": "en",
+        "title": "datasette-agent 0.7a1",
+        "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+        "publishedAt": "2026-11-24T03:45:57+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+            "publishedAt": "2026-11-24T03:45:57+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.108,
+        "firstSeen": "2026-11-26T16:17:57.340537+00:00",
+        "kind": "article"
       },
       {
         "id": "945d5d526890",
@@ -3402,8 +3188,37 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.087,
+        "score": 3.073,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "ef3910f6a7af",
+        "category": "growth",
+        "lang": "en",
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "summary": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard Transformer, each layer runs…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+        "publishedAt": "2026-11-23T23:40:49+00:00",
+        "subtopics": [
+          "AI & smart tools"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/23/glm-54/",
+            "publishedAt": "2026-11-23T23:40:49+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.073,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00",
         "kind": "article"
       },
       {
@@ -3431,8 +3246,38 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 3.085,
+        "score": 3.071,
         "firstSeen": "2026-11-27T16:03:13.044839+00:00",
+        "kind": "article"
+      },
+      {
+        "id": "b7fc35d5ccf0",
+        "category": "growth",
+        "lang": "en",
+        "title": "Ladybird's first alpha release",
+        "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz…",
+        "needsSummary": true,
+        "readMore": null,
+        "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+        "publishedAt": "2026-11-23T21:46:35+00:00",
+        "subtopics": [
+          "AI & smart tools",
+          "Personal finance"
+        ],
+        "sources": [
+          {
+            "name": "Simon Willison",
+            "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+            "publishedAt": "2026-11-23T21:46:35+00:00",
+            "tier": 3
+          }
+        ],
+        "developing": false,
+        "latestUpdate": null,
+        "earlier": [],
+        "isNew": false,
+        "score": 3.057,
+        "firstSeen": "2026-11-24T03:45:02.125593+00:00",
         "kind": "article"
       },
       {
@@ -3460,7 +3305,7 @@
         "latestUpdate": null,
         "earlier": [],
         "isNew": false,
-        "score": 2.96,
+        "score": 2.878,
         "firstSeen": "2026-11-23T17:15:48.630561+00:00",
         "kind": "article"
       }
@@ -3500,7 +3345,7 @@
     {
       "id": "tagesschau-wirtschaft",
       "ok": true,
-      "items": 29,
+      "items": 30,
       "error": null
     },
     {
@@ -3643,8 +3488,8 @@
     }
   ],
   "filteredOut": {
-    "football": 60,
-    "news": 68,
+    "football": 58,
+    "news": 71,
     "medical": 10,
     "growth": 40
   }
